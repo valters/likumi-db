@@ -1,0 +1,61 @@
+{ 
+"likumi": {
+    "satversme": { "url": "http://likumi.lv/doc.php?id=57980", "desc": "Latvijas Republikas Satversme" },
+
+    "kriminallikums": { "url": "http://likumi.lv/doc.php?id=88966", "desc": "Krimināllikums" },
+
+    "kriminalprocess": { "url": "http://likumi.lv/doc.php?id=107820", "desc": "Kriminālprocesa likums" },
+
+    "apk": { "url": "http://likumi.lv/doc.php?id=89648", "desc": "Latvijas Administratīvo pārkāpumu kodekss" },
+
+    "apl": { "url": "http://likumi.lv/doc.php?id=55567", "desc": "Administratīvā procesa likums" },
+
+    "darba": { "url": "http://likumi.lv/doc.php?id=26019", "desc": "Darba likums" },
+
+    "csn": { "url": "http://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi", "desc": "Ceļu satiksmes noteikumi",
+        "prev": "http://likumi.lv/doc.php?id=90585" },
+
+    "csl": { "url": "http://likumi.lv/ta/id/45467-celu-satiksmes-likums", "desc": "Ceļu satiksmes likums" },
+
+    "pensijam": { "url": "http://likumi.lv/doc.php?id=38048", "desc": "Par valsts pensijām" },
+
+    "iien": { "url": "http://likumi.lv/doc.php?id=56880", "desc": "Par iedzīvotāju ienākuma nodokli" },
+
+    "pvn": { "url": "http://likumi.lv/doc.php?id=253451", "desc": "Pievienotās vērtības nodokļa likums",
+        "prev": "http://likumi.lv/ta/id/34443-par-pievienotas-vertibas-nodokli", "prev_desc": "Par pievienotās vērtības nodokli" },
+
+    "civilprocess": { "url": "http://likumi.lv/doc.php?id=50500", "desc": "Civilprocesa likums" },
+
+    "cl-1": { "url": "http://likumi.lv/doc.php?id=90223", "desc": "Civillikums. PIRMĀ DAĻA. Ģimenes tiesības" },
+
+    "cl-2": { "url": "http://likumi.lv/doc.php?id=90222", "desc": "Civillikums. OTRĀ DAĻA. Mantojuma tiesības" },
+
+    "cl-3": { "url": "http://likumi.lv/doc.php?id=90221", "desc": "Civillikums. TREŠĀ DAĻA. Lietu tiesības" },
+
+    "cl-4": { "url": "http://likumi.lv/doc.php?id=90220", "desc": "Civillikums. CETURTĀ DAĻA. Saistību tiesības" },
+
+    "cl-ie": { "url": "http://likumi.lv/doc.php?id=90224", "desc": "Civillikums. Ievads" },
+
+    "cl-p": { "url": "http://likumi.lv/doc.php?id=90219", "desc": "Civillikums. Pielikumi" },
+
+    "bernu": { "url": "http://likumi.lv/doc.php?id=49096", "desc": "Bērnu tiesību aizsardzības likums" },
+
+    "ieroc": { "url": "http://likumi.lv/doc.php?id=221384", "desc": "Ieroču un speciālo līdzekļu aprites likums",
+        "prev":"http://likumi.lv/ta/id/63632-ierocu-aprites-likums", "prev_desc": "Ieroču aprites likums" },
+
+    "tabakas": { "url": "http://likumi.lv/ta/id/282077-tabakas-izstradajumu-augu-smekesanas-produktu-elektronisko-smekesanas-iericu-un-to-skidrumu-aprites-likums",
+        "desc": "Tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un to šķidrumu aprites likums",
+        "prev": "http://likumi.lv/doc.php?id=41774",
+        "prev_desc": "Par tabakas izstrādājumu realizācijas, reklāmas un lietošanas ierobežošanu" },
+
+    "nark": { "url": "http://likumi.lv/doc.php?id=121086", "desc": "MK noteikumi Nr.847 \"Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem\"" },
+
+    "nark-apr": { "url": "http://likumi.lv/ta/id/40283-par-narkotisko-un-psihotropo-vielu-un-zalu-likumigas-aprites-kartibu",
+        "desc": "Par narkotisko un psihotropo vielu un zāļu likumīgās aprites kārtību" },
+
+    "policiju": { "url": "http://likumi.lv/doc.php?id=67957", "desc": "Par policiju" },
+
+    "saeimas": { "url": "http://likumi.lv/doc.php?id=57517", "desc": "Saeimas kārtības rullis" },
+
+    "tiesu-izp": { "url": "http://likumi.lv/doc.php?id=68295", "desc": "Tiesu izpildītāju likums" }
+}}
