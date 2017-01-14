@@ -4,10 +4,11 @@
 import json
 import os
 import stat
+import sys
 
 TOC = 'toc.json'
 
-CURL_TEMPL = """curl -o {key}-{iso_date}.html \
+CURL_TEMPL = """curl -o {iso_date}.html \
 'http://likumi.lv/body_print.php?id={print_id}&version_date={version_date}&grozijumi=1&pielikumi=0&saturs=1&piezimes=0&large_font=0' \
 -H 'DNT: 1' -H 'Accept-Encoding: gzip, deflate, sdch' \
 -H 'Accept-Language: en-US,en;q=0.8,de;q=0.6,lv;q=0.4,ru;q=0.2' \
@@ -26,7 +27,12 @@ def _set_exec( fname ):
     st = os.stat( fname )
     os.chmod( fname, st.st_mode | stat.S_IEXEC)
 
-def _write_script( key, ver_file ):
+def _write_script( key, key_section ):
+    ver_fname = key+'.ver'
+    with open( ver_fname, 'rt' ) as ver_file:
+        _write_script_int( key, key_section, ver_file )
+
+def _write_script_int( key, key_section, ver_file ):
     """ generate versions retrieval script """
     os.makedirs( key, exist_ok = True )
     script_fname = key+'/retr.'+key+'.sh'
@@ -35,15 +41,29 @@ def _write_script( key, ver_file ):
             version_date = line.rstrip()
             print( version_date )
             iso_date = _to_iso( version_date )
-            print( CURL_TEMPL.format( key = key, iso_date = iso_date, print_id = likumi[key]['print_id'], version_date = version_date ), file = script_file )
+            print( CURL_TEMPL.format( key = key, iso_date = iso_date, print_id = key_section['print_id'], version_date = version_date ), file = script_file )
     _set_exec( script_fname )
 
-with open( TOC, 'r' ) as toc_file:
-    toc_json = json.load( toc_file )
+def read_toc():
+    with open( TOC, 'r' ) as toc_file:
+        toc_json = json.load( toc_file )
 
-likumi = toc_json['likumi']
-for key in likumi.keys():
-    print( key )
-    ver_fname = key+'.ver'
-    with open( ver_fname, 'rt' ) as ver_file:
-        _write_script( key, ver_file )
+    likumi = toc_json['likumi']
+    return likumi
+
+
+def write_all():
+    likumi = read_toc()
+    for key in likumi.keys():
+        print( key )
+        _write_script( key, likumi[key] )
+
+def write_single( key ):
+    likumi = read_toc()
+    _write_script( key, likumi[key] )
+
+
+if len(sys.argv) == 1:
+    write_all()
+else:
+    write_single( sys.argv[1] )
