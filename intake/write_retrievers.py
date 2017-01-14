@@ -25,7 +25,7 @@ def _to_iso( date ):
 
 def _set_exec( fname ):
     st = os.stat( fname )
-    os.chmod( fname, st.st_mode | stat.S_IEXEC)
+    os.chmod( fname, st.st_mode | stat.S_IEXEC )
 
 def _write_script( key, key_section ):
     ver_fname = key+'.ver'
@@ -59,6 +59,7 @@ def write_all():
         _write_script( key, likumi[key] )
 
 def write_single( key ):
+    print( 'write single: ' + key )
     likumi = read_toc()
     _write_script( key, likumi[key] )
 

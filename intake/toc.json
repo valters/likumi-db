@@ -12,8 +12,9 @@
 
     "darba": { "url": "http://likumi.lv/doc.php?id=26019", "print_id":"26019", "desc": "Darba likums" },
 
-    "csn": { "url": "http://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi", "print_id":"274865", "desc": "Ceļu satiksmes noteikumi",
-        "prev": "http://likumi.lv/doc.php?id=90585" },
+    "csn": { "url": "http://likumi.lv/ta/id/274865-celu-satiksmes-noteikumi", "print_id":"274865", "desc": "Ceļu satiksmes noteikumi" },
+
+    "csn-old": { "url": "http://likumi.lv/doc.php?id=90585", "print_id":"90585", "desc": "Ceļu satiksmes noteikumi" },
 
     "csl": { "url": "http://likumi.lv/ta/id/45467-celu-satiksmes-likums", "print_id":"45467", "desc": "Ceļu satiksmes likums" },
 
@@ -40,14 +41,14 @@
 
     "bernu": { "url": "http://likumi.lv/doc.php?id=49096", "print_id":"49096", "desc": "Bērnu tiesību aizsardzības likums" },
 
-    "ieroc": { "url": "http://likumi.lv/doc.php?id=221384", "print_id":"221384", "desc": "Ieroču un speciālo līdzekļu aprites likums",
-        "prev":"http://likumi.lv/ta/id/63632-ierocu-aprites-likums", "prev_desc": "Ieroču aprites likums" },
+    "ieroc": { "url": "http://likumi.lv/doc.php?id=221384", "print_id":"221384", "desc": "Ieroču un speciālo līdzekļu aprites likums" },
 
-    "tabakas": { "url": "http://likumi.lv/ta/id/282077-tabakas-izstradajumu-augu-smekesanas-produktu-elektronisko-smekesanas-iericu-un-to-skidrumu-aprites-likums",
-        "print_id":"",
-        "desc": "Tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un to šķidrumu aprites likums",
-        "prev": "http://likumi.lv/doc.php?id=41774",
-        "prev_desc": "Par tabakas izstrādājumu realizācijas, reklāmas un lietošanas ierobežošanu" },
+    "ieroc-old": { "url": "http://likumi.lv/ta/id/63632-ierocu-aprites-likums", "print_id": "63632", "desc": "Ieroču aprites likums" },
+
+    "tabakas": { "url": "http://likumi.lv/ta/id/282077-tabakas-izstradajumu-augu-smekesanas-produktu-elektronisko-smekesanas-iericu-un-to-skidrumu-aprites-likums", "print_id": "282077",
+        "desc": "Tabakas izstrādājumu, augu smēķēšanas produktu, elektronisko smēķēšanas ierīču un to šķidrumu aprites likums" },
+
+    "tabakas-old": { "url": "http://likumi.lv/doc.php?id=41774", "print_id": "41774", "desc": "Par tabakas izstrādājumu realizācijas, reklāmas un lietošanas ierobežošanu" },
 
     "nark": { "url": "http://likumi.lv/doc.php?id=121086", "print_id":"121086", "desc": "MK noteikumi Nr.847 \"Noteikumi par Latvijā kontrolējamajām narkotiskajām vielām, psihotropajām vielām un prekursoriem\"" },
 
