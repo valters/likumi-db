@@ -23,7 +23,7 @@ def write_versions_file(docname,versions_text):
         for ver in versions['data']:
             print(ver['value'], file=out)
     except json.decoder.JSONDecodeError as e:
-        raise RuntimeError("failed to write file '{}': error occurred: ".format(docname) + str(e))
+        raise RuntimeError("failed to write file: " + repr(e))
     finally:
         out.close()
 

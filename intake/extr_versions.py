@@ -17,6 +17,6 @@ for f in files:
             write_versions.write_versions_file( fname, write_versions.parse_versions( fname ) )
             print('ok')
         except RuntimeError as e:
-            print( "error: " + str(e))
+            print( "error: " + repr(e))
     else:
         print(' (ignored)')
