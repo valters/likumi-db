@@ -1,0 +1,11 @@
+#!/bin/bash
+
+
+for i in $( find . -maxdepth 1 -mindepth 1 -type d ); do
+
+  echo $i
+  ./to-txt-do $i
+
+done
+
+

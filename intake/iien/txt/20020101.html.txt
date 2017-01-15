@@ -1,0 +1,1743 @@
+   [IMG]
+   Publicēts:
+   "Latvijas Vēstnesis", 32, 01.06.1993., "Ziņotājs", 22/23, 10.06.1993.
+   Izdevējs: Augstākā PadomeVeids: likumsPieņemts: 11.05.1993.Stājas spēkā: 01.01.1994.
+   Attēlotā redakcija: 01.01.2002. - 31.03.2002. Vēsturiskā
+   Grozījumi:
+   14.01.1994. likums / LV, 7 (138), 19.01.1994. / Stājas spēkā 19.01.1994. 27.10.1994.
+   likums / LV, 130 (261), 05.11.1994. / Stājas spēkā 05.11.1994. 01.03.1995. likums /
+   LV, 34 (317), 04.03.1995. / Stājas spēkā 04.03.1995. 31.05.1995. likums / LV, 94
+   (377), 20.06.1995. / Stājas spēkā 04.07.1995. 29.02.1996. likums / LV, 46 (531),
+   13.03.1996. / Stājas spēkā 27.03.1996. 19.12.1996. likums / LV, 1/2 (716/717),
+   03.01.1997. / Stājas spēkā 01.01.1997. 02.10.1997. likums / LV, 265/267 (980/982),
+   14.10.1997. / Stājas spēkā 28.10.1997. 20.11.1997. likums / LV, 315/316 (1030/1031),
+   05.12.1997. / Stājas spēkā 19.12.1997. 25.11.1999. likums / LV, 416/419 (1876/1879),
+   15.12.1999. / Stājas spēkā 01.01.2000. 27.01.2000. likums / LV, 40/41 (1951/1952),
+   09.02.2000. / Stājas spēkā 23.02.2000. 30.11.2000. likums / LV, 452/453 (2363/2364),
+   14.12.2000. / Stājas spēkā 01.01.2001. 22.11.2001. likums / LV, 178 (2565),
+   07.12.2001. / Stājas spēkā 01.01.2002.
+   Satura rādītājs:
+     * I nodaļa VISPĀRĪGIE NOTEIKUMI
+          * 1. pants. Iedzīvotāju ienākuma nodokļa struktūra
+          * 2. pants. Nodokļa maksātāji
+          * 3. pants. Ar nodokli apliekamais objekts
+          * 4. pants. Nodokļa aprēķināšanas un ņemšanas veids
+          * 5. pants. Ierobežojumi darba devējam
+          * 6. pants. Ierobežojumi darbiniekam
+     * II nodaļa GADA APLIEKAMĀ IENĀKUMA NOTEIKŠANA
+          * 7. pants. Maksātāja gada ienākums
+          * 8. pants. Gada apliekamā ienākuma avoti
+          * 9. pants. Ar nodokli neapliekamo ienākumu veidi
+          * 10. pants. Attaisnotie izdevumi
+          * 11. pants. No saimnieciskās darbības gūtā apliekamā ienākuma noteikšana
+          * 12. pants. Maksātāja gada neapliekamais minimums
+          * 13. pants. Atvieglojumi maksātājam
+          * 14. pants. Maksātāja attaisnoto izdevumu un atvieglojumu pamatojums
+     * III nodaļa NODOKĻA APRĒĶINĀŠANA
+          * 15. pants. Nodokļa likmes
+          * 16. pants. Vērtības izteiksme
+     * IV nodaļa NODOKĻA IETURĒŠANAS UN MAKSĀŠANAS KĀRTĪBA
+          * 17. pants. Algas nodokļa ieturēšana un maksāšana un nodokļa ieturēšana no
+            ienākumiem, kuri nav saistīti ar darba attiecībām
+          * 18. pants. Nodokļa aprēķināšana no saimnieciskās darbības ienākuma un tā
+            maksāšana avansā
+          * 19. pants. Iedzīvotāju ienākuma nodokļa aprēķināšanas un maksāšanas
+            rezumējošā kārtība
+          * 20. pants. Ienākumu deklarēšanas atvieglojumi
+     * V nodaļa DEKLARĀCIJAS KONTROLĒŠANA UN KORIĢĒŠANA
+          * 21. pants. Kontrolējošā finansu iestāde
+          * 22. pants. Deklarācijas kontrolēšana un apliekamā ienākuma noteikšana uz
+            aprēķinu pamata
+          * 23. pants. Deklarācijas koriģēšana
+     * VI nodaļa STARPVALSTU LĪGUMI
+          * 24. pants. Starpvalstu līgumu piemērošana
+     * VII nodaļa BUDŽETU KOMPETENCE
+          * 25. pants. Nodokļa maksāšanas vieta
+          * 26. pants. Nodokļa sadalīšana
+          * 27. pants. Pašvaldību pienākumi
+     * VIII nodaļa LIKUMA IEVĒROŠANAS UN PILDĪŠANAS NODROŠINĀJUMS
+          * 28. pants. Maksātāja pienākumi
+          * 29. pants. Darba devēja pienākumi
+          * 29.^1 pants. Valsts ieņēmumu dienesta pienākumi
+          * 30. pants. Maksātāja tiesības
+          * 31. pants. Darba devēja (ienākuma izmaksātāja) atbildība par termiņā
+            nesamaksāto nodokli
+          * 31.^1 pants. Maksātāja atbildība par termiņā nesamaksāto nodokli
+          * 31.^2 pants. Darba devēja (ienākuma izmaksātāja) atbildība par nepilnīgu
+            nodokļa ieturēšanu
+          * 31.^3 pants. Maksātāja atbildība par apliekamā ienākuma samazināšanu
+          * 32. pants. Darba devēja (ienākuma izmaksātāja) atbildība par citiem nodokļu
+            likumu pārkāpumiem
+          * 32.^1 pants. Maksātāja atbildība par citiem likuma pārkāpumiem
+          * 33. pants. Termiņā nesamaksāto nodokļa maksājumu iekasēšana bezstrīda
+            kārtībā
+          * 34. pants. Citu subjektu pienākumi un atbildība
+          * 35. pants. Citu subjektu līdzdalība deklarācijas izpildīšanā
+          * 36. pants. Rajonu (republikas pilsētu) Valsts ieņēmumu dienesta
+            teritoriālās iestādes kompetence
+          * 37. pants. Ienākuma nodokļa maksātāja kods
+          * 38. pants. Dokumentārais nodrošinājums
+     * Pārejas noteikumi
+          * 1. punkts
+          * 2. punkts
+          * 3. punkts
+          * 4. punkts
+          * 5. punkts
+          * 6. punkts
+          * 7. punkts
+          * 8. punkts
+          * 9. punkts
+   LATVIJAS REPUBLIKAS LIKUMS
+   Par iedzīvotāju ienākuma nodokli
+   I nodaļa
+   VISPĀRĪGIE NOTEIKUMI
+
+   1. pants. Iedzīvotāju ienākuma nodokļa struktūra
+
+   1. Iedzīvotāju ienākuma nodoklis (turpmāk — nodoklis) ir nodoklis, ar ko apliek
+   fiziskās personas gūtos ienākumus, un tas sastāv no:
+
+   1) algas nodokļa, ko par darbinieka gūtajiem ienākumiem aprēķina un maksā darba
+   devējs;
+
+   2) patentmaksas, kas ir pašvaldību noteikts avansa maksājums par atsevišķu veidu
+   saimnieciskās darbības veikšanu;
+
+   3) nodokļa par ienākumiem no saimnieciskās darbības, ja tie nav uzņēmumu ienākuma
+   nodokļa objekts, un nodokļa no citiem ienākuma avotiem.
+
+   2. Nodoklis tiek aprēķināts un iemaksāts budžetā divējādā kārtībā: avansā, arī algas
+   nodokļa un patentmaksas veidā, un rezumējošā kārtībā, sastādot gada ienākumu
+   deklarāciju (turpmāk — deklarācija).
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 19.12.1996. un
+   25.11.1999. likumu, kas stājas spēkā 01.01.2000.)
+
+   2. pants. Nodokļa maksātāji
+
+   Nodokli maksā:
+
+   1) fiziskās personas, kas atbilstoši likumam "Par nodokļiem un nodevām" ir iekšzemes
+   nodokļu maksātāji (turpmāk — arī rezidenti) un taksācijas periodā (kalendārajā gadā)
+   ir guvuši ienākumus Latvijas Republikā un/vai ārvalstīs;
+
+   2) fiziskās personas, kas atbilstoši likumam "Par nodokļiem un nodevām" ir ārvalstu
+   nodokļu maksātāji (turpmāk — arī nerezidenti) un taksācijas periodā ir guvuši
+   ienākumus Latvijas Republikā;
+
+   3) fiziskās personas — individuālo uzņēmumu, arī zemnieku un zvejnieku saimniecību
+   īpašnieki, kas taksācijas periodā (kalendārajā gadā) ir guvuši ienākumus, kuri nav
+   aplikti ar uzņēmumu ienākuma nodokli.
+
+   (31.05.1995. likuma redakcijā, kas stājas spēkā 04.07.1995.)
+
+   3. pants. Ar nodokli apliekamais objekts
+
+   1. Ar nodokli tiek aplikts iekšzemes nodokļa maksātāja (turpmāk — maksātājs)
+   taksācijas perioda (kalendārā gada) apliekamo ienākumu apjoms. Algas nodokļa objekts
+   ir maksātāja mēneša apliekamie ienākumi.
+
+   2. Iekšzemes nodokļa maksātāja gada (algas nodokļa maksātāja — mēneša) apliekamais
+   ienākums ir viņa gada (mēneša) ienākums, izņemot šā likuma 9.pantā minētos
+   neapliekamos ienākumus, no kuriem tiek atskaitīti:
+
+   1) šā likuma 10.pantā noteiktie attaisnotie izdevumi;
+
+   2) maksātāja gada (mēneša) neapliekamais minimums;
+
+   3) šā likuma 13.pantā noteiktie atvieglojumi.
+
+   3. Ārvalstu nodokļa maksātāja (nerezidenta) ar nodokli apliekamais ienākums ir:
+
+   1) ienākums no algota darba, ieskaitot darbu, kas veikts Latvijas Republikā tāda
+   darba devēja labā, kurš nav Latvijas Republikas rezidents vai kuram nav pastāvīgās
+   pārstāvniecības Latvijas Republikā, vai darbu, kas veikts ārpus Latvijas Republikas
+   Latvijas Republikas darba devēja labā;
+
+   2) ienākums no profesionālās darbības, kas veikta Latvijas Republikas rezidentu vai
+   nerezidentu pastāvīgo pārstāvniecību labā Latvijas Republikā vai ārpus tās;
+
+   3) ienākums no mākslinieku, sportistu vai treneru profesionālās darbības Latvijas
+   Republikā neatkarīgi no tā, vai šo ienākumu saņem pats mākslinieks, sportists vai
+   treneris, vai cita juridiskā vai fiziskā persona;
+
+   4) ienākums no pienākumu pildīšanas Latvijas Republikā reģistrētas
+   uzņēmējsabiedrības padomē vai valdē;
+
+   5) ienākums no Latvijas Republikā reģistrētas līgumsabiedrības;
+
+   6) ienākums likvidācijas kvotas veidā no Latvijas Republikā reģistrētas
+   uzņēmējsabiedrības likvidācijas — tādā apmērā, kādā tas pārsniedz izmaksājamo
+   dividendi;
+
+   7) ienākums no Latvijas Republikā esoša nekustamā īpašuma izmantošanas;
+
+   7^1) ienākums no Latvijas Republikā esoša nekustamā īpašuma atsavināšanas;
+
+   8) ienākums no kustamā īpašuma izmantošanas Latvijas Republikā;
+
+   9) personiskās palīgsaimniecības, piemājas saimniecības, kā arī zemnieku un
+   zvejnieku saimniecības ienākums no lauksaimnieciskās ražošanas;
+
+   10) dividendes saskaņā ar likumā "Par uzņēmumu ienākuma nodokli" noteikto likmi;
+
+   11) procentu ienākums, izņemot šā likuma 9.panta pirmajā daļā noteiktos procentu
+   ienākumus;
+
+   12) samaksa par intelektuālo īpašumu:
+
+   a) autoratlīdzība (honorārs) par zinātnes, literatūras un mākslas darbu, atklājumu,
+   izgudrojumu un rūpniecisko paraugu darbu radīšanu, ņemot vērā izdevumu normas, kuras
+   saskaņā ar šā likuma 10.panta pirmās daļas 4.punktu noteicis Ministru kabinets,
+
+   b) maksājumi par pārējiem intelektuālā īpašuma veidiem saskaņā ar likuma "Par
+   uzņēmumu ienākuma nodokli" 3.panta ceturtās daļas 4.punkta "a" apakšpunktā noteikto
+   likmi;
+
+   13) apdrošināšanas atlīdzība, kas saskaņā ar dzīvības, veselības un negadījuma
+   apdrošināšanas līgumu, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits
+   apdrošinājuma ņēmējs — juridiskā persona), izmaksāta, pienākot apdrošināšanas līgumā
+   paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
+
+   14) pensijas, kas izmaksātas saskaņā ar Latvijas Republikas likumiem.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 19.12.1996.,
+   25.11.1999. un 30.11.2000. likumu, kas stājas spēkā 01.01.2001.)
+
+   4. pants. Nodokļa aprēķināšanas un ņemšanas veids
+
+   1. Nodokli aprēķina un budžetā iemaksā:
+
+   1) (maksātāja) algas nodokli — darba devējs;
+
+   2) no ienākumiem, kas noteikti šā likuma 17.panta desmitajā un divpadsmitajā daļā, —
+   to izmaksātājs;
+
+   3) no šā likuma 1.panta pirmās daļas 3.punktā minētajiem ienākumiem, kā arī
+   patentmaksu — maksātājs;
+
+   4) ja maksātāju nodarbina darba devējs — ārvalstu nodokļu maksātājs, algas nodokli —
+   darba devējs vai pats maksātājs saskaņā ar Ministru kabineta noteikumiem;
+
+   5) tāda maksātāja algas nodokli, kura darbu apmaksā no Latvijas Republikai
+   piešķirtajiem ārvalstu tehniskās palīdzības vai starptautisko finansu institūciju
+   aizdevuma līdzekļiem, — darba devējs vai pats maksātājs saskaņā ar Ministru kabineta
+   noteikumiem.
+
+   2. Maksātājs, izņemot personas, kas minētas šā likuma 20.pantā, maksā nodokli
+   atbilstoši deklarācijai rezumējošā kārtībā. Taksācijas gada laikā tiek izdarīti
+   nodokļa avansa maksājumi.
+
+   3. Avansa maksājumu apmēru maksātājam, kas gūst ienākumus no individuālā darba,
+   uzņēmuma līguma un uzņēmējdarbības, no kuras ienākumiem jāmaksā iedzīvotāju ienākuma
+   nodoklis, nosaka saskaņā ar Ministru kabineta noteikumiem.
+
+   4. Fiziskajai personai — nerezidentam, iegūstot rezidenta statusu, nerezidenta
+   statusā aprēķinātais un budžetā iemaksātais nodoklis ir galīgais nodoklis.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 25.11.1999. un
+   30.11.2000. likumu, kas stājas spēkā 01.01.2001.)
+
+   5. pants. Ierobežojumi darba devējam
+
+   (Izslēgts ar 30.11.2000. likumu, kas stājas spēkā 01.01.2001.)
+
+   6. pants. Ierobežojumi darbiniekam
+
+   Katram Latvijas Republikas iedzīvotājam var būt tikai viena algas nodokļa grāmatiņa
+   (turpmāk — grāmatiņa), kuru izsniedz Valsts ieņēmumu dienesta teritoriālā iestāde
+   vai pašvaldība pēc personas dzīvesvietas. Grāmatiņa iesniedzama pamatdarba vietā.
+   Grāmatiņu izsniegšanas kārtību nosaka Ministru kabinets.
+
+   (30.11.2000. likuma redakcijā, kas stājas spēkā 01.01.2001.)
+
+   II nodaļa
+   GADA APLIEKAMĀ IENĀKUMA NOTEIKŠANA
+
+   7. pants. Maksātāja gada ienākums
+
+   Maksātāja gada ienākums ir visa taksācijas perioda (kalendārā gada) laikā iegūto
+   naudas, naturālo vērtību un saņemto pakalpojumu kopums.
+
+   (31.05.1995. likuma redakcijā, kas stājas spēkā 04.07.1995.)
+
+   8. pants. Gada apliekamā ienākuma avoti
+
+   1. Maksātāja gada apliekamo ienākumu veido ienākumi, par kuriem ir jāmaksā algas
+   nodoklis atbilstoši šā panta otrajai, ceturtajai un piektajai daļai, un pārējie šā
+   panta trešajā daļā minētie ienākumi.
+
+   2. Pie ienākumiem, par kuriem ir jāmaksā algas nodoklis, atbilstoši Ministru
+   kabineta noteikumiem tiek pieskaitīta darba alga, prēmijas, vienreizēja un
+   sistemātiska atlīdzība un citi ienākumi, ko darbinieks saņem uz pašreizējo vai
+   iepriekšējo darba attiecību pamata uzņēmējsabiedrībās, valsts uzņēmumos, iestādēs,
+   organizācijās un no fiziskajām personām, kā arī atlīdzība par valsts dienesta
+   pienākumu izpildi un ienākumi no darba līguma izpildes.
+
+   3. Pie pārējiem fiziskās personas ienākumiem, par kuriem ir jāmaksā nodoklis, tiek
+   pieskaitīti:
+
+   1) ienākumi no individuālā darba un uzņēmuma līguma;
+
+   2) ienākumi no individuālā uzņēmuma, arī no zemnieku vai zvejnieku saimniecības, ja
+   tie nav uzņēmumu ienākuma nodokļa objekts;
+
+   3) ienākumi no līgumsabiedrības;
+
+   4) ienākumi, ko uzņēmējsabiedrības, uzņēmuma (iestādes, organizācijas) dalībnieki
+   saņem uzņēmējsabiedrības, uzņēmuma (iestādes, organizācijas) likvidācijas vai
+   reorganizācijas gadījumā;
+
+   5) ienākumi no nekustamā īpašuma (ēku, ēku daļu, dzīvokļu, zemes) iznomāšanas vai
+   izīrēšanas;
+
+   6) ienākumi no lietas (zemes, telpas) nodošanas tālāk apakšnomniekam vai
+   apakšīrniekam;
+
+   7) ienākumi no kustamās mantas iznomāšanas;
+
+   8) ienākumi no intelektuālā īpašuma un tiesībām uz to (autoratlīdzība,
+   izpildītājatlīdzība; zinātnes, literatūras un mākslas darbu, atklājumu, izgudrojumu
+   un rūpniecisko paraugu autoru un viņu mantinieku honorāri), kā arī no tiesībām
+   izmantot tiesības uz intelektuālo īpašumu;
+
+   9) no uzņēmējsabiedrībām, uzņēmumiem (iestādēm, organizācijām) saņemtie dāvinājumi;
+
+   10) pensijas neatkarīgi no to izmaksas avota;
+
+   11) citi ienākumi, kas nav minēti šā likuma 9.pantā.
+
+   4. Šā panta otrās daļas noteikumi neattiecas uz ienākumiem, ko fiziskā persona gūst
+   uz tādu darba attiecību pamata, kas paredz šo personu nodarbināt uz iekšzemes
+   uzņēmuma īpašumā vai valdījumā esoša starptautiskos pārvadājumos izmantojama kuģa,
+   ja kuģis reģistrēts Latvijas Kuģu reģistrā. Minētās personas ienākumi, par kuriem
+   maksājams algas nodoklis, ir uz darba attiecību pamata gūtā ienākuma daļa Ministru
+   kabineta noteikto divu gada (mēneša) minimālo darba algu apmērā.
+
+   5. No maksātāja ienākumiem, par kuriem maksā algas nodokli, izslēdz darbinieka labā
+   darba devēja veiktās iemaksas privātajos pensiju fondos atbilstoši licencētiem
+   pensiju plāniem un iemaksātās dzīvības apdrošināšanas (ar līdzekļu uzkrāšanu)
+   prēmiju summas, kuras kopā nepārsniedz 10 procentus no maksātājam aprēķinātās bruto
+   darba samaksas taksācijas gadā, un iemaksātās dzīvības (bez līdzekļu uzkrāšanas),
+   veselības vai nelaimes gadījumu apdrošināšanas prēmiju summas, kas nepārsniedz 10
+   procentus no maksātājam aprēķinātās bruto darba samaksas taksācijas gadā, bet ne
+   vairāk kā 180 latus gadā, ja ir izpildīti šādi nosacījumi:
+
+   1) darbības termiņš dzīvības apdrošināšanas līgumam (ar līdzekļu uzkrāšanu) nav
+   īsāks par pieciem gadiem;
+
+   2) darbības termiņš dzīvības, veselības un nelaimes gadījumu apdrošināšanas līgumam
+   (bez līdzekļu uzkrāšanas) nav īsāks par vienu gadu;
+
+   3) dzīvības, veselības un nelaimes gadījumu apdrošināšanas līguma noteikumi paredz,
+   ka apdrošināšanas atlīdzību par apdrošināšanas gadījumu izmaksā apdrošinātajai
+   personai (vai tās labuma guvējam), citas summas, kas saistītas ar līguma darbību vai
+   tā pārtraukšanu, izmaksā darba devējam, un neparedz aizdevumu izsniegšanu
+   apdrošinātajām personām;
+
+   4) darba devējam pēctaksācijas perioda otrā mēneša pirmajā datumā nav nodokļu parādu
+   par iepriekšējiem periodiem.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 19.12.1996.,
+   20.11.1997., 30.11.2000. un 22.11.2001. likumu, kas stājas spēkā 01.01.2002. Sk.
+   Pārejas noteikumus.)
+
+   9. pants. Ar nodokli neapliekamo ienākumu veidi
+
+   1. Gada apliekamajā ienākumā netiek ietverti un ar nodokli netiek aplikti šādi
+   ienākumu veidi:
+
+   1) personiskās palīgsaimniecības, piemājas saimniecības un zemnieka saimniecības
+   ienākumi no lauksaimnieciskās ražošanas, ja tie nepārsniedz 3000 latu gadā.
+   Lauksaimnieciskā ražošana šā likuma izpratnē ir augkopības, lopkopības, iekšējo
+   ūdeņu zivsaimniecības un dārzkopības produkcijas ražošana;
+
+   2) fiziskās personas — individuālā uzņēmuma īpašnieka — ienākums no individuālā
+   uzņēmuma, kurš ir uzņēmumu ienākuma nodokļa maksātājs, un fiziskajām personām
+   izmaksātās dividendes no uzņēmējsabiedrības ienākuma, izņemot dividendes no
+   nerezidentiem un iekšzemes uzņēmumiem, kuriem nav jāmaksā uzņēmumu ienākuma
+   nodoklis, kā arī tiem uzņēmumiem, kuri izmanto likumā "Par ārvalstu ieguldījumiem
+   Latvijas Republikā" paredzētos atvieglojumus vai citos Latvijas Republikas likumos
+   noteiktās uzņēmumu ienākuma nodokļa atlaides dividenžu deklarēšanas gadā vai
+   iepriekšējā gadā;
+
+   3) ienākumi no noguldījumiem un depozītiem Latvijas Republikā reģistrētās
+   kredītiestādēs un krājaizdevu sabiedrībās, kā arī ienākumi no hipotekārajām ķīlu
+   zīmēm;
+
+   4) apdrošināšanas atlīdzības, izņemot tās apdrošināšanas atlīdzības, kas izmaksātas
+   pēc dzīvības, veselības un negadījuma apdrošināšanas līguma, kuru apdrošinātā
+   interesēs noslēdzis darba devējs (vai cits apdrošinājuma ņēmējs — juridiskā
+   persona), pienākot apdrošināšanas līgumā paredzētajam līguma beigu termiņam vai
+   laužot līgumu pirms termiņa;
+
+   5) izložu un azartspēļu laimesti, kuri nepārsniedz izdevumus, kas saistīti ar to
+   iegūšanu, — Ministru kabineta noteiktajā kārtībā;
+
+   6) ienākumi no Latvijas valsts un pašvaldību parādzīmēm;
+
+   7) normatīvajos aktos noteiktie no budžeta izmaksājamie pabalsti, izņemot pārejošas
+   darba nespējas pabalstus, normatīvajos aktos noteiktā atlīdzība par aizbildņa
+   pienākumu pildīšanu un atlīdzība par audžuģimenes pienākumu veikšanu, kas
+   izmaksājama no budžeta, kā arī citi pabalsti, kas izmaksājami no Ministru kabineta
+   noteiktajiem fondiem;
+
+   8) stipendijas, kas izmaksātas no budžeta, Ministru kabineta apstiprināta fonda
+   līdzekļiem vai no to starptautisko izglītības vai sadarbības programmu līdzekļiem,
+   kurās līdzdalību ir apstiprinājis Ministru kabinets;
+
+   9) mantojuma rezultātā gūtais ienākums, izņemot autoratlīdzību (honorāru), kuru
+   izmaksā autortiesību mantiniekiem, un no fiziskajām personām saņemtais dāvinājums;
+
+   10) konkursos un sacensībās saņemtās mantiskās un naudas balvas (prēmijas), kuru
+   kopējā vērtība taksācijas gadā nepārsniedz 150 latu, un publiskos starptautiskos
+   konkursos un starptautiskās sacensībās gūtās balvas un prēmijas, kuru kopējā vērtība
+   gadā nepārsniedz 3000 latu, kā arī Baltijas asamblejas balvu laureātiem izmaksātā
+   naudas prēmija;
+
+   11) uzturnauda (alimenti);
+
+   12) summas, kas uz tiesas sprieduma pamata saņemtas laulības šķiršanas sakarā;
+
+   13) atlīdzība likumdošanas aktos noteiktajā kārtībā par kaitējumu darbaspēju
+   zaudējuma gadījumā, kas saistīts ar sakropļojumu vai citādu veselības bojājumu, kā
+   arī apgādnieka zaudējuma sakarā;
+
+   14) darbinieka vai viņa radinieku (tuvinieku) nāves gadījumā darba devēja
+   piešķirtais bēru pabalsts, kura vērtība nepārsniedz 150 latu;
+
+   15) palīdzība stihiskas nelaimes gadījumā vai citos ārkārtējos gadījumos, ja tā
+   sniegta uz valsts vai pašvaldību pārvaldes institūciju lēmuma pamata;
+
+   16) kompensācijas izmaksas likumos un Ministru kabineta noteikto normu ietvaros,
+   izņemot kompensāciju par neizmantoto atvaļinājumu;
+
+   17) ar Ministru kabineta lēmumu noteiktā apgāde natūrā, kā arī summas, kas
+   izmaksātas šīs apgādes vietā;
+
+   18) atlīdzība par asiņu nodošanu un cita veida donorpalīdzību;
+
+   19) ienākumi no sava īpašuma pārdošanas, izņemot ienākumu no:
+
+   a) pārdošanai izgatavotu vai iegādātu izstrādājumu (mantas) pārdošanas,
+
+   b) fiziskās personas īpašumā esoša augoša meža pārdošanas izciršanai,
+
+   c) tāda nekustamā īpašuma pārdošanas, kas ir bijis personas īpašumā mazāk par 12
+   mēnešiem,
+
+   d) personāla akciju atpirkšanas;
+
+   20) palīdzība, kas sniegta, pamatojoties uz arodbiedrības institūcijas lēmumu, no
+   arodbiedrības naudas līdzekļiem, kuri veidojas no arodbiedrības biedru naudas
+   maksājumiem un ārvalstu arodbiedrību ziedojumiem (dāvinājumiem) — gada neapliekamā
+   minimuma apmērā;
+
+   21) kompensācija naudā, ko fiziskajai personai izmaksā uzņēmumi
+   (uzņēmējsabiedrības), pamatojoties uz nosacījumu, ka šī fiziskā persona taksācijas
+   perioda (kalendārā gada) laikā iegādājas zināmu daudzumu preču attiecīgajā uzņēmumā
+   (uzņēmējsabiedrībā). Šis noteikums nav piemērojams gadījumos, kad fiziskā persona
+   nav iegādāto preču galīgais patērētājs (veic šo preču tālākpārdošanu);
+
+   22) summas, kas izmaksātas subsīdiju veidā kā valsts atbalsts lauksaimniecībai vai
+   Eiropas Savienības atbalsts lauksaimniecībai un lauku attīstībai;
+
+   23) bezpeļņas organizācijas sabiedrības ar ierobežotu atbildību "Sorosa fonds —
+   Latvija" projektu ietvaros izmaksātās stipendijas un atlīdzība, kura personai
+   izmaksāta ārpus darba tiesiskajām attiecībām ar bezpeļņas organizāciju sabiedrību ar
+   ierobežotu atbildību "Sorosa fonds — Latvija";
+
+   24) ienākums no privātajos pensiju fondos veikto iemaksu ieguldīšanas;
+
+   25) palīdzība, kas, pamatojoties uz reliģiskās organizācijas vai tās iestādes
+   institūcijas (amatpersonas) lēmumu, sniegta no reliģiskās organizācijas vai tās
+   iestādes naudas līdzekļiem, — gada neapliekamā minimuma apmērā.
+
+   2. Šā panta pirmās daļas 1., 10., 14., 16., 20. un 25.punktā minēto ienākumu, ja tie
+   pārsniedz attiecīgās šajos punktos noteiktās summas (normas) lielumu, pārsnieguma
+   summa tiek aplikta ar nodokli.
+
+   3. Šā panta pirmās daļas 2.punkta noteikumi nav attiecināmi uz nerezidentiem.
+
+   4. Šā panta pirmās daļas 8.punktā minētā stipendija ir vienreizēja vai sistemātiski
+   ilgākā laika posmā izmaksāta naudas summa personai:
+
+   1) kura vispārēju vai izvēlētu izglītības (studiju) programmu apgūst izglītības
+   iestādē vai patstāvīgi;
+
+   2) tās apgādībā esošo personu izglītības (studiju) programmas apgūšanas veicināšanai
+   izglītības iestādē;
+
+   3) tās pētniecības darba vai radošā darba atbalstam.
+
+   5. Šā panta pirmās daļas 7.punkta izpratnē pabalsti ir arī saskaņā ar Ministru
+   kabineta noteikumiem piešķirtie mūža granti valsts emeritētajiem zinātniekiem un
+   Kultūrkapitāla fonda piešķirtās mūža stipendijas kultūras un mākslas darbiniekiem
+   par nopelniem kultūras un mākslas attīstībā.
+
+   6. Ministru kabinets nosaka kārtību, kādā stipendijām no šā panta pirmās daļas
+   8.punktā minēto fondu vai starptautisko izglītības vai sadarbības programmu
+   līdzekļiem piešķirams atbrīvojums no aplikšanas ar iedzīvotāju ienākuma nodokli.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 29.02.1996.,
+   19.12.1996., 20.11.1997., 25.11.1999., 27.01.2000., 30.11.2000. un 22.11.2001.
+   likumu, kas stājas spēkā 01.01.2002.)
+
+   10. pants. Attaisnotie izdevumi
+
+   1. Pirms ienākuma aplikšanas ar nodokli no gada apliekamo ienākumu apjoma tiek
+   atskaitīti šādi maksātāja izdevumi:
+
+   1) nomaksātā sociālā nodokļa summa un valsts sociālās apdrošināšanas maksājumi;
+
+   2) izdevumi par maksātāja un viņa ģimenes locekļu kvalifikācijas paaugstināšanu,
+   specialitātes iegūšanu, izglītības iegūšanu, par medicīnas un ārstniecisko
+   pakalpojumu izmantošanu un veselības apdrošināšanas prēmiju maksājumiem
+   apdrošināšanas sabiedrībām, kas izveidotas un darbojas saskaņā ar Apdrošināšanas
+   sabiedrību un to uzraudzības likumu. Minēto izdevumu sastāvu un normas nosaka
+   Ministru kabinets;
+
+   3) summas, kas ziedojuma vai dāvinājuma veidā nodotas Latvijas Republikā reģistrētām
+   sabiedriskajām kultūras, izglītības, zinātnes, sporta, labdarības, veselības un
+   vides aizsardzības organizācijām un fondiem, reliģiskajām organizācijām un budžeta
+   iestādēm, kam atbilstoši likuma "Par uzņēmumu ienākuma nodokli" 20.pantam Ministru
+   kabineta noteiktajā kārtībā piešķirta atļauja saņemt ziedojumus, bet šīs summas
+   nedrīkst pārsniegt 20 procentus no apliekamā ienākuma lieluma;
+
+   4) zinātnes, literatūras un mākslas darbu, atklājumu, izgudrojumu un rūpniecisko
+   paraugu autoru izdevumi, kuri saistīti ar šo darbu radīšanu, izdošanu, izpildīšanu
+   vai citādu izmantošanu un par kuriem autori saņem autoratlīdzību (honorāru). Minēto
+   izdevumu sastāvu un normas nosaka Ministru kabinets;
+
+   5) saskaņā ar likumu "Par privātajiem pensiju fondiem" izveidotajos privātajos
+   pensiju fondos izdarītās iemaksas, kas kopā ar šīs daļas 6.punktā minētajiem
+   apdrošināšanas prēmiju maksājumiem, kuri izdarīti atbilstoši dzīvības apdrošināšanas
+   līgumam (ar līdzekļu uzkrāšanu), nepārsniedz 10 procentus no personas gada apliekamā
+   ienākuma (šā panta otrajā daļā — no mēneša bruto darba samaksas, kas ir kalendārā
+   mēneša darba samaksa pirms to summu atskaitīšanas, par kurām saskaņā ar šo likumu
+   atļauts samazināt darbinieka apliekamo ienākumu, kā arī pirms jebkuru ieturējumu
+   izdarīšanas);
+
+   6) apdrošināšanas prēmiju maksājumi, kas izdarīti atbilstoši dzīvības apdrošināšanas
+   līgumam (ar līdzekļu uzkrāšanu), ievērojot šā likuma 8.panta piektās daļas 1., 2. un
+   3.punkta nosacījumus, un kas kopā ar šīs daļas 5.punktā minētajām iemaksām
+   privātajos pensiju fondos nepārsniedz 10 procentus no personas gada apliekamā
+   ienākuma.
+
+   2. Pirms darbinieka ienākuma aplikšanas ar algas nodokli no mēneša ienākuma apjoma
+   tiek atskaitīti šā panta pirmās daļas 1., 5. un 6.punktā minētie maksājumi.
+
+   3. No nerezidentu apliekamā ienākuma ir tiesības atskaitīt tikai šā panta pirmās
+   daļas 1., 3., 4. un 5.punktā minētos attaisnotos izdevumus.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 19.12.1996.,
+   25.11.1999., 30.11.2000. un 22.11.2001. likumu, kas stājas spēkā 01.01.2002.)
+
+   11. pants. No saimnieciskās darbības gūtā apliekamā ienākuma noteikšana
+
+   1. Fiziskās personas ienākums no saimnieciskās darbības tiek aprēķināts kā šajā
+   pantā noteikto ieņēmumu un ar to gūšanu saistīto izdevumu starpība.
+
+   1.^1 Par fiziskās personas saimniecisko darbību ir uzskatāma jebkura darbība, kas
+   vērsta uz preču ražošanu, darbu izpildi, tirdzniecību un pakalpojumu sniegšanu par
+   atlīdzību. Saimnieciskā darbība ietver arī ar uzņēmuma līguma izpildi saistīto
+   darbību, profesionālo darbību, nekustamā īpašuma apsaimniekošanu, kā arī fiziskās
+   personas īpašumā esoša individuālā uzņēmuma (arī zemnieku vai zvejnieku
+   saimniecības) darbību.
+
+   1.^2 Profesionālā darbība ir jebkura neatkarīga profesionālu pakalpojumu sniegšana
+   ārpus darba tiesiskajām attiecībām, arī zinātniskā, literārā, pasniedzēja, aktiera,
+   režisora, ārsta, zvērināta advokāta, zvērināta revidenta, zvērināta notāra,
+   zvērināta mērnieka, zvērināta taksatora, mākslinieka, komponista, mūziķa,
+   konsultanta, inženiera vai arhitekta darbība.
+
+   2. Ieņēmumos, kas gūti no saimnieciskās darbības, tiek ieskaitīti:
+
+   1) ieņēmumi no preču, darbu un pakalpojumu pārdošanas;
+
+   2) ieņēmumi no īpašuma un telpu iznomāšanas vai izīrēšanas;
+
+   3) summas, kas saņemtas soda naudas veidā.
+
+   3. Izdevumos, ja tie saistīti ar taksācijas gada ienākuma gūšanu no saimnieciskās
+   darbības, tiek ieskaitīti:
+
+   1) izdevumi par iegādātām izejvielām, materiāliem, pusfabrikātiem, izstrādājumiem,
+   par inventāru, kura vērtība nepārsniedz 100 latu, par precēm, kurināmo un enerģiju;
+
+   2) izdevumi, kas saistīti ar algotā darbaspēka izmantošanu likumdošanas aktos
+   atļautajos gadījumos;
+
+   3) komandējumu, reklāmas, kancelejas, pasta, telegrāfa, teleksa, telefaksa,
+   mārketinga un mākslas darbu taksācijas izdevumi;
+
+   4) pamatlīdzekļu nolietojums, ko aprēķina saskaņā ar likuma "Par uzņēmumu ienākuma
+   nodokli" 13.pantu;
+
+   5) izdevumi, kas saistīti ar pamatlīdzekļu kārtējo remontu;
+
+   6) nomas un īres maksa;
+
+   7) nomaksātā sociālā nodokļa summa un valsts sociālās apdrošināšanas maksājumi, kā
+   arī obligātās apdrošināšanas prēmiju maksājumi un dzīvības, veselības un negadījuma
+   apdrošināšanas prēmiju maksājumi par darbiniekiem atbilstoši Apdrošināšanas
+   sabiedrību un to uzraudzības likumam, ja darbinieka apdrošināšanas līgums ir
+   noslēgts uz termiņu, kas nav īsāks par pieciem gadiem;
+
+   8) izdevumi par darbinieku izglītošanu un kvalifikācijas paaugstināšanu;
+
+   9) izmaksas par ražošanas rakstura darbiem un pakalpojumiem, ko veikuši citi
+   uzņēmumi, organizācijas vai fiziskās personas, izņemot izmaksas
+   kapitālieguldījumiem;
+
+   10) procentu maksa par banku kredīta izmantošanu, izņemot soda naudas maksājumus;
+
+   11) maksa par licenci;
+
+   12) zaudējumi tiesas noteiktajā apmērā, kuri nodarīti līgumpartneriem, neizpildot
+   vai pienācīgi neizpildot savas saistības;
+
+   13) Latvijas Republikā noteikto nodokļu (izņemot iedzīvotāju ienākuma nodokli un
+   pievienotās vērtības nodokli) un nodevu (izņemot valsts nodevu par prasības
+   pieteikumu tiesā) maksājumi valsts vai pašvaldības budžetā;
+
+   14) drošības nauda meža atjaunošanas darbiem un meža atjaunošanas izmaksas Ministru
+   kabineta noteiktajā kārtībā;
+
+   15) citi izdevumi, kas saistīti ar saimniecisko darbību un nepieciešami tās
+   nodrošināšanai, saskaņā ar Ministru kabineta noteikumiem.
+
+   4. Ar saimniecisko darbību saistītajos izdevumos netiek ieskaitīti izdevumi, kas
+   atbilstoši likuma "Par uzņēmumu ienākuma nodokli" 5.pantam nav uzskatāmi par tādiem
+   izdevumiem, kas ir tieši saistīti ar saimniecisko darbību.
+
+   5. Maksātājs Ministru kabineta noteiktajā kārtībā veic ieņēmumu un ar to gūšanu
+   saistīto izdevumu uzskaiti nodokļa aprēķināšanas vajadzībām.
+
+   6. Zemnieku un zvejnieku saimniecību apliekamajā ienākumā netiek ietverti produkti
+   (pašpatēriņš), ko savām vajadzībām izlietojis saimniecības īpašnieks un viņa ģimenes
+   locekļi, kā arī personas, kuras ar saimniecības īpašnieku ir radniecībā līdz
+   trešajai pakāpei vai svainībā līdz otrajai pakāpei.
+
+   7. Ieturot nodokli no metāllūžņu pārdošanas ienākumiem, pirms nodokļa aprēķināšanas
+   no izmaksājamās summas atskaitāmi ar metāllūžņu sagatavošanu un pārdošanu saistītie
+   izdevumi, piemērojot normu 15 procentu apmērā no izmaksājamās summas.
+
+   8. Kārtību, kādā kokmateriālu un augoša meža pārdošanas ienākumi apliekami ar
+   nodokli, nosaka Ministru kabinets.
+
+   9. Fiziskās personas taksācijas gada saimnieciskās darbības zaudējumi, kas radušies
+   sakarā ar to, ka taksācijas gada ieņēmumi ir mazāki nekā izdevumi un izmaksas,
+   sedzami hronoloģiskā secībā no nākamo triju taksācijas gadu saimnieciskās darbības
+   apliekamā ienākuma. Ieņēmumu, kā arī izdevumu un izmaksu lielumu nosaka atbilstoši
+   šā panta noteikumiem.
+
+   10. Ja fiziskās personas individuālais uzņēmums (arī zemnieka un zvejnieka
+   saimniecība) ir reģistrēts un atrodas saskaņā ar likumu "Par īpaši atbalstāmajiem
+   reģioniem" noteiktā īpaši atbalstāmajā reģionā un par tā attīstības projekta
+   atbilstību attiecīgā reģiona attīstības programmai ir pieņemts lēmums Ministru
+   kabineta noteiktajā kārtībā, šādas fiziskās personas taksācijas gada saimnieciskās
+   darbības zaudējumi, kas radušies laika posmā, kad attiecīgajam reģionam ir īpaši
+   atbalstāmā reģiona statuss, sedzami hronoloģiskā secībā no nākamo sešu taksācijas
+   gadu saimnieciskās darbības apliekamā ienākuma. Ieņēmumu, kā arī izdevumu un izmaksu
+   lielumu nosaka atbilstoši šā panta noteikumiem.
+
+   11. Ja, aprēķinot fiziskās personas taksācijas gada saimnieciskās darbības ienākumu
+   vai zaudējumu, no ieņēmumiem ir izslēgtas summas, kas izmaksātas subsīdiju veidā kā
+   valsts atbalsts lauksaimniecībai, fiziskajai personai nav tiesību piemērot šā panta
+   devītās un desmitās daļas noteikumus.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 19.12.1996.,
+   02.10.1997., 20.11.1997., 25.11.1999. un 22.11.2001. likumu, kas stājas spēkā
+   01.01.2002.)
+
+   12. pants. Maksātāja gada neapliekamais minimums
+
+   1. Maksātāja gada apliekamajā ienākumā netiek ietverta summa vienas personas gada
+   neapliekamā minimuma apmērā. Gada neapliekamais minimums ir visu gada mēnešu
+   neapliekamo minimumu summa. Mēneša neapliekamā minimuma apmēru nosaka Ministru
+   kabinets.
+
+   2. Nerezidentiem neapliekamais minimums netiek piemērots.
+
+   3. Šajā pantā minēto neapliekamo minimumu nepiemēro personām, kurām piemēro šā
+   likuma 13.panta pirmās daļas 2., 3. un 4.punktā paredzēto neapliekamo minimumu.
+
+   4. Maksātājam nepiemēro šajā pantā noteikto neapliekamo minimumu par to taksācijas
+   gada daļu, kurā viņš ir bijis cita nodokļa maksātāja apgādībā un kurā šis nodokļa
+   maksātājs ir izmantojis šā likuma 13.panta pirmās daļas 1.punktā noteiktos
+   atvieglojumus.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 19.12.1996. un
+   25.11.1999. likumu, kas stājas spēkā 01.01.2000.)
+
+   13. pants. Atvieglojumi maksātājam
+
+   1. Maksātājam paredzēti šādi atvieglojumi:
+
+   1) par katras šajā punktā minētās personas uzturēšanu, ja šai personai nav piešķirta
+   pensija un tā nesaņem pensiju saskaņā ar likumu "Par valsts pensijām", izņemot
+   apgādnieka zaudējuma pensiju — puses apmērā no šā likuma 12.panta pirmajā daļā
+   noteiktā maksātāja gada neapliekamā minimuma vienam no apgādniekiem:
+
+   a) par nepilngadīgu bērnu,
+
+   b) par bērnu, kamēr viņš turpina vispārējās, profesionālās, augstākās vai speciālās
+   izglītības iegūšanu, bet ne ilgāk kā līdz 24 gadu vecuma sasniegšanai,
+
+   c) par nestrādājošu laulāto,
+
+   d) par nestrādājošiem vecākiem un vecvecākiem,
+
+   e) par mazbērnu vai audzināšanā paņemtu bērnu, ja no viņa vecākiem nav iespējams
+   piedzīt uzturnaudu (alimentus), arī tikmēr, kamēr viņš turpina vispārējās,
+   profesionālās, augstākās vai speciālās izglītības iegūšanu, bet ne ilgāk kā līdz 24
+   gadu vecuma sasniegšanai,
+
+   f) par brāli, māsu, kas ir jaunāki par 18 gadiem, ja viņiem nav darbaspējīgu vecāku,
+
+   g) par apgādībā esošu personu apgādājamiem,
+
+   h) par personu, kuras labā pēc tiesas sprieduma no maksātāja tiek piedzīta
+   uzturnauda (alimenti),
+
+   i) par maksātāju aizbildnībā vai aizgādnībā esošu personu;
+
+   2) personām, kurām pensija piešķirta līdz 1996.gada 1.janvārim atbilstoši likumam
+   "Par valsts pensijām", neapliekamais minimums ir šīs pensijas apmērā;
+
+   3) personām, kurām piešķirta vai pārrēķināta pensija pēc 1996.gada 1.janvāra
+   atbilstoši likumam "Par valsts pensijām" vai izdienas pensija, vai speciālā valsts
+   pensija atbilstoši Latvijas Republikas normatīvajiem aktiem, neapliekamais minimums
+   šīm pensijām ir 1200 latu gadā;
+
+   4) personām, kuras saskaņā ar likumiem ir atzītas par invalīdiem vai politiski
+   represētām personām, nodokļu papildu atvieglojumu apmēru un to piemērošanas kārtību
+   nosaka Ministru kabinets.
+
+   2. Ja šā panta pirmajā daļā minētās personas gūst ienākumus, maksātājs tos uzrāda
+   savā deklarācijā, izņemot šā panta trešajā daļā paredzētos gadījumus.
+
+   3. Šā panta pirmās daļas 1. punktā noteiktie atvieglojumi nav piemērojami, ja šajā
+   punktā minētās personas patstāvīgi saņem ar nodokli apliekamos ienākumus, kas
+   pārsniedz pusi no noteiktā neapliekamā minimuma, vai bezdarbnieka pabalstu
+   (stipendiju) vai tās uztur kāda cita persona.
+
+   4. Nerezidentiem nav tiesību uz šajā pantā noteiktajiem nodokļa atvieglojumiem.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 19.12.1996.,
+   20.11.1997. un 25.11.1999. likumu, kas stājas spēkā 01.01.2000.)
+
+   14. pants. Maksātāja attaisnoto izdevumu un atvieglojumu pamatojums
+
+   1. Maksātāja tiesības uz attaisnoto izdevumu, ar saimnieciskās darbības veikšanu
+   saistīto izdevumu un atvieglojumu izslēgšanu no apliekamā ienākuma pierādāmas
+   dokumentāri, uzrādot attiecīgus dokumentus vai iesniedzot to norakstus.
+
+   2. Ņemot vērā maksātāja iesniegtos dokumentus, maksātāja dzīvesvietas Valsts
+   ieņēmumu dienesta teritoriālā iestāde vai pašvaldība, kura ir grāmatiņas
+   izsniedzēja, vai darba devējs, ja darbinieks tam ir iesniedzis Valsts ieņēmumu
+   dienesta vai pašvaldības izsniegto paziņojumu par izmaiņām nodokļa atvieglojumos,
+   ieraksta grāmatiņā nodokļa atvieglojumu posteņus.
+
+   3. Ja maksātājs dokumentus, kas apstiprina attaisnotos izdevumus un atvieglojumus,
+   pamatotu iemeslu dēļ nav laikus iesniedzis, tie saskaņā ar Valsts ieņēmumu dienesta
+   teritoriālās iestādes lēmumu tiek ņemti vērā attiecībā uz laiku no tiesību rašanās
+   brīža, bet tas nedrīkst būt ilgāks par vienu iepriekšējo gadu.
+
+   4. Maksātāja dokumenti, kas apstiprina attaisnotos izdevumus, attiecas tikai uz
+   taksācijas periodu (kalendāro gadu).
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 25.11.1999. un
+   30.11.2000. likumu, kas stājas spēkā 01.01.2001.)
+
+   III nodaļa
+   NODOKĻA APRĒĶINĀŠANA
+
+   15. pants. Nodokļa likmes
+
+   1. Gada apliekamais ienākums, kas noteikts kā starpība starp maksātāja gada ienākuma
+   summu un summu, kura aprēķināta saskaņā ar šā likuma 10., 12. un 13.panta
+   noteikumiem, tiek aplikts ar nodokli atbilstoši šajā likumā noteiktajām likmēm.
+
+   2. Nodokļa likme, kas jāmaksā no gada apliekamā ienākuma, ir 25 procenti. Algas
+   nodokļa maksātājam nodokļa likme 25 procentu apmērā jāmaksā no mēneša apliekamā
+   ienākuma.
+
+   3. (Izslēgta ar 19.12.1996. likumu.)
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 19.12.1996. likumu,
+   kas stājas spēkā 01.01.1997.)
+
+   16. pants. Vērtības izteiksme
+
+   1. Ienākumi, attaisnotie izdevumi un izdevumi, kas izdarīti, veicot individuālo
+   saimniecisko darbību, tiek noteikti Latvijas Republikas naudas vienībās. Ienākumi un
+   izdevumi ārvalstu valūtā tiek pārrēķināti Latvijas Republikas naudas vienībās pēc
+   Latvijas Bankas noteiktā oficiālā kursa, kas ir bijis spēkā ienākuma gūšanas vai
+   izdevumu izdarīšanas dienā.
+
+   2. Naturālā (mantiskā) izteiksmē un pakalpojumu veidā gūtie ienākumi un izdarītie
+   izdevumi tiek novērtēti naudas izteiksmē pēc tirgus cenām, kādas ir bijušas spēkā
+   ienākuma gūšanas vai izdevumu izdarīšanas dienā.
+
+   IV nodaļa
+   NODOKĻA IETURĒŠANAS UN MAKSĀŠANAS KĀRTĪBA
+
+   17. pants. Algas nodokļa ieturēšana un maksāšana un nodokļa ieturēšana no
+   ienākumiem, kuri nav saistīti ar darba attiecībām
+
+   1. Algas nodokļa ieturēšanu un maksāšanu (pārskaitīšanu budžetā) veic darba devējs,
+   kas nodarbina darbinieku — (nodokļa) maksātāju.
+
+   2. Algas nodoklis tiek aprēķināts atbilstoši šā likuma 15.pantā noteiktajai likmei.
+
+   3. Ar algas nodokli apliekamais mēneša ienākums ir:
+
+   1) Latvijas Republikā dzīvojošām personām pamatdarba vietā (vietā, kur iesniegta
+   grāmatiņa) — starpība starp kalendārā mēneša ienākumu un mēneša neapliekamā
+   minimuma, šā likuma 10.panta otrajā daļā noteikto attaisnoto izdevumu un šā likuma
+   13.panta pirmajā daļā noteikto atvieglojumu summu;
+
+   2) Latvijas Republikas rezidentiem papildu darba vietā — kalendārā mēneša ienākums,
+   no kura atskaitīta par attiecīgo kalendāro mēnesi nomaksātā sociālā nodokļa (valsts
+   sociālās apdrošināšanas obligāto iemaksu) summa;
+
+   3) Latvijas Republikas nerezidentiem — kalendārā mēneša ienākums.
+
+   4. (Izslēgta ar 25.11.1999. likumu.)
+
+   5. Algas nodoklis iemaksājams budžetā reizi mēnesī, kad bankā tiek saņemta nauda
+   iedzīvotāju ienākumu izmaksai. Darba devēji, kas iedzīvotāju ienākumus izmaksā no
+   kases ieņēmumiem, nesaņemot naudu bankā, iemaksā algas nodokli budžetā nākamajā
+   dienā pēc algas izmaksas.
+
+   6. Darba devējs par darbiniekam taksācijas periodā izmaksātajām summām, kā arī par
+   atskaitītajām summām, aprēķināto un nomaksāto nodokli izdara attiecīgu ierakstu
+   grāmatiņā. Gadam beidzoties, darba devējs izdod darbiniekam, kā arī nosūta Valsts
+   ieņēmumu dienesta teritoriālajai iestādei pēc savas atrašanās vietas paziņojumu par
+   algas nodokli, kas samaksāts darba attiecību pastāvēšanas periodā.
+
+   7. Paziņojums par algas nodokli tiek nogādāts adresātam ne vēlāk kā taksācijas gadam
+   sekojošā gada 1.februārī, ja darba attiecības pastāvējušas līdz gada beigām. Ja
+   darba attiecības izbeigušās pirms gada beigām, darba devējs grāmatiņā izdara
+   ierakstu par algas nodokļa samaksāšanu un grāmatiņu izsniedz darbiniekam atlaišanas
+   dienā. Ja ar darbinieku, kas nodarbināts papildu darba vietā, darba attiecības ir
+   izbeigušās pirms taksācijas gada beigām, darba devējs izsniedz darbiniekam
+   paziņojumu par algas nodokli atlaišanas dienā, bet darbiniekam, kas nodarbināts
+   steidzamos, īslaicīgos vai vienreizējos darbos, — izmaksājot atalgojumu. Paziņojumu
+   par to darbinieku algas nodokli, ar kuriem darba attiecības nav pastāvējušas līdz
+   gada beigām, darba devējs nosūta Valsts ieņēmumu dienesta teritoriālajai iestādei
+   pēc savas atrašanās vietas līdz tā mēneša piecpadsmitajam datumam, kas seko darba
+   attiecību izbeigšanās mēnesim vai mēnesim, kurā darbinieks ir bijis nodarbināts
+   steidzamos, īslaicīgos, vienreizējos darbos.
+
+   8. (Izslēgta ar 25.11.1999. likumu.)
+
+   9. (Izslēgta ar 30.11.2000. likumu.)
+
+   9.^1 Šā likuma 4.panta pirmās daļas 4. un 5.punktā minētais algas nodokļa maksātājs
+   — fiziskā persona — no kalendāra mēneša darba samaksas aprēķināto nodokli ieskaita
+   budžetā ne vēlāk kā ienākuma izmaksas mēnesim sekojošā mēneša piecpadsmitajā datumā.
+   Paziņojumu par kalendārajā gadā aprēķināto un budžetā iemaksāto algas nodokli minētā
+   fiziskā persona — darbinieks iesniedz Valsts ieņēmumu dienesta teritoriālajai
+   iestādei līdz taksācijas gadam sekojošā gada 1.februārim, bet, ja darba attiecības
+   ar šo darba devēju izbeigušās pirms gada beigām, — līdz darba attiecību izbeigšanās
+   mēnesim sekojošā mēneša piecpadsmitajam datumam.
+
+   10. No fiziskās personas ienākumiem, kurus izmaksā uzņēmumi (uzņēmējsabiedrības),
+   ārvalstu uzņēmumu (nerezidentu) pastāvīgās pārstāvniecības, iestādes un
+   organizācijas, ja tie nav saistīti ar darba attiecībām un nav atbrīvoti no
+   aplikšanas ar nodokli, ienākuma izmaksātājs ietur nodokli ienākuma izmaksas vietā un
+   iemaksā to budžetā ne vēlāk kā ienākuma izmaksas mēnesim sekojošā mēneša piektajā
+   datumā. Pie šādiem ienākumiem pieder:
+
+   1) autoratlīdzība (honorārs), arī atlīdzība par autora pārdotajiem lietišķās un
+   dekoratīvās mākslas darbiem un tautas daiļamatniecības izstrādājumiem;
+
+   2) autoratlīdzība (honorārs), kuru izmaksā autortiesību mantiniekiem;
+
+   3) atlīdzība, kuru izmaksā sagādes un citas organizācijas par medījumu jēlādām,
+   medījumiem un to gaļu, medību trofejām, zoobarību un citu savvaļā iegūto produkciju,
+   izņemot savvaļas sēņu un ogu produkciju;
+
+   4) apdrošināšanas atlīdzība, kas saskaņā ar dzīvības, veselības un negadījuma
+   apdrošināšanas līgumu, kuru apdrošinātā interesēs noslēdzis darba devējs (vai cits
+   apdrošinājuma ņēmējs — juridiskā persona), izmaksāta, pienākot apdrošināšanas līgumā
+   paredzētajam līguma beigu termiņam vai laužot līgumu pirms termiņa;
+
+   5) pensijas;
+
+   6) metāllūžņu pārdošanas ienākumi;
+
+   7) ieņēmumi no saimnieciskās darbības, ko veic fiziskā persona, kurai nav izsniegts
+   Valsts ieņēmumu dienesta apliecinājums par reģistrēšanos saimnieciskās darbības
+   veicēja statusā, izņemot ieņēmumus no lauksaimnieciskās produkcijas ražošanas;
+
+   8) dāvinājumi naudā un citās lietās;
+
+   9) slimības pabalsti;
+
+   10) izložu un azartspēļu laimesti, kuri pārsniedz 500 latu;
+
+   11) atmaksājamais pārmaksātais sociālais nodoklis (valsts sociālās apdrošināšanas
+   obligātās iemaksas);
+
+   12) dividendes, izņemot dividendes, par kurām nav jāmaksā nodoklis saskaņā ar šā
+   likuma 9.panta pirmās daļas 2.punktu;
+
+   13) procentu ienākums, izņemot procentu ienākumu, par kuru nav jāmaksā nodoklis
+   saskaņā ar šā likuma 9.panta pirmās daļas 3.punktu;
+
+   14) stipendijas, izņemot stipendijas, kuras saskaņā ar šā likuma 9.panta pirmās
+   daļas 8.punktu nav apliekamas ar nodokli.
+
+   10.^1 Ieturot nodokli no profesionālās darbības veicēju autoratlīdzības (honorāra),
+   pirms nodokļa aprēķināšanas no izmaksājamās summas atskaita šā likuma 10.panta
+   pirmās daļas 4.punktā minētos izdevumus atbilstoši noteiktajai normai.
+
+   10.^2 Ieturot nodokli no augoša meža pārdošanas ienākuma, pirms nodokļa
+   aprēķināšanas no izmaksājamās summas atskaita ar meža atjaunošanu saistītos
+   izdevumus, piemērojot izdevumu normu 25 procentu apmērā no izmaksājamās summas, bet
+   no kokmateriālu pārdošanas ienākuma — ar kokmateriālu sagatavošanu un pārdošanu
+   saistītos izdevumus, piemērojot izdevumu normu 50 procentu apmērā no izmaksājamās
+   summas.
+
+   11. Uzņēmumi, uzņēmējsabiedrības, iestādes, organizācijas un ārvalstu uzņēmumu
+   (nerezidentu) pastāvīgās pārstāvniecības izsniedz personām — nodokļa maksātājām —
+   paziņojumu par izmaksātajām ar iedzīvotāju ienākuma nodokli apliekamajām summām, kas
+   nav saistītas ar darba attiecībām, un no šīm summām ieturēto nodokli vai, ja
+   izmaksātais ienākums nav apliekams ar nodokli, izmaksu apliecinošu dokumentu un
+   nosūta paziņojumu Valsts ieņēmumu dienesta teritoriālajai iestādei pēc savas
+   atrašanās vietas:
+
+   1) par personām izmaksātajiem ienākumiem, kas minēti šā panta desmitajā un
+   divpadsmitajā daļā, un no tiem ieturēto nodokli — ne vēlāk kā līdz ienākuma izmaksas
+   mēnesim sekojošā mēneša 15.datumam;
+
+   2) par personām, neieturot nodokli, izmaksātajām summām — Ministru kabineta
+   noteiktajā termiņā. Ministru kabinets nosaka apliecinājuma dokumentu izsniegšanas
+   kārtību, kā arī ienākumus, par kuru izmaksu tie izsniedzami, un izņēmumus.
+
+   11.^1 Ja šā panta vienpadsmitās daļas 2.punktā minētās ienākuma summas, kas
+   saistītas ar maksātāja lauksaimniecisko ražošanu, taksācijas gadā nepārsniedz 500
+   latus, paziņojums par šim maksātājam izmaksāto ienākumu Valsts ieņēmumu dienesta
+   teritoriālajai iestādei iesniedzams kopumā par gadu līdz taksācijas gadam sekojošā
+   gada 1.februārim.
+
+   11.^2 Fiziskā persona — nodokļa maksātājs kā apliecinājumu tam, ka tās personisko
+   lietu pārdošana uzņēmumam, uzņēmējsabiedrībai, iestādei, organizācijai vai ārvalstu
+   uzņēmuma (nerezidenta) pastāvīgajai pārstāvniecībai nav saistīta ar tās saimniecisko
+   darbību, iesniedz ienākuma izmaksātājam attiecīgu izziņu.
+
+   12. No šā likuma 3.panta trešās daļas 1., 2., 3., 4., 6., 8., 10., 11., 12., 13. un
+   14.punktā minētajiem ienākumiem ienākuma nodoklis tiek ieturēts ienākuma izmaksas
+   vietā un iemaksāts budžetā ne vēlāk kā ienākuma izmaksas mēnesim sekojošā mēneša
+   5.datumā.
+
+   12.^1 Uzņēmums, uzņēmējsabiedrība, iestāde, organizācija un ārvalsts uzņēmuma
+   (nerezidenta) pastāvīgā pārstāvniecība, kas izmaksājusi fiziskajai personai —
+   nerezidentam tādus ienākumus, no kuriem saskaņā ar šo likumu nodoklis ieturams
+   izmaksas vietā, izsniedz nerezidentam apliecinājumu par Latvijas Republikā
+   taksācijas gadā no attiecīgā ienākumu izmaksātāja gūtajiem ienākumiem un par tiem
+   samaksāto iedzīvotāju ienākuma nodokli.
+
+   13. Ja mēnesī izmaksātā ienākuma vai vienreizējās izmaksas apmērs ir trīs lati vai
+   mazāks, to izmaksājot, nodoklis netiek ieturēts ienākuma izmaksas reizē. Ienākuma
+   saņēmējs uzrāda šīs summas savā deklarācijā, ko iesniedz par taksācijas perioda
+   (kalendārā gada) ienākumiem tam sekojošajā gadā. Ienākuma izmaksātājs par šo
+   ienākumu nosūta ziņas Valsts ieņēmumu dienesta teritoriālajai iestādei šā panta
+   vienpadsmitajā daļā noteiktajā kārtībā.
+
+   14. Persona, kas veic profesionālo darbību kā mākslinieks, autors vai citas radošas
+   profesijas pārstāvis, vai persona, kuras apgādībā ir trīs un vairāk nepilngadīgu
+   bērnu un bērnu, kuri turpina izglītības iegūšanu līdz 24 gadu vecuma sasniegšanai,
+   var lūgt Valsts ieņēmumu dienesta rajona nodaļu izsniegt tai apliecību par nodokļa
+   neieturēšanu izmaksas vietā, ja šī persona apliecina Valsts ieņēmumu dienestam, ka
+   tās kopējais apliekamais ienākums gadā sagaidāms mazāks nekā gada neapliekamais
+   minimums saskaņā ar šā likuma 12.pantu un 13.pantā tai paredzēto atvieglojumu summa
+   ar nosacījumu, ka ir ievēroti visi šā panta piecpadsmitajā daļā minētie noteikumi.
+   Valsts ieņēmumu dienestam minētā apliecība šādā gadījumā ir jāizsniedz, ja
+   prasītājam nav bijuši nodokļu likumdošanas aktu pārkāpumi.
+
+   15. Apliecības par nodokļa neieturēšanu tiek izsniegtas un atsauktas Ministru
+   kabineta noteiktajā kārtībā. 10 dienu laikā kopš brīža, kad maksātāja ienākums
+   pārsniedz gada apliekamo minimumu un šā likuma 13.pantā paredzēto atvieglojumu
+   summu, vai kad maksātājs ir noslēdzis līgumu, no kura gūtie ienākumi pārsniedz gada
+   neapliekamo minimumu un šā likuma 13.pantā paredzēto atvieglojumu summu, maksātājs
+   par to paziņo Valsts ieņēmumu dienesta rajona (pilsētas) nodaļai. Ziņu slēpšanas
+   gadījumā apliecību par nodokļa neieturēšanu Valsts ieņēmumu dienests atsauc un
+   turpmāk šai personai neizsniedz.
+
+   16. Ja šā panta otrajā, trešajā un desmitajā daļā minētās izmaksas saņem persona,
+   kurai izsniegta apliecība par nodokļa neieturēšanu, nodoklis par šiem maksājumiem
+   nav jāietur un šis fakts jāatspoguļo dokumentos, kas iesniedzami Valsts ieņēmumu
+   dienesta rajona (pilsētas) nodaļai saskaņā ar šā panta vienpadsmito daļu.
+
+   17. Neatkarīgi no jebkuriem šā likuma noteikumiem iedzīvotāju ienākuma nodokli ietur
+   pēc 25 procentu likmes no visiem maksājumiem, ko fiziskās personas — Latvijas
+   rezidenti vai nerezidenti, kuriem saskaņā ar šo likumu ir pienākums iesniegt Latvijā
+   gada ienākumu deklarāciju, izmaksā juridiskajām, fiziskajām un citām personām, kuras
+   atrodas, ir izveidotas vai nodibinātas Ministru kabineta noteikumos minētajās zemu
+   nodokļu un beznodokļu valstīs vai teritorijās, ieskaitot maksājumus šo personu
+   pārstāvjiem vai trešo personu kredītiestāžu kontos un maksājumus, kas veikti
+   savstarpēja norēķinu ieskaita veidā, izņemot maksājumus par preču piegādēm personām,
+   kuras atrodas, ir izveidotas vai nodibinātas Ministru kabineta noteikumos minētajās
+   zemu nodokļu un beznodokļu valstīs vai teritorijās, ja šīs preces ir attiecīgās zemu
+   nodokļu vai beznodokļu valsts vai teritorijas izcelsmes preces.
+
+   18. Valsts ieņēmumu dienestam ir tiesības atļaut neieturēt nodokli no tiem
+   maksājumiem, no kuriem saskaņā ar šā panta septiņpadsmito daļu ir ieturams nodoklis,
+   ja šo maksājumu izmaksātājs pamatoti pierāda, ka minētie maksājumi netiek izdarīti,
+   lai samazinātu šā maksātāja apliekamo ienākumu un nemaksātu vai samazinātu Latvijā
+   maksājamos nodokļus. Valsts ieņēmumu dienests piešķirto atļauju anulē, ja nodokļu
+   administrēšanas procesā ir ieguvis informāciju, kas liecina par darījuma patieso
+   apstākļu slēpšanu. Piešķirtās atļaujas anulēšanas gadījumā nodokļa maksātājam
+   piemēro šā panta septiņpadsmitās daļas normu un nodokļa summas, uz kurām attiecas
+   anulētā atļauja, uzskatāmas par nokavēto nodokļa maksājumu.
+
+   19. Šā panta septiņpadsmitajā daļā minētajiem maksājumiem, no kuriem nodoklis
+   izmaksas vietā nav ieturams pēc 25 procentu likmes, un maksājumiem, no kuriem
+   saskaņā ar šā panta astoņpadsmito daļu ir atļauts neieturēt nodokli, piemērojami šā
+   likuma 3.panta trešās daļas un šā panta desmitās un divpadsmitās daļas noteikumi.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 29.02.1996.,
+   19.12.1996., 02.10.1997., 20.11.1997., 25.11.1999., 27.01.2000. un 30.11.2000.
+   likumu, kas stājas spēkā 01.01.2001.)
+
+   18. pants. Nodokļa aprēķināšana no saimnieciskās darbības ienākuma un tā maksāšana
+   avansā
+
+   1. Līdz taksācijas gada 1.februārim vai mēnesi pēc saimnieciskās darbības uzsākšanas
+   maksātājs iesniedz Valsts ieņēmumu dienesta teritoriālajai iestādei pēc savas
+   dzīvesvietas aprēķinu par nodokļa avansa maksājumu lielumu taksācijas gadā,
+   pamatojoties uz iepriekšējā gada ienākumu vai prognozējot paredzamo ienākumu. Ja
+   maksāšanas periodā faktiskais ienākuma lielums mainās, maksātājs iesniedz precizētu
+   nodokļa avansa maksājumu pārrēķinu. Personiskās palīgsaimniecības, piemājas
+   saimniecības vai zemnieku saimniecības īpašnieka ienākumiem no lauksaimnieciskās
+   ražošanas avansa maksājumi tiek noteikti tādā apmērā, kas atbilst nodoklim no puses
+   viņa iepriekšējā gada apliekamā ienākuma. Ja viņa ceturkšņa ienākumu apjoms ir uz
+   pusi mazāks par ceturto daļu gadam noteiktā nodokļa avansa maksājumu apmēra, avansa
+   maksājumu var pārcelt uz nākamo šā panta trešajā daļā paredzēto termiņu.
+
+   2. Valsts ieņēmumu dienesta teritoriālā iestāde mēneša laikā, pamatojoties uz
+   iesniegtajiem maksātāja aprēķiniem par avansa maksājumu lielumu un tās rīcībā
+   esošajiem datiem, precizē avansa maksājumu lielumu un paziņojumu par to nosūta
+   maksātājam.
+
+   3. Maksātājs patstāvīgi iemaksā budžetā aprēķinātos nodokļa avansa maksājumus par
+   taksācijas gadu šādos termiņos: ne vēlāk kā 15.martā, ne vēlāk kā 15.maijā, ne vēlāk
+   kā 15.augustā un ne vēlāk kā 15.novembrī — ikreiz ceturto daļu no nodokļa avansa
+   summas, ja Valsts ieņēmumu dienesta teritoriālā iestāde nav noteikusi citādi.
+
+   4. Maksātāji, kuri saņem patentu individuālā darba veikšanai, līdz patenta
+   saņemšanai samaksā patentmaksu.
+
+   5. No šā likuma 8.panta trešās daļas 4., 8. un 9. punktā minētajiem ienākumiem
+   avansa maksājumi nav jāizdara.
+
+   6. Maksātājam aprēķinātais nodokļa avansa maksājuma apmērs samazināms par nodokļu
+   summu, kas saskaņā ar šā likuma 17.panta desmitās daļas 6. un 7.punkta noteikumiem
+   ieturēta un ieskaitīta budžetā. Pamats šādam samazinājumam ir paziņojums par
+   ieturēto nodokli, kuru saskaņā ar šā likuma 17.panta noteikumiem maksātājs saņem no
+   ienākuma izmaksātāja un iesniedz Valsts ieņēmumu dienesta teritoriālajai iestādei.
+
+   7. Maksātājs, kurš taksācijas gada laikā uzsāk saimniecisko darbību, nodokļa avansa
+   maksājumus par taksācijas gadu var veikt labprātīgi.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 19.12.1996.,
+   25.11.1999. un 30.11.2000. likumu, kas stājas spēkā 01.01.2001.)
+
+   19. pants. Iedzīvotāju ienākuma nodokļa aprēķināšanas un maksāšanas rezumējošā
+   kārtība
+
+   1. Nodokļa aprēķināšanu un iemaksāšanu budžetā rezumējošā kārtībā veic maksātājs.
+
+   2. Atbilstoši šim likumam nodoklis tiek aprēķināts par gada apliekamā ienākuma
+   kopējo apjomu, kuru nosakot saimnieciskās darbības zaudējumus nevar segt uz citu
+   ienākumu veidu rēķina, un tas tiek atspoguļots deklarācijā. Deklarācijā tiek
+   uzrādīti visi maksātāja taksācijas periodā (kalendārajā gadā) gūtie ienākumi, arī ar
+   nodokli neapliekamie ienākumi, ja to kopējā summa pārsniedz gada neapliekamā
+   minimuma apmēru.
+
+   3. Maksātājs ne vēlāk kā 15 dienu laikā no deklarācijas iesniegšanas dienas iemaksā
+   budžetā aprēķinātā nodokļa summu, bet, ja aprēķinātā nodokļa summa pārsniedz 100
+   latus, maksātājs to var iemaksāt budžetā triju mēnešu laikā no deklarācijas
+   iesniegšanas dienas, iemaksājot līdz katra deklarācijas iesniegšanas mēnesim
+   sekojošā mēneša 15.datumam trešo daļu no šīs summas. Turklāt šī summa ir samazināma
+   par to nodokļa daļu, kuru taksācijas gada laikā darba devēji samaksājuši kā algas
+   nodokli vai pats maksātājs — kā avansu, arī kā patentmaksu vai kurš ieturēts no viņa
+   ienākuma, izmaksājot viņam šā likuma 17.panta desmitajā daļā minētos ienākumus.
+
+   4. Ja rezumējošā kārtībā aprēķinātā summa pēc pārbaudes izrādās mazāka par avansā
+   samaksāto, Valsts ieņēmumu dienesta teritoriālā iestāde triju mēnešu laikā no
+   deklarācijas iesniegšanas dienas atmaksā maksātājam radušos starpību.
+
+   4.^1 Personai, kam rezumējošā kārtībā taksācijas gadam aprēķinātais nodoklis no
+   saimnieciskās darbības, kuras veikšanai tā ir iegādājusies patentu, ir mazāks nekā
+   samaksātā gada patentmaksa, šī starpība netiek atmaksāta.
+
+   5. Deklarācija ar tai pievienotajiem dokumentiem, kas apliecina nodokļa iemaksāšanu
+   budžetā, iesniedzama Valsts ieņēmumu dienesta teritoriālajai iestādei pēc maksātāja
+   dzīvesvietas ne vēlāk kā taksācijas gadam sekojošā gada 1.aprīlī. Nerezidents tajos
+   gadījumos, kad tam saskaņā ar šā likuma 20.panta trešo daļu ir jāiesniedz
+   deklarācija, to iesniedz Valsts ieņēmumu dienesta teritoriālajai iestādei:
+
+   1) pēc nekustamā īpašuma atrašanās vietas — par šā likuma 3.panta trešās daļas 7.,
+   7.^1 un 9.punktā minēto ienākumu;
+
+   2) pēc paša maksātāja izvēles — par šā likuma 3.panta trešās daļas 1.punktā minēto
+   ienākumu;
+
+   3) pēc ienākuma izmaksātāja atrašanās vietas — pārējos gadījumos.
+
+   5.^1 Ārvalstu nodokļa maksātājs, kas Latvijā uzturas, lai veiktu algotu darbu tāda
+   darba devēja labā, kurš nav Latvijas rezidents vai kuram nav pastāvīgās
+   pārstāvniecības Latvijā, un kas pārtrauc minētā ienākuma gūšanu, un nav paredzama
+   viņa atgriešanās Latvijā pirms taksācijas gada beigām, iesniedz deklarāciju, pirms
+   viņš izbrauc no Latvijas.
+
+   6. Deklarācijai ir pievienojami vai reizē ar to uzrādāmi un, ja nepieciešams,
+   iesniedzami dokumenti, kas apliecina:
+
+   1) maksātāja tiesības uz atvieglojumiem;
+
+   2) taksācijas gada laikā izdarītos attaisnotos izdevumus;
+
+   3) kā avansu, arī kā algas nodokli un patentmaksu samaksāto nodokli;
+
+   4) nodokļa ieturēšanu no šā likuma 17.panta desmitajā daļā minētajiem ienākumiem;
+
+   5) ārvalstīs samaksāto nodokli.
+
+   7. Ja maksātājs taksācijas gada laikā ir mainījis dzīvesvietu, deklarācija
+   jāiesniedz (jānosūta pa pastu) Valsts ieņēmumu dienesta teritoriālajai iestādei pēc
+   iepriekšējās dzīvesvietas.
+
+   8. Zemnieku saimniecība, ja tā bez lauksaimnieciskās ražošanas veic arī citu
+   saimniecisko darbību, var aprēķināt kopējos ienākumus (sedzot lauksaimnieciskos
+   zaudējumus no citiem ienākumiem). Šajā gadījumā nepiemēro 9.panta pirmās daļas
+   1.punktu.
+
+   9. Ja izdevumiem, kas saistīti ar maksātāja saimniecisko darbību, ir noteiktas
+   izdevumu normas, šo izdevumu apliecināšanai attiecīgajā apmērā nav nepieciešams
+   iesniegt vai uzrādīt tos apliecinošus dokumentus.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 19.12.1996.,
+   25.11.1999. un 30.11.2000. likumu, kas stājas spēkā 01.01.2001.)
+
+   20. pants. Ienākumu deklarēšanas atvieglojumi
+
+   1. Iekšzemes nodokļa maksātājam, kas taksācijas gada laikā ir saņēmis Latvijas
+   Republikā ienākumus, no kuriem izmaksas vietā ir ieturēts nodoklis, turklāt viņa
+   saņemto šā likuma 9.panta pirmajā daļā minēto ar nodokli neapliekamo ienākumu kopējā
+   summa nepārsniedz četrkāršotu taksācijas gadam noteikto neapliekamā minimuma apmēru,
+   ir tiesības neiesniegt deklarāciju, ja šajā vai citos likumos nav noteikts citādi.
+   Minētais nosacījums attiecināms arī uz gadījumiem, kad iekšzemes nodokļu maksātājs
+   taksācijas gada laikā ir saņēmis tikai Latvijas Republikā ienākumus, no kuriem
+   izmaksas vietā ir ieturēts nodoklis vai tikai šā likuma 9.panta pirmajā daļā minētos
+   ar nodokli neapliekamos ienākumus, kuru kopējā summa nepārsniedz četrkāršotu
+   taksācijas gadam noteikto neapliekamo minimumu.
+
+   2. Ja iekšzemes nodokļa maksātājs šā likuma 19.panta piektajā daļā noteiktajā
+   termiņā nav iesniedzis deklarāciju, šis fakts ir maksātāja apliecinājums tam, ka no
+   viņa taksācijas gadā saņemtajiem ienākumiem nodoklis ir ieturēts pilnā apmērā. Ja
+   Valsts ieņēmumu dienesta rīcībā ir informācija, ka maksātājs taksācijas gada laikā
+   ir saņēmis ar nodokli apliekamus ienākumus, no kuriem izmaksas vietā nav ieturēts
+   nodoklis, deklarācijas neiesniegšanas gadījumā viņam piemēro šā likuma 32.^1 pantā
+   noteiktās sankcijas.
+
+   3. Ārvalstu nodokļa maksātājam (nerezidentam) deklarācija nav jāiesniedz, izņemot
+   gadījumu, kad viņš saņem šā likuma 3.panta trešās daļas 5., 7., 7.^1 un 9. punktā
+   minētos ienākumus, kā arī 3.panta trešās daļas 1.punktā minēto ienākumu no algota
+   darba tāda darba devēja labā, kurš nav Latvijas rezidents vai kuram nav pastāvīgās
+   pārstāvniecības Latvijā.
+
+   4. Šajā pantā minētie ienākumu deklarēšanas atvieglojumi nav attiecināmi uz
+   maksātājiem, kas gūst ienākumus no saimnieciskās darbības.
+
+   (19.12.1996. likuma redakcijā ar grozījumiem, kas izdarīti ar 25.11.1999. un
+   30.11.2000. likumu, kas stājas spēkā 01.01.2001.)
+
+   V nodaļa
+   DEKLARĀCIJAS KONTROLĒŠANA UN KORIĢĒŠANA
+
+   21. pants. Kontrolējošā finansu iestāde
+
+   Valsts ieņēmumu dienesta teritoriālā iestāde pēc maksātāja dzīvesvietas:
+
+   1) pārbauda deklarācijā uzrādīto datu ticamību un pareizību;
+
+   2) veic iedzīvotāju ienākuma nodokļa maksāšanas kontroli;
+
+   3) veic šā likuma 11. pantā minēto ieņēmumu un izdevumu pilnīguma un pareizības
+   uzskaites kontroli.
+
+   (Ar grozījumiem, kas izdarīti ar 14.01.1994. un 25.11.1999. likumu, kas stājas spēkā
+   01.01.2000.)
+
+   22. pants. Deklarācijas kontrolēšana un apliekamā ienākuma noteikšana uz aprēķinu
+   pamata
+
+   1. Valsts ieņēmumu dienests pārbauda iesniegtajā gada ienākumu deklarācijā uzrādītos
+   datus, pamatojoties uz darba devēju (ienākuma izmaksātāju) paziņojumiem par
+   izmaksātajām summām, ārvalstu nodokļu administrāciju sniegtajām ziņām, apsekošanas
+   un pārbaužu rezultātiem, kā arī citu Valsts ieņēmumu dienesta rīcībā esošo
+   informāciju par nodokļa maksātāja ienākumiem, īpašuma stāvokļa izmaiņām un
+   izdevumiem.
+
+   2. Ja maksātājs iesniegtajā deklarācijā ir uzrādījis ienākumu apjomu, kas saskaņā ar
+   Valsts ieņēmumu dienesta rīcībā esošo informāciju ir mazāks par viņa izdevumu
+   apjomu, Valsts ieņēmumu dienests nosaka ar nodokli apliekamo ienākumu un nodokļa
+   summu uz aprēķinu pamata atbilstoši maksātāja īpašuma vērtības pieaugumam un Valsts
+   ieņēmumu dienesta rīcībā esošajām ziņām par maksātāja darbību (arī maksātāja
+   darījumiem un ieņēmumiem no saimnieciskās darbības).
+
+   3. Ja maksātāja deklarētie ienākumi vai Valsts ieņēmumu dienesta rīcībā esošajos
+   pārskatos (paziņojumos) uzrādītie maksātāja ienākumi neatbilst viņa izdevumiem
+   taksācijas gadā, Valsts ieņēmumu dienests rakstveidā brīdina maksātāju par šā panta
+   otrajā daļā paredzēto nodokļa summas noteikšanu uz aprēķinu pamata un maksātājs
+   Valsts ieņēmumu dienesta norādītajā termiņā iesniedz:
+
+   1) papildu deklarāciju (atbilstoši Ministru kabineta apstiprinātajai veidlapai) par
+   ienākumiem, ieņēmumiem, naudas un citiem uzkrājumiem, īpašumiem un to vērtības maiņu
+   (turpmāk — papildu deklarācija);
+
+   2) taksācijas gada ienākumu deklarāciju, ja tā nav iesniegta šajā likumā noteiktajā
+   kārtībā;
+
+   3) taksācijas gada ienākumu deklarācijas precizējumu pēc Valsts ieņēmumu dienesta
+   pieprasījuma.
+
+   4. Nosakot maksātāja īpašuma vērtību un tās pieaugumu, kā arī īpašuma palielinājumu
+   pārbaudāmajā periodā, Valsts ieņēmumu dienests izmanto Uzņēmumu reģistra, Ceļu
+   satiksmes drošības direkcijas, zemesgrāmatu un citu valsts reģistru datus, kā arī
+   maksātāja papildu deklarāciju kopā ar tai pievienotajiem attaisnojuma dokumentiem
+   par maksātāja ienākumiem un izdevumiem. Par maksātāja pierādījumiem nodokļa summas
+   apstrīdēšanai ir atzīstami tikai tie maksātāja ieņēmumu un izdevumu attaisnojuma
+   dokumenti (iesniegtie dokumentu noraksti), kas uzrādīti (iesniegti) reizē ar gada
+   ienākumu deklarāciju, deklarācijas precizējumu un papildu deklarāciju.
+
+   5. Valsts ieņēmumu dienests, precizējot maksātāja ienākumu lielumu, ir tiesīgs
+   pieprasīt un bez maksas saņemt no visiem uzņēmumiem, uzņēmējsabiedrībām (arī
+   kredītiestādēm), ārvalstu uzņēmumu (nerezidentu) pastāvīgajām pārstāvniecībām,
+   organizācijām, iestādēm un citām personām visu apliekamā ienākuma lieluma
+   precizēšanai nepieciešamo informāciju par maksātāja darījumiem, ienākumiem,
+   izmaksātajām summām, nodotajām vērtībām, īpašumiem un citām lietām. Iegūtā
+   informācija ir konfidenciāla un izmantojama apliekamā ienākuma lieluma un maksājamā
+   nodokļa apmēra precizēšanai, to ir aizliegts nodot citām personām, izņemot
+   izmeklēšanas institūcijas un tiesas, kas iesniegušas pieprasījumus likumos
+   noteiktajos gadījumos.
+
+   6. Ar maksātāja un viņa ģimenes personiskajām vajadzībām saistīto izdevumu
+   novērtējumu Valsts ieņēmumu dienests nosaka, izmantojot Centrālās statistikas
+   pārvaldes statistikas datus par attiecīgo periodu, ja vien maksātājs nevar pierādīt
+   citu ar personiskajām vajadzībām saistīto izdevumu apmēru.
+
+   7. Budžetā maksājamo nodokļa summu un samaksas termiņus nosaka Valsts ieņēmumu
+   dienesta lēmums, ko pieņem, pamatojoties uz pārbaudes datiem par attiecīgo
+   taksācijas periodu.
+
+   8. Kārtību, kādā uz aprēķinu pamata Valsts ieņēmumu dienests nosaka apliekamā
+   ienākuma lielumu, un kārtību un termiņu, kādā Valsts ieņēmumu dienestam iesniedzama
+   informācija par maksātāja ieņēmumiem, naudas uzkrājumiem un īpašumiem un to vērtības
+   maiņu, nosaka Ministru kabinets.
+
+   (25.11.1999. likuma redakcijā, kas stājas spēkā 01.01.2000.)
+
+   23. pants. Deklarācijas koriģēšana
+
+   1. Ja iesniegtajā deklarācijā ir faktoloģiskas un/vai aprēķina neprecizitātes,
+   Valsts ieņēmumu dienesta teritoriālā iestāde izlabo pieļautās kļūdas un nosūta
+   izlaboto deklarāciju maksātājam.
+
+   2. Maksātāja pienākums ir 30 dienu laikā no izlabotās deklarācijas saņemšanas dienas
+   iemaksāt budžetā trūkstošo nodokļa summu un par to ziņot Valsts ieņēmumu dienesta
+   teritoriālajai iestādei.
+
+   3. Ja maksātājs rezumējošā kārtībā kļūdaini iemaksājis budžetā lielāku nodokļa
+   summu, nekā likumā noteikts, kļūdaini iemaksātā summa ir saņemama atpakaļ, bet ne
+   vairāk kā par trim gadiem.
+
+   4. Konstatējot likuma pārkāpumus, ienākumu nepilnīgu uzrādīšanu vai slēpšanu un
+   citus pārkāpumus, Valsts ieņēmumu dienesta teritoriālā iestāde sastāda aktu par
+   pārkāpumu un piemēro likumos paredzētās sankcijas.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 25.11.1999. likumu,
+   kas stājas spēkā 01.01.2000.)
+
+   VI nodaļa
+   STARPVALSTU LĪGUMI
+
+   24. pants. Starpvalstu līgumu piemērošana
+
+   1. Ja starpvalstu līgums, kura dalībvalsts ir Latvijas Republika, paredz ienākuma
+   aplikšanas kārtību, kas atšķiras no šajā likumā noteiktās kārtības, piemērojamas
+   starpvalstu līguma normas.
+
+   2. Latvijas Republikā pastāvīgi dzīvojošo personu ienākumi, kas gūti ārvalstīs, tiek
+   aplikti ar nodokli Latvijas Republikā, izņemot gadījumus, kad saskaņā ar
+   noslēgtajiem starpvalstu līgumiem noteikta citāda aplikšanas kārtība.
+
+   3. Saskaņā ar šā likuma noteikumiem aprēķināto nodokli samazina par summu, kas ir
+   vienāda ar ārvalstīs samaksāto nodokli, ja šī nodokļa samaksa ārvalstīs ir
+   apliecināta ar ārvalstu nodokļu iekasēšanas institūcijas apstiprinātiem dokumentiem,
+   kuros uzrādīts apliekamais ienākums un ārvalstīs samaksātā nodokļa summa.
+
+   4. Šā panta trešajā daļā minētais samazinājums nedrīkst būt lielāks par summu, kas
+   atbilstu Latvijā aprēķinātajam nodoklim par ārvalstī gūto ienākumu.
+
+   (Ar grozījumiem, kas izdarīti ar 19.12.1996. likumu, kas stājas spēkā 01.01.1997.)
+
+   VII nodaļa
+   BUDŽETU KOMPETENCE
+
+   25. pants. Nodokļa maksāšanas vieta
+
+   1. Iekšzemes nodokļa maksātāja (rezidenta) nodokļa summa tiek iemaksāta budžetā,
+   pamatojoties uz šā likuma 26.panta nosacījumiem.
+
+   2. Nodokļa summas, ko iemaksājušas šā likuma 2.panta 2.punktā minētās personas, tiek
+   ieskaitītas pašvaldības budžetā pēc darba devēja (ienākuma izmaksātāja) vai
+   nekustamā īpašuma atrašanās vietas.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 25.11.1999. likumu,
+   kas stājas spēkā 01.01.2000.)
+
+   26. pants. Nodokļa sadalīšana
+
+   1. Nodokļa summas (izņemot patentmaksas), no kurām atskaitītas šā likuma 19.panta
+   ceturtajā daļā minētās summas, tiek ieskaitītas budžetā šādā sadalījumā:
+
+   1) 28,4 procenti - valsts speciālajā veselības aprūpes budžetā;
+
+   2) 71,6 procenti - maksātāja dzīvesvietas pašvaldības budžetā un pašvaldību finansu
+   izlīdzināšanas fondā Ministru kabineta noteiktajā kārtībā.
+
+   2. Nodokļa summas ietver arī nodokļa parādu, nodokļa palielinājumu atbilstoši
+   Latvijas Bankas noteiktajai refinansēšanas likmei, nokavējuma naudu un soda naudu
+   par nodokļu likumu pārkāpumiem.
+
+   (19.12.1996. likuma redakcijā, kas stājas spēkā 01.01.1997.)
+
+   27. pants. Pašvaldību pienākumi
+
+   1. Pašvaldībām ir pienākums veikt nepieciešamos pasākumus, lai nodrošinātu grāmatiņu
+   izsniegšanu savas administratīvās teritorijas iedzīvotājiem, kā arī citus nodokļa
+   iekasēšanai nepieciešamos pasākumus, kas saistīti ar to nodokļa maksātāju
+   reģistrāciju, kuri gūst ienākumus no īpašuma vai uzņēmējdarbības, kā arī jautājumiem
+   par šo nodokļa maksātāju ienākumu no īpašuma vai uzņēmējdarbības novērtēšanu.
+
+   2. Nodokļa administrēšanas funkciju sadalījumu starp Valsts ieņēmumu dienestu un
+   pašvaldībām nosaka Ministru kabinets.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 30.11.2000. likumu,
+   kas stājas spēkā 01.01.2001.)
+
+   VIII nodaļa
+   LIKUMA IEVĒROŠANAS UN PILDĪŠANAS NODROŠINĀJUMS
+
+   28. pants. Maksātāja pienākumi
+
+   Maksātāja pienākums ir:
+
+   1) šajā likumā noteiktajos termiņos un kārtībā sastādīt un iesniegt Valsts ieņēmumu
+   dienesta teritoriālajai iestādei pēc savas dzīvesvietas deklarāciju vai paziņojumu;
+
+   2) šajā likumā noteiktajos termiņos un kārtībā iemaksāt budžetā nodokli;
+
+   3) nodrošināt Valsts ieņēmumu dienesta teritoriālās iestādes pārstāvjiem iespēju
+   iekļūt telpās un teritorijā, kas izmantota apliekamā ienākuma gūšanai;
+
+   4) uzglabāt ieņēmumus un attaisnotos izdevumus apliecinošos dokumentus vismaz trīs
+   gadus pēc gada ienākumu deklarācijas iesniegšanas termiņa, kā arī, veicot
+   saimniecisko darbību, uzskaitīt saimnieciskās darbības ieņēmumus un izdevumus,
+   uzglabāt ieņēmumus un izdevumus apliecinošos attaisnojuma dokumentus vismaz piecus
+   gadus, bet gadījumos, kad nodokļu maksātājam saskaņā ar likumu tiek piemērots īpašs
+   nodokļu režīms uz laiku, kas pārsniedz piecus gadus, — visu īpašā nodokļu režīma
+   piemērošanas laiku. Maksātājam ir pienākums uzrādīt šos dokumentus vai iesniegt to
+   kopijas Valsts ieņēmumu dienesta teritoriālajai iestādei pēc tās pieprasījuma;
+
+   5) uz Valsts ieņēmumu dienesta teritoriālās iestādes koriģētās deklarācijas pamata
+   iemaksāt budžetā trūkstošo nodokļa summu;
+
+   6) uzsākot saimniecisko darbību, mēneša laikā reģistrēties Valsts ieņēmumu dienesta
+   teritoriālajā iestādē pēc savas dzīvesvietas kā saimnieciskās darbības veicējam;
+
+   7) ziņot Valsts ieņēmumu dienesta teritoriālajai iestādei par saimnieciskās darbības
+   pārtraukšanu, mēneša laikā iesniedzot paziņojumu par ienākumiem, kas šajā periodā
+   gūti no saimnieciskās darbības, un ar to gūšanu saistītajiem izdevumiem.
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 20.11.1997.,
+   25.11.1999., 30.11.2000. un 22.11.2001. likumu, kas stājas spēkā 01.01.2002.)
+
+   29. pants. Darba devēja pienākumi
+
+   1. Darba devēja pienākums ir šajā likumā noteiktajos termiņos un kārtībā:
+
+   1) aprēķināt, ieturēt un iemaksāt budžetā algas nodokli no darbiniekam izmaksātajām
+   summām, norādot maksātāja dzīvesvietu;
+
+   2) informēt darbinieku un kontrolējošo Valsts ieņēmumu dienesta teritoriālo iestādi
+   pēc savas atrašanās vietas par taksācijas gadā darbiniekam izmaksātajām summām un no
+   tām budžetā iemaksāto algas nodokli;
+
+   3) uzglabāt darba samaksas aprēķināšanu un izmaksu apliecinošus dokumentus likuma
+   "Par grāmatvedību" 10.pantā noteikto termiņu;
+
+   4) par iedzīvotāju ienākuma nodokļa summām, kas katru mēnesi ieturētas no darbinieku
+   darba ienākuma un iemaksātas budžetā, iesniegt ziņojumu Valsts ieņēmumu dienesta
+   teritoriālajai iestādei pēc savas juridiskās adreses termiņā, kāds darba devējam
+   atbilstoši likumam "Par valsts sociālo apdrošināšanu" ir noteikts ziņojuma
+   iesniegšanai par valsts sociālās apdrošināšanas obligātajām iemaksām;
+
+   5) par nerezidentiem ieturēto nodokli no ienākumiem, no kuriem saskaņā ar šā likuma
+   17.panta divpadsmitās daļas noteikumiem ir jāietur nodoklis izmaksas vietā, iesniegt
+   pārskatu līdz nākamā mēneša 15.datumam;
+
+   6) par katru mēnesi ieturēto un budžetā ieskaitīto nodokli no fizisko personu tāda
+   ienākuma, no kura nodoklis ieturams izmaksas vietā, iesniegt Valsts ieņēmumu
+   dienesta teritoriālajai iestādei pārskatu līdz nākamā mēneša piecpadsmitajam
+   datumam.
+
+   2. Pārskaitīt (ieskaitīt) budžetā nodokli no darba devēja līdzekļiem, neieturot to
+   no darbinieka, ir aizliegts, izņemot nodokļa pamatparāda palielinājumu atbilstoši
+   Latvijas Bankas noteiktajai refinansēšanas likmei un soda sankcijas, kas darba
+   devējam jāmaksā par nodokļu likumu pārkāpumiem, kā arī veicot nodokļa aprēķina
+   precizējumus gadījumos, kad aprēķinātās nodokļa summas nav iespējams ieturēt no
+   darbinieka vai ienākuma saņēmēja.
+
+   3. Šā un 31., 31.^2, 32., 33. panta noteikumi attiecas arī uz personu — ienākuma
+   izmaksātāju, kas izmaksā ienākumu, no kura saskaņā ar šo likumu vai citiem nodokļu
+   likumiem ir jāietur nodoklis ienākuma izmaksas vietā.
+
+   (Ar grozījumiem, kas izdarīti ar 14.01.1994., 19.12.1996., 25.11.1999. un
+   30.11.2000. likumu, kas stājas spēkā 01.01.2001.)
+
+   29.^1 pants. Valsts ieņēmumu dienesta pienākumi
+
+   Valsts ieņēmumu dienests Ministru kabineta noteiktajā kārtībā un termiņā, bet ne
+   retāk kā reizi ceturksnī, sniedz informāciju pašvaldībām par pašvaldību budžetos
+   ieskaitītajām iedzīvotāju ienākuma nodokļa summām no to teritorijā dzīvojošo fizisko
+   personu — nodokļa maksātāju — ienākumiem.
+
+   (25.11.1999. likuma redakcijā, kas stājas spēkā 01.01.2000. Pants stājas spēkā
+   01.07.2000. Sk. Pārejas noteikumus.)
+
+   30. pants. Maksātāja tiesības
+
+   Maksātājam ir šādas tiesības:
+
+   1) iesniegt Valsts ieņēmumu dienesta teritoriālajai iestādei motivētu prasību
+   sadalīt taksācijas gadam noteikto apliekamo ienākumu pa iepriekšējiem gadiem, ja
+   minētais ienākums gūts vairāku gadu darba rezultātā;
+
+   2) (izslēgts ar 25.11.1999. likumu);
+
+   3) pieprasīt Valsts ieņēmumu dienesta teritoriālajai iestādei pēc savas dzīvesvietas
+   atmaksāt pārmaksāto vai rezumējošā kārtībā kļūdaini samaksāto nodokļa summu;
+
+   4) iepazīties ar Valsts ieņēmumu dienesta teritoriālās iestādes veikto pārbaužu
+   aktiem, ciktāl šīs pārbaudes attiecas uz maksātāju;
+
+   5) pārsūdzēt likumdošanas aktos paredzētajā kārtībā Valsts ieņēmumu dienesta
+   teritoriālās iestādes lēmumus;
+
+   6) iesniegt gada ienākumu deklarāciju, precizējot taksācijas gada nodokļa aprēķinu,
+   triju gadu laikā saskaņā ar likumu "Par nodokļiem un nodevām".
+
+   (31.05.1995. likuma redakcijā ar grozījumiem, kas izdarīti ar 25.11.1999. un
+   30.11.2000. likumu, kas stājas spēkā 01.01.2001.)
+
+   31. pants. Darba devēja (ienākuma izmaksātāja) atbildība par termiņā nesamaksāto
+   nodokli
+
+   1. Ja darba devējs (ienākuma izmaksātājs) no darbinieka darba samaksas (personai
+   izmaksājamā ienākuma) ieturēto nodokli šā likuma 17.panta piektajā daļā noteiktajā
+   termiņā nav iemaksājis budžetā, viņš budžetā iemaksā nesamaksātā nodokļa
+   (pamatparāds) summu, nesamaksātā nodokļa summas palielinājuma (pamatparāda
+   palielinājums) naudu saskaņā ar šā panta otrās daļas noteikumiem un nokavējuma naudu
+   atbilstoši šā panta trešās daļas noteikumiem.
+
+   2. Termiņā ieturētās, bet šā likuma 17.panta piektajā, desmitajā un divpadsmitajā
+   daļā noteiktajā termiņā budžetā neiemaksātās nodokļa summas (pamatparāds) tiek
+   palielinātas atbilstoši Latvijas Bankas noteiktajai refinansēšanas likmei visā
+   kavējuma periodā par katru nokavēto nodokļa samaksas dienu.
+
+   3. Par termiņā ieturēto, bet šā likuma 17.panta piektajā, desmitajā un divpadsmitajā
+   daļā noteiktajā termiņā budžetā neiemaksāto nodokļa summu (pamatparāds) tiek
+   aprēķināta nokavējuma nauda no laikā nesamaksātā pamatparāda 0,05 procentu apmērā
+   par katru nokavēto nodokļa samaksas dienu.
+
+   (19.12.1996. likuma redakcijā ar grozījumiem, kas izdarīti ar 25.11.1999. likumu,
+   kas stājas spēkā 01.01.2000.)
+
+   31.^1 pants. Maksātāja atbildība par termiņā nesamaksāto nodokli
+
+   1. Ja maksātājs šā likuma 18.panta trešajā daļā noteiktajos termiņos neveic nodokļa
+   avansa maksājumus, viņš papildus nokavētajam nodokļa maksājumam iemaksā budžetā
+   nesamaksātās nodokļa summas palielinājumu (pamatparāda palielinājums) saskaņā ar šā
+   likuma 31.panta otrās daļas noteikumiem un nokavējuma naudu atbilstoši šā likuma
+   31.panta trešās daļas noteikumiem.
+
+   2. Ja maksātājs šā likuma 19.panta trešajā daļā noteiktajā termiņā neiemaksā budžetā
+   rezumējošā kārtībā aprēķināto nodokli, viņam, sākot ar nākamo maksājuma termiņam
+   sekojošo dienu, ir aprēķināms nesamaksātās nodokļa summas palielinājums (pamatparāda
+   palielinājums) saskaņā ar šā likuma 31.panta otrās daļas noteikumiem un nokavējuma
+   nauda atbilstoši šā likuma 31.panta trešās daļas noteikumiem.
+
+   (19.12.1996. likuma redakcijā, kas stājas spēkā 01.01.1997.)
+
+   31.^2 pants. Darba devēja (ienākuma izmaksātāja) atbildība par nepilnīgu nodokļa
+   ieturēšanu
+
+   1. Ja darba devējs (ienākuma izmaksātājs) līdz nodokļu administrācijas pārbaudei
+   (pārbaudes pieteikšanai), pārkāpdams šā likuma prasības, nav ieturējis nodokli no
+   visa personas apliekamā ienākuma un izmaksājis bez nodokļa ieturēšanas summas, no
+   kurām atbilstoši šim likumam nodoklis ir ieturams izmaksas vietā, viņam ir jāsamaksā
+   nodokļa iztrūkstošā summa un soda nauda nodokļa iztrūkstošās summas apmērā.
+
+   2. Ja darba devējs (ienākuma izmaksātājs) nav laikā ieturējis no darbinieka darba
+   samaksas (personai izmaksājamā ienākuma) nodokli, kā arī ieturēto nodokļa summu nav
+   iemaksājis budžetā, nesamaksātā nodokļa summas palielinājums (pamatparāda
+   palielinājums) un nokavējuma nauda tiek aprēķināta par laika periodu, sākot ar
+   nākamo dienu pēc dienas, kad nodoklis bija jāietur un jāiemaksā budžetā atbilstoši
+   šā likuma 17.panta piektās, desmitās un divpadsmitās daļas noteikumiem.
+
+   3. Darba devējam (ienākuma izmaksātājam), ja viņš līdz nodokļu administrācijas
+   pārbaudei (pārbaudes pieteikšanai) pats ir izdarījis nodokļa aprēķina precizējumu,
+   ieturējis un iemaksājis budžetā nodokļa iztrūkstošo summu, nepiemēro šā panta
+   pirmajā daļā noteikto soda naudu un šā panta otrajā daļā noteikto nokavējuma naudu,
+   bet ne vairāk kā vienu reizi taksācijas gadā.
+
+   4. Darba devējs (ienākuma izmaksātājs) nesamaksāto (iztrūkstošo) nodokļa summu un
+   soda naudu samaksā 30 dienu laikā no dienas, kad saņemts nodokļu administrācijas
+   lēmums par to. Ja maksājumi šajā laikā nav veikti, par katru nokavēto maksājumu
+   izdarīšanas dienu, sākot ar 31.dienu pēc nodokļu administrācijas lēmuma saņemšanas,
+   tiek aprēķināts nesamaksātās (iztrūkstošās) nodokļa summas un soda naudas
+   palielinājums atbilstoši Latvijas Bankas noteiktajai refinansēšanas likmei,
+   nokavējuma nauda no nesamaksātās (iztrūkstošās) nodokļa summas un soda nauda.
+
+   (19.12.1996. likuma redakcijā ar grozījumiem, kas izdarīti ar 25.11.1999. likumu,
+   kas stājas spēkā 01.01.2000.)
+
+   31.^3 pants. Maksātāja atbildība par apliekamā ienākuma samazināšanu
+
+   1. Ja maksātājs, pārkāpdams šā likuma prasības, nav aprēķinājis nodokli no visa
+   apliekamā ienākuma, kas atbilstoši šim likumam ir apliekams ar nodokli, izņemot tos
+   ienākumus, no kuriem nodoklis bija jāietur izmaksas vietā darba devējam vai citai
+   personai, viņam ir jāsamaksā iztrūkstošā nodokļa summa un soda nauda iztrūkstošās
+   nodokļa summas apmērā.
+
+   2. Maksātājs nesamaksāto (iztrūkstošo) nodokļa summu un soda naudu samaksā 30 dienu
+   laikā no dienas, kad saņemts nodokļu administrācijas lēmums par to. Ja maksājumi
+   šajā laikā nav veikti, par katru nokavēto maksājumu izdarīšanas dienu, sākot ar
+   31.dienu pēc nodokļu administrācijas lēmuma saņemšanas, tiek aprēķināts nesamaksātās
+   (iztrūkstošās) nodokļa summas un soda naudas palielinājums atbilstoši Latvijas
+   Bankas noteiktajai refinansēšanas likmei, nokavējuma nauda no nesamaksātās
+   (iztrūkstošās) nodokļa summas un soda nauda.
+
+   3. Ja darba devējs (ienākuma izmaksātājs) taksācijas gada laikā nav ieturējis
+   nodokli no maksātāja apliekamā ienākuma, no kura atbilstoši šā likuma noteikumiem
+   tas bija jāietur ienākuma izmaksas vietā, ir pārtraucis savu darbību Latvijā, ir
+   likvidēts vai citādu iemeslu dēļ nav atrodams, taksācijas gada iztrūkstošā nodokļa
+   summa ir jāsamaksā pašam maksātājam, izņemot gadījumus, kad uzņēmums likvidēts
+   atbilstoši likumdošanas aktu normām un nodokļu parādi dzēsti atbilstoši likuma "Par
+   nodokļiem un nodevām" 25.pantam.
+
+   (19.12.1996. likuma redakcijā, kas stājas spēkā 01.01.1997.)
+
+   32. pants. Darba devēja (ienākuma izmaksātāja) atbildība par citiem nodokļu likumu
+   pārkāpumiem
+
+   1. Par šajā likumā paredzēto paziņojumu neiesniegšanu (nenosūtīšanu) Valsts ieņēmumu
+   dienesta teritoriālajai iestādei darba devējam (ienākuma izmaksātājam) tiek uzlikta
+   soda nauda 10 latu apmērā par katru nenosūtīto dokumentu (vai par katru personu).
+   Atkārtota šāda pārkāpuma gadījumā soda naudas apmērs tiek palielināts trīs reizes.
+   Ja darba devējs (ienākuma izmaksātājs) līdz nodokļu administrācijas pārbaudei
+   (pārbaudes veikšanai) pats ir labojis savu kļūdu un pēc likumā noteiktā termiņa ir
+   nosūtījis Valsts ieņēmumu dienesta teritoriālajai iestādei likumā paredzētos
+   paziņojumus, tiek uzlikta soda nauda viena lata apmērā par katru termiņā nenosūtīto
+   dokumentu (vai par katru personu).
+
+   2. (Izslēgta ar 30.11.2000. likumu.)
+
+   3. Par šā likuma 29.panta pirmās daļas 4.punktā noteikto pārskatu neiesniegšanu
+   darba devējam (ienākuma izmaksātājam) uzliek soda naudu 100 latu apmērā. Par katru
+   personu, kurai kalendārā mēnesī tika izmaksāts ienākums un kura nav uzrādīta
+   iesniegtajā pārskatā, darba devējam (ienākumu izmaksātājam) uzliek soda naudu piecu
+   latu apmērā.
+
+   4. Ja darba devējs (ienākuma izmaksātājs) šā likuma 29.panta pirmās daļas 5.punktā
+   noteiktajā termiņā nav iesniedzis pārskatu par ieturēto nodokli no nerezidentiem
+   izmaksātajiem ienākumiem, no kuriem ienākuma izmaksas vietā tas bija jāietur, viņam
+   tiek uzlikta soda nauda 100 latu apmērā par katru neiesniegto pārskatu.
+
+   (19.12.1996. likuma redakcijā ar grozījumiem, kas izdarīti ar 25.11.1999. un
+   30.11.2000. likumu, kas stājas spēkā 01.01.2001.)
+
+   32.^1 pants. Maksātāja atbildība par citiem likuma pārkāpumiem
+
+   1. Ja maksātājs, kuram atbilstoši šā likuma noteikumiem ir jāiesniedz deklarācija,
+   neievēro deklarācijas iesniegšanas termiņu, viņam piemēro likumā "Par nodokļiem un
+   nodevām" noteikto atbildību. Ja maksātājs nav iesniedzis deklarāciju gadījumos, kad
+   viņa šā likuma 9.pantā minēto ar nodokli neapliekamo ienākumu kopējā summa
+   taksācijas gadā ir pārsniegusi četrkāršotu taksācijas gadam noteikto neapliekamā
+   minimuma apmēru, viņam piemēro soda naudu 20 latu apmērā.
+
+   2. Ja maksātāja vainas dēļ grāmatiņa ir bojāta vai pazaudēta un ir nepieciešams
+   izsniegt jaunu grāmatiņu, pirms grāmatiņas dublikāta izsniegšanas jāsamaksā soda
+   nauda 10 latu apmērā. Soda nauda nav jāmaksā, ja maksātājs iesniedz attiecīgas
+   valsts institūcijas izziņu par to, ka grāmatiņa ir zudusi vai bojāta stihiskā
+   nelaimē vai citādā piespiedu kārtā.
+
+   (25.11.1999. likuma redakcijā ar grozījumiem, kas izdarīti ar 30.11.2000. likumu,
+   kas stājas spēkā 01.01.2001.)
+
+   33. pants. Termiņā nesamaksāto nodokļa maksājumu iekasēšana bezstrīda kārtībā
+
+   Termiņā nesamaksātās nodokļa summas piedzen bezstrīda kārtībā atbilstoši likuma "Par
+   nodokļiem un nodevām" noteikumiem.
+
+   (19.12.1996. likuma redakcijā, kas stājas spēkā 01.01.1997.)
+
+   34. pants. Citu subjektu pienākumi un atbildība
+
+   1. Uzņēmējsabiedrībām, uzņēmumiem (organizācijām, iestādēm) un citām personām savas
+   kompetences ietvaros ir pienākums, ja maksātājs, kas veic saimniecisko darbību, to
+   pieprasa, izsniegt viņam maksātāja izdarīto izdevumu rakstveida apliecinājumu
+   (kvīti).
+
+   2. Ja saņemts nepamatots atteikums izpildīt šā panta pirmajā daļā minēto prasību,
+   Valsts ieņēmumu dienests uzliek vainīgajam administratīvo sodu.
+
+   3. Ja maksātājam izsniegts rakstveida apliecinājums par izdevumiem, kuri faktiski
+   nav izdarīti, Valsts ieņēmumu dienests uzliek vainīgajam naudas sodu nepamatoti
+   izsniegtajā dokumentā norādītās summas divkāršā apmērā.
+
+   (31.05.1995. likuma redakcijā, kas stājas spēkā 04.07.1995. Otrā daļa stājas spēkā
+   vienlaikus ar atbilstošiem grozījumiem Latvijas Administratīvo pārkāpumu kodeksā.
+   Sk. 31.05.1995. likuma Pārejas noteikumus.)
+
+   35. pants. Citu subjektu līdzdalība deklarācijas izpildīšanā
+
+   1. Maksātājam ir tiesības pilnvarot deklarācijas izpildīšanai zvērinātu revidentu.
+
+   2. Maksātājam ir pienākums iepazīstināt deklarācijas izpildītāju ar visiem viņa
+   rīcībā esošajiem datiem, kas saistīti ar nodokļa aprēķināšanu. Minēto datu nodošanas
+   fakts ir apliecināms ar datu nodošanas un pieņemšanas aktu, kuru paraksta maksātājs
+   un deklarācijas izpildītājs.
+
+   3. Deklarācijas izpildītājs ir atbildīgs par nodokļa pareizu aprēķināšanu.
+   Deklarācijas izpildītāja atbildības pakāpi nosaka nodošanas un pieņemšanas aktā
+   minēto datu apjoms.
+
+   36. pants. Rajonu (republikas pilsētu) Valsts ieņēmumu dienesta teritoriālās
+   iestādes kompetence
+
+   Rajonu (republikas pilsētu) Valsts ieņēmumu dienesta teritoriālās iestādes, kā ari
+   šo iestāžu ierēdņu tiesības, pienākumus un atbildību regulē likums "Par Valsts
+   ieņēmumu dienestu" (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1993,
+   34).
+
+   (14.01.1994. likuma redakcijā ar grozījumiem, kas izdarīti ar 25.11.1999. likumu,
+   kas stājas spēkā 01.01.2000.)
+
+   37. pants. Ienākuma nodokļa maksātāja kods
+
+   Visas Latvijas Republikā pastāvīgi dzīvojošās personas, kas gūst ienākumus, tiek
+   reģistrētas ienākuma nodokļa maksātāju reģistrā un tām tiek piešķirts nodokļa
+   maksātāja kods, kas sastāv no personas koda un maksātāja dzīvesvietas koda.
+
+   Nodokļa maksātāja kods taksācijas gada laikā netiek mainīts. Ja maksātājs gada laikā
+   maina dzīvesvietu, par to iepriekšējās dzīvesvietas Latvijas Republikas Valsts
+   ieņēmumu dienesta teritoriālā iestāde pēc Iedzīvotāju reģistra ziņām taksācijas gada
+   beigās izdara nodokļa maksātāja koda izmaiņas.
+
+   (Ar grozījumiem, kas izdarīti ar 14.01.1994. un 25.11.1999. likumu, kas stājas spēkā
+   01.01.2000.)
+
+   38. pants. Dokumentārais nodrošinājums
+
+   1. Atsevišķu likuma normu piemērošanas kārtību reglamentē Ministru kabineta
+   noteikumi, kuros ietverta likuma normu interpretācija un skaidrojoši piemēri.
+
+   2. Šā likuma izpildes nodrošināšanai deklarācijas, pārskatu, paziņojumu un citu
+   likuma piemērošanai nepieciešamo dokumentu veidlapas formu nosaka Ministru kabinets,
+   bet metodiskos norādījumus nodokļa aprēķināšanai izstrādā un apstiprina Valsts
+   ieņēmumu dienests likumā "Par valsts ieņēmumu dienestu" noteiktās kompetences
+   ietvaros.
+
+   (25.11.1999. likuma redakcijā ar grozījumiem, kas izdarīti ar 30.11.2000. likumu,
+   kas stājas spēkā 01.01.2001.)
+
+   Pārejas noteikumi
+
+   (19.12.1996. likuma redakcijā, kas stājas spēkā 01.01.1997.)
+
+   1. 1996.gada 19.decembrī izdarītie grozījumi likuma 19.panta otrajā daļā un 20.pantā
+   piemērojami arī 1996.gada ienākumu deklarēšanai. Pensijas saņēmējam, ja tas
+   1996.gadā nav saņēmis citus ar nodokli neapliekamus ienākumus vai to kopējā summa
+   nepārsniedz taksācijas gadam noteikto neapliekamā minimuma apmēru, piemērojot
+   grozījumus likumā 20.pantā, ir tiesības neiesniegt deklarāciju.
+
+   2. Ministru kabinetam 15 dienu laikā pēc likuma izsludināšanas apstiprināt 1996.gada
+   ienākumu deklarācijas veidlapu.
+
+   3. (Izslēgts ar 02.10.1997. likumu, kas stājas spēkā 28.10.1997.)
+
+   4. Persona, kura, pamatojoties uz likuma "Par valsts pensijām" pārejas noteikumu
+   16.punkta 12.apakšpunktu, ir iesniegusi Valsts sociālās apdrošināšanas aģentūrai
+   iesniegumu, kurā lūdz piešķirt pensiju no jauna, un kurai iepriekš saņemtā pensija
+   ir jāatmaksā valsts pensiju speciālajā budžetā, iepriekš samaksātā nodokļa apmēru
+   par 1997.—1999.gadu koriģē rezumējošā kārtībā, iesniedzot gada ienākumu deklarāciju.
+   Iepriekš samaksātā nodokļa pārrēķinu veic šādā kārtībā:
+
+   1) par nodokli no 1997.gada ienākumiem — iesniedzot vai koriģējot 1997.gada ienākumu
+   deklarāciju no 2000.gada 1.janvāra līdz 2000.gada 1.aprīlim;
+
+   2) par nodokli no 1998.gada ienākumiem — iesniedzot vai koriģējot 1998.gada ienākumu
+   deklarāciju no 2001.gada 1.janvāra līdz 2001.gada 1.aprīlim;
+
+   3) par nodokli no 1999.gada ienākumiem — iesniedzot vai koriģējot 1999.gada ienākumu
+   deklarāciju no 2002.gada 1.janvāra līdz 2002.gada 1.aprīlim.
+
+   (25.11.1999. likuma redakcijā, kas stājas spēkā 01.01.2000.)
+
+   5. Grozījumi likuma 9.panta pirmās daļas 19.punktā attiecībā uz ienākumu aplikšanu
+   ar nodokli no to akciju un citu vērtspapīru pārdošanas, kas ir bijuši personas
+   īpašumā mazāk par 12 mēnešiem, stājas spēkā 2001.gada 1.janvārī.
+
+   (25.11.1999. likuma redakcijā, kas stājas spēkā 01.01.2000.)
+
+   6. Likuma 29.^1 pants stājas spēkā 2000.gada 1.jūlijā.
+
+   (25.11.1999. likuma redakcijā, kas stājas spēkā 01.01.2000.)
+
+   7. 9.panta piektās daļas noteikumus piemēro, sākot ar 1999.gadu.
+
+   (27.01.2000. likuma redakcijā, kas stājas spēkā 23.02.2000.)
+
+   8. Ministru kabinets saskaņo šā likuma 38.pantā paredzētos noteikumus ar grozījumiem
+   likumā "Par iedzīvotāju ienākuma nodokli". Līdz šajos noteikumos izdarīto attiecīgo
+   grozījumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2001.gada 1.jūlijam, Ministru
+   kabineta 2000.gada 18.oktobra noteikumi nr.357 "Likuma "Par iedzīvotāju ienākuma
+   nodokli" normu piemērošanas noteikumi" ir piemērojami tiktāl, ciktāl tie nav
+   pretrunā ar šo likumu.
+
+   (30.11.2000. likuma redakcijā, kas stājas spēkā 01.01.2001.)
+
+   9. Likuma 8.panta ceturto daļu piemēro, sākot ar 2003.gadu.
+
+   (22.11.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   Latvijas Republikas Augstākās Padomes priekšsēdētājs A. GORBUNOVS
+
+   Latvijas Republikas Augstākās Padomes sekretārs I. DAUDIŠS
+   Rīgā 1993. gada 11. maijā
+   PIEZĪMES:
+
+   27.01.2000. likuma "Grozījumi likumā "Par iedzīvotāju ienākuma nodokli""
+   piemērošanas kārtība:
+   "Likums piemērojams ar 2000.gada 1.janvāri."
+   © Oficiālais izdevējs "Latvijas Vēstnesis"

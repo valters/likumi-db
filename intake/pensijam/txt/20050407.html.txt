@@ -1,0 +1,1407 @@
+   [IMG]
+   Publicēts:
+   "Latvijas Vēstnesis", 182 (465), 23.11.1995., "Ziņotājs", 1, 11.01.1996.
+   Izdevējs: SaeimaVeids: likumsPieņemts: 02.11.1995.Stājas spēkā: 01.01.1996.
+   Attēlotā redakcija: 07.04.2005. - 15.06.2005. Vēsturiskā
+   Grozījumi:
+   06.11.1996. likums / LV, 201/202 (686/687), 26.11.1996. / Stājas spēkā 10.12.1996.
+   27.12.1996. likums / LV, 3/4 (718/719), 07.01.1997. / Stājas spēkā 07.01.1997.
+   22.05.1997. likums / LV, 133/135 (848/850), 03.06.1997. / Stājas spēkā 01.06.1997.
+   20.11.1997. likums / LV, 315/316 (1030/1031), 05.12.1997. / Stājas spēkā 01.01.1998.
+   21.10.1998. likums / LV, 333 (1394), 05.11.1998. / Stājas spēkā 01.01.1999.
+   22.04.1999. likums / LV, 140 (1600), 06.05.1999. / Stājas spēkā 01.05.1999.
+   05.08.1999. likums / LV, 386/387 (1846/1847), 23.11.1999. / Stājas spēkā 07.12.1999.
+   04.11.1999. likums / LV, 386/387 (1846/1847), 23.11.1999. / Stājas spēkā 07.12.1999.
+   20.12.2001. likums / LV, 188 (2575), 28.12.2001. / Stājas spēkā
+   01.01.2002.Satversmes tiesas 19.03.2002. spriedums / LV, 44 (2619), 20.03.2002. /
+   Stājas spēkā 19.03.2002. 19.02.2004. likums / LV, 30 (2978), 25.02.2004. / Stājas
+   spēkā 10.03.2004.
+   Satura rādītājs:
+     * I nodaļa Vispārīgie noteikumi
+          * 1.pants. Likumā lietotie termini
+          * 2.pants. Likuma uzdevums
+          * 3.pants. Tiesības uz valsts sociālās apdrošināšanas pensiju
+          * 4.pants. Valsts obligātajai pensiju apdrošināšanai pakļautās personas
+          * 5.pants. Gada ienākums, no kura tiek izdarītas sociālās apdrošināšanas
+            iemaksas, un šo iemaksu apjoms
+          * 6. pants. Līdzekļi valsts pensiju izmaksāšanai
+          * 7.pants. Valsts pensiju veidi
+          * 8.pants. Apmēra ziņā lielākās valsts pensijas piešķiršana
+          * 9.pants. Valsts pensijas piešķiršanai nepieciešamais apdrošināšanas stāžs
+          * 10.pants. Apdrošināšanas stāža apliecināšana
+     * II nodaļa Tiesības uz vecuma, invaliditātes un apgādnieka zaudējuma pensiju
+          * 11.pants. Tiesības uz vecuma pensiju
+          * 12. pants. Vecuma pensijas aprēķināšana
+          * 13.pants. Pensijas aprēķināšanai piemērojamais laika periods (gados), par
+            kuru no pensijas piešķiršanas gada tiek plānota vecuma pensijas izmaksa
+          * 14.pants. Tiesības uz invaliditātes pensiju
+          * 15.pants. Invaliditātes noteikšana
+          * 16.pants. Invaliditātes pensijas aprēķināšana
+          * 17.pants. Invaliditātes pensijas izmaksas pārtraukšana
+          * 18.pants. Tiesības uz apgādnieka zaudējuma pensiju
+          * 19.pants. Ģimenes locekļi, kuriem ir tiesības uz apgādnieka zaudējuma
+            pensiju
+          * 20.pants. Par apgādājamiem uzskatāmie ģimenes locekļi
+          * 21.pants. Adoptētā tiesības uz apgādnieka zaudējuma pensiju
+          * 22.pants. Padēla un pameitas tiesības uz apgādnieka zaudējuma pensiju
+          * 23.pants. Apgādnieka zaudējuma pensijas aprēķināšana
+          * 24.pants. Valsts pensijas apmēra palielināšana sakarā ar apdrošināšanas
+            iemaksu veikšanu par periodu pēc pensijas piešķiršanas
+          * 24.^1 pants. Valsts pensijas apmēra palielināšana sakarā ar pievienoto
+            fondētās pensijas kapitālu un papildpensijas kapitālu
+          * 25.pants. Piešķirtās valsts pensijas pārrēķināšanas gadījumi un termiņi
+          * 26.pants. Valsts pensijas palielināšana atkarībā no patēriņa cenu un
+            apdrošināšanas iemaksu algas indeksa izmaiņām
+          * 26.^1 pants. Vidējā apdrošināšanas iemaksu alga
+     * III nodaļa Valsts pensijas piešķiršana
+          * 27.pants. Valsts pensijas pieprasīšanas kārtība
+          * 28.pants. Valsts pensiju piešķiršana un pārrēķināšana Valsts sociālās
+            apdrošināšanas aģentūras filiālē
+          * 29.pants. Valsts sociālās apdrošināšanas aģentūras filiāles lēmuma
+            pārsūdzēšanas kārtība
+          * 30.pants. Valsts pensijas piešķiršanas termiņi
+          * 31.pants. Valsts pensijas piešķiršanas termiņš sakarā ar pensijas veida
+            maiņu
+     * IV nodaļa Valsts pensijas izmaksa
+          * 32.pants. Valsts pensijas izmaksāšanas kārtība
+          * 33.pants. Avansi
+          * 34. pants. Valsts pensijas saņēmēja pienākumi
+          * 35.pants. Valsts pensijas izmaksa par pagājušo laiku
+          * 36.pants. Ieturējumi no valsts pensijas
+          * 37.pants. Sakarā ar pensijas saņēmēja nāvi nesaņemtās pensijas un
+            apbedīšanas pabalsta izmaksāšana
+          * 38.pants. Pensijas izmaksa personām, kuras izbrauc uz ārvalstīm
+     * Pārejas noteikumi
+          * 1. punkts
+          * 2. punkts
+          * 2.^1 punkts
+          * 3. punkts
+          * 4. punkts
+          * 5. punkts
+          * 6. punkts
+          * 7. punkts
+          * 8. punkts
+          * 9. punkts
+          * 10. punkts
+          * 11. punkts
+          * 12. punkts
+          * 13. punkts
+          * 14. punkts
+          * 15. punkts
+          * 16. punkts
+          * 17. punkts
+          * 18. punkts
+          * 19. punkts
+          * 20. punkts
+          * 21. punkts
+          * 22. punkts
+          * 23. punkts
+          * 24. punkts
+          * 25. punkts
+          * 26. punkts
+          * 27. punkts
+          * 28. punkts
+          * 29. punkts
+          * 30. punkts
+          * 31. punkts
+          * 32. punkts
+          * 33. punkts
+          * 34. punkts
+          * 35. punkts
+   Saeima ir pieņēmusi un Valsts
+   prezidents izsludina šādu likumu:
+   Par valsts pensijām
+   I nodaļa
+   Vispārīgie noteikumi
+
+   1.pants. Likumā lietotie termini
+
+   Likumā ir lietoti šādi termini:
+
+   1) apdrošināšanas stāžs — pilnos gados izteikts laika periods, kurā sociāli
+   apdrošinātā persona (turpmāk — apdrošinātā persona) pati veikusi sociālās
+   apdrošināšanas iemaksas vai par to veiktas vai no 2001.gada 14.marta bija jāveic
+   sociālās apdrošināšanas iemaksas, kas attiecas uz tām sociāli apdrošināmajām
+   personām, kuras apdrošināšanas iemaksas veic ar citu personu starpniecību vai par
+   kurām maksājumus izdara citas personas;
+
+   2) (izslēgts ar 20.12.2001. likumu);
+
+   3) apdrošināšanas iemaksas — sociālās apdrošināšanas iemaksas, ko pensiju
+   apdrošināšanai un invaliditātes apdrošināšanai par apdrošināto personu veicis darba
+   devējs vai pati apdrošinātā persona vai kas veiktas no valsts pamatbudžeta vai
+   attiecīgajiem sociālās apdrošināšanas speciālajiem budžetiem, vai — no 2001.gada
+   14.marta — arī iemaksas, kas bija jāveic par tām sociāli apdrošināmajām personām,
+   kuras apdrošināšanas iemaksas veic ar citu personu starpniecību vai par kurām
+   maksājumus izdara citas personas;
+
+   4) apdrošināšanas iemaksu alga — ienākumi, no kuriem izdarītas un no 2001.gada
+   14.marta aprēķinātas sociālās apdrošināšanas iemaksas;
+
+   5) apdrošināšanas iemaksu algas indekss — kārtējā un iepriekšējā gada apdrošināšanas
+   iemaksu algu summu attiecība.
+
+   (Ar grozījumiem, kas izdarīti ar 20.11.1997. un 20.12.2001. likumu, kas stājas spēkā
+   01.01.2002.)
+
+   2.pants. Likuma uzdevums
+
+   Šā likuma uzdevums ir noteikt:
+
+   1) uz apdrošināšanas iemaksām balstītas valsts obligātās pensiju apdrošināšanas
+   sistēmas principus;
+
+   2) kārtību, kādā valsts sociālās apdrošināšanas pensiju nodrošina vecuma,
+   invaliditātes un apgādnieka zaudējuma gadījumā.
+
+   3.pants. Tiesības uz valsts sociālās apdrošināšanas pensiju
+
+   Tiesības uz valsts sociālās apdrošināšanas pensiju (turpmāk — valsts pensija)
+   saskaņā ar šā likuma nosacījumiem ir Latvijas teritorijā dzīvojošām personām, kas
+   bijušas pakļautas valsts obligātajai pensiju apdrošināšanai.
+
+   (Ar grozījumiem, kas izdarīti ar 20.12.2001. likumu, kas stājas spēkā 01.01.2002.)
+
+   4.pants. Valsts obligātajai pensiju apdrošināšanai pakļautās personas
+
+   (Izslēgts ar 20.11.1997. likumu, kas stājas spēkā 01.01.1998.)
+
+   5.pants. Gada ienākums, no kura tiek izdarītas sociālās apdrošināšanas iemaksas, un
+   šo iemaksu apjoms
+
+   (Izslēgts ar 20.11.1997. likumu, kas stājas spēkā 01.01.1998.)
+
+   6. pants. Līdzekļi valsts pensiju izmaksāšanai
+
+   (Izslēgts ar 20.11.1997. likumu, kas stājas spēkā 01.01.1998.)
+
+   7.pants. Valsts pensiju veidi
+
+   Saskaņā ar šo likumu ir šādi valsts pensiju veidi:
+
+   1) vecuma pensija;
+
+   2) invaliditātes pensija;
+
+   3) apgādnieka zaudējuma pensija.
+
+   8.pants. Apmēra ziņā lielākās valsts pensijas piešķiršana
+
+   Apdrošinātajai personai, kurai vienlaikus ir tiesības uz dažāda veida valsts
+   pensijām, piešķirama apmēra ziņā lielākā valsts pensija. Pensiju var pieprasīt
+   jebkurā laikā bez termiņa ierobežojuma, tiklīdz radušās tiesības uz to.
+
+   9.pants. Valsts pensijas piešķiršanai nepieciešamais apdrošināšanas stāžs
+
+   (1) Valsts pensijas apmērs ir atkarīgs no apdrošināšanas stāža, kurā ieskaitāmi
+   mēneši, kuros veiktas vai bija jāveic apdrošināšanas iemaksas attiecīgajam sociālās
+   apdrošināšanas veidam.
+
+   (2) Apdrošināšanas stāžu veido apdrošināšanas iemaksu periodi, kuru laikā:
+
+   1) persona bijusi obligāti sociāli apdrošināmā persona kā:
+
+   a) darba ņēmējs, par kuru veiktas vai bija jāveic apdrošināšanas iemaksas,
+
+   b) pašnodarbinātais, kurš veicis apdrošināšanas iemaksas;
+
+   2) apdrošinātā persona atzīta par invalīdu, nestrādā un par šo personu no
+   invaliditātes, maternitātes un slimības speciālā budžeta izdarītas apdrošināšanas
+   iemaksas. Aprēķinot vecuma pensiju, minētās apdrošinātās personas invaliditātes
+   laiks ņemams vērā tikai līdz vecuma pensijas piešķiršanai nepieciešamā vecuma
+   sasniegšanai;
+
+   3) apdrošinātā persona saskaņā ar likumu "Par obligāto sociālo apdrošināšanu pret
+   nelaimes gadījumiem darbā un arodslimībām" saņem sakarā ar slimību vai darbspēju
+   zaudējumu slimības pabalstu vai atlīdzību par darbspēju zaudējumu un par šo personu
+   no darba negadījumu speciālā budžeta izdarītas apdrošināšanas iemaksas. Apdrošinātā
+   persona atzīta par invalīdu sakarā ar nelaimes gadījumu darbā vai arodslimību,
+   nestrādā un par šo personu no darba negadījumu speciālā budžeta izdarītas
+   apdrošināšanas iemaksas. Aprēķinot vecuma pensiju, minētās apdrošinātās personas
+   invaliditātes laiks ņemams vērā tikai līdz vecuma pensijas piešķiršanai nepieciešamā
+   vecuma sasniegšanai;
+
+   4) apdrošinātā persona saņem bezdarbnieka pabalstu un saskaņā ar likumu "Par
+   obligāto sociālo apdrošināšanu bezdarba gadījumam" par šo personu no nodarbinātības
+   speciālā budžeta izdarītas apdrošināšanas iemaksas;
+
+   5) persona, nebūdama darbā slimības dēļ, saņem slimības vai maternitātes pabalstu un
+   par šo personu no invaliditātes, maternitātes un slimības speciālā budžeta izdarītas
+   apdrošināšanas iemaksas;
+
+   6) persona ir brīvprātīgi pievienojusies sociālajai apdrošināšanai un veikusi
+   apdrošināšanas iemaksas attiecīgajam sociālās apdrošināšanas veidam.
+
+   (3) Ja apdrošināšanas iemaksas izdarītas no valsts pamatbudžeta, apdrošināšanas
+   stāžu veido arī šādi apdrošināšanas iemaksu periodi:
+
+   1) obligātais aktīvais militārais dienests;
+
+   2) (izslēgts ar 27.12.1996. likumu);
+
+   3) laiks bērna kopšanai, līdz viņš sasniedz pusotra gada vecumu;
+
+   4) laiks, kad persona, kuras laulātais (kam piešķirts diplomātiskais rangs saskaņā
+   ar "Diplomātiskā un konsulārā dienesta likumu") pilda diplomātisko un konsulāro
+   dienestu ārvalstīs, uzturas attiecīgajā ārvalstī kā diplomātisko un konsulāro
+   dienestu pildošas personas laulātais.
+
+   (Ar grozījumiem, kas izdarīti ar 06.11.1996., 27.12.1996., 20.11.1997. un
+   20.12.2001. likumu, kas stājas spēkā 01.01.2002.)
+
+   10.pants. Apdrošināšanas stāža apliecināšana
+
+   Apdrošināšanas stāžu apliecina Valsts sociālās apdrošināšanas aģentūrā uzkrātie
+   dati, kas pierāda apdrošināšanas iemaksu izdarīšanu.
+
+   (Ar grozījumiem, kas izdarīti ar 20.11.1997. likumu, kas stājas spēkā 01.01.1998.)
+
+   II nodaļa
+   Tiesības uz vecuma, invaliditātes un apgādnieka zaudējuma pensiju
+
+   11.pants. Tiesības uz vecuma pensiju
+
+   (1) Tiesības uz vecuma pensiju ir sievietēm un vīriešiem, kuri sasnieguši 62 gadu
+   vecumu un kuru apdrošināšanas stāžs nav mazāks par 10 gadiem.
+
+   (2) (Izslēgta ar 05.08.1999. likumu.)
+
+   (3) (Izslēgta ar 20.12.2001. likumu.)
+
+   (4) Personai, kuras apdrošināšanas stāžs nav mazāks par 30 gadiem un kura ir
+   izaudzinājusi līdz astoņu gadu vecumam piecus vai vairāk bērnus vai bērnu invalīdu,
+   ir tiesības pieprasīt vecuma pensiju piecus gadus pirms šā panta pirmajā daļā
+   noteiktā vecuma sasniegšanas (ievērojot likuma pārejas noteikumu 8.punktu).
+
+   (Ar grozījumiem, kas izdarīti ar 05.08.1999., 04.11.1999. un 20.12.2001. likumu, kas
+   stājas spēkā 01.01.2002.)
+
+   12. pants. Vecuma pensijas aprēķināšana
+
+   (1) Vecuma pensiju aprēķina pēc šādas formulas:
+
+                                        P = K / G
+
+   P — gada pensija, kuras divpadsmitā daļa ir mēneša pensija;
+
+   K — apdrošinātās personas pensijas kapitāls, ko veido šīs personas personīgajā kontā
+   reģistrētā apdrošināšanas iemaksu summa un ikgadējais kapitāla pieaugums. Pensijas
+   kapitāls ir atkarīgs no apdrošināšanas iemaksu algas indeksa, ko nosaka Labklājības
+   ministrija. Pensijas kapitāls, kuram piemēroti apdrošināšanas iemaksu algas indeksi,
+   ņemot vērā apdrošinātās personas izvēli, pieprasot vecuma pensiju, papildināms ar:
+
+   1) fondētās pensijas kapitālu, kas uzkrāts atbilstoši Valsts fondēto pensiju
+   likumam;
+
+   2) papildpensijas kapitālu, kas uzkrāts atbilstoši likumam "Par privātajiem pensiju
+   fondiem";
+
+   G — laika posms (gados), par kuru no pensijas piešķiršanas gada tiek plānota vecuma
+   pensijas izmaksa.
+
+   (2) Personām, kurām piešķirta vecuma pensija, sasniedzot šā likuma 11.panta pirmajā
+   daļā noteikto vecumu, pensijas apmērs nedrīkst būt mazāks par Ministru kabineta
+   noteikto minimālo vecuma pensiju.
+
+   (3) Apdrošinātā persona katru gadu saņem informāciju no Valsts sociālās
+   apdrošināšanas aģentūras par tās personīgajā kontā reģistrēto pensijas kapitālu.
+
+   (Ar grozījumiem, kas izdarīti ar 22.05.1997., 20.11.1997., 04.11.1999. un
+   20.12.2001. likumu, kas stājas spēkā 01.01.2002.)
+
+   13.pants. Pensijas aprēķināšanai piemērojamais laika periods (gados), par kuru no
+   pensijas piešķiršanas gada tiek plānota vecuma pensijas izmaksa
+
+   Ministru kabinets, pamatojoties uz Valsts statistikas komitejas datiem un
+   Labklājības ministrijas aprēķiniem, nosaka pensijas aprēķināšanai piemērojamo
+   plānoto vecuma pensijas izmaksas laika periodu (gados), par kuru no vecuma pensijas
+   piešķiršanas gada tiek plānota vecuma pensijas izmaksa. To ik gadus publicē
+   laikrakstā "Latvijas Vēstnesis".
+
+   14.pants. Tiesības uz invaliditātes pensiju
+
+   (1) Pirms šā likuma 11.pantā noteiktā vecuma sasniegšanas tiesības uz invaliditātes
+   pensiju saskaņā ar šo likumu ir apdrošinātajām personām ar apdrošināšanas stāžu, kas
+   nav mazāks par trim gadiem, ja tās atzītas par invalīdiem, izņemot personas, kuru
+   invaliditātes cēlonis ir nelaimes gadījums darbā vai arodslimība.
+
+   (2) Personām, kuru invaliditātes cēlonis ir nelaimes gadījums darbā vai arodslimība,
+   invaliditātes pensiju piešķir un izmaksā saskaņā ar likumu "Par obligāto sociālo
+   apdrošināšanu pret nelaimes gadījumiem darbā vai arodslimībām".
+
+   (Ar grozījumiem, kas izdarīti ar 27.12.1996. likumu, kas stājas spēkā 07.01.1997.)
+
+   15.pants. Invaliditātes noteikšana
+
+   Invaliditātes iedalījumu un cēloni, kā arī invaliditātes iestāšanās laiku un ilgumu
+   nosaka veselības un darbspēju ekspertīzes ārstu komisija.
+
+   16.pants. Invaliditātes pensijas aprēķināšana
+
+   (1) Invaliditātes pensiju atkarībā no tā, kāda invaliditātes grupa ir noteikta —
+   pirmā, otrā vai trešā —, piešķir:
+
+   1) I un II grupas invaliditātes gadījumā pēc šādas formulas:
+
+   I grupas invalīdiem
+                                           ASi
+                              P= 0,45 x Vi + ——— x Vi x 0,1
+                                           ASie
+
+   II grupas invalīdiem
+                                           ASi
+                              P = 0,4 x Vi + ——— x Vi x 0,1
+                                           ASie
+
+   P — pensija,
+
+   Vi — apdrošinātās personas vidējā apdrošināšanas iemaksu alga par jebkuriem 36
+   mēnešiem pēc kārtas (neatkarīgi no tā, cik ilgs bijis pārtraukums darbā) pēdējo
+   piecu gadu laikā pirms invaliditātes pensijas piešķiršanas. Mēneši, kuros
+   invaliditātes pensijas pieprasītājs nostrādājis nepilnu darba dienu skaitu,
+   invaliditātes pensijas aprēķināšanai ņemami vērā kā pilni darba mēneši. Ja piecu
+   gadu laikā pirms invaliditātes pensijas piešķiršanas ir nostrādāts mazāk par 36
+   mēnešiem, vidējā apdrošināšanas iemaksu alga aprēķināma par faktiski nostrādātajiem
+   darba mēnešiem,
+
+   ASi — apdrošinātās personas individuālais apdrošināšanas stāžs,
+
+   ASie — maksimāli iespējamais apdrošināšanas stāžs no likumā "Par valsts sociālo
+   apdrošināšanu" noteiktā vecuma sasniegšanas līdz šā likuma 11. panta pirmajā daļā
+   noteiktā vecuma sasniegšanai;
+
+   2) III grupas invaliditātes gadījumā — valsts sociālā nodrošinājuma pabalsta līmenī.
+
+   (2) I un II grupas invaliditātes pensijas apmērs nedrīkst būt mazāks par valsts
+   sociālā nodrošinājuma pabalstu, kuram piemērots šāds koeficients:
+
+   I grupas invaliditātes gadījumā — 1,6;
+
+   II grupas invaliditātes gadījumā — 1,4.
+
+   (3) Ja persona piecus gadus pirms invaliditātes pensijas piešķiršanas nav bijusi
+   pakļauta invaliditātes apdrošināšanai, invaliditātes pensija piešķirama apmērā, kāds
+   atbilstoši invaliditātes grupai noteikts šā panta pirmās daļas 2.punktā un šā panta
+   otrajā daļā.
+
+   (4) Mainoties invaliditātes grupai, invaliditātes pensijas apmērs pārrēķināms no
+   invaliditātes atkārtotas noteikšanas dienas šajā pantā noteiktajā kārtībā, ņemot
+   vērā apdrošinātās personas individuālo un maksimāli iespējamo apdrošināšanas stāžu
+   un vidējo (aktualizēto) apdrošināšanas iemaksu algu, kāda bija ņemta vērā, aprēķinot
+   (pārrēķinot) invaliditātes pensiju līdz invaliditātes grupas maiņas dienai.
+
+   (Ar grozījumiem, kas izdarīti ar 27.12.1996., 21.10.1998. un 20.12.2001. likumu, kas
+   stājas spēkā 01.01.2002.)
+
+   17.pants. Invaliditātes pensijas izmaksas pārtraukšana
+
+   (1) Invalīdiem, kas sasnieguši šā likuma 11.panta pirmajā daļā noteikto vecumu,
+   invaliditātes pensijas vietā piešķirama vecuma pensija.
+
+   (2) (Izslēgta ar 05.08.1999. likumu.)
+
+   (3) Vecuma pensija aprēķināma šā likuma 12.pantā noteiktajā kārtībā.
+
+   (Ar grozījumiem, kas izdarīti ar 05.08.1999. likumu, kas stājas spēkā 07.12.1999.
+   Sk. 05.08.1999. likuma Pārejas noteikumus.)
+
+   18.pants. Tiesības uz apgādnieka zaudējuma pensiju
+
+   (1) Tiesības uz apgādnieka zaudējuma pensiju, ja apgādnieks ir bijis apdrošinātā
+   persona, saskaņā ar šo likumu ir viņa ģimenes locekļiem neatkarīgi no apgādnieka
+   nāves cēloņa, izņemot šā panta otrajā daļā minēto gadījumu.
+
+   (2) Ja apgādnieka nāves cēlonis ir nelaimes gadījums darbā vai arodslimība,
+   apgādnieka zaudējuma pensiju piešķir un izmaksā saskaņā ar likumu "Par obligāto
+   sociālo apdrošināšanu pret nelaimes gadījumiem darbā vai arodslimībām".
+
+   19.pants. Ģimenes locekļi, kuriem ir tiesības uz apgādnieka zaudējuma pensiju
+
+   (1) Tiesības uz apgādnieka zaudējuma pensiju ir darba nespējīgiem mirušā apgādnieka
+   ģimenes locekļiem, kas bijuši viņa apgādībā (20.pants). Mirušā bērniem apgādnieka
+   zaudējuma pensiju piešķir neatkarīgi no tā, vai viņi ir bijuši mirušā apgādībā.
+
+   (2) Par darba nespējīgiem ģimenes locekļiem uzskatāmi:
+
+   1) bērni, kas ir jaunāki par 18 gadiem, kā arī bērni neatkarīgi no vecuma, ja viņi
+   kļuvuši par invalīdiem pirms 18 gadu vecuma sasniegšanas;
+
+   2) brāļi, māsas un mazbērni, kas ir jaunāki par 18 gadiem, ja viņiem nav darbspējīgu
+   vecāku, kā arī brāļi, māsas un mazbērni neatkarīgi no vecuma, ja viņiem nav
+   darbspējīgu vecāku un ja viņi kļuvuši par invalīdiem pirms 18 gadu vecuma
+   sasniegšanas.
+
+   (3) Šā likuma noteikumi, kas skar mirušā ģimeni, attiecas arī uz bezvēsts prombūtnē
+   esošā ģimeni, ja apgādnieka bezvēsts prombūtne ir atzīta likumā noteiktajā kārtībā.
+
+   (4) Par darba nespējīgiem ģimenes locekļiem uzskatāmas arī šā panta otrajā un
+   trešajā daļā norādītās personas, ja tās laikā, kad iestājusies apgādnieka nāve vai
+   vēlāk, mācās vai studē vispārējās, profesionālās izglītības iestādēs vai augstskolās
+   dienas nodaļā (pilna laika klātienē) un nav vecākas par 24 gadiem.
+
+   (Ar grozījumiem, kas izdarīti ar 20.12.2001. likumu, kas stājas spēkā 01.01.2002.)
+
+   20.pants. Par apgādājamiem uzskatāmie ģimenes locekļi
+
+   Mirušā ģimenes locekļi uzskatāmi par viņa apgādībā bijušiem, ja tas viņus uzturēja
+   vai viņi no tā saņēma palīdzību, kas viņiem bija pastāvīgs un galvenais eksistences
+   līdzekļu avots.
+
+   21.pants. Adoptētā tiesības uz apgādnieka zaudējuma pensiju
+
+   (1) Adoptētajam ir tādas pašas tiesības uz apgādnieka zaudējuma pensiju kā īstajiem
+   bērniem.
+
+   (2) Tiesības uz apgādnieka zaudējuma pensiju, kas adoptētajam bija radušās pirms
+   adopcijas, saglabājas.
+
+   22.pants. Padēla un pameitas tiesības uz apgādnieka zaudējuma pensiju
+
+   Padēlam un pameitai, ja viņi no vecākiem nav saņēmuši līdzekļus uzturam (alimentus),
+   ir tādas pašas tiesības uz apgādnieka zaudējuma pensiju kā īstajiem bērniem.
+
+   23.pants. Apgādnieka zaudējuma pensijas aprēķināšana
+
+   (1) Šā likuma 19.pantā norādītajiem mirušā apgādnieka ģimenes locekļiem apgādnieka
+   zaudējuma pensiju aprēķina no apgādnieka iespējamās vecuma pensijas šādā apmērā:
+
+   1) vienam bērnam — 50 procenti no pensijas;
+
+   2) diviem bērniem — 75 procenti no pensijas;
+
+   3) trim un vairāk bērniem — 90 procenti no pensijas, bet ne mazāk par 50 procentiem
+   no valsts sociālā nodrošinājuma pabalsta apmēra katram bērnam.
+
+   (2) Bērniem, kuri zaudējuši abus vecākus, apgādnieka zaudējuma pensiju aprēķina šā
+   panta pirmajā daļā noteiktajā kārtībā no tēva un mātes iespējamām vecuma pensijām.
+   Par abiem vecākiem piešķirtās apgādnieka zaudējuma pensijas kopējais apmērs nedrīkst
+   būt mazāks par šā panta ceturtajā daļā noteikto apmēru, ievērojot to, ka apgādnieka
+   zaudējuma pensijas apmērs par katru no mirušajiem vecākiem nedrīkst būt mazāks par
+   50 procentiem no valsts sociālā nodrošinājuma pabalsta katram bērnam.
+
+   (3) Iespējamā vecuma pensija aprēķināma šā likuma 12.panta pirmajā un otrajā daļā
+   noteiktajā kārtībā, pieņemot, ka līdz mēnesim, kurā apgādnieks sasniegtu vecuma
+   pensijas piešķiršanai nepieciešamo vecumu, ir veiktas apdrošināšanas iemaksas no
+   tādas apdrošināšanas iemaksu algas, kāda apgādniekam vidēji bija darba vai tam
+   pielīdzinātajos periodos, bet tad, ja vidējā apdrošināšanas iemaksu alga šajos
+   periodos ir bijusi mazāka par 40 procentiem no valstī noteiktās vidējās
+   apdrošināšanas iemaksu algas (kalendāra gadā, kas beidzas gadu pirms tā gada, kurā
+   tiek piešķirta pensija), vai arī tad, ja apgādniekam pēc šā likuma spēkā stāšanās
+   vispār nav bijis darba un tam pielīdzināto periodu, — no valstī noteiktās vidējās
+   apdrošināšanas iemaksu algas 40 procentiem (kalendāra gadā, kas beidzas gadu pirms
+   tā gada, kurā tiek piešķirta pensija).
+
+   (4) Šajā pantā noteiktajā kārtībā aprēķinātās pensijas kopējais apmērs nedrīkst būt
+   mazāks par valsts sociālā nodrošinājuma pabalsta apmēru.
+
+   (5) Ja apgādnieka zaudējuma pensijas apmērs, kas aprēķināts, ievērojot apgādnieka
+   apdrošināšanas iemaksas, nesasniedz šā panta pirmajā daļā noteikto apmēru, starpība
+   tiek segta no valsts pamatbudžeta Ministru kabineta noteiktajā kārtībā.
+
+   (6) Ja apgādnieka zaudējuma pensija par vienu no vecākiem ir jau piešķirta
+   (neatkarīgi no tās piešķiršanas laika), tā netiek pārrēķināta, zaudējot otru no
+   vecākiem. Par otru no vecākiem apgādnieka zaudējuma pensijas daļu piešķir termiņos,
+   kādi norādīti šā likuma 30.panta ceturtajā daļā, un aprēķina kārtībā, kāda noteikta
+   šā panta pirmajā daļā, ievērojot nosacījumus, kādi attiecībā uz apgādnieka zaudējuma
+   pensijas apmēru minēti šā panta otrajā daļā.
+
+   (7) Apgādnieka zaudējuma pensijas saņēmējam ir tiesības pieprasīt no kopējā pensijas
+   apmēra izdalīt viņam pienākošos pensijas daļu. Pensijas daļu izdala šā likuma
+   30.panta ceturtajā daļā noteiktajos termiņos, ņemot vērā jau izmaksātās pensijas
+   summas.
+
+   (Ar grozījumiem, kas izdarīti ar 06.11.1996., 21.10.1998. un 20.12.2001. likumu, kas
+   stājas spēkā 01.01.2002.)
+
+   24.pants. Valsts pensijas apmēra palielināšana sakarā ar apdrošināšanas iemaksu
+   veikšanu par periodu pēc pensijas piešķiršanas
+
+   (1) Ja par periodu pēc vecuma vai invaliditātes pensijas piešķiršanas ir veiktas vai
+   bija jāveic apdrošināšanas iemaksas ne mazāk kā 12 mēnešus, piešķirtā pensija,
+   pamatojoties uz tās saņēmēja pieprasījumu, pārrēķināma, bet ne biežāk kā reizi
+   trijos gados.
+
+   (2) Pārrēķināto vecuma pensiju veido agrāk piešķirtā (pārrēķinātā) pensija, neņemot
+   vērā šā likuma 12.panta otrajā daļā minētos nosacījumus, un pensija, kas saskaņā ar
+   šā likuma 12.panta pirmajā daļā noteikto kārtību aprēķināta, ņemot vērā pensijas
+   kapitālu, ko persona uzkrājusi gada vai ilgākā laikā pēc pensijas piešķiršanas
+   (pārrēķināšanas).
+
+   (3) (Izslēgta ar 05.08.1999. likumu)
+
+   (4) (Izslēgta ar 05.08.1999. likumu)
+
+   (Ar grozījumiem, kas izdarīti ar 06.11.1996., 27.12.1996., 05.08.1999. un
+   20.12.2001. likumu, kas stājas spēkā 01.01.2002.)
+
+   24.^1 pants. Valsts pensijas apmēra palielināšana sakarā ar pievienoto fondētās
+   pensijas kapitālu un papildpensijas kapitālu
+
+   Valsts pensiju šā likuma 24.panta otrajā daļā noteiktajā kārtībā ir tiesības
+   pārrēķināt sakarā ar pievienoto fondētās pensijas kapitālu un papildpensijas
+   kapitālu neatkarīgi no to uzkrāšanas ilguma.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   25.pants. Piešķirtās valsts pensijas pārrēķināšanas gadījumi un termiņi
+
+   (1) Tiesības uz valsts pensijas palielināšanu var iegūt sakarā ar:
+
+   1) apdrošināšanas iemaksu papildināšanu šā likuma 24.pantā noteiktajā kārtībā;
+
+   2) to ģimenes locekļu skaita palielināšanos, kuriem ir tiesības uz apgādnieka
+   zaudējuma pensiju;
+
+   3) fondētās pensijas kapitāla pievienošanu;
+
+   4) papildpensijas kapitāla pievienošanu.
+
+   (2) Ja ir iegūtas tiesības uz valsts pensijas palielināšanu, pensiju pārrēķina šādos
+   termiņos:
+
+   1) šā panta pirmās daļas 1.punktā noteiktajā gadījumā — ar tā mēneša pirmo dienu,
+   kurā pensionārs pieprasījis pārrēķināt pensiju, ja attiecīgo iesniegumu un visus
+   nepieciešamos dokumentus viņš iesniedzis līdz 15.datumam ieskaitot, un ar nākamā
+   mēneša pirmo dienu, ja iesniegums un visi nepieciešamie dokumenti iesniegti pēc
+   15.datuma;
+
+   2) šā panta pirmās daļas 2.punktā noteiktajā gadījumā — šā likuma 30.panta ceturtajā
+   daļā noteiktajā termiņā;
+
+   3) šā panta pirmās daļas 3.punktā noteiktajā gadījumā — ar dienu, kad pensionārs
+   pieprasījis pārrēķināt pensiju;
+
+   4) šā panta pirmās daļas 4.punktā noteiktajā gadījumā — ar dienu, kad papildpensijas
+   kapitāls ieskaitīts valsts pensiju speciālajā budžetā.
+
+   (3) Ja ir samazinājies ģimenes locekļu skaits, kuriem ir tiesības uz apgādnieka
+   zaudējuma pensiju, apgādnieka zaudējuma pensiju pārrēķina ar dienu, kad minētie
+   apstākļi iestājušies.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   26.pants. Valsts pensijas palielināšana atkarībā no patēriņa cenu un apdrošināšanas
+   iemaksu algas indeksa izmaiņām
+
+   Valsts pensijas apmērs pārskatāms Ministru kabineta noteiktajā kārtībā ik gadu,
+   ņemot vērā faktisko patēriņa cenu indeksu un 50 procentus no apdrošināšanas iemaksu
+   algas reālā pieauguma indeksa.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   26.^1 pants. Vidējā apdrošināšanas iemaksu alga
+
+   Vidējo apdrošināšanas iemaksu algu nosaka Labklājības ministrija.
+
+   (21.10.1998. likuma redakcijā, kas stājas spēkā 01.01.1999.)
+
+   III nodaļa
+   Valsts pensijas piešķiršana
+
+   27.pants. Valsts pensijas pieprasīšanas kārtība
+
+   Pensijas pieprasījums un pensijas piešķiršanai nepieciešamie dokumenti personīgi vai
+   ar darba devēja starpniecību iesniedzami Valsts sociālās apdrošināšanas aģentūras
+   filiālei pēc pensijas pieprasītāja dzīvesvietas.
+
+   (Ar grozījumiem, kas izdarīti ar 20.11.1997. un 05.08.1999. likumu, kas stājas spēkā
+   07.12.1999. Sk. 05.08.1999. likuma Pārejas noteikumus.)
+
+   28.pants. Valsts pensiju piešķiršana un pārrēķināšana Valsts sociālās apdrošināšanas
+   aģentūras filiālē
+
+   (1) Pensijas pieprasījumu un pensijas piešķiršanai (pārrēķināšanai) nepieciešamos
+   dokumentus, kā arī datus par pensijas pieprasītāja veikto apdrošināšanas iemaksu
+   periodu un apjomu izskata Valsts sociālās apdrošināšanas aģentūras filiāle, un tās
+   vadītājs pieņem attiecīgu lēmumu.
+
+   (2) Ja pensijas pieprasījums tiek noraidīts, lēmumā norādāmi atteikuma iemesli.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   29.pants. Valsts sociālās apdrošināšanas aģentūras filiāles lēmuma pārsūdzēšanas
+   kārtība
+
+   (1) Sūdzību sakarā ar Valsts sociālās apdrošināšanas aģentūras filiāles lēmumu var
+   iesniegt Valsts sociālās apdrošināšanas aģentūrai.
+
+   (2) Strīdi par šajā likumā paredzēto tiesību realizēšanu izskatāmi tiesā likumā
+   noteiktajā kārtībā.
+
+   (Ar grozījumiem, kas izdarīti ar 20.11.1997. un 05.08.1999. likumu, kas stājas spēkā
+   07.12.1999. Sk. 05.08.1999. likuma Pārejas noteikumus.)
+
+   30.pants. Valsts pensijas piešķiršanas termiņi
+
+   (1) Vecuma pensiju piešķir uz mūžu.
+
+   (2) Invaliditātes pensiju piešķir uz visu Veselības un darbspēju ekspertīzes ārstu
+   komisijas noteikto invaliditātes laiku, bet ne ilgāk kā līdz šā likuma 11.pantā
+   noteiktā vecuma sasniegšanai.
+
+   (3) Apgādnieka zaudējuma pensiju piešķir uz laiku, kamēr mirušā ģimenes loceklis
+   tiek uzskatīts par darba nespējīgu saskaņā ar šā likuma 19. pantu.
+
+   (4) Pensiju piešķir ar dienu, kad radušās tiesības uz pensiju, taču ne agrāk kā 12
+   mēnešus pirms pensijas pieprasījuma un pensijas piešķiršanai nepieciešamo dokumentu
+   iesniegšanas dienas.
+
+   (5) Pensija, uz kuru likumā noteiktajos gadījumos ir zaudētas tiesības, atjaunojama
+   ar dienu, kad no jauna iegūtas tiesības uz to. Atjaunojot pensijas izmaksu, pensija
+   pārskatāma saskaņā ar šā likuma 26.pantu. Ja no pensijas izmaksas pārtraukšanas
+   dienas pagājuši vairāk nekā trīs gadi, pensiju piešķir no jauna.
+
+   (6) Valsts pensija, kuras izmaksa pārtraukta, pamatojoties uz pensijas saņēmēja
+   iesniegumu, atjaunojama (neatkarīgi no izmaksas pārtraukšanas laika) ar dienu, kad
+   saņemts iesniegums par pensijas izmaksas atjaunošanu. Atjaunotā pensija par laiku,
+   kad tās izmaksa bija pārtraukta, pārskatāma saskaņā ar šā likuma 26.pantu.
+
+   (Ar grozījumiem, kas izdarīti ar 20.11.1997., 05.08.1999. un 20.12.2001. likumu, kas
+   stājas spēkā 01.01.2002. Sestā daļa atzīta par spēkā neesošu no spēkā stāšanās brīža
+   attiecībā uz tām personām, kurām pensijas izmaksa tika pārtraukta uz personas
+   iesnieguma pamata saskaņā ar likuma "Par valsts pensijām" pārejas noteikumu
+   16.punkta 11.apakšpunktu, ar Satversmes tiesas 25.10.2004. spriedumu, kas stājas
+   spēkā 26.10.2004.)
+
+   31.pants. Valsts pensijas piešķiršanas termiņš sakarā ar pensijas veida maiņu
+
+   Pārejot no viena valsts pensijas veida uz otru, jaunā veida valsts pensijas
+   piešķiršanas termiņš nosakāms saskaņā ar šā likuma 30.panta noteikumiem.
+
+   IV nodaļa
+   Valsts pensijas izmaksa
+
+   32.pants. Valsts pensijas izmaksāšanas kārtība
+
+   (1) Valsts pensijas izmaksājamas katru mēnesi. Valsts pensija pēc pensijas saņēmēja
+   pieprasījuma pārskaitāma viņa norādītajā Latvijas Republikas kredītiestādes vai
+   pasta norēķinu sistēmas (PNS) kontā, izmaksājama pakalpojuma sniedzēja noteiktajā
+   izmaksas vietā vai piegādājama pensijas saņēmēja dzīvesvietā. Pieprasījums
+   pārskaitīt pensiju kontā atjaunojams reizi 12 mēnešos.
+
+   (2) Pensijas saņēmējs var pilnvarot citu personu saņemt pensiju. Nepārtraukti pēc
+   vienas pilnvaras pensija izmaksājama ne ilgāk par sešiem mēnešiem.
+
+   (3) (Izslēgta ar 05.08.1999. likumu.)
+
+   (4) (Izslēgta ar 20.12.2001. likumu.)
+
+   (Ar grozījumiem, kas izdarīti ar 05.08.1999., 04.11.1999. un 20.12.2001. likumu, kas
+   stājas spēkā 01.01.2002.)
+
+   33.pants. Avansi
+
+   Ja apdrošinātajai personai ir tiesības uz pensiju, bet ir paredzams, ka tās apmēra
+   noteikšanai būs nepieciešams ilgs laiks (arhīva izziņu saņemšanai par apdrošināšanas
+   stāžu), pensijas pieprasītājam var piešķirt un izmaksāt pensiju avansa veidā,
+   nepārsniedzot minimālās vecuma pensijas mēneša apmēru. Avansu izmaksā, ja
+   apdrošinātā persona, kurai ir tiesības uz pensiju, to pieprasa. Avansa izmaksu uzsāk
+   ne vēlāk kā nākamajā mēnesī pēc pensijas pieprasījuma saņemšanas dienas un turpina
+   izmaksāt ne ilgāk par sešiem mēnešiem.
+
+   (Ar grozījumiem, kas izdarīti ar 20.12.2001. likumu, kas stājas spēkā 01.01.2002.)
+
+   34. pants. Valsts pensijas saņēmēja pienākumi
+
+   Valsts pensijas saņēmēja pienākums ir ziņot Valsts sociālās apdrošināšanas aģentūras
+   filiālei par tādu apstākļu iestāšanos, kas izraisa pensijas izmaksas pārtraukšanu
+   vai grozījumus izmaksājamās pensijas apmērā.
+
+   (Ar grozījumiem, kas izdarīti ar 20.11.1997. un 05.08.1999. likumu, kas stājas spēkā
+   07.12.1999. Sk. 05.08.1999. likuma Pārejas noteikumus.)
+
+   35.pants. Valsts pensijas izmaksa par pagājušo laiku
+
+   (1) Aprēķinātās valsts pensijas summas, ko pensijas saņēmējs laikā nav saņēmis,
+   izmaksā par pagājušo laiku, bet ne ilgāku par trim gadiem pirms pensijas
+   pieprasījuma iesniegšanas dienas.
+
+   (2) Ja aprēķinātās valsts pensijas summas nav laikā saņemtas tās iestādes vainas
+   dēļ, kura piešķir vai izmaksā pensiju, pensijas summas reizina ar inflācijas
+   pieauguma koeficientu šajā laika periodā.
+
+   36.pants. Ieturējumi no valsts pensijas
+
+   (1) Ieturējumus no valsts pensijas var izdarīt:
+
+   1) pamatojoties uz tiesas nolēmumiem un citu institūciju (amatpersonu) lēmumiem,
+   kurus saskaņā ar likumu izpilda tiesas nolēmumu izpildīšanai noteiktajā kārtībā;
+
+   2) pamatojoties uz institūciju (amatpersonu) lēmumiem, kuri izpildāmi bezstrīda
+   kārtībā;
+
+   3) pamatojoties uz Valsts sociālās apdrošināšanas aģentūras filiāles vadītāja
+   rīkojumu, lai piedzītu tās pensijas summas, kas pensionāram pārmaksātas viņa vainas
+   dēļ. Šajā gadījumā ik mēnesi ieturami ne vairāk kā 10 procenti no izmaksājamās
+   pensijas.
+
+   (2) Ieturējumi no valsts pensijas aprēķināmi no pensijas saņēmējam izmaksājamās
+   summas. Kopējā ieturējumu summa mēnesī nedrīkst pārsniegt 50 procentus no pensijas.
+   Ja pensijas izmaksa tiek izbeigta pirms parāda dzēšanas, sociālās apdrošināšanas
+   iestādes atlikušo parāda daļu piedzen likumā noteiktajā kārtībā. Ieturējumus no
+   invaliditātes pensijas izdara no summas, kura pārsniedz valsts sociālā nodrošinājuma
+   pabalstu.
+
+   (Ar grozījumiem, kas izdarīti ar 20.11.1997., 05.08.1999. un 20.12.2001. likumu, kas
+   stājas spēkā 01.01.2002.)
+
+   37.pants. Sakarā ar pensijas saņēmēja nāvi nesaņemtās pensijas un apbedīšanas
+   pabalsta izmaksāšana
+
+   (1) Izmaksai aprēķinātās pensijas summas, kas nav izmaksātas līdz pensionāra nāvei,
+   ir tiesības saņemt pensijas saņēmēja laulātajam un visiem pirmās un otrās pakāpes
+   radiniekiem.
+
+   (2) Pensijas saņēmēja nāves gadījumā viņa ģimenei vai personai, kas uzņēmusies
+   apbedīšanu, izmaksā apbedīšanas pabalstu divu mēnešu pensijas apmērā.
+
+   38.pants. Pensijas izmaksa personām, kuras izbrauc uz ārvalstīm
+
+   Personām, kuras izbrauc uz pastāvīgu dzīvi ārvalstīs, Latvijas Republikā piešķirtās
+   valsts pensijas izmaksa turpināma Ministru kabineta noteiktajā kārtībā, ja
+   starptautiskajos līgumos, ko apstiprinājusi Saeima, nav noteikts citādi.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   Pārejas noteikumi
+
+   1. Latvijas pilsoņiem, repatriantiem, viņu ģimenes locekļiem un pēcnācējiem līdz
+   1991.gada 1.janvārim Latvijā un ārpus Latvijas uzkrātie darba un tam pielīdzinātie
+   periodi veido apdrošināšanas stāžu, kas nepieciešams valsts pensijas piešķiršanai
+   (pārrēķināšanai), neatkarīgi no sociālās apdrošināšanas iemaksu izdarīšanas.
+   Ārvalstniekiem un bezvalstniekiem, kuru pastāvīgā dzīvesvieta 1991.gada 1.janvārī
+   bija Latvija, apdrošināšanas stāžu veido Latvijā uzkrātie darba un tam pielīdzinātie
+   periodi, kā arī ārpus Latvijas uzkrātie darbam pielīdzinātie periodi, kuri minēti šā
+   punkta 4., 5. un 10. apakšpunktā. Līdz 1991.gada 1.janvārim, bet šā punkta
+   11.apakšpunktā minētajā gadījumā — līdz 1996.gada 1.janvārim apdrošināšanas stāžu
+   veido šādi darbam pielīdzinātie periodi:
+
+   1) obligātais aktīvais militārais dienests;
+
+   2) virsdienests karavīriem un dienests virsniekiem Latvijas Republikas armijā,
+   Latvijas pilsoņiem — arī PSRS Bruņotajos spēkos, ja viņiem sakarā ar darbību
+   Latvijas interesēs atņemta dienesta pakāpe vai viņi iesaukti aktīvajā militārajā
+   dienestā pēc obligātā karadienesta vai pēc civilās augstskolas beigšanas, ja nesaņem
+   citas valsts pensiju, kuras apmēra noteikšanā ir ņemts vērā šis dienesta periods;
+
+   3) dienests ierindas un komandējošā sastāva amatos iekšlietu iestādēs, izņemot VDK;
+
+   4) mācību laiks augstākajās mācību iestādēs, kā arī citās mācību iestādēs pēc
+   vidējās izglītības iegūšanas;
+
+   5) mācību laiks aspirantūras dienas nodaļā, pēcdiploma izglītības un kvalifikācijas
+   paaugstināšanas laiks;
+
+   6) individuālais darbs;
+
+   7) laiks, kad kopts I grupas invalīds vai bērns invalīds līdz 16 gadu vecumam, kā
+   arī cilvēks, kas sasniedzis 80 gadu vecumu;
+
+   8) laiks, kad māte audzinājusi bērnu līdz 8 gadu vecumam;
+
+   9) algots darbs reliģiskajās organizācijās;
+
+   10) politiski represēto ieslodzījuma vietās, nometinājumā, tajā skaitā PSRS
+   Iekšlietu ministrijas Galvenās rūpniecības uzņēmumu celtniecības pārvaldes nr.907
+   pārzinātajos darbos, un izsūtījumā, kā arī bēgšanā no šīm vietām pavadītais laiks
+   trīskāršā apmērā, bet Galējos Ziemeļos un tiem pielīdzinātajos rajonos — pieckārtīgā
+   apmērā. Rajonus, kas uzskatāmi par Galējo Ziemeļu un tiem pielīdzinātajiem rajoniem,
+   nosaka Ministru kabinets. Tām personām, kurām šis stāžs noteikts seškārtīgā apmērā,
+   aprēķinātais stāžs tiek saglabāts;
+
+   11) laiks, kad apdrošinātā persona atzīta par invalīdu un nestrādā (arī sakarā ar
+   nelaimes gadījumu darbā vai arodslimību), bet ne ilgāk kā līdz vecuma pensijas
+   piešķiršanai nepieciešamā vecuma sasniegšanai; minētais laiks ņemams vērā tikai
+   vecuma pensijas sākuma kapitāla aprēķināšanai.
+
+   (Ar grozījumiem, kas izdarīti ar 06.11.1996., 27.12.1996., 20.11.1997. un
+   20.12.2001. likumu, kas stājas spēkā 01.01.2002.)
+
+   2. No 1991. gada 1. janvāra līdz šā likuma spēkā stāšanās dienai apdrošināšanas
+   stāžu, kas nepieciešams valsts pensijas piešķiršanai (pārrēķināšanai), veido darbs
+   vai tam pielīdzinātie nodarbinātības periodi, kuru laikā kārtotas sociālās
+   apdrošināšanas iemaksas. Apdrošināšanas stāžam pielīdzināti šādi nodarbinātības
+   periodi:
+
+   1) obligātais aktīvais militārais dienests un alternatīvais dienests;
+
+   2) virsdienests karavīriem un dienests virsniekiem Latvijas Republikas armijā,
+   Latvijas pilsoņiem — arī PSRS Bruņotajos spēkos, ja viņiem sakarā ar darbību
+   Latvijas interesēs atņemta dienesta pakāpe;
+
+   3) dienests ierindas un komandējošā sastāva amatos iekšlietu iestādēs, izņemot VDK;
+
+   4) mācību laiks augstākajās mācību iestādēs, kā arī citās mācību iestādēs pēc
+   vidējās izglītības iegūšanas;
+
+   5) pēcdiploma izglītības un kvalifikācijas paaugstināšanas laiks;
+
+   6) laiks, kad kopts I grupas invalīds vai bērns invalīds līdz 16 gadu vecumam, kā
+   arī cilvēks, kas sasniedzis 80 gadu vecumu;
+
+   7) laiks, kad māte audzinājusi bērnu līdz 8 gadu vecumam.
+
+   (Ar grozījumiem, kas izdarīti ar 27.12.1996. un 20.12.2001. likumu, kas stājas spēkā
+   01.01.2002.)
+
+   2.^1 Šo pārejas noteikumu 1. un 2.punktā noteikto periodu aprēķināšanas,
+   pierādīšanas un uzskaites kārtību nosaka Ministru kabinets.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   3. Izdevumi, kas saistīti ar šo pārejas noteikumu 1. un 2.punktā minēto periodu
+   iekļaušanu pensiju aprēķināšanā, sedzami no valsts pensiju speciālā budžeta, izņemot
+   izdevumus, kas saistīti ar šo pārejas noteikumu 1.punkta 10.apakšpunktā noteiktajiem
+   atvieglojumiem. Izdevumi, kas saistīti ar pensijas apmēra palielināšanu, piemērojot
+   šo pārejas noteikumu 1.punkta 10.apakšpunktā, kā arī 10.punkta 3.un 4.apakšpunktā
+   noteiktos atvieglojumus, ar 2003.gada 1.janvāri sedzami no valsts pamatbudžeta
+   līdzekļiem Ministru kabineta noteiktajā kārtībā.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   4. Apdrošināšanas iemaksas no sociālās apdrošināšanas budžeta līdzekļiem tiek
+   izdarītas:
+
+   1) par personu, kurai piešķirts bezdarbnieka statuss un kura saņem bezdarbnieka
+   pabalstu, līdz likuma "Par obligāto sociālo apdrošināšanu bezdarba gadījumam" spēkā
+   stāšanās dienai;
+
+   2) par nestrādājošu personu, kura atzīta par invalīdu sakarā ar nelaimes gadījumu
+   darbā vai arodslimību pirms likuma "Par obligāto sociālo apdrošināšanu pret nelaimes
+   gadījumiem darbā un arodslimībām" spēkā stāšanās dienas.
+
+   (27.12.1996. likuma redakcijā, kas stājas spēkā 07.01.1997.)
+
+   5. Personai, kura līdz likuma "Par obligāto sociālo apdrošināšanu pret nelaimes
+   gadījumiem darbā un arodslimībām" spēkā stāšanās dienai atzīta par invalīdu sakarā
+   ar nelaimes gadījumu darbā vai arodslimību, vai tās nāves gadījumā personai, kas
+   bijusi tās apgādībā, invaliditātes pensija vai apgādnieka zaudējuma pensija
+   piešķirama un izmaksājama saskaņā ar likumu "Par valsts pensijām". Tas attiecas arī
+   uz personu:
+
+   1) kurai invaliditāte sakarā ar nelaimes gadījumu darbā vai arodslimību noteikta pēc
+   1997.gada 1.janvāra, bet šī persona cietusi nelaimes gadījumā darbā vai strādājusi
+   apstākļos, kas ir cēlonis arodslimībai, līdz šim termiņam;
+
+   2) kuras apgādnieks miris pēc 1997.gada 1.janvāra, bet viņa nāves cēlonis bija līdz
+   šim termiņam notikušais nelaimes gadījums darbā vai arodslimība.
+
+   (27.12.1996. likuma redakcijā ar grozījumiem, kas izdarīti ar 20.11.1997. likumu,
+   kas stājas spēkā 01.01.1998.)
+
+   6. Par apdrošināto personu iemaksu periodos, kas minēti šā likuma 9.panta trešajā
+   daļā, apdrošināšanas iemaksas līdz 1997.gadam tiek izdarītas no sociālās
+   apdrošināšanas budžeta līdzekļiem, bet no 1997.gada — no valsts pamatbudžeta
+   līdzekļiem.
+
+   7. Pārejas periodā apdrošināšanas stāžu apliecinoši dokumenti ir:
+
+   1) darba grāmatiņa;
+
+   2) darba līgumu grāmatiņa;
+
+   3) dokuments, kas apliecina apdrošināšanas iemaksu izdarīšanu;
+
+   4) citi dokumenti, kas apliecina apdrošināšanas stāžu (izziņas, darba līgumi un to
+   izpildi apliecinoši dokumenti u.c.).
+
+   8. Vecuma pensijas piešķiršanai nepieciešamais vecums, kāds līdz šā likuma spēkā
+   stāšanās dienai bija noteikts 1990.gada 29.novembra likuma "Par valsts pensijām"
+   8.panta otrajā punktā un 9. — 12.pantā, 1996.gadā ir paaugstināms par vienu gadu, un
+   ar katra nākamā gada 1.jūliju tas pieaug par sešiem mēnešiem, līdz tiek sasniegts 62
+   gadu vecums.
+
+   Vecuma pensijas piešķiršanai nepieciešamais vecums vīriešiem — no 60 līdz 62 gadiem
+   — ar 2000.gada 1.janvāri pieaug pakāpeniski — ar katra gada 1.janvāri par sešiem
+   mēnešiem.
+
+   (Ar grozījumiem, kas izdarīti ar 05.08.1999., 04.11.1999. un 20.12.2001. likumu, kas
+   stājas spēkā 01.01.2002.)
+
+   9. Izdarot grozījumus apdrošināšanas iemaksu tarifos, pārtraucama turpmāka
+   apdrošināšanas stāža noteikšana, kas dod tiesības uz pensiju ar atvieglotiem
+   noteikumiem par darbu sevišķi kaitīgos un sevišķi smagos darba apstākļos vai
+   kaitīgos un smagos darba apstākļos, saglabājot tiesības uz pensiju ar atvieglotiem
+   noteikumiem par agrāk nostrādāto laiku, ievērojot vecumu, kāds norādīts šo pārejas
+   noteikumu 8.punktā.
+
+   10. Piešķirot pensiju šajā likumā noteiktajā kārtībā (ievērojot nosacījumus, kādi
+   norādīti šā punkta 1.apakšpunktā), tās aprēķināšanai uzkrātais pensijas kapitāls
+   līdz 2006.gadam indeksējams pēc šajā punktā noteiktajiem koeficientiem šādos
+   gadījumos:
+
+   1) to tiesību kompensēšanai, kas līdz šā likuma spēkā stāšanās dienai bija noteiktas
+   1990.gada 29.novembra likuma "Par valsts pensijām" 9.— 11.pantā un 12.panta 1. un
+   2.punktā, ja nav sasniegts 62 gadu vecums un ievēroti šādi nosacījumi:
+
+   +----------------------------------------------------------------------------------+
+   | Kategorijas un nosacījumi                  | Koeficients | Koeficients sievietēm |
+   |                                            |  vīriešiem  |                       |
+   |--------------------------------------------+-------------+-----------------------|
+   | Invalīdi uz mūžu ar apdrošināšanas stāžu   |             |                       |
+   | ne mazāku: vīriešiem — par 25 gadiem,      |    1,09     |          1,1          |
+   | sievietēm — par 20 gadiem                  |             |                       |
+   |--------------------------------------------+-------------+-----------------------|
+   | Sievietes, kurām ir pieci vai vairāk bērni |             |                       |
+   | vai bērns invalīds kopš bērnības un kuras  |             |                       |
+   | ir izaudzinājušas bērnus līdz 8 gadu       |      —      |          1,1          |
+   | vecumam, ar apdrošināšanas stāžu ne mazāku |             |                       |
+   | par 20 gadiem                              |             |                       |
+   |--------------------------------------------+-------------+-----------------------|
+   | Liliputi, punduri un neredzīgie ar         |             |                       |
+   | apdrošināšanas stāžu ne mazāku: vīriešiem  |    1,33     |         1,37          |
+   | — par 20 gadiem, sievietēm — par 15 gadiem |             |                       |
+   |--------------------------------------------+-------------+-----------------------|
+   | Personas, kuras ir strādājušas darbos ar   |             |                       |
+   | sevišķi kaitīgiem un sevišķi smagiem darba |             |                       |
+   | apstākļiem, ar apdrošināšanas stāžu ne     |             |                       |
+   | mazāku: vīriešiem — par 20 gadiem,         |     1,2     |         1,22          |
+   | sievietēm — par 15 gadiem, ja vismaz       |             |                       |
+   | ceturtā daļa no tiem nostrādāti darbos ar  |             |                       |
+   | sevišķi kaitīgiem un sevišķi smagiem darba |             |                       |
+   | apstākļiem                                 |             |                       |
+   |--------------------------------------------+-------------+-----------------------|
+   | Personas, kuras ir strādājušas darbos ar   |             |                       |
+   | kaitīgiem un smagiem darba apstākļiem, ar  |             |                       |
+   | apdrošināšanas stāžu ne mazāku: vīriešiem  |             |                       |
+   | — par 25 gadiem, sievietēm — par 20        |    1,09     |          1,1          |
+   | gadiem, ja vismaz ceturtā daļa no tiem     |             |                       |
+   | nostrādāti darbos ar kaitīgiem un smagiem  |             |                       |
+   | darba apstākļiem                           |             |                       |
+   +----------------------------------------------------------------------------------+
+
+   2) piešķirot apgādnieka zaudējuma pensiju bērniem, kas pēc Černobiļas AES avārijas
+   dzimuši tās seku likvidēšanas dalībnieku ģimenēs, pensijas aprēķināšanai mirušā
+   apgādnieka iespējamais pensijas kapitāls indeksējams ar koeficientu 1,1;
+
+   3) piešķirot vecuma pensiju politiski represētajām personām ar apdrošināšanas stāžu
+   vīriešiem — ne mazāku par 25 gadiem, sievietēm — ne mazāku par 20 gadiem, to
+   uzkrātais pensijas kapitāls indeksējams ar koeficientu 1,1;
+
+   4) sakarā ar politiski represētās personas statusa iegūšanu piešķirtā valsts pensija
+   pārrēķināma, ņemot vērā papildus pierādīto apdrošināšanas stāžu un ievērojot šā
+   punkta 3.apakšpunktā vai 16.punkta 7.apakšpunktā noteikto. Pensija pārrēķināma šā
+   likuma 25.panta otrās daļas 1.punktā noteiktajos termiņos.
+
+   (Ar grozījumiem, kas izdarīti ar 20.11.1997., 05.08.1999. un 20.12.2001. likumu, kas
+   stājas spēkā 01.01.2002.)
+
+   11. Nosakot tiesības uz koeficientu pensijai par darbu sevišķi kaitīgos un sevišķi
+   smagos darba apstākļos vai kaitīgos un smagos darba apstākļos Latvijas teritorijā,
+   piemērojami saraksti, kas līdz šā likuma spēkā stāšanās dienai noteica ražotņu,
+   darbu un profesiju atbilstību darbam, kas dod tiesības uz pensiju ar atvieglotiem
+   noteikumiem.
+
+   12. Pārtraukt ar 1998.gada 1.janvāri apdrošināšanas stāža noteikšanu, kas dod
+   tiesības uz izdienas pensiju saskaņā ar nolikumu "Par iekšlietu iestāžu ierindas un
+   komandējošā sastāva darbinieku pensijām (darba devēju pensijām)", bet ar 1999.gada
+   1.janvāri — apdrošināšanas stāža noteikšanu, kas dod tiesības uz izdienas pensiju
+   saskaņā ar nolikumu "Par izdienas pensijām".
+
+   Personām, kuras līdz 1999.gada 1.janvārim nostrādājušas attiecīgajās profesijās ne
+   mazāk kā trīs ceturtdaļas no apdrošināšanas stāža, kas saskaņā ar nolikumu "Par
+   izdienas pensijām" nepieciešams attiecīgās izdienas pensijas piešķiršanai,
+   saglabājas tiesības uz izdienas pensiju, ja ir ievēroti pārējie minētajā nolikumā
+   noteiktie nosacījumi. Izdienas pensiju izmaksā no valsts pensiju speciālā budžeta.
+
+   Personām, kurām izdienas pensija piešķirta saskaņā ar nolikumu "Par izdienas
+   pensijām" un kuras šā likuma 11.panta pirmajā daļā noteikto vecumu sasniegušas pēc
+   šā likuma spēkā stāšanās dienas, izdienas pensijas vietā piešķirama vecuma pensija.
+   Tā nedrīkst būt mazāka par izdienas pensiju, kas saņemta līdz vecuma pensijas
+   piešķiršanas brīdim.
+
+   Līdz 1998.gada 1.janvārim saskaņā ar nolikumu "Par iekšlietu iestāžu ierindas un
+   komandējošā sastāva darbinieku pensijām (darba devēju pensijām)" piešķirto izdienas
+   pensiju izmaksa turpināma no valsts pensiju speciālā budžeta.
+
+   No valsts pensiju speciālā budžeta izmaksājamās izdienas pensijas pārskatāmas
+   atbilstoši kārtībai, kādu nosaka šā likuma 26.pants, ievērojot šo pārejas noteikumu
+   15.punktu.
+
+   (20.11.1997. likuma redakcijā, kas stājas spēkā 01.01.1998.)
+
+   13. Pārejas periodā, kad valsts pensija tiek aprēķināta saskaņā ar šā likuma
+   12.panta pirmās daļas noteikumiem, ņemami vērā šādi noteikumi:
+
+   apdrošināšanas periods līdz 1995.gadam (ieskaitot) tiks kreditēts ar sākuma kapitālu
+   (Ks), ko var palielināt ar turpmākām iemaksām saskaņā ar šā likuma 12.panta pirmās
+   daļas noteikumiem:
+
+                                     Ks=Vi x As x 0.2
+
+   As — apdrošināšanas stāžs par periodu līdz 1995.gadam (ieskaitot),
+
+   Vi — gada vidējā apdrošināšanas iemaksu alga, kas ar 1997.gadu, ņemot vērā pensijas
+   kapitāla gada pieaugumu, ir piemērojama 1996.gada iemaksu algu līmenim.
+
+   Atkarībā no pensijā aiziešanas laika (ja nepieciešams, piemērojot šā likuma
+   33.pantu) vidējā apdrošināšanas iemaksu alga nosakāma šādā veidā:
+
+   Aizejot pensijā:
+
+   1996. gadā —
+
+   Vi ir vidējā apdrošināšanas iemaksu alga 1995.gadā;
+
+   1997. gadā —
+
+   Vi ir apdrošinātās personas vidējā apdrošināšanas iemaksu alga 1996. gadā. Ja
+   1996.gadā pensijas pieprasītājs ir nostrādājis mazāk par 12 mēnešiem, vidējā
+   apdrošināšanas iemaksu alga nosakāma, dalot apdrošināšanas iemaksu algu summu par
+   1996.gadā nostrādātajiem mēnešiem ar 12. Ja apdrošinātās personas apdrošināšanas
+   stāžs Latvijā nav mazāks par 30 gadiem un apdrošinātās personas vidējā
+   apdrošināšanas iemaksu alga 1996. gadā ir mazāka par 1996. gadam noteikto vidējo
+   apdrošināšanas iemaksu algu vai persona bijusi atzīta par bezdarbnieku, pensijas
+   apmēra noteikšanai ņemama vērā 1996. gadam noteiktā vidējā apdrošināšanas iemaksu
+   alga;
+
+   1998. gadā —
+
+   Vi ir apdrošinātās personas 24 mēnešu vidējā apdrošināšanas iemaksu alga laika
+   periodā no 1996.gada līdz 1998.gadam. Ja šajā periodā pensijas pieprasītājs ir
+   nostrādājis mazāk par 24 mēnešiem, vidējā apdrošināšanas iemaksu alga nosakāma,
+   dalot apdrošināšanas iemaksu algu summu ar 24. Ja apdrošinātās personas
+   apdrošināšanas stāžs Latvijā, bet politiski represētajām personām līdz 1991.gada
+   1.janvārim saskaņā ar šo pārejas noteikumu 1.punktu uzkrātais stāžs nav mazāks par
+   30 gadiem un apdrošinātās personas 24 mēnešu vidējā apdrošināšanas iemaksu alga ir
+   mazāka par 1997.gadam noteikto vidējo apdrošināšanas iemaksu algu vai persona bijusi
+   atzīta par bezdarbnieku, ņemama vērā 1997.gadam noteiktā vidējā apdrošināšanas
+   iemaksu alga;
+
+   1999.gadā — Vi ir apdrošinātās personas 36 mēnešu vidējā apdrošināšanas iemaksu alga
+   laikā no 1996.gada līdz 1999.gadam. Ja šajā periodā pensijas pieprasītājs ir
+   nostrādājis mazāk par 36 mēnešiem, vidējā apdrošināšanas iemaksu alga nosakāma,
+   dalot apdrošināšanas iemaksu algu summu ar 36. Ja apdrošinātajām personām un par
+   bezdarbniekiem atzītajām personām apdrošināšanas stāžs Latvijā, bet politiski
+   represētajām personām līdz 1991.gada 1.janvārim saskaņā ar šo pārejas noteikumu
+   1.punktu uzkrātais stāžs nav mazāks par 30 gadiem un apdrošināto personu 36 mēnešu
+   vidējā apdrošināšanas iemaksu alga ir mazāka par 1998.gada vidējo apdrošināšanas
+   iemaksu algu valstī, ņemama vērā 1998.gadam noteiktā vidējā apdrošināšanas iemaksu
+   alga;
+
+   2000.gadā un turpmākajos gados — Vi ir apdrošinātās personas 48 mēnešu vidējā
+   apdrošināšanas iemaksu alga laika periodā no 1996.gada līdz 2000.gadam. Ja šajā
+   periodā apdrošināšanas iemaksas ir veiktas mazāk par 48 mēnešiem, vidējā
+   apdrošināšanas iemaksu alga nosakāma, dalot apdrošināšanas iemaksu algu summu ar 48.
+
+   Ja pēc šā likuma spēkā stāšanās līdz pensijas pieprasīšanai apdrošināšanas iemaksas
+   nav veiktas vai veiktas pēc 2000.gada, kā arī tad, ja pensijas pieprasītāja vidējā
+   apdrošināšanas iemaksu alga attiecīgajā periodā ir mazāka par 40 procentiem no
+   valstī noteiktās vidējās apdrošināšanas iemaksu algas (kalendāra gadā, kas beidzas
+   gadu pirms tā gada, kurā tiek piešķirta pensija), — Vi no 2002.gada 1.janvāra ir 40
+   procenti no valstī noteiktās vidējās apdrošināšanas iemaksu algas (kalendāra gadā,
+   kas beidzas gadu pirms tā gada, kurā tiek piešķirta pensija).
+
+   Attiecībā uz invalīdiem piemērojama šo pārejas noteikumu 18.punktā noteiktā kārtība.
+
+   Pārejas periodā vecuma pensija aprēķināma pēc šādas formulas:
+
+                                          Ks + K
+                                         P = ————
+                                            G
+
+   P — gada pensija, kuras divpadsmitā daļa ir mēneša pensija;
+
+   Ks — sākuma kapitāls, kas noteikts šā punkta otrajā daļā;
+
+   K — pensijas kapitāls, kas noteikts šā likuma 12.panta pirmajā daļā;
+
+   G — laikposms (gados), par kuru no pensijas piešķiršanas gada tiek plānota vecuma
+   pensijas izmaksa.
+
+   (Ar grozījumiem, kas izdarīti ar 06.11.1996., 22.05.1997., 20.11.1997., 21.10.1998.
+   un 20.12.2001. likumu, kas stājas spēkā 01.01.2002.)
+
+   14. (Izslēgts ar 20.11.1997. likumu, kas stājas spēkā 01.01.1998.)
+
+   15. Līdz 2005.gada 31.decembrim valsts pensijas, kuru apmērs nepārsniedz pieckāršu
+   valsts sociālā nodrošinājuma pabalstu, pārskatāmas ik gadu, bet, ja inflācija
+   pārsniedz 3 procentus, — ik pēc pusgada, ņemot vērā faktisko patēriņa cenu indeksu
+   un apdrošināšanas iemaksu algas reālā pieauguma indeksu šādā kārtībā:
+
+   valsts pensijas, kuru apmērs nepārsniedz trīskāršu valsts sociālā nodrošinājuma
+   pabalstu, pārskatāmas, ņemot vērā faktisko patēriņa cenu indeksu un ne mazāk kā 50
+   procentus no apdrošināšanas iemaksu algas reālā pieauguma procentiem;
+
+   valsts pensijas, kuru apmērs pārsniedz trīskāršu valsts sociālā nodrošinājuma
+   pabalstu, bet nepārsniedz pieckāršu valsts sociālā nodrošinājuma pabalstu,
+   pārskatāmas, ņemot vērā faktisko patēriņa cenu indeksu.
+
+   No 2006.gada 1.janvāra līdz 2010.gada 31.decembrim valsts pensijas, kuru apmērs
+   nepārsniedz pieckāršu valsts sociālā nodrošinājuma pabalstu, pārskatāmas ik gadu,
+   ņemot vērā faktisko patēriņa cenu indeksu un ne mazāk kā 25 procentus no
+   apdrošināšanas iemaksu algas reālā pieauguma indeksa.
+
+   Pārskatot valsts pensijas, tiek pārskatīts piešķirtās pensijas apmērs.
+
+   (20.12.2001. likuma redakcijā ar grozījumiem, kas izdarīti ar 19.02.2004. likumu,
+   kas stājas spēkā 10.03.2004.)
+
+   16. Pensijas, kas piešķirtas pirms šā likuma spēkā stāšanās, bet attiecībā uz
+   invaliditātes pensiju — pirms 1997. gada 1. janvāra, netiek pārrēķinātas, izņemot
+   šādus gadījumus, kad tas tiek veikts šādā kārtībā:
+
+   1) ja papildināts līdz 1996.gada 1.janvārim uzkrātais apdrošināšanas stāžs, ja
+   ģimenes sastāvā notikušas pārmaiņas, kas skar tos ģimenes locekļus, kuriem ir
+   tiesības uz apgādnieka zaudējuma pensiju, ja mainījusies invaliditātes grupa,
+   vecuma, invaliditātes vai apgādnieka zaudējuma pensija pārrēķināma pēc formulas:
+
+                           P = 0.3 x VA + 0.004 x VA x AS x ĢL
+
+   P — pensija,
+
+   VA — pēdējā vidējā apdrošināšanas iemaksu alga, kas piemērota pensijas apmēra
+   noteikšanai pirms pensijas pārrēķināšanas,
+
+   AS — apdrošināšanas stāža pilni gadi,
+
+   ĢL — to ģimenes locekļu skaits, kuriem ir tiesības uz apgādnieka zaudējuma pensiju.
+   Tas ņemams vērā, vienīgi aprēķinot apgādnieka zaudējuma pensiju, kuras apmērs trim
+   un vairāk bērniem nedrīkst būt mazāks par 50 procentiem no valsts sociālā
+   nodrošinājuma pabalsta apmēra katram bērnam. Ja apgādnieka zaudējuma pensijas apmērs
+   trim un vairāk bērniem nesasniedz iepriekš noteikto pensijas apmēru, starpība tiek
+   segta no valsts pamatbudžeta Ministru kabineta noteiktajā kārtībā;
+
+   2) (izslēgts ar 20.12.2001. likumu);
+
+   3) pārrēķinot invaliditātes pensiju, pārrēķināma arī piemaksa pie tās, kas nosakāma
+   pie I grupas invaliditātes pensijas 12 procentu apmērā un pie II grupas
+   invaliditātes pensijas — sešu procentu apmērā no pēdējās vidējās apdrošināšanas
+   iemaksu algas, kas piemērota pensijas apmēra noteikšanai pirms pensijas
+   pārrēķināšanas;
+
+   4) sakarā ar apdrošināšanas stāžu, kas uzkrāts pēc šā likuma spēkā stāšanās, vecuma
+   pensija un izdienas pensija pārrēķināma šā likuma 24.pantā noteiktajā kārtībā;
+
+   5) pārrēķinot pensiju, ņemami vērā šā likuma 25.panta otrās daļas 1. un 2.punktā un
+   trešajā daļā noteiktie termiņi. Ja invaliditātes pensijas saņēmējam mainījusies
+   invaliditātes grupa, invaliditātes pensija pārrēķināma no dienas, kad mainīta
+   invaliditātes grupa;
+
+   6) pensija palielināma šā likuma 26.pantā noteiktajā kārtībā, ievērojot šo pārejas
+   noteikumu 15.punktu;
+
+   7) politiski represētajām personām agrāk piešķirtās vecuma pensijas un invaliditātes
+   pensijas bez piemaksas, kas noteikta šā punkta 3.apakšpunktā, pārrēķināmas,
+   piemērojot koeficientu 1,1;
+
+   8) pārejot no viena pensijas veida uz citu, personām, kuras šajā likumā noteikto
+   vecuma pensijas piešķiršanai nepieciešamo vecumu sasniegušas līdz šā likuma spēkā
+   stāšanās dienai, pensija netiek piešķirta no jauna; šajā gadījumā ņemams vērā šā
+   likuma 25.panta otrās daļas 1.punktā noteiktais termiņš un piemērojama šā punkta
+   1.apakšpunktā noteiktā pensijas aprēķināšanas kārtība;
+
+   9) pensijas izmaksa veicama šā likuma IV nodaļā noteiktajā kārtībā;
+
+   10) piešķirot pensiju no jauna, tā piešķirama šajā likumā noteiktajā kārtībā;
+
+   11) (izslēgts ar 05.08.1999. likumu);
+
+   12) apdrošinātā persona, kurai valsts pensija piešķirta līdz 1997.gada 1.janvārim un
+   kurai, pēc 1996.gada 1.janvāra nostrādājot vismaz trīs gadus, līdz 1999.gada
+   1.septembrim no jauna piešķirta pensija, kuras apmērs piešķiršanas brīdī pārsniedza
+   100 latus, turpina atmaksāt vecuma vai izdienas pensiju valsts pensiju speciālajā
+   budžetā no 1996.gada 1.janvāra līdz pensijas piešķiršanai no jauna saņemto vecuma
+   vai izdienas pensiju. Atmaksājamās summas ikmēneša ieturēšanu neizdara laikposmā,
+   kurā ir pārtraukta pensijas izmaksa;
+
+   13) (izslēgts ar 05.08.1999. likumu).
+
+   (Ar grozījumiem, kas izdarīti ar 06.11.1996., 27.12.1996., 20.11.1997., 21.10.1998.,
+   22.04.1999., 05.08.1999., 20.12.2001. likumu un Satversmes tiesas 23.12.2002.
+   spriedumu, kas stājas spēkā 23.12.2002.)
+
+   17. Piešķirot invaliditātes pensiju:
+
+   1) laikā no 1997. gada 1. janvāra līdz 2001. gada 1. janvārim, tā aprēķināma šā
+   likuma 16. panta pirmajā un otrajā daļā noteiktajā kārtībā, ņemot vērā apdrošinātās
+   personas vidējo apdrošināšanas iemaksu algu par faktiski nostrādātajiem mēnešiem,
+   bet ne vairāk kā par 36 mēnešiem pēc kārtas (neatkarīgi no tā, cik ilgs bijis
+   pārtraukums darbā) periodā no 1996. gada 1. janvāra līdz invaliditātes pensijas
+   piešķiršanai;
+
+   2) šā likuma 16. panta pirmajā daļā noteiktā maksimāli iespējamā apdrošināšanas
+   stāža aprēķināšanai (arī pārrēķinot invaliditātes pensiju) ievērojami šo pārejas
+   noteikumu 8. punkta nosacījumi.
+
+   (27.12.1996. likuma redakcijā, kas stājas spēkā 07.01.1997.)
+
+   18. Personām, kurām invaliditāte noteikta pirms šā likuma spēkā stāšanās, bet kuras
+   šajā likumā noteikto vecuma pensijas piešķiršanai nepieciešamo vecumu sasniegušas
+   pēc šā likuma spēkā stāšanās, invaliditātes pensijas vietā piešķirama vecuma
+   pensija, kas aprēķināma saskaņā ar šā likuma 12.pantu, ievērojot šo pārejas
+   noteikumu 13.punkta nosacījumus:
+
+   1) ja invalīds periodā no 1996.gada 1.janvāra līdz 2000.gada 1.janvārim nav bijis
+   darba ņēmējs vai pašnodarbinātais, Vi ir 1996.gadam valstī noteiktā vidējā
+   apdrošināšanas iemaksu alga;
+
+   2) (izslēgts ar 20.12.2001. likumu);
+
+   3) pensijas sākuma kapitāla noteikšanai par invaliditātes laiku līdz 1996.gada
+   1.janvārim, kad apdrošinātā persona tika atzīta par invalīdu (arī sakarā ar nelaimes
+   gadījumu darbā vai arodslimību) un nav strādājusi, bet ne ilgāk kā līdz vecuma
+   pensijas piešķiršanai nepieciešamā vecuma sasniegšanai, ņemama vērā šāda vidējā
+   apdrošināšanas iemaksu alga (Vi):
+
+   1996.gadā — Vi ir 50 procenti no 1995.gadā noteiktās vidējās apdrošināšanas iemaksu
+   algas;
+
+   1997.gadā un turpmāk — Vi ir 50 procenti no 1996.gada vidējās apdrošināšanas iemaksu
+   algas.
+
+   (Ar grozījumiem, kas izdarīti ar 06.11.1996. un 20.12.2001. likumu, kas stājas spēkā
+   01.01.2002.)
+
+   19. Invaliditātes pensijas vietā piešķirtā vecuma pensija invaliditātes laikā
+   nedrīkst būt mazāka par invaliditātes pensiju, kas saņemta līdz vecuma pensijas
+   piešķiršanas brīdim. Invaliditātes grupas atkārtotas noteikšanas gadījumā, ja
+   invaliditātes pārtraukuma laiks nav lielāks par vienu mēnesi, vecuma pensijas
+   izmaksa (arī invaliditātes pārtraukuma laikā) turpināma iepriekšējā apmērā.
+
+   (Ar grozījumiem, kas izdarīti ar 20.11.1997. likumu, kas stājas spēkā 01.01.1998.)
+
+   20. Ar šā likuma spēkā stāšanos spēku zaudē:
+
+   1) likums "Par valsts pensijām" (Latvijas Republikas Augstākās Padomes un Valdības
+   Ziņotājs, 1991, 1./2., 51. nr.; 1993, 18./19., 20./21.nr.; Latvijas Republikas
+   Saeimas un Ministru Kabineta Ziņotājs, 1993, 32.nr.; 1994, 6.nr.);
+
+   2) likums "Par valsts pensiju pagaidu aprēķināšanas kārtību" (Latvijas Republikas
+   Saeimas un Ministru Kabineta Ziņotājs, 1993, 32.nr.; 1994, 6.nr.);
+
+   3) Latvijas Republikas Augstākās padomes lēmums "Par Latvijas Republikas likuma "Par
+   valsts pensijām" spēkā stāšanās kārtību" (Latvijas Republikas Augstākās Padomes un
+   Valdības Ziņotājs, 1991, 1./2.,51.nr.).
+
+   21. No 1997.gada 1.jūnija līdz 1999.gada 31.decembrim izmaksājamā pensija nedrīkst
+   pārsniegt apmēru, kas aprēķināts, ņemot vērā sociālajai apdrošināšanai pakļauto gada
+   darba ienākumu robežu.
+
+   (22.05.1997. likuma redakcijā ar grozījumiem, kas izdarīti ar 20.11.1997. likumu,
+   kas stājas spēkā 01.01.1998.)
+
+   22. Līdz 1997.gada 1.jūnijam vecuma pensijas, kas piešķirtas 1997.gadā, pamatojoties
+   uz apdrošinātās personas pieprasījumu, pārrēķināmas, ņemot vērā 1996.gadam noteikto
+   vidējo apdrošināšanas iemaksu algu, ja apdrošinātajai personai 1996.gadā bija
+   bezdarbnieka statuss un apdrošināšanas stāžs Latvijā pensijas pieprasīšanas brīdī
+   nav bijis mazāks par 30 gadiem.
+
+   1997.gadā piešķirtā vecuma pensija politiski represētajām personām pārrēķināma
+   saskaņā ar šo pārejas noteikumu 13.punkta nosacījumiem.
+
+   Pēc 1998.gada 1.janvāra invaliditātes pensijas vietā piešķirtā vecuma pensija
+   pārrēķināma saskaņā ar šo pārejas noteikumu 19. punkta nosacījumiem, pamatojoties uz
+   valsts pensijas saņēmēja pieprasījumu.
+
+   (22.05.1997. likuma redakcijā ar grozījumiem, kas izdarīti ar 20.11.1997. likumu,
+   kas stājas spēkā 01.01.1998.)
+
+   23. Ja tiek iegūtas tiesības uz pensijas palielināšanu sakarā ar apdrošināšanas
+   iemaksu papildināšanu par periodu pirms pensijas piešķiršanas (pārrēķināšanas),
+   pensija pārrēķināma ar tās piešķiršanas (pārrēķināšanas) dienu. Pensijas pārrēķins
+   izdarāms ne biežāk kā vienu reizi pusgadā.
+
+   (05.08.1999. likuma redakcijā, kas stājas spēkā 07.12.1999. Punkts stājas spēkā
+   01.01.2000. Sk. 05.08.1999. likuma Pārejas noteikumus.)
+
+   24. Ar 1999. gada 1.septembri apdrošinātajām personām — vecuma vai izdienas pensiju
+   saņēmējām — vecuma vai izdienas pensiju no jauna nepiešķir.
+
+   (05.08.1999. likuma redakcijā, kas stājas spēkā 07.12.1999. Punkts atzīta par spēkā
+   neesošu ar Satversmes tiesas 25.10.2004. spriedumu no spēkā stāšanās brīža attiecībā
+   uz tām personām, kurām pensijas izmaksa tika pārtraukta uz personas iesnieguma
+   pamata saskaņā ar likuma "Par valsts pensijām" pārejas noteikumu 16.punkta
+   11.apakšpunktu.)
+
+   25. (Izslēgts ar 20.12.2001. likumu, kas stājas spēkā 01.01.2002.)
+
+   26. (Atzīts par spēkā neesošu ar Satversmes tiesas 19.03.2002. spriedumu no
+   20.03.2002.)
+
+   27. (Izslēgts ar 04.11.1999. likumu, kas stājas spēkā 08.12.1999.)
+
+   28. Latvijas Republikas pilsoņi, kuri līdz 1999.gada 1.septembrim izbraukuši uz
+   pastāvīgu dzīvi ārvalstīs, turpina saņemt Latvijas Republikā piešķirto valsts
+   pensiju Ministru kabineta noteiktajā kārtībā.
+
+   (05.08.1999. likuma redakcijā ar grozījumiem, kas izdarīti ar 20.12.2001. likumu,
+   kas stājas spēkā 01.01.2002.)
+
+   29. Līdz 2005.gada 1.jūlijam personām, kuru apdrošināšanas stāžs nav mazāks par 30
+   gadiem, divus gadus pirms šā likuma 11.panta pirmajā daļā noteiktā vecuma
+   sasniegšanas (ievērojot šo pārejas noteikumu 8.punktu) ir tiesības vecuma pensiju
+   pieprasīt priekšlaicīgi, bet vīriešiem — ne agrāk kā no 60 gadu vecuma.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   30. Sievietēm un vīriešiem, kuriem vecuma pensija piešķirta saskaņā ar šo pārejas
+   noteikumu 29.punktu, līdz šā likuma 11.panta pirmajā daļā noteiktā vecuma
+   sasniegšanai (ievērojot šo pārejas noteikumu 8.punktu) pensijas izmaksas apmērs ir
+   80 procenti no piešķirtās vecuma pensijas, taču tas nedrīkst būt mazāks par 80
+   procentiem no valsts sociālā nodrošinājuma pabalsta. Minētais nosacījums attiecas
+   arī uz personām, kurām līdz 2002.gada 1.janvārim priekšlaicīgi piešķirtā vecuma
+   pensija tika izmaksāta 80 procentu apmērā.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   31. Personām, kuras izmantojušas priekšlaicīgās pensionēšanās iespējas, laikā, kad
+   tās kļuvušas par obligāti sociāli apdrošināmajām personām (darba ņēmējiem vai
+   pašnodarbinātajiem), vecuma pensija nav izmaksājama līdz šā likuma 11.panta pirmajā
+   daļā noteiktā vecuma sasniegšanai (ievērojot šo pārejas noteikumu 8.punktu).
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   32. (Atzīts par spēkā neesošu no 20.03.2002. ar Satversmes tiesas 06.04.2005.
+   spriedumu, kas stājas spēkā 07.04.2005.)
+
+   33. Līdz 2010.gada 1.janvārim vecuma pensijas sākuma kapitāla aprēķināšanai
+   apdrošinātajām personām, kuru apdrošināšanas stāžs nav mazāks par 30 gadiem un kurām
+   mēneša vidējā apdrošināšanas iemaksu alga, kas aprēķināta saskaņā ar šo pārejas
+   noteikumu 13.punktu, ir mazāka par vidējo apdrošināšanas iemaksu algu valstī laikā
+   no 1996.gada 1.janvāra līdz 1999.gada 31.decembrim, ir ņemama vērā 48 mēnešu vidējā
+   apdrošināšanas iemaksu alga valstī iepriekš norādītajā periodā. Valsts pensijas, kas
+   no 2000.gada 1.janvāra līdz 2001.gada 31.decembrim piešķirtas apdrošinātajām
+   personām, uz kurām attiecināmi iepriekš minētie nosacījumi, pamatojoties uz viņu
+   pieprasījumu, pārrēķināmas no 2002.gada 1.janvāra.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   34. Līdz 2006.gada 31.decembrim vecuma pensijas minimālais apmērs nedrīkst būt
+   mazāks par valsts sociālā nodrošinājuma pabalstu, kuram piemērots šāds koeficients:
+
+   personām, kuru apdrošināšanas stāžs nav lielāks par 20 gadiem, — 1,1;
+
+   personām, kuru apdrošināšanas stāžs ir lielāks par 20 gadiem, bet nav lielāks par 30
+   gadiem, — 1,3;
+
+   personām, kuru apdrošināšanas stāžs ir lielāks par 30 gadiem, — 1,5.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   35. Ministru kabinets līdz 2002.gada 30.jūnijam izstrādā noteikumus par valsts
+   pensiju apmēra pārskatīšanas kārtību. Līdz minēto noteikumu spēkā stāšanās dienai
+   piemērojami Ministru kabineta 2000.gada 14.marta noteikumi nr.99 "Valsts pensiju,
+   atlīdzības par darbspēju zaudējumu un atlīdzības par apgādnieka zaudējumu apmēra
+   pārskatīšanas kārtība", ciktāl tie nav pretrunā ar šo likumu.
+
+   (20.12.2001. likuma redakcijā, kas stājas spēkā 01.01.2002.)
+
+   Likums stājas spēkā ar 1996.gada 1.janvāri.
+
+   Likums Saeimā pieņemts 1995.gada 2.novembrī.
+   Valsts prezidents G.Ulmanis
+   Rīgā 1995.gada 23.novembrī
+   PIEZĪMES:
+
+   05.08.1999. likuma "Grozījumi likumā "Par valsts pensijām""
+   Pārejas noteikumi:
+   "1. Šā likuma 7., 9., 12., 14., 15., 18. un 22.pants stājas spēkā 1999.gada
+   1.septembrī.
+   2. Šā likuma 1., 2., 4., 5., 8., 10., 11., 13., 16., 17., 19., 20. un 21.pants
+   stājas spēkā 2000.gada 1.janvārī.
+   (Grozījumi attiecībā uz vārdu "Valsts sociālās apdrošināšanas aģentūras izveidota
+   institūcija" aizstāšanu ar vārdiem "Valsts sociālās apdrošināšanas aģentūras
+   filiāle", grozījumi 17. un 24.pantā, Pārejas noteikumu 10. un 16.punkta 1., 4. un
+   13.apakšpunktā.) [..]"
+   © Oficiālais izdevējs "Latvijas Vēstnesis"

@@ -1,0 +1,2436 @@
+   [IMG]
+   Publicēts:
+   "Latvijas Vēstnesis", 274/276 (989/991), 21.10.1997., "Ziņotājs", 22, 27.11.1997.
+   Izdevējs: SaeimaVeids: likumsPieņemts: 01.10.1997.Stājas spēkā: 04.11.1997.
+   Attēlotā redakcija: 01.01.2011. - 05.04.2011. Vēsturiskā
+   Grozījumi:
+   20.12.1999. likums / LV, 7 (1918), 10.01.2000. / Stājas spēkā 24.01.2000.
+   20.06.2000. likums / LV, 250/251 (2161/2162), 05.07.2000. / Stājas spēkā 19.07.2000.
+   17.07.2000. likums / LV, 263/265 (2174/2176), 19.07.2000. / Stājas spēkā 19.07.2000.
+   15.02.2001. likums / LV, 32 (2419), 27.02.2001. / Stājas spēkā 13.03.2001.
+   08.07.2003. likums / LV, 107 (2872), 23.07.2003. / Stājas spēkā 01.01.2004.
+   26.05.2005. likums / LV, 94 (3252), 15.06.2005. / Stājas spēkā 29.06.2005.
+   15.12.2005. likums / LV, 209 (3367), 29.12.2005. / Stājas spēkā 01.01.2006.
+   19.12.2006. likums / LV, 207 (3575), 29.12.2006. / Stājas spēkā 01.01.2007.
+   15.02.2007. likums / LV, 36 (3612), 01.03.2007. / Stājas spēkā 15.03.2007.
+   27.09.2007. likums / LV, 160 (3736), 04.10.2007. / Stājas spēkā 01.06.2008.
+   15.05.2008. likums / LV, 82 (3866), 28.05.2008. / Stājas spēkā 01.01.2009.
+   14.11.2008. likums / LV, 187 (3971), 02.12.2008. / Stājas spēkā 01.01.2009.
+   19.02.2009. likums / LV, 35 (4021), 04.03.2009. / Stājas spēkā 18.03.2009.
+   12.06.2009. likums / LV, 96 (4082), 19.06.2009. / Stājas spēkā 01.07.2009.
+   13.05.2010. likums / LV, 86 (4278), 01.06.2010. / Stājas spēkā 15.06.2010.
+   09.09.2010. likums / LV, 151 (4343), 23.09.2010. / Stājas spēkā 01.01.2011.
+   Satura rādītājs:
+     * I nodaļa Vispārīgie noteikumi
+          * 1.pants. Likumā lietotie termini
+          * 2.pants. Likuma mērķis
+          * 3.pants. Ceļu satiksmes tiesiskais pamats
+          * 4.pants. Ceļu satiksmes pārvalde un šā likuma izpildes nodrošināšana
+          * 4.^1 pants. Transportlīdzekļu un to numurēto agregātu tirdzniecība
+     * II nodaļa Satiksmes drošības pamatnoteikumi uz ceļiem
+          * 5.pants. Prasības attiecībā uz ceļu aprīkošanu
+          * 6.pants. Ceļa pārvaldītāja pienākumi
+          * 7.pants. Ceļu būvniecības, remonta un rekonstrukcijas projektēšana
+          * 8.pants. Satiksmes ierobežošana vai aizliegums
+     * III nodaļa Transportlīdzekļi un to reģistrācija
+          * 9.pants. Transportlīdzekļu izmantošana ceļu satiksmē
+          * 10.pants. Transportlīdzekļu reģistrācija
+          * 10.^1 pants. Transportlīdzekļu reģistrācijas valsts nodeva
+            (transportlīdzekļu reģistra nodeva)
+          * 10.^2 pants. Velosipēdu reģistrācija
+          * 11.pants. Transportlīdzekļu reģistrēšanai nepieciešamie dokumenti
+          * 12.pants. Īpašuma tiesības apliecinoši dokumenti
+          * 13.pants. Transportlīdzekļa reģistrācijas apliecība
+          * 14.pants. Transportlīdzekļa atsavināšanas, reģistrācijas un citu
+            aizliegumu, kā arī komercķīlas atzīmes reģistrācija
+          * 14.^1 pants. Transportlīdzekļu un to vadītāju valsts reģistrā esošās
+            informācijas pieejamība
+          * 15.pants. Transportlīdzekļu izgatavošana un pārbūve
+          * 15.^1 pants. Transportlīdzekļu un to sastāvdaļu atbilstības novērtēšana
+          * 16.pants. Transportlīdzekļu valsts tehniskā apskate un transportlīdzekļu
+            tehniskā kontrole
+          * 17.pants. Operatīvie transportlīdzekļi
+          * 18.pants. Aizliegums piedalīties ceļu satiksmē
+     * IV nodaļa Ceļu satiksmes dalībnieku pienākumi un tiesības
+          * 19.pants. Ceļu satiksmes dalībnieku vispārīgie pienākumi un tiesības
+          * 20.pants. Transportlīdzekļu īpašnieku, valdītāju un turētāju pienākumi un
+            tiesības
+          * 21.pants. Pilnvarojumi darbībām ar transportlīdzekļiem
+          * 22.pants. Transportlīdzekļu vadītāju apmācība un vadītāja apliecības
+            izsniegšana
+          * 23.pants. Transportlīdzekļu vadītāja apliecību kategorijas, kuras dod
+            tiesības vadīt attiecīgus transportlīdzekļus
+          * 24.pants. Transportlīdzekļu vadītāju un atsevišķu kategoriju ceļu satiksmes
+            dalībnieku vecuma ierobežojumi
+          * 25.pants. Transportlīdzekļu vadītāja pienākumi
+          * 26.pants. Transportlīdzekļu vadīšanas tiesības
+          * 27.pants. Ceļu satiksmes dalībnieku rīcība ceļu satiksmes negadījumos
+          * 28.pants. Transportlīdzekļu vadīšanas aizliegums
+          * 29.pants. Transportlīdzekļu vadīšanas tiesību atņemšana
+          * 30.pants. Transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums
+          * 30.^1 pants. Veselības pārbaudes transportlīdzekļu vadītājiem un personām,
+            kuras vēlas iegūt transportlīdzekļu vadītāju kvalifikāciju
+     * V nodaļa Transportlīdzekļu apkalpes locekļu darba laiks
+          * 31.pants. Prasības attiecībā uz transportlīdzekļu apkalpes locekļu darba
+            laika organizēšanu, ievērošanu un uzskaiti
+          * 31.^1 pants. Transportlīdzekļa vadītāja darba un atpūtas laika, braukšanas
+            attāluma un ātruma reģistrēšanas kontrolierīču uzstādīšana
+          * 31.^2 pants. Transportlīdzekļu apkalpes locekļu darba laika ilgums
+          * 32.pants. Pieļaujamais transportlīdzekļa vadīšanas ilgums
+          * 33.pants. Maksimālais pieļaujamais nepārtrauktas transportlīdzekļa
+            vadīšanas ilgums
+          * 34.pants. Izņēmuma gadījumi
+          * 35.pants. Starptautiskie autotransporta pārvadājumi
+     * VI nodaļa Ceļu satiksmes organizācija
+          * 36.pants. Ceļu satiksmes organizācijas mērķis
+          * 37.pants. Ceļu satiksmes organizācijas pamatnoteikums
+          * 38.pants. Ceļu satiksmes organizācijas tehniskie līdzekļi
+          * 39.pants. Plānošana un projektēšana
+          * 40.pants. Uz ceļa vai tā tiešā tuvumā veicamo darbību saskaņošana
+          * 41.pants. Ceļu satiksmes regulēšana un uzraudzība
+          * 42.pants. Uz ceļa strādājošo personu pienākumi
+     * VII nodaļa Administratīvās atbildības īpatnības ceļu satiksmes drošību
+       reglamentējošo normatīvo aktu pārkāpšanas gadījumos
+          * 43.pants. Administratīvais ceļu satiksmes pārkāpums
+          * 43.^1 pants. Pārkāpumu uzskaites punktu sistēma
+          * 43.^2 pants. Īpatnības administratīvajā procesā sakarā ar apstāšanās vai
+            stāvēšanas noteikumu pārkāpšanu
+          * 43.^3 pants. Transportlīdzekļa piespiedu pārvietošana
+          * 43.^4 pants. Braukšanas ātruma kontrole
+          * 43.^5 pants. Alkohola reibuma, narkotisko vai citu apreibinošu vielu
+            ietekmes konstatēšana
+          * 43.^6 pants. Īpatnības administratīvajā procesā attiecībā uz pārkāpumiem,
+            kuri fiksēti ar tehniskiem līdzekļiem, neapturot transportlīdzekli
+          * 43.^7 pants. Pakalpojuma — pārkāpumu fiksēšana ar tehniskajiem līdzekļiem,
+            neapturot transportlīdzekli, — nodrošināšana
+          * 44.pants. Zaudējuma atlīdzināšana
+     * VIII nodaļa Papildu noteikumi
+          * 45.pants. Izņēmuma gadījumi
+          * 46.pants. Noteikumu spēks attiecībā uz ārvalstu pilsoņiem un
+            bezvalstniekiem
+          * 47.pants. Noteikumi transportlīdzekļu vadītājiem, kas ierodas Latvijā no
+            ārvalstīm vai ieved Latvijā transportlīdzekļus
+          * 48.pants. Starptautisko līgumu piemērošana
+     * Pārejas noteikumi
+          * 1. punkts
+          * 2. punkts
+          * 3. punkts
+          * 4. punkts
+          * 5. punkts
+          * 6. punkts
+          * 7. punkts
+          * 8. punkts
+          * 9. punkts
+          * 10. punkts
+          * 11. punkts
+          * 12. punkts
+          * 13. punkts
+          * 14. punkts
+          * 15. punkts
+          * 16. punkts
+          * 17. punkts
+          * 18. punkts
+          * 19. punkts
+     * Informatīva atsauce uz Eiropas Savienības direktīvu
+   Saeima ir pieņēmusi un Valsts
+   prezidents izsludina šādu likumu:
+   Ceļu satiksmes likums
+   I nodaļa
+   Vispārīgie noteikumi
+
+   1.pants. Likumā lietotie termini
+
+   Likumā ir lietoti šādi termini:
+
+   1) ceļa īpašnieks — valsts, pašvaldība, fiziskā vai juridiskā persona, kurai
+   attiecīgais ceļš pieder uz īpašuma tiesību pamata;
+
+   2) ceļa pārvaldītājs — īpašnieks vai cita fiziskā vai juridiskā persona, kurai
+   attiecīgais ceļš nodots pārvaldījumā (pārziņā);
+
+   3) ceļš — jebkura satiksmei izbūvēta teritorija (autoceļš, iela, prospekts,
+   šķērsiela un tamlīdzīgas teritorijas visā platumā, ieskaitot brauktuvi, ietves,
+   nomales, sadalošās joslas un saliņas). Ceļa kompleksā ietilpst ceļš, mākslīgās būves
+   (tilti, satiksmes pārvadi, tuneļi, caurtekas, ūdens novadīšanas ietaises, atbalsta
+   sienas un citas būves), ceļu inženierbūves (pasažieru sabiedrisko transportlīdzekļu
+   pieturvietas un paviljoni, bremzēšanas un paātrinājuma joslas, transportlīdzekļu
+   stāvvietas, atpūtas laukumi, veloceliņi un ietves, ceļu sakaru un apgaismojuma
+   līnijas un citas inženierbūves), satiksmes organizācijas tehniskie līdzekļi (ceļa
+   zīmes, luksofori, signālstabiņi, aizsargbarjeras, gājēju barjeras, vertikālie un
+   horizontālie ceļa apzīmējumi un citi tehniskie līdzekļi);
+
+   4) ceļu drošības audits — neatkarīga un sistemātiska projektu (arī būvprojektu) un
+   ceļu tīkla pārbaudes procedūra, kurā no satiksmes drošības viedokļa novērtē
+   potenciālās bīstamās vietas, kur var veidoties konfliktsituācijas, kā arī esošās
+   bīstamās vietas un posmus un par kuras rezultātiem sastāda audita atzinumu;
+
+   5) ceļu satiksme — attiecības, kas rodas, pārvietojoties pa ceļiem ar
+   transportlīdzekļiem vai bez tiem;
+
+   6) ceļu satiksmes dalībnieks — jebkura persona, kas atrodas uz ceļa vai tieši
+   piedalās ceļu satiksmē;
+
+   7) ceļu satiksmes negadījums — ceļu satiksmē noticis nelaimes gadījums, kurā
+   iesaistīts vismaz viens transportlīdzeklis un kura rezultātā cilvēks gājis bojā,
+   viņam nodarīti miesas bojājumi vai arī nodarīti zaudējumi fiziskās vai juridiskās
+   personas mantai vai videi, kā arī citā vietā, kur iespējama transportlīdzekļa
+   braukšana, noticis negadījums, kurā iesaistīts transportlīdzeklis;
+
+   8) Ceļu satiksmes noteikumi — Ministru kabineta normatīvais akts, kas nosaka ceļu
+   satiksmes kārtību un ir saistošs visām fiziskajām un juridiskajām personām;
+
+   9) diennakts tumšais laiks — laiks no vakara krēslas iestāšanās līdz rīta krēslas
+   izzušanai;
+
+   10) gājējs — persona, kas pārvietojas pa ceļu kājām vai invalīdu ratiņos. Šis
+   termins neattiecas uz personām, kas veic darbus uz brauktuves, un uz satiksmes
+   regulētājiem;
+
+   11) mehāniskais transportlīdzeklis — pašgājējs transportlīdzeklis, traktortehnika,
+   kas pārvietojas pa ceļu ar savu enerģiju, izņemot mopēdus un sliežu
+   transportlīdzekļus, kā arī trolejbuss;
+
+   12) mopēds — divriteņu, trīsriteņu vai četrriteņu transportlīdzeklis, kura motora
+   darba tilpums ir ne lielāks par 50 kubikcentimetriem (dzirksteļaizdedzes tipa
+   motoriem) vai kura maksimālā jauda ir ne lielāka par 4 kW (elektromotoriem vai cita
+   veida iekšdedzes tipa motoriem) un konstrukcijā paredzētais maksimālais ātrums
+   nepārsniedz 45 kilometrus stundā;
+
+   13) motocikls — divriteņu mehāniskais transportlīdzeklis ar blakusvāģi vai bez tā.
+   Šis termins attiecas arī uz sniega motocikliem;
+
+   14) nepietiekama redzamība — tādi laikapstākļi (migla, lietus, sniegs un tamlīdzīgi
+   apstākļi), kuru dēļ redzamība uz ceļa ir tuvāka par 300 metriem, arī mijkrēslis;
+
+   15) operatīvais transportlīdzeklis — mehāniskais transportlīdzeklis, kuram noteiktā
+   kārtībā piešķirts operatīvā transportlīdzekļa statuss un kurš piedalās ceļu satiksmē
+   ar iedegtu mirgojošu zilu vai zilu un sarkanu bākuguni un ieslēgtu speciālu skaņas
+   signālu;
+
+   15^1) palīgmotors — motors, kas iebūvēts transportlīdzeklī vai uzstādīts uz tā, taču
+   netiek izmantots transportlīdzekļa piedziņā;
+
+   16) pasažieris — persona, kas atrodas transportlīdzeklī vai uz tā (izņemot
+   transportlīdzekļa vadītāju), kā arī persona, kas iekāpj transportlīdzeklī vai uzkāpj
+   uz tā, izkāpj no transportlīdzekļa vai nokāpj no tā;
+
+   17) pašmasa — atbilstoši valsts standartam nokomplektēta transportlīdzekļa masa kopā
+   ar vadītāju, bet bez pasažieriem un kravas;
+
+   18) piekabe (puspiekabe) — transportlīdzeklis, kas paredzēts braukšanai savienojumā
+   ar mehānisko transportlīdzekli. Šis termins neattiecas uz motociklu blakusvāģiem;
+
+   19) pilna masa — izgatavotāja noteikta transportlīdzekļa maksimālā pieļaujamā masa
+   kopā ar vadītāju, pasažieriem un kravu. Vilcējam ar piekabi pilna masa ir vilcēja un
+   piekabes pilnu masu summa, bet vilcējam ar puspiekabi — vilcēja pašmasas, pasažieru
+   masas un puspiekabes pilnas masas summa;
+
+   19^1) specializētais tūristu transportlīdzeklis — mehāniskais transportlīdzeklis,
+   kas savienojumā ar vienu vai vairākām pasažieru pārvadāšanai paredzētām piekabēm
+   brauc pa noteiktu maršrutu;
+
+   19^2) speciālā traktortehnika — traktortehnika, kuru ražotājs nav paredzējis
+   izmantošanai ceļu satiksmē;
+
+   20) starptautiskie autotransporta pārvadājumi — jebkuri pārvadājumi ar
+   autotransporta līdzekļiem, šķērsojot vismaz vienas valsts robežu;
+
+   21) traktortehnika — traktors, kombains vai cita speciāla pašgājēja mašīna ar
+   iekšdedzes motoru, ja tā nav būvēta uz automobiļa bāzes;
+
+   22) tramvajs — transportlīdzeklis, kas paredzēts braukšanai pa sliedēm savienojumā
+   ar ārēju elektroenerģijas padeves avotu. Šis termins neattiecas uz
+   elektrovilcieniem;
+
+   23) transportlīdzeklis — ierīce, kas pēc savas konstrukcijas paredzēta braukšanai pa
+   ceļiem ar motora palīdzību vai bez motora;
+
+   23^1) transportlīdzekļa apkalpes loceklis — persona, kura vada transportlīdzekli vai
+   atrodas tajā, lai veiktu pasažieru vai kravas komercpārvadājumu vai pašpārvadājumu
+   tās fiziskās vai juridiskās personas uzdevumā, kura to nodarbina;
+
+   24) transportlīdzekļa īpašnieks — fiziskā vai juridiskā persona, kurai pieder
+   transportlīdzeklis. Par valsts vai pašvaldības transportlīdzekļa īpašnieku šā likuma
+   izpratnē uzskatāma tiešā vai pastarpinātā valsts pārvaldes iestāde, uz kuras vārda
+   transportlīdzeklis reģistrēts;
+
+   25) transportlīdzekļa turētājs — fiziskā vai juridiskā persona, kura uz tiesiska
+   pamata (mantas īres, nomas, patapinājuma līgums u.c.) lieto transportlīdzekli. Par
+   transportlīdzekļa turētāju nav uzskatāma persona, kas transportlīdzekli lieto uz
+   dienesta vai darba tiesisko attiecību pamata;
+
+   26) transportlīdzekļa uzskaites tehniskie dati — tehnisko datu kopums, kas
+   nepieciešams transportlīdzekļa reģistrācijai;
+
+   27) transportlīdzekļa vadītāja veselības pirmstermiņa pārbaude — veselības pārbaude,
+   lai noteiktu medicīnisko pretindikāciju esamību, ja transportlīdzekļa vadītājs
+   transportlīdzekli ir vadījis alkoholisko dzērienu, narkotisko, psihotropo vai citu
+   apreibinošu vielu ietekmē vai ir pamatotas aizdomas, ka transportlīdzekļa vadītājam
+   ir medicīniskās pretindikācijas transportlīdzekļa vadīšanai (slimība, trauma);
+
+   28) transportlīdzekļa vadītājs — fiziskā persona, kas vada transportlīdzekli, tai
+   skaitā vadīšanas iemaņu pārbaudes laikā, kura notiek normatīvajos aktos noteiktajā
+   kārtībā, vai apmāca vadīt transportlīdzekli personu, kurai nav atbilstošas
+   kategorijas transportlīdzekļa vadīšanas tiesību. Šis jēdziens uz personu, kura ir
+   vadījusi transportlīdzekli, attiecas līdz tam brīdim, kad šo transportlīdzekli sāk
+   vadīt cita persona;
+
+   29) transportlīdzekļa valdītājs — persona, kuras tiesiskā valdījumā ir
+   transportlīdzeklis uz mantojuma tiesību pamata;
+
+   30) tricikls un kvadricikls — attiecīgi trīsriteņu vai četrriteņu mehāniskais
+   transportlīdzeklis, kura konstrukcijā paredzētais maksimālais ātrums pārsniedz 45
+   kilometrus stundā vai kuram ir iekšdedzes motors ar 50 kubikcentimetru vai lielāku
+   darba tilpumu [kvadricikla pašmasa nepārsniedz 400 kilogramus (550 kilogramus, ja
+   tas paredzēts kravu pārvadāšanai) un jauda — 15 kilovatus]. Šis termins attiecas uz
+   četrriteņu mopēdiem ar pašmasu virs 350 kilogramiem, bet neattiecas uz motocikliem
+   ar blakusvāģi;
+
+   31) trolejbuss — mehāniskais transportlīdzeklis, kas paredzēts braukšanai pa ceļu
+   savienojumā ar ārēju elektroenerģijas padeves avotu;
+
+   32) velosipēds — transportlīdzeklis, kas paredzēts braukšanai, izmantojot uz tā
+   esošā cilvēka muskuļu spēku (izņemot invalīdu ratiņus). Velosipēds var būt aprīkots
+   ar elektromotoru, kura jauda ir ne lielāka par 0,25 kW;
+
+   33) vilcējs — mehāniskais transportlīdzeklis, kas brauc savienojumā ar piekabi
+   (puspiekabi).
+
+   (Ar grozījumiem, kas izdarīti ar 15.02.2001., 08.07.2003., 26.05.2005., 15.12.2005.,
+   15.02.2007., 19.02.2009. un 13.05.2010. likumu, kas stājas spēkā 15.06.2010.)
+
+   2.pants. Likuma mērķis
+
+   Šā likuma mērķis ir:
+
+   1) noteikt ceļu satiksmes norises un ceļu satiksmes drošības organizatoriskos un
+   tiesiskos pamatus Latvijā, lai aizsargātu cilvēku dzīvību un veselību, vidi, kā arī
+   fiziskajām un juridiskajām personām piederošo mantu;
+
+   2) regulēt mehānisko transportlīdzekļu īpašuma, turējuma un lietošanas tiesību
+   iegūšanu, kā arī transportlīdzekļu īpašnieku, turētāju un lietotāju atbildību.
+
+   3.pants. Ceļu satiksmes tiesiskais pamats
+
+   (1) Ceļu satiksmes tiesiskais pamats ir šis likums un citi likumi, Ceļu satiksmes
+   noteikumi un citi Ministru kabineta normatīvie akti, valsts standarti, kā arī
+   starptautiskie līgumi, kuru dalībvalsts ir Latvija.
+
+   (2) Ceļu satiksmes kārtību Latvijā nosaka Ministru kabinets, apstiprinot Ceļu
+   satiksmes noteikumus.
+
+   (Ar grozījumiem, kas izdarīti ar 08.07.2003. likumu, kas stājas spēkā 01.01.2004.)
+
+   4.pants. Ceļu satiksmes pārvalde un šā likuma izpildes nodrošināšana
+
+   (1) Ceļu satiksmes vispārējo pārvaldi realizē Ministru kabinets un pašvaldības
+   atbilstoši savai kompetencei.
+
+   (2) Ceļu satiksmes pārvaldi atbilstoši savai kompetencei realizē Satiksmes
+   ministrija, Iekšlietu ministrija, Zemkopības ministrija.
+
+   (3) Satiksmes ministrija organizē un koordinē valsts politikas izstrādi un
+   īstenošanu, kā arī veic valsts uzraudzību pār likumu un citu normatīvo aktu
+   ievērošanu ceļu satiksmes drošības jomā. Satiksmes ministrs izdod ar ceļu satiksmes
+   drošību saistītus aktus.
+
+   (4) Valsts policija saskaņā ar likumu "Par policiju" nodrošina kārtību uz ceļiem,
+   regulē transportlīdzekļu un gājēju kustību, veic satiksmes uzraudzību, kontrolē ceļu
+   stāvokli, kā arī satiksmes organizācijas tehnisko līdzekļu un transportlīdzekļu
+   tehnisko stāvokli.
+
+   (5) Ceļu satiksmes drošības direkcija reģistrē transportlīdzekļus, piešķir un anulē
+   transportlīdzekļu vadīšanas tiesības un izsniedz transportlīdzekļu vadītāju
+   apliecības, nodrošina un uztur transportlīdzekļu un to vadītāju valsts reģistru,
+   veic transportlīdzekļu valsts tehnisko apskati un kontrolē ekspluatācijā esošo
+   transportlīdzekļu tehnisko stāvokli, transportlīdzekļu vadītāju apmācības procesu,
+   dod atļauju piedalīties ceļu satiksmē, veic ceļu drošības auditu un vispārējo
+   pārraudzību, pamatojoties uz informāciju, ko Iekšlietu ministrijas Informācijas
+   centrs sniedz Ministru kabineta noteiktajā apjomā un kārtībā, nodrošina statistiku
+   par ceļu satiksmes negadījumiem un tās analīzi, kā arī veic citas ar ceļu satiksmes
+   drošību saistītas darbības atbilstoši savai kompetencei. Ceļu satiksmes drošības
+   direkcija savas kompetences ietvaros izdod ar ceļu satiksmes drošību saistītus
+   aktus. Ministru kabinets izdod noteikumus par to pakalpojumu cenrāža apstiprināšanu,
+   kurus Ceļu satiksmes drošības direkcija sniedz, pildot tai deleģētos valsts
+   pārvaldes uzdevumus, kā arī nosaka to personu loku, kuras ir atbrīvojamas no
+   samaksas par sniegtajiem pakalpojumiem.
+
+   (5^1) Ceļu satiksmes drošības direkcija nodrošina Rīgas motormuzeja darbību, uztur
+   un attīsta muzeja krājumu kā Nacionālā muzeju krājuma sastāvdaļu, nodrošina muzeja
+   vērtību pieejamību sabiedrībai, veic zinātnisko pētniecību un sabiedrības
+   izglītošanu.
+
+   (6) Valsts tehniskās uzraudzības aģentūra reģistrē traktortehniku un tās piekabes,
+   veic traktortehnikas un tās piekabju valsts tehnisko apskati un kontrolē
+   ekspluatācijā esošās traktortehnikas tehnisko stāvokli, traktortehnikas vadītāju un
+   instruktoru apmācības procesu, dod atļauju piedalīties ceļu satiksmē, piešķir un
+   anulē traktortehnikas vadīšanas tiesības un izsniedz traktortehnikas vadītāju
+   apliecības, kā arī nodrošina un uztur traktortehnikas un tās vadītāju informatīvo
+   sistēmu. Valsts tehniskās uzraudzības aģentūra par sniegtajiem publiskajiem
+   pakalpojumiem iekasē maksu Ministru kabineta noteiktajā apmērā.
+
+   (7) Izglītības un zinātnes ministrija nodrošina Ceļu satiksmes noteikumu un ceļu
+   satiksmes drošības pamatu mācīšanu pirmsskolas un vispārējās izglītības mācību
+   iestādēs pēc programmām, kuras saskaņotas ar Ceļu satiksmes drošības direkciju.
+
+   (8) Latvijas Valsts ceļi uzrauga ceļu būvniecību, remontu, rekonstrukciju un
+   uzturēšanu satiksmei drošā stāvoklī atbilstoši normatīvajiem aktiem un standartiem
+   ceļu satiksmes drošības jomā, veic ar ceļu satiksmi saistītu objektu būvniecības un
+   rekonstrukcijas projektu saskaņošanu un uzrauga satiksmes organizāciju un tās
+   tehnisko līdzekļu izvietojuma atbilstību Latvijā obligāti piemērojamo standartu un
+   citu normatīvu prasībām.
+
+   (9) Zemkopības ministrija izstrādā normatīvo aktu projektus par ceļu satiksmes
+   drošības jautājumiem attiecībā uz traktortehnikas un tās piekabju izmantošanu ceļu
+   satiksmē, kā arī normatīvajos aktos noteiktajā kārtībā īsteno Valsts tehniskās
+   uzraudzības aģentūras pārraudzību.
+
+   (Ar grozījumiem, kas izdarīti ar 15.02.2001., 08.07.2003., 26.05.2005., 15.12.2005.,
+   15.02.2007., 19.02.2009. un 13.05.2010. likumu, kas stājas spēkā 15.06.2010.)
+
+   4.^1 pants. Transportlīdzekļu un to numurēto agregātu tirdzniecība
+
+   (1) Transportlīdzekļu un to numurēto agregātu (transportlīdzekļa virsbūvju, kabīņu
+   vai rāmju, uz kuriem transportlīdzekļa izgatavotājs norāda transportlīdzekļa
+   identifikācijas numuru) tirdzniecība ir šo preču pārdošana, veicot komercdarbību.
+
+   (2) Ar transportlīdzekļu (izņemot tramvaju, trolejbusu un velosipēdu) un to numurēto
+   agregātu tirdzniecību ir tiesības nodarboties komersantam, kas normatīvajos aktos
+   noteiktajā kārtībā ir ierīkojis un reģistrējis transportlīdzekļu tirdzniecības
+   vietu.
+
+   (3) Transportlīdzekļu un to numurēto agregātu (izņemot traktortehnikas, to piekabju
+   un numurēto agregātu) tirdzniecības vietu reģistrē Ceļu satiksmes drošības
+   direkcija. Traktortehnikas, to piekabju un numurēto agregātu tirdzniecības vietu
+   reģistrē Valsts tehniskās uzraudzības aģentūra. Transportlīdzekļu tirdzniecības
+   vietu reģistrācijas kārtību nosaka Ministru kabinets.
+
+   (4) Prasības transportlīdzekļu un to numurēto agregātu tirdzniecībai, kā arī
+   tirdzniecības valsts reģistrācijas numura zīmju izmantošanai nosaka Ministru
+   kabinets.
+
+   (15.02.2007. likuma redakcijā ar grozījumiem, kas izdarīti ar 13.05.2010. likumu,
+   kas stājas spēkā 15.06.2010.)
+
+   II nodaļa
+   Satiksmes drošības pamatnoteikumi uz ceļiem
+
+   5.pants. Prasības attiecībā uz ceļu aprīkošanu
+
+   Jebkuram ceļam jābūt aprīkotam ar nepieciešamajām ceļu inženierbūvēm un satiksmes
+   organizācijas tehniskajiem līdzekļiem atbilstoši obligāto standartu, tehnisko
+   normatīvu un noteikumu prasībām.
+
+   6.pants. Ceļa pārvaldītāja pienākumi
+
+   (1) Ceļa pārvaldītājam ir pienākums:
+
+   1) nodrošināt, lai ceļš pastāvīgi tiktu uzturēts satiksmei drošā stāvoklī atbilstoši
+   normatīvajiem aktiem un standartiem ceļu satiksmes drošības jomā;
+
+   2) organizēt satiksmi un nodrošināt ceļa, tā mākslīgo būvju un inženierbūvju, kā arī
+   satiksmes organizācijas tehnisko līdzekļu uzturēšanu lietošanas kārtībā atbilstoši
+   normatīvajiem aktiem un standartiem ceļu satiksmes drošības jomā;
+
+   3) nodrošināt, lai nekavējoties tiktu novērsti šķēršļi, kas traucē satiksmi un
+   apdraud tās drošību, bet, ja tas nav iespējams, nodrošināt bīstamo vietu aprīkošanu
+   ar atbilstošiem satiksmes organizācijas tehniskajiem līdzekļiem līdz šo šķēršļu
+   likvidēšanai;
+
+   4) nodrošināt, lai tiktu izanalizēti ceļu satiksmes negadījumi, tādējādi pastāvīgi
+   pilnveidojot satiksmes organizāciju;
+
+   5) kontrolēt ceļa darbu veikšanas kārtību;
+
+   6) nodrošināt ceļu drošības audita veikšanu;
+
+   7) norādītajos termiņos un kārtībā izpildīt Satiksmes ministrijas un Iekšlietu
+   ministrijas amatpersonu priekšrakstus, kas izdoti to kompetences ietvaros;
+
+   8) atlīdzināt personām zaudējumus, kuri tām radušies šo pienākumu neizpildes
+   gadījumā.
+
+   (2) Ministru kabinets nosaka ceļu drošības auditēšanas un ceļu drošības auditoru
+   sertificēšanas kārtību.
+
+   (3) Valsts un pašvaldību autoceļu ikdienas uzturēšanas prasības un to izpildes
+   kontroles kārtību nosaka Ministru kabinets.
+
+   (15.02.2001. likuma redakcijā ar grozījumiem, kas izdarīti ar 08.07.2003.,
+   26.05.2005. un 15.12.2005. likumu, kas stājas spēkā 01.01.2006.)
+
+   7.pants. Ceļu būvniecības, remonta un rekonstrukcijas projektēšana
+
+   (1) Ceļu, to inženierbūvju un dzelzceļa pārbrauktuvju būvniecības, remonta un
+   rekonstrukcijas projektiem jāatbilst spēkā esošajiem likumiem un citiem
+   normatīvajiem aktiem un ceļu satiksmes drošības normatīviem. Projektu atbilstība
+   minētajām prasībām jāapstiprina projektētājam. Projekti jāsaskaņo ar Latvijas Valsts
+   ceļiem.
+
+   (2) Par ekspluatācijā nododamiem ceļu būvniecības, remonta un rekonstrukcijas
+   objektiem saņemams Latvijas Valsts ceļu atzinums par to atbilstību normatīvajiem
+   aktiem un standartiem ceļu satiksmes drošības jomā.
+
+   (Ar grozījumiem, kas izdarīti ar 15.02.2001., 08.07.2003. un 26.05.2005. likumu, kas
+   stājas spēkā 29.06.2005.)
+
+   8.pants. Satiksmes ierobežošana vai aizliegums
+
+   (1) Ceļa pārvaldītājs satiksmi uz laiku var ierobežot vai aizliegt, ja radušies
+   nelabvēlīgi ceļa, klimatiskie vai citi apstākļi (paredzētas sporta sacensības,
+   publiski pasākumi u.tml.), kas apdraud satiksmes drošību. Kārtību, kādā ieviešami
+   satiksmes ierobežojumi vai aizliegums, nosaka Ministru kabinets.
+
+   (2) Sevišķi neatliekamos gadījumos, pildot dienesta pienākumus, savas kompetences
+   ietvaros satiksmi var ierobežot vai aizliegt policijas darbinieki un citas
+   amatpersonas, kuras tam pilnvaro likumi un citi normatīvie akti.
+
+   (3) Izņēmuma stāvokļa laikā ceļu satiksmes ierobežojumus var noteikt saskaņā ar
+   likumu "Par izņēmuma stāvokli".
+
+   (Ar grozījumiem, kas izdarīti ar 08.07.2003. likumu, kas stājas spēkā 01.01.2004.)
+
+   III nodaļa
+   Transportlīdzekļi un to reģistrācija
+
+   9.pants. Transportlīdzekļu izmantošana ceļu satiksmē
+
+   (1) Latvijas teritorijā ceļu satiksmē atļauts izmantot reģistrētus
+   transportlīdzekļus, kuru konstrukcija un tehniskais stāvoklis atbilst Latvijā
+   obligāti piemērojamo standartu un normatīvu prasībām, attiecībā uz kuriem ir veikta
+   sauszemes transportlīdzekļu īpašnieku civiltiesiskās atbildības obligātā
+   apdrošināšana un kuriem ir dota atļauja piedalīties ceļu satiksmē.
+
+   (2) Mehāniskajiem transportlīdzekļiem, izņemot motociklus, triciklus, kvadriciklus,
+   trolejbusus un traktortehniku, jābūt divām valsts reģistrācijas numura zīmēm, bet
+   motocikliem, tricikliem, kvadricikliem, traktortehnikai, mopēdiem un piekabēm —
+   vienai valsts reģistrācijas numura zīmei. Zīmes piestiprināmas šim nolūkam
+   paredzētajās vietās. Uz trolejbusiem, tramvajiem un specializētajiem tūristu
+   transportlīdzekļiem jābūt uzkrāsotiem diviem reģistrācijas numuriem.
+
+   (2^1) Ja transportlīdzeklim uzstāda ierīci, kas paredzēta velosipēdu vai papildu
+   bagāžas pārvadāšanai, un šī ierīce vai ar to pārvadājamā bagāža aizsedz uzstādīto
+   numura zīmi, transportlīdzeklim var papildus piešķirt vienu ar identisku simbolu
+   kombināciju apzīmētu numura zīmi, ja ierīces izgatavotājs tai paredzējis vietu
+   numura zīmes uzstādīšanai.
+
+   (3) Specializēto tūristu transportlīdzekļu izmantošanas nosacījumus,
+   transportlīdzekļa tipu un kustības maršrutu, izvērtējot tā sabiedriskās
+   nepieciešamības un drošības kritērijus, nosaka attiecīgā pašvaldība.
+
+   (4) Personai, kura ir Latvijas pilsonis vai nepilsonis, kā arī tādai personai, kura
+   ir saņēmusi Latvijā izdotu reģistrācijas apliecību, pastāvīgās uzturēšanās apliecību
+   vai uzturēšanās atļauju, aizliegts Latvijas teritorijā ceļu satiksmē vadīt ārvalstīs
+   pastāvīgi reģistrētu vieglo automobili, izņemot šā panta piektajā daļā minētos
+   gadījumus.
+
+   (5) Šā panta ceturtajā daļā minētās personas Latvijas teritorijā var vadīt ārvalstīs
+   pastāvīgi reģistrētu vieglo automobili šādos gadījumos:
+
+   1) persona vada vieglo automobili, ko iznomājis (izīrējis) ārvalstīs reģistrēts
+   uzņēmējdarbības veicējs, kas nodarbojas ar autoiznomāšanu (autoizīrēšanu), un to
+   transportlīdzekļa vadītājs apliecina ar transportlīdzekļa nomas (īres) līgumu un
+   ārvalstīs izdotu transportlīdzekļa reģistrācijas apliecību, kurā kā īpašnieks
+   (turētājs, valdītājs) norādīts transportlīdzekļa iznomātājs (izīrētājs);
+
+   2) persona vada vieglo automobili, klātesot tādam transportlīdzekļa īpašniekam
+   (turētājam, valdītājam) vai viņa pilnvarotai personai, kas nav šā panta ceturtajā
+   daļā minētā persona;
+
+   3) persona strādā algotu darbu ārvalstīs vai mācās tādā mācību iestādē vai uzņēmumā,
+   kurš atrodas ārvalstīs, vai ārvalstīs veic uzņēmējdarbību kā individuālais
+   komersants vai pašnodarbinātā persona;
+
+   4) persona ir tāda ārvalstīs reģistrēta tiesību subjekta īpašnieks (dalībnieks) vai
+   amatpersona, kurš veic uzņēmējdarbību;
+
+   5) persona ieņem vēlētu amatu citas Eiropas Savienības dalībvalsts pašvaldības
+   lēmējinstitūcijā;
+
+   6) personai izsniegta uzturēšanās atļauja (reģistrācijas apliecība) ārvalstīs;
+
+   7) vieglo automobili vada tāda persona, kura ir laulātais, pirmās pakāpes radinieks
+   (tai skaitā adoptētais vai adoptētājs) vai otrās pakāpes radinieks tādam attiecīgā
+   vieglā automobiļa īpašniekam (turētājam, valdītājam), kurš saskaņā ar šā panta
+   noteikumiem minēto transportlīdzekli varētu vadīt Latvijas teritorijā.
+
+   (6) Lai šā panta piektās daļas paredzētajos gadījumos ceturtajā daļā minētā persona
+   varētu Latvijas teritorijā ceļu satiksmē vadīt vieglo automobili, tai Ministru
+   kabineta noteiktajos gadījumos Ceļu satiksmes drošības direkcijā jāsaņem atļauja
+   piedalīties ceļu satiksmē. Ministru kabinets nosaka, kādos gadījumos un kādā kārtībā
+   Ceļu satiksmes drošības direkcijā šā panta ceturtajā daļā minētajām personām piešķir
+   un anulē atļauju piedalīties ceļu satiksmē.
+
+   (08.07.2003. likuma redakcijā ar grozījumiem, kas izdarīti ar 26.05.2005.,
+   19.02.2009. un 13.05.2010. likumu, kas stājas spēkā 15.06.2010.)
+
+   10.pants. Transportlīdzekļu reģistrācija
+
+   (1) Ceļu satiksmē iesaistītos transportlīdzekļus reģistrē:
+
+   1) vietējās pašvaldības to noteiktajā kārtībā — tramvajus, trolejbusus un
+   specializētos tūristu transportlīdzekļus;
+
+   2) Valsts tehniskās uzraudzības aģentūra — traktortehniku un tās piekabes;
+
+   3) Ceļu satiksmes drošības direkcija — pārējos mehāniskos transportlīdzekļus, to
+   piekabes un mopēdus.
+
+   (1^1) Šā panta pirmās daļas 2. un 3.punktā minēto ceļu satiksmē iesaistīto
+   transportlīdzekļu reģistrācija veicama piecu dienu laikā pēc transportlīdzekļu
+   iegādes vai ārvalstīs iegādātu transportlīdzekļu ievešanas dienas.
+
+   (1^2) Latvijā reģistrējami tie ārvalstīs reģistrētie šā panta pirmās daļas 2. un
+   3.punktā minētie transportlīdzekļi, kuri Latvijā atrodas ilgāk par trim mēnešiem un
+   piedalās ceļu satiksmē un kuru īpašnieki ir ārzemnieki vai ārvalstīs reģistrētas
+   juridiskās personas (tiesībspējīgas personu apvienības).
+
+   (1^3) Šā panta pirmās daļas 2. un 3.punktā minēto ceļu satiksmē iesaistīto
+   transportlīdzekļu reģistrācija veicama arī šādos gadījumos:
+
+   1) piecu dienu laikā, ja mainās transportlīdzekļa reģistrācijas apliecībā norādītais
+   īpašnieks (turētājs, valdītājs) vai kaut viens no uzskaites tehniskajiem datiem;
+
+   2) līdz nākamajai valsts tehniskajai apskatei vai līdz izbraukšanai ar šo
+   transportlīdzekli no valsts, ja mainās transportlīdzekļa reģistrācijas apliecībā
+   norādītā turētāja vārds, uzvārds vai nosaukums;
+
+   3) līdz izbraukšanai ar šo transportlīdzekli no valsts, ja mainās transportlīdzekļa
+   reģistrācijas apliecībā norādītā īpašnieka vārds, uzvārds vai nosaukums un ar
+   attiecīgo transportlīdzekli no valsts izbrauc pats īpašnieks vai persona, kura nav
+   norādīta transportlīdzekļa reģistrācijas apliecībā.
+
+   (1^4) Šā panta pirmās daļas 2. un 3.punktā minēto ceļu satiksmē iesaistīto
+   transportlīdzekļu reģistrācijas un noņemšanas no uzskaites kārtību nosaka Ministru
+   kabinets.
+
+   (2) Transportlīdzekli reģistrē uz tā īpašnieka (fiziskās vai juridiskās personas)
+   vārda. Ja transportlīdzeklim ir vairāki īpašnieki, to reģistrē uz viena
+   līdzīpašnieka — fiziskās vai juridiskās personas — vārda pēc visu līdzīpašnieku
+   savstarpējas vienošanās.
+
+   (2^1) Personai, kura nav Latvijas pilsonis vai nepilsonis un kura nav saņēmusi
+   Latvijā izdotu reģistrācijas apliecību, pastāvīgās uzturēšanās apliecību vai
+   uzturēšanās atļauju, transportlīdzekli var reģistrēt Latvijā uz laiku līdz sešiem
+   mēnešiem.
+
+   (3) Valsts vai pašvaldības īpašumā esošus transportlīdzekļus reģistrē uz tās tiešās
+   vai pastarpinātās valsts pārvaldes iestādes vārda, kura likumos un citos
+   normatīvajos aktos noteiktajā kārtībā rīkojas ar šiem transportlīdzekļiem.
+
+   (4) Pirms tiesas sprieduma par mantošanu vai mantojuma apliecības saņemšanas
+   iespējamais mantinieks, uzrādot šo faktu apliecinošus dokumentus, var reģistrēt
+   transportlīdzekli uz sava vārda kā transportlīdzekļa valdītājs. Ja iespējamie
+   mantinieki ir vairāki, tie var vienoties, kurš no viņiem būs transportlīdzekļa
+   valdītājs. Šīs vienošanās sastādīšana, kā arī citas attiecībā uz transportlīdzekli
+   veicamās darbības, kuras skar pārējo iespējamo mantinieku tiesības, izdarāmas
+   attiecīgi Ceļu satiksmes drošības direkcijā vai Valsts tehniskās uzraudzības
+   aģentūrā visu iespējamo mantinieku klātbūtnē vai arī ar noteikumu, ka ir iesniegta
+   visu iespējamo mantinieku rakstveida piekrišana, ko apliecinājis notārs vai cita
+   Civillikuma 1474.pantā norādītā persona. Līdz tiesas spriedumam vai mantojuma
+   apliecības saņemšanai ir aizliegta šā transportlīdzekļa atsavināšana.
+
+   (5) Transportlīdzekli reģistrē uz tādas fiziskās personas vārda, kura ir sasniegusi
+   18 gadu vecumu vai kura saskaņā ar Civillikuma 220.pantu izsludināta par pilngadīgu,
+   izņemot gadījumus, kad transportlīdzekli manto tikai nepilngadīgas personas. Ja
+   transportlīdzekli manto tikai nepilngadīgas personas (viena vai vairākas), to
+   reģistrē uz nepilngadīgās personas vārda un reģistrācijas apliecībā norāda datus par
+   tās aizbildni.
+
+   (6) Transportlīdzekļus, kurus saskaņā ar šā likuma 24.pantu drīkst vadīt no 14 vai
+   16 gadu vecuma, atļauts reģistrēt uz 16 gadu vecumu sasniegušas fiziskās personas
+   vārda ar tās vecāku (aizbildņu) piekrišanu.
+
+   (7) Latvijā nav jāreģistrē tehnoloģiskie agregāti — piekabes, kurus īslaicīgi
+   pārvieto pa ceļiem Latvijas teritorijā. Tehnoloģisko agregātu — piekabju
+   uzskaitījumu un pārvietošanas kārtību regulē Ceļu satiksmes noteikumi.
+
+   (8) Aizliegts reģistrēt:
+
+   1) mehāniskos transportlīdzekļus, kas pēc konstrukcijas ir paredzēti braukšanai pa
+   ceļa kreiso pusi. Šī prasība neattiecas uz specializētajiem pasta
+   transportlīdzekļiem, specializētajiem ceļu dienesta transportlīdzekļiem,
+   specializētajiem atkritumu izvešanai paredzētajiem transportlīdzekļiem,
+   transportlīdzekļiem, kuri normatīvajos aktos noteiktajā kārtībā reģistrējami kā
+   vēsturiskie spēkrati un transportlīdzekļiem, kas ievesti no ārvalstīm uz laiku;
+
+   2) mehāniskos transportlīdzekļus (izņemot traktortehniku un tās piekabes), piekabes
+   un mopēdus, kuru ražotājiem nav piešķirts starptautiskais izgatavotāja
+   identifikācijas kods. Latvijā starptautisko izgatavotāja identifikācijas kodu
+   piešķir saskaņā ar valsts standartu LVS 88:1997 "Transportlīdzekļu marķēšana". Šī
+   prasība neattiecas uz iepriekš ārvalstīs reģistrētiem transportlīdzekļiem;
+
+   3) kokvedējus, kuru gabarīti pārsniedz Ceļu satiksmes noteikumos noteiktos lielumus.
+
+   (9) Ceļu satiksmes drošības direkcija vai Valsts tehniskās uzraudzības aģentūra
+   atsaka transportlīdzekļa reģistrāciju, ja transportlīdzekļu reģistrā ir informācija,
+   ka transportlīdzeklis vai tā numurētie agregāti ir izsludināti meklēšanā, vai ir
+   pamatotas aizdomas, ka agregātu numuri vai citi reģistrācijai nepieciešamie dati,
+   kurus izgatavotājs norādījis uz transportlīdzekļa vai uzrādītās numura zīmes, vai
+   reģistrācijai iesniegtie dokumenti ir viltoti. Par pieņemto lēmumu un tā pamatojumu
+   Ceļu satiksmes drošības direkcija vai Valsts tehniskās uzraudzības aģentūra
+   nekavējoties informē Valsts policiju, kā arī nodod tai reģistrācijai iesniegtos
+   dokumentus un numura zīmes, ja ir aizdomas par numura zīmju viltošanu. Valsts
+   policija veic pārbaudi un informē Ceļu satiksmes drošības direkciju vai Valsts
+   tehniskās uzraudzības aģentūru par to, vai attiecīgo transportlīdzekli ir tiesības
+   reģistrēt transportlīdzekļu reģistrā.
+
+   (Ar grozījumiem, kas izdarīti ar 20.06.2000., 08.07.2003., 26.05.2005., 15.02.2007.,
+   19.02.2009. un 13.05.2010. likumu, kas stājas spēkā 15.06.2010.)
+
+   10.^1 pants. Transportlīdzekļu reģistrācijas valsts nodeva (transportlīdzekļu
+   reģistra nodeva)
+
+   Pirms transportlīdzekļu reģistrācijas maksājama transportlīdzekļu reģistrācijas
+   valsts nodeva (transportlīdzekļu reģistra nodeva). Transportlīdzekļu reģistrācijas
+   valsts nodevas (transportlīdzekļu reģistra nodevas) maksāšanas kārtību un apmēru
+   nosaka Ministru kabinets.
+
+   (26.05.2005. likuma redakcijā, kas stājas spēkā 29.06.2005. Pants stājas spēkā
+   01.09.2005.)
+
+   10.^2 pants. Velosipēdu reģistrācija
+
+   (1) Velosipēdu reģistrācija ir brīvprātīga, un ceļu satiksmē atļauts piedalīties arī
+   ar nereģistrētiem velosipēdiem.
+
+   (2) Velosipēdu reģistrāciju veic Ceļu satiksmes drošības direkcija.
+
+   (3) Attiecībā uz velosipēdiem nav piemērojams tiesiskais regulējums, kas noteikts
+   šīs nodaļas 9., 10., 10.^1, 11., 12., 13., 14., 15., 15.^1, 16. un 17.pantā.
+
+   (4) Kārtību, kādā notiek velosipēdu reģistrācija, nosaka Ministru kabinets.
+
+   (13.05.2010. likuma redakcijā, kas stājas spēkā 15.06.2010.)
+
+   11.pants. Transportlīdzekļu reģistrēšanai nepieciešamie dokumenti
+
+   (1) Transportlīdzekļu reģistrēšanai attiecīgi Ceļu satiksmes drošības direkcijā vai
+   Valsts tehniskās uzraudzības aģentūrā iesniedzami šādi dokumenti:
+
+   1) reģistrācijas iesniegums. Ja transportlīdzeklis pieder vairākiem īpašniekiem,
+   visas attiecībā uz transportlīdzekli veicamās darbības, kuras skar pārējo
+   līdzīpašnieku īpašuma tiesības, izdarāmas attiecīgi Ceļu satiksmes drošības
+   direkcijā vai Valsts tehniskās uzraudzības aģentūrā visu līdzīpašnieku klātbūtnē vai
+   arī ar noteikumu, ka ir iesniegta visu līdzīpašnieku rakstveida piekrišana, ko
+   apliecinājis notārs vai cita Civillikuma 1474.pantā norādītā persona. Ja
+   līdzīpašnieki nevar vienoties, uz kura līdzīpašnieka vārda tiks reģistrēts
+   transportlīdzeklis, strīdu izšķir tiesa;
+
+   2) dokumenti, kas apliecina transportlīdzekļa uzskaites tehniskos datus (iepriekš
+   reģistrētam transportlīdzeklim — reģistrācijas apliecība, iepriekš nereģistrētam
+   transportlīdzeklim — transportlīdzekļa izgatavotāja vai tā pilnvarotā pārstāvja
+   izdots dokuments un citi dokumenti, kas apliecina konkrētā transportlīdzekļa
+   izcelsmi vai pārdošanas faktu);
+
+   3) (izslēgts ar 13.05.2010. likumu);
+
+   4) īpašuma tiesības apliecinošs dokuments (ja transportlīdzeklis iepriekš nav
+   reģistrēts uz iesniegumā norādītās personas vārda) vai dokumenti, kas apliecina, ka
+   persona ir transportlīdzekļa valdītājs (ja transportlīdzekli pirms tiesas sprieduma
+   par mantošanu vai mantojuma apliecības saņemšanas reģistrē uz valdītāja vārda).
+
+   (2) Ja transportlīdzeklis ir laulāto kopīga manta, laulātajam, uz kura vārda
+   transportlīdzeklis reģistrēts, tā atsavināšanas (pārdošanas, dāvinājuma, maiņas)
+   gadījumā rakstveidā jāapliecina, ka otram laulātajam nav pretenziju attiecībā uz
+   transportlīdzekļa atsavināšanu.
+
+   (3) Ja transportlīdzekļa pārreģistrācija no īpašnieka (atsavinātāja) citai personai
+   (ieguvējam) tiek veikta, abām pusēm vai to pilnvarotām personām vēršoties attiecīgi
+   Ceļu satiksmes drošības direkcijā vai Valsts tehniskās uzraudzības aģentūrā, īpašuma
+   tiesības apliecinošs dokuments ieguvējam nav jāiesniedz. Šie gadījumi attiecas tikai
+   uz transportlīdzekļiem, kuri iepriekš ir reģistrēti Latvijā un kuru ieguvējiem tiks
+   izsniegta reģistrācijas apliecība.
+
+   (Ar grozījumiem, kas izdarīti ar 08.07.2003., 26.05.2005. un 13.05.2010. likumu, kas
+   stājas spēkā 15.06.2010.)
+
+   12.pants. Īpašuma tiesības apliecinoši dokumenti
+
+   (1) Lai reģistrētu transportlīdzekli, tā īpašniekam jāiesniedz pietiekami
+   dokumentāri pierādījumi par transportlīdzekļa iegūšanu legālā ceļā. Dokumenti nav
+   jāiesniedz, ja atsavinātājs transportlīdzekļu un to vadītāju valsts reģistrā
+   izdarījis atzīmi par transportlīdzekļa nodošanu īpašumā ieguvējam.
+
+   (2) Dokumenti, ar kuriem pierādāmas īpašuma tiesības, ir:
+
+   1) izraksts no notariālo aktu grāmatas vai noteiktā kārtībā apliecināts līgums
+   (Civillikuma 1474.pants) par transportlīdzekļa atsavinājumu (dāvinājums, pirkums,
+   maiņa u.tml.), kopmantas dalīšanas līgums vai līgums par kopīpašuma izbeigšanu;
+
+   2) mantojuma apliecība, tiesas spriedums par mantošanu, mantojuma, laulāto kopmantas
+   vai kopīpašuma sadali, īpašuma tiesību atzīšanu, iegūšanu ar ieilgumu vai uz citiem
+   Civillikumā paredzētiem īpašuma tiesību iegūšanas pamatiem;
+
+   3) rēķins — uzziņa, kuru izsniedzis komersants, kas nodarbojas ar transportlīdzekļu
+   tirdzniecību;
+
+   4) dokuments par transportlīdzekļa iegādi ārvalstīs;
+
+   5) akts par atsavinātājam — juridiskajai personai Latvijā reģistrēta
+   transportlīdzekļa nodošanu īpašumā ieguvējam;
+
+   6) akts par apdrošinājuma ņēmējam — juridiskajai vai fiziskajai personai — piederoša
+   transportlīdzekļa nodošanu īpašumā Apdrošināšanas sabiedrību un to uzraudzības
+   likumā noteiktajam apdrošinātājam sakarā ar apdrošināšanas gadījuma iestāšanos;
+
+   7) dokuments par loterijā vai citā ceļā legāli laimētu transportlīdzekli;
+
+   8) dokuments par Latvijā izgatavota vai pārbūvēta transportlīdzekļa leģitimāciju;
+
+   9) arhīva izziņa un citi īpašuma tiesības apliecinoši dokumenti.
+
+   (3) Visos šajos dokumentos jābūt norādītam: īpašnieka vārdam un uzvārdam (juridiskās
+   personas nosaukumam), adresei un transportlīdzekļa tehniskajiem uzskaites datiem
+   (reģistrācijas numurs, marka, modelis, agregātu numuri, reģistrācijas apliecības
+   numurs) apjomā, kas dod iespēju identificēt konkrēto transportlīdzekli.
+
+   (4) Ja transportlīdzeklis ievests Latvijā no ārvalstīm, papildus īpašuma tiesības
+   apliecinošam dokumentam attiecīgi Ceļu satiksmes drošības direkcijā vai Valsts
+   tehniskās uzraudzības aģentūrā jāiesniedz dokuments par to, ka transportlīdzekļa
+   ievešana ir noformēta muitas noteiktajā kārtībā.
+
+   (Ar grozījumiem, kas izdarīti ar 08.07.2003., 26.05.2005., 15.12.2005., 15.02.2007.
+   un 19.02.2009. likumu, kas stājas spēkā 18.03.2009.)
+
+   13.pants. Transportlīdzekļa reģistrācijas apliecība
+
+   (1) Transportlīdzekļa reģistrācijas apliecība ir dokuments, kurā uzrādīti
+   transportlīdzekļa uzskaites tehniskie dati, kā arī dati par transportlīdzekļa
+   īpašnieku (valdītāju, turētāju).
+
+   (2) Katram transportlīdzeklim izsniedz tikai vienu reģistrācijas apliecību. Tas
+   neizslēdz transportlīdzekļa piederību vairākiem īpašniekiem.
+
+   (3) Ja transportlīdzeklis pieder vairākiem īpašniekiem, reģistrācijas apliecību
+   izsniedz uz viena līdzīpašnieka vārda ar atzīmi "kopīpašums".
+
+   (Ar grozījumiem, kas izdarīti ar 08.07.2003. un 26.05.2005. likumu, kas stājas spēkā
+   29.06.2005.)
+
+   14.pants. Transportlīdzekļa atsavināšanas, reģistrācijas un citu aizliegumu, kā arī
+   komercķīlas atzīmes reģistrācija
+
+   (1) Transportlīdzekļa atsavināšanas, reģistrācijas un citus aizliegumus, kā arī
+   komercķīlas atzīmi reģistrē un dzēš attiecīgi Ceļu satiksmes drošības direkcija vai
+   Valsts tehniskās uzraudzības aģentūra.
+
+   (2) Transportlīdzekļa atsavināšanas, reģistrācijas un citus aizliegumus, kā arī
+   komercķīlas atzīmi reģistrē, pamatojoties uz normatīvajiem aktiem, transportlīdzekļa
+   reģistrācijas apliecībā norādītā īpašnieka iesniegumu (identificējot iesniedzēju)
+   vai likumā noteikto amatpersonu lēmumu, vai tiesas nolēmumu. Aizliegumu dzēš,
+   pamatojoties uz normatīvajiem aktiem, tās personas iesniegumu, pēc kuras iniciatīvas
+   aizliegums reģistrēts, likumā noteikto amatpersonu lēmumu vai tiesas nolēmumu. Ja
+   transportlīdzekļa reģistrācijas apliecībā norādītā īpašnieka vārdā iesniegumu
+   iesniedz viņa pilnvarota persona, pilnvarā jābūt speciālai norādei reģistrēt vai
+   dzēst aizlieguma atzīmi. Pilnvarai nepieciešams notāra vai citas Civillikuma
+   1474.pantā norādītās personas apliecinājums.
+
+   (3) Ja ir reģistrēts transportlīdzekļa atsavināšanas aizliegums, transportlīdzekli
+   uz tā īpašnieka iesnieguma pamata nevar noņemt no uzskaites, nevar reģistrēt
+   komercķīlas atzīmi un īpašnieka maiņu.
+
+   (4) Komercķīlas atzīmi attiecīgajā transportlīdzekļu reģistrā ieraksta, pamatojoties
+   uz komercķīlas devēja un komercķīlas ņēmēja pieteikuma norakstu, izrakstu vai
+   kopiju, kas saņemta no Komercķīlu reģistra turētāja. Atzīmi reģistrē, ja nav
+   juridisku šķēršļu attiecīgā transportlīdzekļa ieķīlāšanai. Par atzīmes reģistrēšanu
+   vai reģistrācijas atteikumu paziņo Komercķīlu reģistra turētājam.
+
+   (5) Ja komercķīlas devējam, ieķīlājot transportlīdzekli, ir noteikts aizliegums
+   izvest to vai izbraukt ar to ārpus Latvijas, attiecīgajā transportlīdzekļu reģistrā
+   norāda arī šo aizliegumu. Pēc transportlīdzekļa īpašnieka lūguma viņam izsniedzama
+   jauna transportlīdzekļa reģistrācijas apliecība ar aizlieguma atzīmi.
+
+   (6) Ieķīlāto transportlīdzekli aizliegts pēc tā īpašnieka lūguma noņemt no uzskaites
+   vai reģistrēt tā īpašnieka maiņu bez komercķīlas ņēmēja piekrišanas, par ko
+   pieprasāma informācija no Komercķīlu reģistra turētāja.
+
+   (7) Komercķīlas tiesības izlietošanas gadījumā iesniegumu transportlīdzekļa
+   noņemšanai no uzskaites vai pārreģistrācijai īpašnieka vietā iesniedz komercķīlas
+   ņēmējs. Iesniegumam papildus pievienojams Komercķīlu reģistra turētājam iesniegtā
+   paziņojuma noraksts ar atzīmi, ka nav saņemts tiesas nolēmums par aizliegumu
+   komercķīlas ņēmējam pārdot ieķīlāto mantu, vai šāda satura Komercķīlu reģistra
+   paziņojums elektroniskā veidā.
+
+   (8) Komercķīlas atzīme dzēšama, pamatojoties uz Komercķīlu reģistra turētāja
+   paziņojumu.
+
+   (20.12.1999. likuma redakcijā ar grozījumiem, kas izdarīti ar 08.07.2003.,
+   26.05.2005. un 15.02.2007. likumu, kas stājas spēkā 15.03.2007.)
+
+   14.^1 pants. Transportlīdzekļu un to vadītāju valsts reģistrā esošās informācijas
+   pieejamība
+
+   (1) Informācija par fiziskajai personai piederošu transportlīdzekli, identificējot
+   personas datus, ir ierobežotas pieejamības informācija, un to var iegūt
+   tiesībaizsardzības iestādes, valsts un pašvaldību iestādes, kā arī Ministru kabineta
+   noteiktas personas, kurām informācija nepieciešama darba vai dienesta funkciju
+   veikšanai.
+
+   (2) Informācija par juridiskajai personai piederošu transportlīdzekli, par personas
+   tiesībām vadīt transportlīdzekļus, par likumā noteiktajā termiņā personas
+   neapmaksātajiem sodiem, kas piemēroti par pārkāpumiem ceļu satiksmē, kā arī pārējā
+   transportlīdzekļu un to vadītāju valsts reģistrā esošā informācija ir vispārpieejama
+   informācija.
+
+   (3) Transportlīdzekļa īpašnieks (valdītājs, turētājs) par savu transportlīdzekli ir
+   tiesīgs saņemt visu transportlīdzekļu un to vadītāju valsts reģistrā esošo
+   informāciju, tai skaitā informāciju par personām, kuras izdarījušas administratīvos
+   pārkāpumus ar attiecīgo transportlīdzekli, par šīm personām uzliktajiem sodiem un to
+   apmēru, par aizliegumiem, kas piemēroti transportlīdzeklim, u.tml.
+
+   (4) Transportlīdzekļa īpašniekam (turētājam, valdītājam) ir tiesības iegūt ziņas par
+   personām, kuras no Ceļu satiksmes drošības direkcijas saņēmušas šā panta pirmajā
+   daļā noteikto informāciju par viņu, izņemot ziņas par valsts institūcijām, kuras ir
+   kriminālprocesa virzītāji, operatīvās darbības subjekti, vai citām institūcijām, par
+   kurām šādas ziņas izpaust likums aizliedz.
+
+   (5) Ceļu satiksmes drošības direkcija reģistrē tikai tās personas, kuras ieguvušas
+   šā panta pirmajā daļā minēto ierobežotas pieejamības informāciju.
+
+   (6) Šā panta pirmajā daļā minētais informācijas saņēmējs ir atbildīgs par to, ka
+   attiecīgā informācija tiek izmantota tikai viņa darba vai dienesta funkciju
+   veikšanai, un nav tiesīgs to nodot trešajām personām.
+
+   (7) Sniedzot statistiskās ziņas vai citas vispārīga rakstura ziņas, Ceļu satiksmes
+   drošības direkcija nodrošina to, ka konkrēto transportlīdzekļa īpašnieku nav
+   iespējams identificēt.
+
+   (8) Kārtību, kādā transportlīdzekļu un to vadītāju valsts reģistrā esošā informācija
+   pieprasāma un nododama atklātībai, kā arī pieejamās informācijas apjomu nosaka
+   Ministru kabinets.
+
+   (9) Ceļu satiksmes drošības direkcija, pamatojoties uz Valsts policijas sniegto
+   informāciju transportlīdzekļu un to vadītāju valsts reģistram, paziņo
+   transportlīdzekļa īpašniekam, ka attiecīgā transportlīdzekļa lietotājam nav
+   transportlīdzekļu vadīšanas tiesību.
+
+   (10) Ierakstiem transportlīdzekļu un to vadītāju valsts reģistrā ir publiska
+   ticamība.
+
+   (26.05.2005. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.12.2005. un
+   15.02.2007. likumu, kas stājas spēkā 15.03.2007.)
+
+   15.pants. Transportlīdzekļu izgatavošana un pārbūve
+
+   (1) Transportlīdzekļus Latvijā var izgatavot noteiktā kārtībā reģistrēta
+   kapitālsabiedrība, kurai ir izstrādāta, saskaņota un reģistrēta jaunbūvējamo
+   transportlīdzekļu konstrukcijas normatīvtehniskā dokumentācija un kurai ir piešķirts
+   starptautiskais izgatavotāja identifikācijas kods (izņemot traktortehniku un tās
+   piekabes).
+
+   (2) Jaunbūvējamo mehānisko transportlīdzekļu (izņemot traktortehniku), to piekabju
+   un mopēdu konstrukcijas normatīvtehnisko dokumentāciju saskaņo un starptautisko
+   izgatavotāja identifikācijas kodu piešķir Ceļu satiksmes drošības direkcija Ministru
+   kabineta noteiktajā kārtībā.
+
+   (3) Par transportlīdzekļu pārbūvi tiek uzskatīta transportlīdzekļu agregātu, mezglu,
+   sistēmu, iekārtu uzstādīšana, pārveidošana, nomaiņa vai demontāža, kuras rezultātā
+   mainās transportlīdzekļa uzskaites tehniskie dati vai galvenie konstruktīvie
+   parametri.
+
+   (4) Par pārbūvēto mehānisko transportlīdzekļu, to piekabju (izņemot traktortehniku
+   un tās piekabes) un mopēdu pārbūves tehnisko projektu vai individuāli pārbūvēto
+   mehānisko transportlīdzekļu, to piekabju (izņemot traktortehniku un tās piekabes) un
+   mopēdu atbilstību satiksmes drošības un tehnisko normatīvu prasībām jāsaņem
+   attiecīgs Ceļu satiksmes drošības direkcijas vai Ceļu satiksmes drošības direkcijā
+   šim nolūkam akreditētas personas atzinums. Novērtējot pārbūvētā mehāniskā
+   transportlīdzekļa vai tā piekabes atbilstību normatīvo aktu prasībām, Ceļu satiksmes
+   drošības direkcija vai Ceļu satiksmes drošības direkcijā šim nolūkam akreditēta
+   persona papildus kontrolē, lai piesārņojošo vielu izplūde, ko rada palīgmotori, kas
+   iebūvēti izmantošanai ceļu satiksmē paredzētajos transportlīdzekļos vai uzstādīti uz
+   tiem, nepārsniedz vides aizsardzību reglamentējošos normatīvajos aktos noteiktās
+   emisijas robežvērtības.
+
+   (5) Par pārbūvētās traktortehnikas atbilstību satiksmes drošības un tehnisko
+   normatīvu prasībām, kas saskaņotas ar traktortehnikas ražotāju, un traktortehnikas
+   piekabju atbilstību satiksmes drošības un tehnisko normatīvu prasībām jāsaņem
+   attiecīgs Valsts tehniskās uzraudzības aģentūras atzinums.
+
+   (6) Transportlīdzekļu pārbūves veikšanas kārtību, prasības attiecībā uz
+   transportlīdzekļu konstrukciju un aprīkojumu pēc pārbūves, kā arī kārtību, kādā
+   saņemams atzinums par pārbūvētā transportlīdzekļa atbilstību satiksmes drošības un
+   tehnisko normatīvu prasībām, nosaka Ministru kabinets.
+
+   (08.07.2003. likuma redakcijā ar grozījumiem, kas izdarīti ar 26.05.2005. un
+   15.02.2007. likumu, kas stājas spēkā 15.03.2007.)
+
+   15.^1 pants. Transportlīdzekļu un to sastāvdaļu atbilstības novērtēšana
+
+   (1) Lai nodrošinātu Latvijas tirgū piedāvāto mopēdu, mehānisko transportlīdzekļu un
+   traktortehnikas, to piekabju un sastāvdaļu atbilstību drošības, ekoloģijas un
+   nekaitīguma prasībām, tiek veikta to atbilstības novērtēšana.
+
+   (2) Mopēdu, mehānisko transportlīdzekļu (izņemot traktortehniku, tās sastāvdaļas un
+   piekabes), to piekabju un sastāvdaļu sertificēšanu veic Ceļu satiksmes drošības
+   direkcija, bet testēšanu — Ceļu satiksmes drošības direkcija vai testēšanas
+   laboratorijas, kuru kompetenci ir novērtējusi Standartizācijas, akreditācijas un
+   metroloģijas centrs. Ceļu satiksmes drošības direkcija, veicot mehāniskā
+   transportlīdzekļa vai tā piekabes atbilstības novērtēšanu, papildus kontrolē, lai
+   piesārņojošo vielu izplūde, ko rada palīgmotori, kas iebūvēti izmantošanai ceļu
+   satiksmē paredzētajos transportlīdzekļos vai uzstādīti uz tiem, nepārsniedz vides
+   aizsardzību reglamentējošos normatīvajos aktos noteiktās emisijas robežvērtības.
+
+   (3) Traktortehnikas, tās piekabju un sastāvdaļu sertificēšanu veic Sertifikācijas un
+   testēšanas centrs, bet testēšanu — Sertifikācijas un testēšanas centrs vai
+   testēšanas laboratorijas, kuru kompetenci ir novērtējusi Metroloģijas un
+   akreditācijas valsts aģentūra.
+
+   (4) Mopēdu, mehānisko transportlīdzekļu, to piekabju un sastāvdaļu atbilstības
+   novērtēšanas kārtību un tehniskās prasības nosaka Ministru kabinets. Ministru
+   kabinets nosaka arī transportlīdzekļus, uz kuriem neattiecas atbilstības
+   novērtēšana, pieļaujamās atkāpes atsevišķu prasību izpildē, tirgus uzraudzības
+   institūcijas, kā arī tirgus uzraudzības un savstarpējās atzīšanas un informācijas
+   apmaiņas (paziņošanas) kārtību.
+
+   (26.05.2005. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.02.2007.,
+   14.11.2008. un 12.06.2009. likumu, kas stājas spēkā 01.07.2009.)
+
+   16.pants. Transportlīdzekļu valsts tehniskā apskate un transportlīdzekļu tehniskā
+   kontrole
+
+   (1) Transportlīdzekļu valsts tehniskā apskate tiek veikta, lai kontrolētu
+   transportlīdzekļu tehnisko stāvokli un aprīkojumu, kā arī lai aktualizētu
+   transportlīdzekļu un to vadītāju valsts reģistru un traktortehnikas un tās vadītāju
+   informatīvo sistēmu, atklātu meklēšanā esošos transportlīdzekļus un veiktu
+   normatīvajos aktos noteiktās kontroles funkcijas, kas saistītas ar piedalīšanos ceļu
+   satiksmē. Lai pastāvīgi kontrolētu to transportlīdzekļu tehnisko stāvokli un
+   aprīkojumu, kuri piedalās ceļu satiksmē un kurus izmanto komercpārvadājumiem, tiek
+   veikta transportlīdzekļu tehniskā kontrole uz ceļiem.
+
+   (2) Ja transportlīdzekļu valsts tehniskās apskates laikā tiek konstatēts, ka
+   transportlīdzeklis ir tehniskā kārtībā un atbilst satiksmes drošības un vides
+   aizsardzības prasībām un ir izpildītas citas normatīvajos aktos noteiktās prasības,
+   kas saistītas ar transportlīdzekļu piedalīšanos ceļu satiksmē (piemēram, samaksāta
+   transportlīdzekļa ikgadējā nodeva, samaksāts uzliktais naudas sods un veikta
+   transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātā apdrošināšana),
+   transportlīdzeklim Ceļu satiksmes drošības direkcija vai attiecīgi Valsts tehniskās
+   uzraudzības aģentūra dod atļauju piedalīties ceļu satiksmē. Atļauju piedalīties ceļu
+   satiksmē apliecina šā likuma 25.panta pirmajā daļā noteiktie dokumenti un uzlīmes,
+   kas ir izdrukas no transportlīdzekļu un to vadītāju valsts reģistra.
+
+   (3) Mehānisko transportlīdzekļu un to piekabju (izņemot traktortehniku un tās
+   piekabes) valsts tehnisko apskati veic Ceļu satiksmes drošības direkcija, bet
+   transportlīdzekļu tehniskā stāvokļa kontroli transportlīdzekļu valsts tehniskās
+   apskates ietvaros — Ceļu satiksmes drošības direkcija vai Ceļu satiksmes drošības
+   direkcijā šim nolūkam akreditēta persona. Akreditētā persona nedrīkst vienlaikus
+   veikt komercdarbību, kas saistīta ar transportlīdzekļu tirdzniecību, apkopi, remontu
+   vai atjaunošanu, kā arī tehnisko kontroli tās īpašumā (valdījumā, turējumā)
+   esošajiem transportlīdzekļiem.
+
+   (4) Traktortehnikas un tās piekabju valsts tehnisko apskati veic Valsts tehniskās
+   uzraudzības aģentūra. Tramvaju, trolejbusu un specializēto tūristu transportlīdzekļu
+   tehniskā stāvokļa kontroli nodrošina vietējās pašvaldības. Speciālajai
+   traktortehnikai valsts tehnisko apskati neveic.
+
+   (5) Transportlīdzekļu valsts tehnisko apskati veic ne vēlāk kā piecas dienas pēc
+   tam, kad attiecīgais transportlīdzeklis pirmoreiz reģistrēts Latvijā. Turpmākās
+   transportlīdzekļu valsts tehniskās apskates veic atbilstoši termiņam, kāds norādīts
+   atļaujā piedalīties ceļu satiksmē.
+
+   (6) Atļauju piedalīties ceļu satiksmē dod uz 12 mēnešiem, bet, lai nodrošinātu
+   vienmērīgu transportlīdzekļu skaita sadalījumu gadā pa mēnešiem, šo termiņu var
+   noteikt uz laiku līdz 13 mēnešiem. Autobusam, vieglajam taksometram, kā arī
+   autoapmācībai paredzētajam un attiecīgi reģistrētajam transportlīdzeklim atļauju
+   piedalīties ceļu satiksmē dod uz sešiem mēnešiem, bet, lai nodrošinātu vienmērīgu
+   transportlīdzekļu skaita sadalījumu gadā pa mēnešiem, šo termiņu var noteikt uz
+   laiku līdz septiņiem mēnešiem.
+
+   (7) Kārtību, kādā tiek veikta transportlīdzekļu valsts tehniskā apskate un
+   transportlīdzekļu tehniskā kontrole uz ceļiem, nosaka Ministru kabinets. Prasības
+   attiecībā uz transportlīdzekļu tehnisko stāvokli un aprīkojumu, kā arī šo prasību
+   izpildes novērtēšanas kritērijus nosaka Ministru kabinets.
+
+   (8) Lēmuma par atļauju piedalīties ceļu satiksmē apstrīdēšana vai pārsūdzēšana
+   neaptur tā darbību.
+
+   (Ar grozījumiem, kas izdarīti ar 08.07.2003., 26.05.2005. un 19.02.2009. likumu, kas
+   stājas spēkā 18.03.2009.)
+
+   17.pants. Operatīvie transportlīdzekļi
+
+   Operatīvos transportlīdzekļus ir tiesības lietot juridiskajām personām, kuru
+   sarakstu, kā arī operatīvo transportlīdzekļu izmantošanas kārtību apstiprina
+   Ministru kabinets. Operatīvie transportlīdzekļi jāapzīmē un jāaprīko atbilstoši
+   Latvijas Republikā obligāto standartu prasībām.
+
+   18.pants. Aizliegums piedalīties ceļu satiksmē
+
+   Ar transportlīdzekli aizliegts piedalīties ceļu satiksmē, kā arī iebraukt Latvijā
+   šādos gadījumos:
+
+   1) transportlīdzeklim ir normatīvajos aktos noteiktie bojājumi, kuru dēļ tas
+   nedrīkst braukt;
+
+   2) nav saņemta atļauja piedalīties ceļu satiksmē, arī ja nav veikta
+   transportlīdzekļa īpašnieka civiltiesiskās atbildības obligātā apdrošināšana;
+
+   3) tiek pārvadāta neatļauta bīstamā krava vai ir bīstamās kravas noplūde;
+
+   4) transportlīdzekļa (transportlīdzekļu sastāva) gabarīti ar kravu vai bez tās,
+   faktiskā masa vai ass slodze pārsniedz Ceļu satiksmes noteikumos paredzētos lielumus
+   un nav attiecīgās atļaujas braukšanai pa ceļu;
+
+   5) pārkāptas Ceļu satiksmes noteikumos reglamentētās kravas novietošanas un
+   nostiprināšanas prasības.
+
+   (08.07.2003. likuma redakcijā, kas stājas spēkā 01.01.2004.)
+
+   IV nodaļa
+   Ceļu satiksmes dalībnieku pienākumi un tiesības
+
+   19.pants. Ceļu satiksmes dalībnieku vispārīgie pienākumi un tiesības
+
+   (1) Ceļu satiksmes dalībniekiem ir jāizpilda šā likuma, Ceļu satiksmes noteikumu un
+   citu normatīvo aktu prasības, kas nosaka ceļu satiksmes dalībnieku pienākumus;
+   jāizpilda policijas darbinieku un to personu norādījumi, kuras pilnvarotas regulēt
+   satiksmi, kā arī jāievēro luksoforu signālu, ceļa zīmju un ceļa apzīmējumu prasības.
+
+   (2) Ja tuvojas operatīvais transportlīdzeklis, citiem satiksmes dalībniekiem jādod
+   tam ceļš, lai operatīvais transportlīdzeklis un transportlīdzekļi, kurus tas pavada,
+   varētu braukt netraucēti.
+
+   (3) Ceļu satiksmes dalībniekiem un citām personām jārīkojas tā, lai neradītu
+   satiksmei bīstamas vai satiksmi traucējošas situācijas un nenodarītu zaudējumus.
+
+   (4) Katram ceļu satiksmes dalībniekam ir tiesības uzskatīt, ka arī citas personas
+   ceļu satiksmes norisē izpildīs noteiktās prasības.
+
+   (5) Transportlīdzekļa vadītājam ir tiesības uzzināt viņa vadītā transportlīdzekļa
+   apturēšanas iemeslu, kā arī tās amatpersonas vārdu, uzvārdu un amatu, kura to
+   apstādinājusi.
+
+   (Ar grozījumiem, kas izdarīti ar 08.07.2003. un 26.05.2005. likumu, kas stājas spēkā
+   29.06.2005.)
+
+   20.pants. Transportlīdzekļu īpašnieku, valdītāju un turētāju pienākumi un tiesības
+
+   (1) Transportlīdzekļa īpašniekam (valdītājam, turētājam) ir pienākums darīt visu
+   nepieciešamo, lai ceļu satiksmē netiktu izmantoti tādi viņa lietošanā esošie
+   transportlīdzekļi, kuriem nav dota atļauja piedalīties ceļu satiksmē vai uz kuriem
+   attiecas aizliegums piedalīties ceļu satiksmē.
+
+   (2) Transportlīdzekļa īpašnieks, valdītājs un turētājs nedrīkst dot atļauju vadīt
+   transportlīdzekli personai, kura ir alkoholisko dzērienu, narkotisko, psihotoksisko
+   vai citu apreibinošo vielu ietekmē.
+
+   (3) Transportlīdzekļa īpašnieks, valdītājs un turētājs nedrīkst dot atļauju vadīt
+   transportlīdzekli personai, kurai nav atbilstošas kategorijas transportlīdzekļu
+   vadītāja apliecības, izņemot gadījumus, kad Ceļu satiksmes noteikumos paredzētajā
+   kārtībā notiek transportlīdzekļa vadīšanas apmācība vai vadīšanas iemaņu pārbaude.
+
+   (4) Ir jāveic mehāniskā transportlīdzekļa īpašnieka, valdītāja un turētāja
+   civiltiesiskās atbildības obligātā apdrošināšana likumos un citos normatīvajos aktos
+   noteiktajā kārtībā.
+
+   (5) Transportlīdzekļa īpašniekam (valdītājam, turētājam) pēc Valsts policijas
+   pieprasījuma ir pienākums sniegt ziņas par personu, kura vadīja vai bija tiesīga
+   lietot transportlīdzekli, ja pārkāpuma konstatēšanas brīdī transportlīdzekļa
+   vadītājs nav noskaidrots.
+
+   (Ar grozījumiem, kas izdarīti ar 08.07.2003. un 13.05.2010. likumu, kas stājas spēkā
+   15.06.2010.)
+
+   21.pants. Pilnvarojumi darbībām ar transportlīdzekļiem
+
+   (1) Transportlīdzekļa atsavināšanai vai noņemšanai no uzskaites izdotajā pilnvarā
+   (speciālpilnvara, ģenerālpilnvara vai universālpilnvara) jābūt speciālai norādei par
+   atļauju atsavināt transportlīdzekli vai noņemt to no uzskaites. Fiziskās personas
+   izdotajai pilnvarai nepieciešams notāra vai citas Civillikuma 1474.pantā norādītās
+   personas apliecinājums. Pilnvaru juridiskajai personai piederoša transportlīdzekļa
+   atsavināšanai vai noņemšanai no uzskaites izdod transportlīdzekļa īpašnieks, un šajā
+   gadījumā Civillikuma 1474.pantā norādītās personas apliecinājums nav obligāts.
+   Pilnvara nav jāiesniedz, ja reģistrētais transportlīdzekļa īpašnieks
+   transportlīdzekļu un to vadītāju valsts reģistrā izdarījis atzīmi par piešķirto
+   pilnvarojumu transportlīdzekļa noņemšanai no uzskaites vai transportlīdzekļa
+   nodošanu īpašumā ieguvējam.
+
+   (2) (Izslēgta ar 19.02.2009. likumu.)
+
+   (3) (Izslēgta ar 19.02.2009. likumu.)
+
+   (17.07.2000. likuma redakcijā ar grozījumiem, kas izdarīti ar 08.07.2003.,
+   26.05.2005., 19.02.2009. un 13.05.2010. likumu, kas stājas spēkā 15.06.2010.)
+
+   22.pants. Transportlīdzekļu vadītāju apmācība un vadītāja apliecības izsniegšana
+
+   (1) Transportlīdzekļu vadīšanas tiesības un transportlīdzekļa vadītāja apliecību var
+   iegūt likumā noteikto vecumu sasniegusi persona, kura pastāvīgi dzīvo Latvijā vai
+   kura Latvijā uzturas ilgāk par 185 dienām kalendāra gadā un kurai nav medicīnisku
+   pretindikāciju transportlīdzekļa vadīšanai, izņemot likumā noteiktos gadījumus, kad
+   šo tiesību iegūšana noteiktā laika periodā ir liegta. Informāciju par medicīnisko
+   pretindikāciju esamību vai neesamību Ceļu satiksmes drošības direkcijai un Valsts
+   tehniskās uzraudzības aģentūrai sniedz ārstniecības personas, kurām ir attiecīgs
+   ārstniecības personas sertifikāts.
+
+   (2) Transportlīdzekļa vadītāja apliecību izsniedz uz noteiktu termiņu.
+   Transportlīdzekļa vadītāja tiesību iegūšanas un atjaunošanas kārtību, kā arī
+   vadītāja apliecības izsniegšanas, apmaiņas un atjaunošanas kārtību un termiņus
+   nosaka Ministru kabinets.
+
+   (2^1) Bīstamo kravu pārvadāšanai paredzēto transportlīdzekļu vadītāju apmācības
+   kārtību, tiesību iegūšanas kārtību un vadītāja apliecības izsniegšanas, apmaiņas un
+   atjaunošanas kārtību nosaka Ministru kabinets.
+
+   (3) Ar transportlīdzekļu vadītāju, tai skaitā traktortehnikas vadītāju, teorētisko
+   un transportlīdzekļa vadīšanas apmācību ir tiesības nodarboties komersantam vai
+   izglītības iestādei, kuras darbību reglamentējošajā dokumentā ir paredzēta attiecīgā
+   apmācības programma. Individuāli apmācīt personu vadīt transportlīdzekli, neveicot
+   komercdarbību, atļauts transportlīdzekļu vadītājiem, kuru attiecīgās kategorijas
+   vadītāja stāžs ir vismaz trīs gadi, un tikai ar A1, A, B1 un B vadītāju apliecību
+   kategorijām atbilstošiem transportlīdzekļiem.
+
+   (3^1) Komersantam un izglītības iestādei, kas vēlas nodarboties ar transportlīdzekļu
+   vadītāju apmācību, ir jāsaņem mācību karte. Mācību karte ir dokuments, kas dod
+   tiesības nodarboties ar tajā norādīto kategoriju transportlīdzekļu vadītāju apmācību
+   konkrētās mācību telpās un kas apliecina, ka mācību telpas atbilst normatīvajos
+   aktos noteiktajām prasībām. Mācību karti izsniedz Ceļu satiksmes drošības direkcija,
+   traktortehnikas vadītāju apmācībai — Valsts tehniskās uzraudzības aģentūra.
+
+   (4) Prasības komersantiem, izglītības iestādēm un speciālistiem, kuri nodrošina
+   transportlīdzekļu vadītāju apmācību, transportlīdzekļu vadītāju apmācības
+   programmas, kā arī transportlīdzekļu vadītāju apmācības procesa kontroles kārtību
+   nosaka Ministru kabinets.
+
+   (5) Mācību braucieni atļauti personām, kurām ir ceļu satiksmes noteikumu
+   pamatzināšanas. Sākotnējai mācību braukšanai jānotiek norobežotos laukumos.
+
+   (6) Piedaloties ceļu satiksmē, personai, kura mācās braukt ar mehānisko
+   transportlīdzekli (izņemot trolejbusu), jābūt klāt braukšanas mācību atļaujai vai
+   dokumentam par tiesībām vadīt mehāniskos transportlīdzekļus. Pēc policijas
+   darbinieku pieprasījuma attiecīgās personas pienākums ir uzrādīt šo dokumentu.
+
+   (19.02.2009. likuma redakcijā ar grozījumiem, kas izdarīti ar 13.05.2010. likumu,
+   kas stājas spēkā 15.06.2010.)
+
+   23.pants. Transportlīdzekļu vadītāja apliecību kategorijas, kuras dod tiesības vadīt
+   attiecīgus transportlīdzekļus
+
+   (1) (Izslēgta ar 08.07.2003. likumu.)
+
+   (2) Vadītāja apliecību kategorijām atbilstošie transportlīdzekļi:
+
+   1) A1 — motocikli bez blakusvāģa, kuru motora darba tilpums nepārsniedz 125
+   kubikcentimetrus un jauda nepārsniedz 11 kilovatus (15 zirgspēkus);
+
+   2) (izslēgts ar 08.07.2003. likumu);
+
+   3) A — motocikli;
+
+   4) B1 — tricikli un kvadricikli;
+
+   5) B — mehāniskie transportlīdzekļi, izņemot A kategorijas motociklus, kuru pilna
+   masa nepārsniedz 3500 kilogramus un sēdvietu skaits, neskaitot vadītāja vietu,
+   nepārsniedz astoņas vietas, šādas kategorijas vilcēja savienojums ar piekabi, kuras
+   pilna masa nepārsniedz 750kilogramus, kā arī B kategorijas vilcēja savienojums ar
+   piekabi, ja šā savienojuma pilna masa nepārsniedz 3500 kilogramus un piekabes pilna
+   masa nepārsniedz vilcēja pašmasu;
+
+   6) C1 — mehāniskie transportlīdzekļi, kuru pilna masa pārsniedz 3500 kilogramus, bet
+   nepārsniedz 7500 kilogramus un kuri neietilpst D kategorijā, kā arī šādas
+   kategorijas vilcēja savienojums ar piekabi, kuras pilna masa nepārsniedz 750
+   kilogramus;
+
+   7) C — mehāniskie transportlīdzekļi, kuru pilna masa pārsniedz 3500 kilogramus un
+   kuri neietilpst D kategorijā, kā arī šādas kategorijas vilcēja savienojums ar
+   piekabi, kuras pilna masa nepārsniedz 750 kilogramus;
+
+   8) D1 — mehāniskie transportlīdzekļi pasažieru pārvadāšanai, kuru sēdvietu skaits,
+   neskaitot vadītāja vietu, pārsniedz astoņas vietas, bet nepārsniedz 16 vietas, kā
+   arī šādas kategorijas vilcēja savienojums ar piekabi, kuras pilna masa nepārsniedz
+   750 kilogramus;
+
+   9) D — mehāniskie transportlīdzekļi pasažieru pārvadāšanai, kuru sēdvietu skaits,
+   neskaitot vadītāja vietu, pārsniedz astoņas vietas, kā arī šādas kategorijas vilcēja
+   savienojums ar piekabi, kuras pilna masa nepārsniedz 750 kilogramus;
+
+   10) BE — B kategorijas vilcēja savienojums ar piekabi, ja šāds savienojums
+   neietilpst B kategorijā;
+
+   11) C1E — C1 kategorijas vilcēja savienojums ar piekabi, kuras pilna masa pārsniedz
+   750 kilogramus, ja šāda savienojuma pilna masa nepārsniedz 12 000 kilogramus un
+   piekabes pilna masa nepārsniedz vilcēja pašmasu;
+
+   12) CE — C kategorijas vilcēja savienojums ar piekabi, kuras pilna masa pārsniedz
+   750 kilogramus;
+
+   13) D1E — D1 kategorijas vilcēja savienojums ar piekabi, kuras pilna masa pārsniedz
+   750 kilogramus, ja šāda savienojuma pilna masa nepārsniedz 12 000 kilogramus un
+   piekabes pilna masa nepārsniedz vilcēja pašmasu;
+
+   14) DE — D kategorijas vilcēja savienojums ar piekabi, kuras pilna masa pārsniedz
+   750 kilogramus;
+
+   15) TRAM — tramvaji;
+
+   16) TROL — trolejbusi;
+
+   17) M — mopēdi.
+
+   (3) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt vismaz vienas kategorijas
+   mehānisko transportlīdzekli vai tramvaju, atļauts vadīt arī M kategorijas
+   transportlīdzekļus.
+
+   (4) Transportlīdzekļa vadītājam, kuram ir tiesības vadīt A, B, C1, D1, C vai D
+   kategorijas transportlīdzekļus, atļauts vadīt arī A1 un B1 kategorijas
+   transportlīdzekļus. Transportlīdzekļa vadītājam, kuram ir tiesības vadīt B, C1, D1,
+   C vai D kategorijas transportlīdzekļus, atļauts vadīt arī specializētos tūristu
+   transportlīdzekļus.
+
+   (4^1) Transportlīdzekļu vadītājam, kuram ir tiesības vadīt trolejbusu un vadītāja
+   apliecībā izdarīta attiecīga atzīme, apdzīvotās vietās atļauts vadīt arī D1 un D
+   kategorijai atbilstošu pasažieru sabiedrisko transportlīdzekli.
+
+   (5) Traktortehnikas vadītāja apliecību kategorijām atbilstoša traktortehnika:
+
+   1) A — traktori, komunālā pašgājēja traktortehnika un universālās pašgājējmašīnas ar
+   pilnu masu līdz 7500 kilogramiem;
+
+   2) B — visi traktori, komunālā pašgājēja traktortehnika, buldozeri un universālās
+   pašgājējmašīnas;
+
+   3) C — ekskavatori un pašgājēji iekrāvēji;
+
+   4) D — lauksaimniecības pašgājējmašīnas;
+
+   5) E — autogreideri;
+
+   6) F — meža izstrādes un kopšanas mašīnas;
+
+   7) G — ceļu būves mašīnas;
+
+   8) H — cita speciālā pašgājējtehnika.
+
+   (6) (Izslēgta ar 15.05.2008. likumu.)
+
+   (Ar grozījumiem, kas izdarīti ar 08.07.2003., 26.05.2005., 15.12.2005., 15.05.2008.
+   un 19.02.2009. likumu, kas stājas spēkā 18.03.2009.)
+
+   24.pants. Transportlīdzekļu vadītāju un atsevišķu kategoriju ceļu satiksmes
+   dalībnieku vecuma ierobežojumi
+
+   (1) Personai, kas vēlas iegūt transportlīdzekļu vadītāja tiesības, ir jābūt
+   sasniegušai šādu vecumu:
+
+   1) 16 gadus — A1 un B1 kategorijas vadītāja apliecības iegūšanai;
+
+   2) 18 gadus — A, B un C1 kategorijas vadītāja apliecības iegūšanai. Tiesības vadīt
+   motociklus, kuru motora jauda pārsniedz 25 kilovatus (34 zirgspēkus) vai 0,16
+   kilovatus uz kilogramu (0,22 zirgspēkus uz kilogramu), ir personām, kurām A
+   kategorijas transportlīdzekļa vadītāja stāžs ir vismaz divi gadi, izņemot gadījumus,
+   kad persona sasniegusi 21 gada vecumu un nokārtojusi attiecīgus vadītāja
+   kvalifikācijas iegūšanas eksāmenus;
+
+   3) 21 gadu — C, D1, D, BE, C1E kategorijas vadītāja apliecības iegūšanai, kā arī
+   tramvaju un trolejbusu vadīšanai;
+
+   4) 16 gadus — A kategorijas traktortehnikas vadītāja apliecības iegūšanai;
+
+   5) 17 gadus — visu veidu traktortehnikas vadītāja apliecības iegūšanai.
+
+   (2) Personas, kuras atrodas militārajā dienestā, var iegūt C, CE, D1 un D
+   kategorijas vadītāja apliecību no 19 gadu vecuma.
+
+   (3) Apmācīt personas vadīt transportlīdzekli drīkst ne agrāk kā divus gadus pirms
+   attiecīgās kategorijas transportlīdzekļu vadītāja apliecības iegūšanai noteiktā
+   vecuma sasniegšanas.
+
+   (4) Vadīt mopēdu atļauts no 14 gadu vecuma.
+
+   (5) Braukt ar velosipēdu bez pilngadīgas personas pavadības, vadīt pajūgu, jāt vai
+   dzīt ganāmpulku pa ceļu atļauts no 12 gadu vecuma.
+
+   (Ar grozījumiem, kas izdarīti ar 08.07.2003., 19.12.2006. un 15.05.2008. likumu, kas
+   stājas spēkā 01.01.2009.)
+
+   25.pants. Transportlīdzekļu vadītāja pienākumi
+
+   (1) Mehāniskā transportlīdzekļa vadītājam jābūt klāt turpmāk minētajiem dokumentiem,
+   kas jāuzrāda pēc policijas darbinieku, Autotransporta inspekcijas amatpersonu
+   (pasažieru un kravas autopārvadājumu kontroles laikā) , robežsargu (uz valsts
+   robežas vai pierobežā) vai muitas darbinieku (muitas zonā) pieprasījuma:
+
+   1) vadītāja apliecība;
+
+   2) transportlīdzekļa reģistrācijas dokumenti;
+
+   3) (izslēgts ar 27.09.2007. likumu);
+
+   4) dokumenti, kuri saskaņā ar šo likumu un citiem normatīvajiem aktiem vadītājam
+   nepieciešami, lai vadītu attiecīgu transportlīdzekli (operatīvo transportlīdzekli
+   vai tamlīdzīgu transportlīdzekli) vai pārvadātu attiecīgu kravu (bīstamu,
+   lielgabarīta, smagsvara un tamlīdzīgu kravu);
+
+   5) (izslēgts ar 15.12.2005. likumu);
+
+   6) kāds no turpmāk minētajiem dokumentiem (uzlīmēm):
+
+   a) vizuāla informācija (uzlīme) ar atļaujas piedalīties ceļu satiksmē derīguma
+   termiņu, uzlīmēta uz automobiļa vai traktortehnikas vējstikla vai uz speciālas
+   pamatnes motocikla, piekabes (puspiekabes), sporta automobiļu, traktortehnikas vai
+   speciālā militārā transportlīdzekļa gadījumā,
+
+   b) vizuāla informācija (uzlīme) ar pagaidu atļaujas piedalīties ceļu satiksmē
+   derīguma termiņu, uzlīmēta uz automobiļa vai traktortehnikas vējstikla vai uz
+   speciālas pamatnes motocikla, piekabes (puspiekabes), sporta automobiļu,
+   traktortehnikas vai speciālā militārā transportlīdzekļa gadījumā,
+
+   c) dokuments par veikto transportlīdzekļa tehnisko kontroli uz ceļiem,
+
+   d) Ceļu satiksmes drošības direkcijas izsniegta vai elektroniski noformēta vienas
+   dienas atļauja piedalīties ceļu satiksmē, lai veiktu tehnisko apskati.
+
+   (1^1) Mopēda vadītājam jābūt klāt šā panta pirmās daļas 1. un 2. punktā minētajiem
+   dokumentiem.
+
+   (2) Vadītājam pirms izbraukšanas jāpārbauda, vai transportlīdzeklis ir tehniskā
+   kārtībā un nokomplektēts, kā arī jāseko transportlīdzekļa tehniskajam stāvoklim
+   ceļā.
+
+   (3) Transportlīdzekļa vadītājam jāievēro šā likuma, Ceļu satiksmes noteikumu un citu
+   ceļu satiksmi reglamentējošu normatīvo aktu prasības, pārvietojoties pa ceļiem, kā
+   arī pa citām vietām, kurās iespējama transporta kustība.
+
+   (4) Ja transportlīdzekļa vadītājam transportlīdzekļu vadīšanas tiesības ir atņemtas
+   uz noteiktu laiku vai uz nenoteiktu laiku, vadītāja apliecība uzskatāma par nederīgu
+   no dienas, kad viņam paziņots attiecīgais lēmums. Transportlīdzekļa vadītājam ir
+   pienākums 10 dienu laikā nodot nederīgo transportlīdzekļa vadītāja apliecību Ceļu
+   satiksmes drošības direkcijai, Valsts tehniskās uzraudzības aģentūrai vai Valsts
+   policijai. Ja persona vadītāja apliecību nav nodevusi un tiek konstatēta tās
+   izmantošana, vadītāja apliecība tiek aizturēta. Vadītāja apliecību aiztur un
+   iznīcina Valsts policijas, Ceļu satiksmes drošības direkcijas un Valsts tehniskās
+   uzraudzības aģentūras amatpersonas.
+
+   (Ar grozījumiem, kas izdarīti ar 20.12.1999., 17.07.2000., 08.07.2003., 26.05.2005.,
+   15.12.2005., 15.02.2007., 27.09.2007., 19.02.2009. un 13.05.2010. likumu, kas stājas
+   spēkā 15.06.2010.)
+
+   26.pants. Transportlīdzekļu vadīšanas tiesības
+
+   (1) Transportlīdzekļu vadīšanas tiesības ļauj personai vadīt attiecīgajai
+   kategorijai atbilstošu transportlīdzekli, pārvadāt pasažierus un kravu, individuāli
+   apmācīt personas vadīt transportlīdzekļus un veikt citas normatīvajos aktos
+   transportlīdzekļa vadītājam atļautās darbības, piedaloties ceļu satiksmē.
+
+   (2) Personas tiesības vadīt transportlīdzekļus apliecina attiecīgs ieraksts
+   transportlīdzekļu un to vadītāju valsts reģistrā vai arī traktortehnikas un tās
+   vadītāju informatīvajā sistēmā un derīga transportlīdzekļa vadītāja apliecība.
+   Vadīšanas iemaņu pārbaudes laikā transportlīdzekļa vadītāja tiesības vadīt
+   transportlīdzekli apliecina derīga transportlīdzekļa vadītāja apliecība vai
+   braukšanas mācību atļauja.
+
+   (3) Transportlīdzekļa vadītāja stāžu skaita ar brīdi, kad persona saņem attiecīgas
+   kategorijas transportlīdzekļa vadītāja apliecību.
+
+   (08.07.2003. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.02.2007. likumu,
+   kas stājas spēkā 15.03.2007.)
+
+   27.pants. Ceļu satiksmes dalībnieku rīcība ceļu satiksmes negadījumos
+
+   (1) Jebkuram ceļu satiksmes dalībniekam jādara viss iespējamais, lai sniegtu pirmo
+   palīdzību ceļu satiksmes negadījumā cietušajiem.
+
+   (2) Ja ceļu satiksmes negadījumā ir cietuši cilvēki vai nodarīti bojājumi trešās
+   personas mantai, kā arī tad, ja transportlīdzekļiem radušies bojājumi, kuru dēļ tie
+   nevar pārvietoties, transportlīdzekļa vadītājs:
+
+   1) nekavējoties apstājas un paliek negadījuma vietā, ieslēdz avārijas gaismas
+   signālu un uzstāda avārijas zīmi, bet, ja tas nav iespējams, citādā veidā brīdina
+   pārējos ceļu satiksmes dalībniekus par ceļu satiksmes negadījumu;
+
+   2) dara visu iespējamo, lai cietušajam sniegtu pirmo palīdzību, izsauc neatliekamo
+   medicīnisko palīdzību vai citu glābšanas dienestu, bet, ja tas nav iespējams, ar
+   savu vai citu garām braucošu transportlīdzekli nogādā cietušo tuvākajā medicīnas
+   iestādē un pats atgriežas negadījuma vietā;
+
+   3) dara visu iespējamo, lai negadījuma vietā saglabātu notikuma pēdas, pieraksta
+   aculiecinieku vārdu, uzvārdu un adresi;
+
+   4) par ceļu satiksmes negadījumu paziņo policijai (vai citam glābšanas dienestam) un
+   tālāk rīkojas pēc tās norādījumiem.
+
+   (3) Ja šā panta otrajā daļā minētajā ceļu satiksmes negadījumā iesaistītie
+   transportlīdzekļi neļauj citiem transportlīdzekļiem pabraukt garām ceļu satiksmes
+   negadījuma vietai, transportlīdzekļu vadītāji atbrīvo brauktuvi, pirms tam fiksējot
+   ceļu satiksmes negadījumā iesaistīto transportlīdzekļu un citu priekšmetu stāvokli.
+
+   (4) Ja ceļu satiksmes negadījumā nav cietuši cilvēki un nav nodarīti bojājumi trešās
+   personas mantai, kā arī transportlīdzekļiem nav radušies bojājumi, kuru dēļ tie
+   nevar pārvietoties, transportlīdzekļu vadītāji rīkojas Ceļu satiksmes noteikumos
+   paredzētajā kārtībā.
+
+   (5) Ja ceļu satiksmes negadījumā iesaistīts tikai viens transportlīdzeklis, nav
+   cietuši cilvēki un nav nodarīti bojājumi trešās personas mantai, transportlīdzekļa
+   vadītājs rīkojas Ceļu satiksmes noteikumos paredzētajā kārtībā.
+
+   (6) Transportlīdzekļa vadītājam pēc ceļu satiksmes negadījuma līdz reibuma stāvokļa
+   konstatēšanai nepieciešamās pārbaudes izdarīšanai vai atbrīvošanai noteiktā kārtībā
+   no šādas pārbaudes aizliegts lietot alkoholiskus dzērienus, narkotiskas vai
+   psihotropas vielas.
+
+   (08.07.2003. likuma redakcijā, kas stājas spēkā 01.01.2004.)
+
+   28.pants. Transportlīdzekļu vadīšanas aizliegums
+
+   (1) Aizliegts vadīt transportlīdzekli:
+
+   1) transportlīdzekļu vadītājiem, kuriem mehānisko transportlīdzekļu vadīšanas stāžs
+   nepārsniedz divus gadus, — ja alkohola koncentrācija asinīs pārsniedz 0,2 promiles,
+   transportlīdzekļu vadītājiem, kuriem mehānisko transportlīdzekļu vadīšanas stāžs ir
+   lielāks par diviem gadiem, kā arī mopēdu un velosipēdu vadītājiem — ja alkohola
+   koncentrācija asinīs pārsniedz 0,5 promiles;
+
+   2) atrodoties narkotisko, psihotropo, toksisko, citu apreibinošu vielu vai arī
+   reakcijas ātrumu un uzmanību samazinošu medikamentu ietekmē;
+
+   3) esot slimam vai arī tādā mērā nogurušam, ka tas var ietekmēt vadītāja darbspējas
+   un ceļu satiksmes drošību;
+
+   4) ja vadītājam nav atbilstošas kategorijas transportlīdzekļu vadīšanas tiesību;
+
+   5) ja ir stājies spēkā transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums.
+
+   (2) Aizliegts mācīties vadīt transportlīdzekli:
+
+   1) ja alkohola koncentrācija asinīs pārsniedz 0,2 promiles;
+
+   2) atrodoties narkotisko, psihotropo, toksisko, citu apreibinošu vielu vai arī
+   reakcijas ātrumu un uzmanību samazinošu medikamentu ietekmē;
+
+   3) esot slimam vai arī tādā mērā nogurušam, ka tas var ietekmēt darbspējas un ceļu
+   satiksmes drošību.
+
+   (08.07.2003. likuma redakcijā ar grozījumiem, kas izdarīti ar 26.05.2005.,
+   15.02.2007. un 13.05.2010. likumu, kas stājas spēkā 15.06.2010.)
+
+   29.pants. Transportlīdzekļu vadīšanas tiesību atņemšana
+
+   (1) Transportlīdzekļu vadīšanas tiesības var atņemt uz noteiktu laiku vai uz
+   nenoteiktu laiku.
+
+   (2) Transportlīdzekļu vadīšanas tiesību atņemšanu uz likumā noteikto laiku kā
+   transportlīdzekļa vadītāja uzvedības ietekmēšanas līdzekli piemēro, uzliekot sodu
+   par likumā paredzētajiem administratīvajiem pārkāpumiem vai atbilstoši šajā likumā
+   noteiktajai pārkāpumu uzskaites punktu sistēmai, kā arī Krimināllikumā noteiktajos
+   gadījumos.
+
+   (3) Transportlīdzekļu vadīšanas tiesības atņem uz nenoteiktu laiku, ja ir attiecīgs
+   medicīniskās ekspertīzes atzinums par to, ka transportlīdzekļa vadītājam radušās
+   medicīniskas pretindikācijas transportlīdzekļa vadīšanai.
+
+   (4) Laika periodu, uz kuru transportlīdzekļa vadītājam ir atņemtas transportlīdzekļa
+   vadīšanas tiesības, neieskaita vadītāja stāžā.
+
+   (08.07.2003. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.02.2007. likumu,
+   kas stājas spēkā 15.03.2007.)
+
+   30.pants. Transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums
+
+   (1) Transportlīdzekļu vadīšanas tiesību izmantošanas aizliegumu nosaka Valsts
+   policijas amatpersona transportlīdzekļa vadītājam, kurš alkohola reibumā, narkotisko
+   vai citu apreibinošu vielu ietekmē ir izdarījis noziedzīgu nodarījumu pret ceļu
+   satiksmes drošību, par kuru var saukt pie kriminālatbildības, vai izdarījis
+   pārkāpumu, par kuru paredzēta transportlīdzekļu vadīšanas tiesību atņemšana. Šādā
+   gadījumā transportlīdzekļa vadītājam ir aizliegts izmantot transportlīdzekļu
+   vadīšanas tiesības un viņa transportlīdzekļa vadītāja apliecība aizturama līdz
+   laikam, kad Valsts policijas amatpersona vai procesa virzītājs krimināllietā pieņem
+   attiecīgu lēmumu.
+
+   (2) Transportlīdzekļu vadīšanas tiesības nedrīkst izmantot, ja:
+
+   1) beidzies transportlīdzekļa vadītāja apliecības derīguma termiņš, — līdz jaunas
+   apliecības saņemšanai;
+
+   2) mainījies transportlīdzekļa vadītāja vārds, uzvārds vai personas kods un 30 dienu
+   laikā transportlīdzekļa vadītāja apliecība nav apmainīta, — līdz jaunas apliecības
+   saņemšanai;
+
+   3) par Ceļu satiksmes noteikumu pārkāpumu uzliktais naudas sods nav samaksāts gada
+   laikā no soda uzlikšanas dienas, — līdz naudas soda samaksai;
+
+   4) transportlīdzekļa vadītājs nav normatīvajos aktos noteiktajā termiņā veicis
+   kārtējo veselības pārbaudi vai veselības pirmstermiņa pārbaudi, — līdz veselības
+   pārbaudei;
+
+   5) pārkāpumu uzskaites punktu sistēmas ietvaros transportlīdzekļa vadītājam ir
+   piemērots ietekmēšanas līdzeklis — transportlīdzekļu vadīšanas tiesību izmantošanas
+   aizliegums;
+
+   6) ārvalstī izsniegtā vadītāja apliecība neatbilst šā likuma 47.panta pirmajā daļā
+   minētajām prasībām vai ārvalstī izsniegtā vadītāja apliecība, kas atbilst šā likuma
+   47.panta pirmajā daļā minētajām prasībām, nav apmainīta atbilstoši šā likuma
+   47.panta otrās daļas nosacījumiem;
+
+   7) transportlīdzekļa vadītāja apliecība ir nozagta vai zudusi un 30 dienu laikā no
+   attiecīgās informācijas reģistrācijas dienas transportlīdzekļu un to vadītāju valsts
+   reģistrā nav saņemta jauna transportlīdzekļu vadītāja apliecība.
+
+   (3) Par transportlīdzekļu vadīšanas tiesību izmantošanas aizliegumu izdara attiecīgu
+   ierakstu transportlīdzekļu un to vadītāju valsts reģistrā, kā arī traktortehnikas un
+   tās vadītāju informatīvajā sistēmā. Ziņas par nederīgām transportlīdzekļu vadītāja
+   apliecībām Ministru kabineta noteiktajā kārtībā iekļauj nederīgo dokumentu reģistrā.
+   Transportlīdzekļu vadīšanas tiesību izmantošanas aizlieguma reģistrēšanas
+   apstrīdēšana vai pārsūdzēšana neaptur tā darbību.
+
+   (4) Ja transportlīdzekļa vadītājs pārkāpj noteikto vadīšanas tiesību izmantošanas
+   aizliegumu, viņa transportlīdzekļa vadītāja apliecība tiek aizturēta.
+
+   (08.07.2003. likuma redakcijā ar grozījumiem, kas izdarīti ar 26.05.2005.,
+   15.02.2007., 19.02.2009. un 13.05.2010. likumu, kas stājas spēkā 15.06.2010.)
+
+   30.^1 pants. Veselības pārbaudes transportlīdzekļu vadītājiem un personām, kuras
+   vēlas iegūt transportlīdzekļu vadītāju kvalifikāciju
+
+   (1) Veselības pārbaudē konstatēto transportlīdzekļa vadītāja vai personas, kura
+   vēlas iegūt transportlīdzekļu vadītāja kvalifikāciju, veselības stāvokļa atbilstību
+   attiecīgās kategorijas transportlīdzekļa vadīšanai apliecina medicīniskā uzziņa vai
+   atzinums par medicīniskajām pretindikācijām transportlīdzekļa vadīšanai.
+
+   (2) Veselības pārbaudes iedala šādi:
+
+   1) pirmreizējās pārbaudes;
+
+   2) kārtējās pārbaudes;
+
+   3) pirmstermiņa pārbaudes.
+
+   (3) Veselības pirmreizējo pārbaudi veic personām, kuras vēlas iegūt
+   transportlīdzekļa vadītāja kvalifikāciju.
+
+   (4) Transportlīdzekļa vadītāja veselības kārtējo pārbaudi veic:
+
+   1) M, A1, A, B1, B un BE kategorijas transportlīdzekļu vadītājiem, kā arī
+   traktortehnikas un citu pašgājēju mašīnu vadītājiem ik pēc 10 gadiem, personām pēc
+   60 gadu vecuma sasniegšanas — ik pēc trim gadiem;
+
+   2) C1, C, D1, D, C1E, CE, D1E un DE kategorijas transportlīdzekļu vadītājiem, kā arī
+   tramvaju un trolejbusu vadītājiem ik pēc pieciem gadiem, personām pēc 60 gadu vecuma
+   sasniegšanas — ik pēc trim gadiem.
+
+   (5) Pirmstermiņa veselības pārbaudi veic transportlīdzekļa vadītājam, kas sodīts par
+   transportlīdzekļa vadīšanu alkoholisko dzērienu reibumā, narkotisko vai citu
+   apreibinošu vielu ietekmē. Lai persona iegūtu vai transportlīdzekļa vadītājs atgūtu
+   vadīšanas tiesības, viņš Ceļu satiksmes drošības direkcijai iesniedz medicīnisko
+   uzziņu, kas izsniegta atbilstoši kārtībai, kuru nosaka Ministru kabinets. Lai atgūtu
+   traktortehnikas vadīšanas tiesības, transportlīdzekļa vadītājs šādu uzziņu iesniedz
+   Valsts tehniskās uzraudzības aģentūrai.
+
+   (6) Uz veselības pirmstermiņa pārbaudi transportlīdzekļa vadītāju ir tiesības
+   nosūtīt, ja pastāv pamatotas aizdomas, ka transportlīdzekļa vadītājam ir Ministru
+   kabineta noteiktās medicīniskās pretindikācijas transportlīdzekļa vadīšanai.
+
+   (7) Kārtību, kādā tiek veiktas veselības pārbaudes transportlīdzekļu vadītājiem un
+   personām, kuras vēlas iegūt transportlīdzekļu vadītāja kvalifikāciju, kārtību, kādā
+   transportlīdzekļa vadītājs nosūtāms uz veselības pirmstermiņa pārbaudi, ja pastāv
+   pamatotas aizdomas, ka transportlīdzekļa vadītājam ir medicīniskās pretindikācijas
+   transportlīdzekļa vadīšanai, kā arī kārtību, kādā tiek atņemtas transportlīdzekļu
+   vadīšanas tiesības transportlīdzekļu vadītājiem, kuriem ir medicīniskās
+   pretindikācijas transportlīdzekļu vadīšanai, nosaka Ministru kabinets.
+
+   (8) Kārtību, kādā sedzami izdevumi par transportlīdzekļa vadītāja veselības
+   pirmstermiņa pārbaudi, nosaka Ministru kabinets.
+
+   (15.02.2007. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.05.2008. un
+   13.05.2010. likumu, kas stājas spēkā 15.06.2010.)
+
+   V nodaļa
+   Transportlīdzekļu apkalpes locekļu darba laiks
+
+   (Nodaļa 26.05.2005. likuma redakcijā, kas stājas spēkā 29.06.2005.)
+
+   31.pants. Prasības attiecībā uz transportlīdzekļu apkalpes locekļu darba laika
+   organizēšanu, ievērošanu un uzskaiti
+
+   (1) Prasības attiecībā uz darba laika organizēšanu, ievērošanu un uzskaiti
+   transportlīdzekļu apkalpes locekļiem, kas veic pārvadājumus ar transportlīdzekļiem,
+   uz kuriem attiecas Eiropas Parlamenta un Padomes 2006.gada 15.marta regula (EK) Nr.
+   561/2006, ar ko paredz dažu sociālās jomas tiesību aktu saskaņošanu saistībā ar
+   autotransportu, groza Padomes regulu (EEK) Nr. 3821/85 un Padomes regulu (EK) Nr.
+   2135/98 un atceļ Padomes regulu (EEK) Nr. 3820/85 [turpmāk — regula (EK) Nr.
+   561/2006], nosaka Ministru kabinets.
+
+   (2) Izņēmumus, kad pārvadājumiem nepiemēro regulas (EK) Nr. 561/2006 prasības,
+   nosaka Ministru kabinets.
+
+   (15.02.2007. likuma redakcijā, kas stājas spēkā 15.03.2007. Sk. Pārejas noteikumus.)
+
+   31.^1 pants. Transportlīdzekļa vadītāja darba un atpūtas laika, braukšanas attāluma
+   un ātruma reģistrēšanas kontrolierīču uzstādīšana
+
+   (1) (Izslēgta ar 15.02.2007. likumu.)
+
+   (2) Kontrolierīci transportlīdzeklī uzstāda, pārbauda un plombē inspicēšanas
+   institūcija, kura akreditēta Standartizācijas, akreditācijas un metroloģijas centrā
+   atbilstoši LVS EN ISO/IEC 17020:2005 standartā "Galvenie kritēriji dažādu veidu
+   institūcijām, kas veic inspicēšanu" noteiktajām prasībām un par kuras akreditāciju
+   Ekonomikas ministrija publicējusi paziņojumu laikrakstā "Latvijas Vēstnesis", un
+   kura ir iesniegusi Satiksmes ministrijai Padomes 1998.gada 24.septembra regulas (EK)
+   Nr. 2135/98, ar kuru groza regulu (EEK) Nr. 3821/85 par reģistrācijas
+   kontrolierīcēm, ko izmanto autotransportā, un direktīvu 88/599/EEK attiecībā uz
+   regulas (EEK) Nr. 3820/85 un regulas (EEK) Nr. 3821/85 piemērošanu, 1.panta 5.punkta
+   "b" apakšpunktā minētās plombas, un Padomes 1985.gada 20.decembra regulas (EEK) Nr.
+   3821/85 par reģistrācijas kontrolierīcēm, ko izmanto autotransportā, 12.panta
+   4.punktā minētās uzstādīšanas plāksnītes paraugus.
+
+   (26.05.2005. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.12.2005.,
+   15.02.2007., 14.11.2008. un 12.06.2009. likumu, kas stājas spēkā 01.07.2009.)
+
+   31.^2 pants. Transportlīdzekļu apkalpes locekļu darba laika ilgums
+
+   (1) Transportlīdzekļu apkalpes locekļu nedēļas darba laiks nedrīkst pārsniegt
+   48stundas, ievērojot to, ka nedēļa ir laikposms starp pulksten 00.00 pirmdienā un
+   pulksten 24.00 svētdienā.
+
+   (2) Transportlīdzekļa apkalpes locekli drīkst nodarbināt virs šā panta pirmajā daļā
+   noteiktā darba laika, bet ne vairāk par 60 stundām nedēļā. Tādā gadījumā vidējais
+   nedēļas darba laiks četru mēnešu periodā nedrīkst pārsniegt 48 stundas.
+
+   (3) Darba devējs, vienojoties ar darbinieku pārstāvjiem, drīkst mainīt šā panta
+   otrajā daļā noteikto nedēļas darba laiku, ja vidējais nedēļas darba laiks sešu
+   mēnešu periodā nepārsniedz 48 stundas.
+
+   (4) Ja transportlīdzekļa apkalpes loceklis veic darbu naktī no pulksten 01.00 līdz
+   05.00, tad kopējais darba laiks diennaktī nedrīkst pārsniegt 10 stundas. Darba
+   devējs, vienojoties ar darbinieku pārstāvjiem, drīkst mainīt minēto darba laiku
+   naktī, nosakot, ka tas ir vismaz četras stundas ilgs laikposms periodā no pulksten
+   00.00 līdz 07.00.
+
+   (5) Lai nodrošinātu šajā pantā minēto nosacījumu ievērošanu, tiek veikta darba laika
+   uzskaite.
+
+   (6) Šajā pantā minētie nosacījumi par transportlīdzekļu apkalpes locekļu darba laika
+   ilgumu ir piemērojami tikai tajos gadījumos, kad tiek veikti pārvadājumi ar
+   transportlīdzekļiem, uz kuriem attiecas regula (EK) Nr. 561/2006 vai Eiropas valstu
+   līgums attiecībā uz transportlīdzekļu apkalpju darbu starptautiskajos
+   autopārvadājumos (AETR).
+
+   (15.12.2005. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.02.2007. likumu,
+   kas stājas spēkā 15.03.2007. Sk. Pārejas noteikumus.)
+
+   32.pants. Pieļaujamais transportlīdzekļa vadīšanas ilgums
+
+   (Izslēgts ar 08.07.2003. likumu, kas stājas spēkā 01.01.2004.)
+
+   33.pants. Maksimālais pieļaujamais nepārtrauktas transportlīdzekļa vadīšanas ilgums
+
+   (Izslēgts ar 08.07.2003. likumu, kas stājas spēkā 01.01.2004.)
+
+   34.pants. Izņēmuma gadījumi
+
+   (Izslēgts ar 26.05.2005. likumu, kas stājas spēkā 29.06.2005.)
+
+   35.pants. Starptautiskie autotransporta pārvadājumi
+
+   (Izslēgts ar 26.05.2005. likumu, kas stājas spēkā 29.06.2005.)
+
+   VI nodaļa
+   Ceļu satiksmes organizācija
+
+   36.pants. Ceļu satiksmes organizācijas mērķis
+
+   Ceļu satiksmes organizācijas mērķis ir nodrošināt nepārtrauktu, ritmisku un ātru
+   ceļu satiksmes norisi, kā arī maksimāli garantēt tās drošību.
+
+   37.pants. Ceļu satiksmes organizācijas pamatnoteikums
+
+   Latvijā transportlīdzekļi pārvietojas pa ceļa labo pusi.
+
+   38.pants. Ceļu satiksmes organizācijas tehniskie līdzekļi
+
+   (1) Satiksmi uz ceļiem organizē ar ceļa zīmēm, ceļa apzīmējumiem, luksoforiem,
+   transporta un gājēju plūsmas nožogojumiem un citiem tehniskajiem līdzekļiem, kas
+   atbilst Latvijā obligāto standartu un citu normatīvu prasībām.
+
+   (2) Satiksmes organizācijas tehnisko līdzekļu izvietošanu, uzstādīšanu un noņemšanu
+   veic ceļa pārvaldītājs atbilstoši saskaņotajai projekta dokumentācijai vai
+   saskaņojot ar Latvijas Valsts ceļiem.
+
+   (3) Ceļa pārvaldītājs ir atbildīgs par satiksmes organizācijas tehnisko līdzekļu
+   savlaicīgu uzstādīšanu un to pastāvīgu atrašanos lietošanas kārtībā.
+
+   (4) (Izslēgta ar 15.02.2001. likumu.)
+
+   (Ar grozījumiem, kas izdarīti ar 15.02.2001. un 26.05.2005. likumu, kas stājas spēkā
+   29.06.2005.)
+
+   39.pants. Plānošana un projektēšana
+
+   Plānojot pilsētu, apdzīvoto vietu un pilsētu dzīvojamo rajonu apbūvi, kā arī
+   projektējot dzīvojamās mājas, sabiedriskās celtnes un citus objektus, nepieciešams
+   paredzēt pasākumus, lai varētu nodrošināt ērtu un drošu satiksmi, pietiekamu
+   transportlīdzekļu stāvvietu skaitu, iespēju piebraukt pie celtnēm un citiem
+   objektiem.
+
+   40.pants. Uz ceļa vai tā tiešā tuvumā veicamo darbību saskaņošana
+
+   (1) Ja uz ceļa vai tā tiešā tuvumā paredzēts veikt darbības, kas var ietekmēt ceļu
+   satiksmes drošību (rīkot masu vai sporta pasākumus, sniegt tirdzniecības vai citus
+   pakalpojumus, izvietot reklāmas objektus vai informācijas objektus, tirdzniecības,
+   sabiedriskās ēdināšanas vai citu pakalpojumu objektus u.c.), šīs darbības jāsaskaņo
+   Latvijas Valsts ceļos, kā arī jāsaņem ceļa pārvaldītāja (īpašnieka) un zemes
+   īpašnieka atļauja.
+
+   (2) Noteikumus par reklāmas objektu vai informācijas objektu izvietošanu gar ceļiem,
+   kā arī kārtību, kādā saskaņojama reklāmas objektu vai informācijas objektu
+   izvietošana, nosaka Ministru kabinets.
+
+   (3) Samaksu par reklāmas objektu vai informācijas objektu izvietošanu valsts
+   autoceļu nodalījuma joslā un samaksu par darbībām, ko veic Latvijas Valsts ceļi,
+   saskaņojot reklāmas objektu vai informācijas objektu izvietošanu gar ceļiem, nosaka
+   satiksmes ministrs.
+
+   (4) Masu vai sporta pasākumu rīkošana jāsaskaņo arī attiecīgajās teritoriālajās
+   policijas iestādēs.
+
+   (Ar grozījumiem, kas izdarīti ar 15.02.2001., 08.07.2003. un 26.05.2005. likumu, kas
+   stājas spēkā 29.06.2005.)
+
+   41.pants. Ceļu satiksmes regulēšana un uzraudzība
+
+   (1) Ceļu satiksmi regulē un uzrauga policijas darbinieki un citas likumos un citos
+   normatīvajos aktos tam pilnvarotas personas.
+
+   (2) Personām, kuras pilnvarotas aktīvi regulēt satiksmi uz ceļiem, kā arī personām,
+   kuras uzrauga satiksmi, jābūt jebkurā diennakts laikā labi saredzamā attiecīgā
+   formas tērpā ar gaismu atstarojoša materiāla elementiem un ar atšķirības zīmi, kā
+   arī tām jābūt klāt dienesta apliecībai.
+
+   42.pants. Uz ceļa strādājošo personu pienākumi
+
+   (1) Personām, kas veic darbus uz brauktuves, jābūt jebkurā diennakts laikā labi
+   saredzamā darba apģērbā ar gaismu atstarojoša materiāla elementiem.
+
+   (2) Ceļu būvniecības un remontdarbu veicējs nodrošina, lai darba vietas uz ceļiem
+   tiktu aprīkotas ar ceļa zīmēm, kā arī ierobežojošām un novirzošām ierīcēm atbilstoši
+   Ministru kabineta noteiktajām prasībām.
+
+   (3) Tumšajā diennakts laikā un nepietiekamas redzamības apstākļos jānodrošina šo
+   vietu redzamība ar gaismu atstarojošu materiālu palīdzību. Gadījumus, kad papildus
+   gaismu atstarojošiem materiāliem jālieto arī brīdinoši gaismas signāli, kā arī to
+   pielietošanas kārtību nosaka tehniskie normatīvi.
+
+   (Ar grozījumiem, kas izdarīti ar 15.02.2001. un 26.05.2005. likumu, kas stājas spēkā
+   29.06.2005.)
+
+   VII nodaļa
+   Administratīvās atbildības īpatnības ceļu satiksmes drošību
+   reglamentējošo normatīvo aktu pārkāpšanas gadījumos
+
+   (Nodaļas nosaukums 08.07.2003. likuma redakcijā, kas stājas spēkā 01.01.2004.)
+
+   43.pants. Administratīvais ceļu satiksmes pārkāpums
+
+   Lai garantētu ceļu satiksmes drošību un aizsargātu cilvēku dzīvību, veselību un
+   mantu, par ceļu satiksmes drošību reglamentējošo normatīvo aktu pārkāpšanu personas
+   saucamas pie administratīvās atbildības.
+
+   (08.07.2003. likuma redakcijā, kas stājas spēkā 01.01.2004.)
+
+   43.^1 pants. Pārkāpumu uzskaites punktu sistēma
+
+   (1) Lai ietekmētu transportlīdzekļu vadītāju uzvedību, veicinot transportlīdzekļu
+   drošu vadīšanu un normatīvo aktu ievērošanu ceļu satiksmē, kā arī tāpēc, lai pēc
+   iespējas mazāk būtu apdraudēta cilvēku dzīvība, veselība un manta, transportlīdzekļu
+   vadītāju izdarītie administratīvie pārkāpumi tiek reģistrēti Sodu reģistrā, bet
+   pārkāpumu uzskaites punkti — transportlīdzekļu un to vadītāju valsts reģistrā.
+
+   (2) Maksimālais reģistrējamo punktu skaits ir 10 punkti transportlīdzekļu
+   vadītājiem, kuru transportlīdzekļu vadīšanas stāžs ir mazāks par diviem gadiem, un
+   16 punkti — pārējiem transportlīdzekļu vadītājiem.
+
+   (3) Maksimālais par vienu pārkāpumu reģistrējamais punktu skaits ir astoņi punkti.
+
+   (4) Atbilstoši izdarītajam pārkāpumam reģistrētie punkti ir spēkā divus līdz piecus
+   gadus atkarībā no pārkāpuma smaguma.
+
+   (5) Atbilstoši pārkāpumu uzskaites punktu sistēmai transportlīdzekļu vadītājiem
+   piemēro šādus ietekmēšanas līdzekļus:
+
+   1) brīdinājums, nosūtot pa pastu transportlīdzekļa vadītājam informāciju par viņam
+   reģistrēto punktu skaitu;
+
+   2) apmācības kursi (semināri) ceļu satiksmes drošības jautājumos;
+
+   3) apmācības kursi (semināri) drošas transportlīdzekļa vadīšanas jautājumos;
+
+   4) eksāmens ceļu satiksmes drošības jautājumos;
+
+   5) transportlīdzekļu vadīšanas iemaņu pārbaude;
+
+   6) transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums uz vienu gadu, ja
+   sasniegts maksimālais uzskaites punktu skaits, vai līdz brīdim, kamēr saglabājas
+   maksimālais uzskaites punktu skaits.
+
+   (6) Transportlīdzekļa vadītājs zaudē transportlīdzekļu vadīšanas tiesības un atkal
+   var tās iegūt ne agrāk kā pēc pieciem gadiem, ja viņam 10 gadu laikā atkārtoti
+   piemērots transportlīdzekļu vadīšanas tiesību izmantošanas aizliegums par maksimālā
+   uzskaites punktu skaita sasniegšanu.
+
+   (7) Pārkāpumu uzskaites punktu sistēmas piemērošanas noteikumus, reglamentējot
+   reģistrējamos pārkāpumus, pārkāpumiem atbilstošos uzskaites punktus, to noilgumu,
+   pārkāpumu uzskaites punktu reģistrēšanas un dzēšanas kārtību, informācijas apmaiņas
+   kārtību un kārtību, kādā reģistrā esošā informācija paziņojama transportlīdzekļa
+   vadītājam, kā arī transportlīdzekļu vadītāju uzvedības ietekmēšanas līdzekļu
+   piemērošanas kārtību nosaka Ministru kabinets.
+
+   (08.07.2003. likuma redakcijā ar grozījumiem, kas izdarīti ar 26.05.2005.,
+   15.12.2005. un 19.02.2009. likumu, kas stājas spēkā 18.03.2009.)
+
+   43.^2 pants. Īpatnības administratīvajā procesā sakarā ar apstāšanās vai stāvēšanas
+   noteikumu pārkāpšanu
+
+   (1) Ja pārkāpti apstāšanās vai stāvēšanas noteikumi, bet transportlīdzekļa vadītājs
+   neatrodas pārkāpuma izdarīšanas vietā, personas, kuras ir tiesīgas sastādīt
+   administratīvā pārkāpuma protokolu un uzlikt sodu, sastāda protokolu — paziņojumu,
+   kurā norādāma šāda informācija:
+
+   1) protokola — paziņojuma sastādīšanas datums;
+
+   2) institūcija, kuras amatpersona uzlikusi sodu, un protokola — paziņojuma
+   sastādītāja amats, vārds un uzvārds;
+
+   3) pārkāpuma konstatēšanas datums un laiks;
+
+   4) pārkāpuma izdarīšanas vieta (pilsētas vai citas apdzīvotas vietas nosaukums,
+   adrese);
+
+   5) transportlīdzekļa marka un valsts reģistrācijas numurs;
+
+   6) pārkāptais Ceļu satiksmes noteikumu punkts;
+
+   7) lēmums par naudas soda uzlikšanu un naudas soda apmērs;
+
+   8) naudas soda samaksas termiņš;
+
+   9) maksājuma uzdevuma rekvizīti un institūcijas, kurās iespējams samaksāt naudas
+   sodu;
+
+   10) pieņemtā lēmuma apstrīdēšanas (pārsūdzēšanas) kārtība;
+
+   11) informācija par sekām, kādas iestājas, ja naudas sods netiek samaksāts.
+
+   (2) Ja laikā, kad tiek konstatēts transportlīdzekļa apstāšanās vai stāvēšanas
+   noteikumu pārkāpums, transportlīdzekļa vadītājs ierodas pārkāpuma izdarīšanas vietā,
+   soda uzlikšanas kārtība nemainās un tiek sastādīts protokols — paziņojums.
+
+   (3) Uzliktais naudas sods samaksājams Latvijas Administratīvo pārkāpumu kodeksā
+   noteiktajā termiņā.
+
+   (4) Ja uzliktais naudas sods netiek samaksāts Latvijas Administratīvo pārkāpumu
+   kodeksā noteiktajā termiņā, transportlīdzekļa reģistrācijas apliecībā norādītajam
+   turētājam vai, ja turētājs nav norādīts, — transportlīdzekļa īpašniekam (valdītājam)
+   transportlīdzekļu un to vadītāju valsts reģistrs nosūta paziņojumu par nesamaksāto
+   naudas sodu. Paziņojumā norādāma šāda informācija:
+
+   1) institūcija, kuras amatpersona uzlikusi naudas sodu;
+
+   2) transportlīdzekļa marka un valsts reģistrācijas numurs;
+
+   3) transportlīdzekļa īpašnieka (valdītāja, turētāja) dati;
+
+   4) pārkāpuma izdarīšanas vieta (pilsētas vai citas apdzīvotas vietas nosaukums,
+   adrese), datums un laiks;
+
+   5) protokola — paziņojuma numurs;
+
+   6) nesamaksātā naudas soda apmērs;
+
+   7) maksājuma uzdevuma rekvizīti un institūcijas, kurās iespējams samaksāt naudas
+   sodu;
+
+   8) informācija par sekām, kādas iestājušās, jo naudas sods nav samaksāts Latvijas
+   Administratīvo pārkāpumu kodeksā noteiktajā termiņā.
+
+   (5) Ja uzliktais naudas sods nav samaksāts Latvijas Administratīvo pārkāpumu kodeksā
+   noteiktajā termiņā, transportlīdzekļu un to vadītāju valsts reģistrā izdara atzīmi
+   par aizliegumu līdz naudas soda samaksai veikt valsts tehnisko apskati
+   transportlīdzeklim, ar kuru izdarīts pārkāpums, un reģistrēt to transportlīdzekļu un
+   to vadītāju valsts reģistrā.
+
+   (6) Ja par apstāšanās vai stāvēšanas noteikumu pārkāpšanu uzliktais naudas sods nav
+   samaksāts Latvijas Administratīvo pārkāpumu kodeksā noteiktajā termiņā, tas
+   piedzenams no transportlīdzekļa reģistrācijas apliecībā norādītā turētāja vai, ja
+   turētājs nav norādīts, — no transportlīdzekļa īpašnieka (valdītāja), izņemot
+   gadījumu, kad pārkāpuma izdarīšanas brīdī transportlīdzeklis nav atradies īpašnieka
+   (turētāja, valdītāja) valdījumā citas personas prettiesisku darbību dēļ.
+
+   (7) Lēmums par naudas soda piemērošanu stājas spēkā šā lēmuma sastādīšanas brīdī.
+   Lēmumu par uzlikto naudas sodu mēneša laikā var apstrīdēt, iesniedzot attiecīgu
+   iesniegumu augstākai iestādei (amatpersonai). Augstākas iestādes (amatpersonas)
+   lēmumu var pārsūdzēt tiesā.
+
+   (8) Kārtību, kādā noformējams protokols — paziņojums par uzlikto naudas sodu un
+   nosūtāma informācija transportlīdzekļa īpašniekam (valdītājam, turētājam), kā arī
+   naudas soda iekasēšanas un kontroles kārtību nosaka Ministru kabinets.
+
+   (26.05.2005. likuma redakcijā ar grozījumiem, kas izdarīti ar 13.05.2010. likumu,
+   kas stājas spēkā 15.06.2010.)
+
+   43.^3 pants. Transportlīdzekļa piespiedu pārvietošana
+
+   (1) Transportlīdzekli var pārvietot piespiedu kārtā, novietojot to speciālā
+   stāvvietā, ja:
+
+   1) (izslēgts ar 15.12.2005. likumu);
+
+   2) nav iespējams noskaidrot transportlīdzekļa piederību;
+
+   3) transportlīdzeklim ir normatīvajos aktos noteiktie bojājumi, kuru dēļ tas
+   nedrīkst braukt, izņemot gadījumu, kad bojājumus novērš transportlīdzekļa atrašanās
+   vietā vai transportlīdzekli noteiktajā kārtībā pārvieto uz stāvvietu vai trūkumu
+   novēršanas vietu;
+
+   4) pārkāpti apstāšanās vai stāvēšanas noteikumi, bet vadītāja nav klāt un
+   transportlīdzeklis novietots stāvēšanai:
+
+   a) vietā, kur uzstādīta papildzīme "Strādā autoevakuators",
+
+   b) uz tramvaja sliežu klātnes vai tās tiešā tuvumā un neļauj braukt tramvajam,
+
+   c) pasažieru sabiedrisko transportlīdzekļu pieturvietā vai stāvvietā vai tās tiešā
+   tuvumā un neļauj iebraukt vai izbraukt pasažieru sabiedriskajam transportlīdzeklim,
+
+   d) tā, ka tas neļauj braukt citiem transportlīdzekļiem vai to braukšanai tiek radīti
+   būtiski traucējumi (citu transportlīdzekļu vadītāji ir spiesti izbraukt no
+   braukšanas joslas, nobraukt no brauktuves vai iebraukt tajā ceļa pusē, kas paredzēta
+   braukšanai pretējā virzienā),
+
+   e) uz gājēju pārejas,
+
+   f) pilnīgi vai daļēji uz ietves un gājēji tā dēļ ir spiesti iziet uz brauktuves,
+
+   g) uz dzelzceļa pārbrauktuves;
+
+   h) uz tiltiem, estakādēm, ceļa pārvadiem un zem tiem;
+
+   5) transportlīdzeklis novietots stāvēšanai apdzīvotās vietās pilnīgi vai daļēji uz
+   brauktuves diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos
+   neapgaismotā ceļa posmā, kur apstāties aizliegts, tam nav iedegtas noteiktās ārējās
+   apgaismes ierīces un tas citiem vadītājiem nav saredzams pietiekamā attālumā;
+
+   6) transportlīdzeklis novietots stāvēšanai pilnīgi vai daļēji uz brauktuves ārpus
+   apdzīvotām vietām diennakts tumšajā laikā vai nepietiekamas redzamības apstākļos un
+   tam nav iedegtas noteiktās ārējās apgaismes ierīces;
+
+   7) transportlīdzeklis Ministru kabineta noteiktajā kārtībā atzīstams par ilgstoši
+   atstātu uz ceļa;
+
+   8) transportlīdzeklis atkārtoti (divas vai vairākas reizes gada laikā) novietots
+   invalīdiem paredzētā un attiecīgi apzīmētā stāvvietā, ja transportlīdzeklī nav
+   ievietota invalīdu stāvvietu izmantošanas karte atbilstoši Ceļu satiksmes noteikumos
+   minētajām prasībām.
+
+   (2) Transportlīdzekli no vietas, kur tas novietots stāvēšanai, uz citu —stāvēšanai
+   atļautu vietu var pārvietot piespiedu kārtā saskaņā ar pašvaldības pilnvarotas
+   amatpersonas lēmumu vai Valsts policijas priekšnieka rīkojumu no ielām:
+
+   1) kuras nepieciešams atbrīvot oficiālo valsts vizīšu vai citu pasākumu
+   nodrošināšanai;
+
+   2) kurās paredzēts veikt ceļu būvniecības vai remonta darbus.
+
+   (3) Transportlīdzekli no vietas, kur tas novietots stāvēšanai, uz citu —stāvēšanai
+   atļautu vietu saskaņā ar ceļa pārvaldītāja vai attiecīga avārijas vai glābšanas
+   dienesta amatpersonas lēmumu var pārvietot piespiedu kārtā īslaicīgu ceļu
+   uzturēšanas (piemēram, sniega novākšanas), remonta vai avārijas seku likvidēšanas
+   darbu vai glābšanas darbu veikšanas gadījumā.
+
+   (3^1) Izdevumus, kas saistīti ar transportlīdzekļa piespiedu pārvietošanu uz
+   speciālu stāvvietu un glabāšanu speciālajā stāvvietā, sedz transportlīdzekļa
+   reģistrācijas apliecībā norādītais turētājs vai, ja turētājs nav norādīts, —
+   transportlīdzekļa īpašnieks (valdītājs) vai viņa pilnvarota persona. Izdevumus sedz
+   pirms transportlīdzekļa izņemšanas no speciālās stāvvietas.
+
+   (4) Transportlīdzekļu piespiedu pārvietošanas kārtību nosaka Ministru kabinets.
+
+   (08.07.2003. likuma redakcijā ar grozījumiem, kas izdarīti ar 26.05.2005.,
+   15.12.2005. un 15.05.2008. likumu, kas stājas spēkā 01.01.2009.)
+
+   43.^4 pants. Braukšanas ātruma kontrole
+
+   Noteiktā braukšanas ātruma ievērošanu Valsts policija kontrolē ar šim nolūkam
+   paredzētām mērierīcēm.
+
+   (26.05.2005. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.02.2007. likumu,
+   kas stājas spēkā 15.03.2007.)
+
+   43.^5 pants. Alkohola reibuma, narkotisko vai citu apreibinošu vielu ietekmes
+   konstatēšana
+
+   (1) Lai konstatētu alkohola reibumu, Valsts policijas darbinieki un Valsts
+   robežsardzes darbinieki (uz valsts robežas) ir tiesīgi pārbaudīt transportlīdzekļa
+   vadītāja izelpoto gaisu ar šim nolūkam paredzētu mēraparātu, kas atbilst Ministru
+   kabineta noteiktajām prasībām, vai nogādāt transportlīdzekļa vadītāju medicīnas
+   iestādē šādas pārbaudes veikšanai, ja ir pamatotas aizdomas, ka viņš ir alkohola
+   reibumā, bet izelpotā gaisa pārbaudi nav iespējams veikt vai transportlīdzekļa
+   vadītājs nepiekrīt tās rezultātiem. Kārtību, kādā nosakāma alkohola koncentrācija
+   asinīs un izelpotajā gaisā, nosaka Ministru kabinets.
+
+   (2) Lai konstatētu narkotisko vai citu apreibinošu vielu ietekmi, Valsts policijas
+   darbinieki nogādā transportlīdzekļa vadītāju medicīnas iestādē pārbaudes veikšanai,
+   ja ir pamatotas aizdomas par narkotisko vai citu apreibinošu vielu lietošanu
+   (ekspresdiagnostikas testa rezultāti, vadītāja uzvedība, runas veids, kustību
+   koordinācija). Narkotisko vai citu apreibinošu vielu ietekmes konstatēšanas kārtību
+   nosaka Ministru kabinets.
+
+   (08.07.2003. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.05.2008. un
+   13.05.2010. likumu, kas stājas spēkā 15.06.2010.)
+
+   43.^6 pants. Īpatnības administratīvajā procesā attiecībā uz pārkāpumiem, kuri
+   fiksēti ar tehniskiem līdzekļiem, neapturot transportlīdzekli
+
+   (1) Pārkāpumus var fiksēt ar tehniskiem līdzekļiem (fotoiekārtas vai videoiekārtas),
+   neapturot transportlīdzekli. Kārtību, kādā izmanto tehniskos līdzekļus (fotoiekārtas
+   vai videoiekārtas), nosaka Ministru kabinets.
+
+   (2) Par pārkāpumu, kas fiksēts ar tehniskiem līdzekļiem (fotoiekārtas vai
+   videoiekārtas), neapturot transportlīdzekli, piemēro tikai vadītājam paredzēto
+   minimālo naudas sodu.
+
+   (3) Ja pārkāpums fiksēts ar tehniskiem līdzekļiem (fotoiekārtas vai videoiekārtas),
+   neapturot transportlīdzekli, par to bez transportlīdzekļa vadītāja klātbūtnes tiek
+   sastādīts administratīvā pārkāpuma protokols — lēmums, kurā norādāma šāda
+   informācija:
+
+   1) protokola — lēmuma sastādīšanas datums;
+
+   2) institūcija, kuras amatpersona uzlikusi sodu, un protokola — lēmuma sastādītāja
+   amats, vārds un uzvārds;
+
+   3) pārkāpuma konstatēšanas datums un laiks;
+
+   4) pārkāpuma izdarīšanas vieta (pilsētas vai citas apdzīvotas vietas nosaukums,
+   adrese);
+
+   5) transportlīdzekļa marka un valsts reģistrācijas numurs;
+
+   6) norāde uz pārkāptajām tiesību normām (normatīvā akta pants, tā daļa, punkts vai
+   apakšpunkts);
+
+   7) lēmums par naudas soda uzlikšanu un naudas soda apmērs;
+
+   8) naudas soda samaksas termiņš;
+
+   9) maksājuma uzdevuma rekvizīti un institūcijas, kurās iespējams samaksāt naudas
+   sodu;
+
+   10) pieņemtā lēmuma apstrīdēšanas (pārsūdzēšanas) kārtība;
+
+   11) informācija par sekām, kādas iestājas, ja naudas sods netiek samaksāts;
+
+   12) fotogrāfija, kurā redzams transportlīdzeklis un valsts reģistrācijas numura
+   zīme.
+
+   (4) Informāciju par pieņemto lēmumu Valsts policija ievada transportlīdzekļu un to
+   vadītāju valsts reģistrā vai traktortehnikas un tās vadītāju informatīvajā sistēmā.
+
+   (5) Protokolu — lēmumu ne vēlāk kā triju darbdienu laikā pēc lēmuma pieņemšanas
+   nosūta transportlīdzekļa reģistrācijas apliecībā norādītajam turētājam vai, ja
+   turētājs nav norādīts, — transportlīdzekļa īpašniekam (valdītājam). Protokols —
+   lēmums ir derīgs bez sodu piemērojušās amatpersonas paraksta.
+
+   (6) Uzliktais naudas sods samaksājams Latvijas Administratīvo pārkāpumu kodeksā
+   noteiktajā termiņā.
+
+   (7) Ja uzliktais naudas sods nav samaksāts Latvijas Administratīvo pārkāpumu kodeksā
+   noteiktajā termiņā, transportlīdzekļu un to vadītāju valsts reģistrā vai
+   traktortehnikas un tās vadītāju informatīvajā sistēmā izdara atzīmi par aizliegumu
+   līdz naudas soda samaksai veikt valsts tehnisko apskati transportlīdzeklim, ar kuru
+   izdarīts pārkāpums, un reģistrēt to transportlīdzekļu un to vadītāju valsts reģistrā
+   vai traktortehnikas un tās vadītāju informatīvajā sistēmā. Šādu atzīmi par
+   aizliegumu veikt tehnisko apskati transportlīdzeklim neizdara vai arī izdarīto
+   atzīmi dzēš, ja tiek konstatēts, ka pārkāpuma izdarīšanas brīdī transportlīdzeklis
+   nav atradies īpašnieka (turētāja, valdītāja) valdījumā citas personas prettiesisku
+   darbību dēļ.
+
+   (8) Ja par pārkāpumu, kas fiksēts ar tehniskiem līdzekļiem (fotoiekārtas vai
+   videoiekārtas), neapturot transportlīdzekli, uzliktais naudas sods nav samaksāts
+   Latvijas Administratīvo pārkāpumu kodeksā noteiktajā termiņā, tas piedzenams no
+   transportlīdzekļa reģistrācijas apliecībā norādītā turētāja vai, ja turētājs nav
+   norādīts, — no transportlīdzekļa īpašnieka (valdītāja), izņemot gadījumu, kad
+   pārkāpuma izdarīšanas brīdī transportlīdzeklis nav atradies īpašnieka (turētāja,
+   valdītāja) valdījumā citas personas prettiesisku darbību dēļ.
+
+   (26.05.2005. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.12.2005.,
+   15.02.2007., 19.02.2009. un 13.05.2010. likumu, kas stājas spēkā 15.06.2010.)
+
+   43.^7 pants. Pakalpojuma — pārkāpumu fiksēšana ar tehniskajiem līdzekļiem, neapturot
+   transportlīdzekli, — nodrošināšana
+
+   (1) Ja pārkāpumi ceļu satiksmē tiek fiksēti ar komersanta tehniskajiem līdzekļiem
+   (fotoiekārtām vai videoiekārtām), neapturot transportlīdzekli, komersants kā samaksu
+   par tehnisko līdzekļu piegādi, uzstādīšanu un to darbības nodrošināšanu, kā arī
+   iegūtās informācijas nodošanu apstrādei un lēmumu pieņemšanai saņem Ministru
+   kabineta noteikto faktisko valsts pamatbudžeta ieņēmumu daļu no naudas sodiem, kas
+   uzlikti par administratīvajiem pārkāpumiem, kuri fiksēti ar šiem tehniskajiem
+   līdzekļiem (turpmāk — faktiskie ieņēmumi).
+
+   (2) Finanšu līdzekļus, kas paredzēti samaksai par komersanta sniegtajiem
+   pakalpojumiem, ieskaita Iekšlietu ministrijas pašu ieņēmumos saskaņā ar likumu par
+   valsts budžetu kārtējam gadam. Minētos ieņēmumus un tiem atbilstošos izdevumus plāno
+   atsevišķā valsts pamatbudžeta programmā.
+
+   (3) Ministru kabinets nosaka:
+
+   1) faktisko ieņēmumu daļu (procentos), ko komersants saņem kā samaksu par
+   pakalpojuma sniegšanu;
+
+   2) kārtību, kādā nosakāmi faktiskie ieņēmumi;
+
+   3) kārtību, kādā komersants saņem samaksu par pakalpojuma sniegšanu.
+
+   (09.09.2010. likuma redakcijā, kas stājas spēkā 01.01.2011.)
+
+   44.pants. Zaudējuma atlīdzināšana
+
+   (1) Šā likuma vai citu ceļu satiksmes drošību reglamentējošu aktu pārkāpuma
+   rezultātā nodarītais zaudējums ir jāatlīdzina.
+
+   (2) Par transportlīdzekļa ekspluatācijas rezultātā nodarīto zaudējumu atbild
+   transportlīdzekļa īpašnieks vai valdītājs, ja viņš nepierāda, ka zaudējums radies
+   nepārvaramas varas dēļ, ar paša cietušā nodomu vai cietušā rupjas neuzmanības dēļ
+   vai arī citu iemeslu dēļ, kuri saskaņā ar likumu atbrīvo no atbildības par zaudējuma
+   atlīdzību. Kopīpašnieki un līdzmantinieki par nodarīto zaudējumu atbild solidāri.
+
+   (3) Gadījumos, kad transportlīdzeklis ir nodots turētājam, par nodarītajiem
+   zaudējumiem atbild turētājs, ja viņš nav vienojies ar īpašnieku par citādu zaudējumu
+   segšanas kārtību. Tomēr, ja turētājs atrodas prombūtnē (ārpus valsts robežām), nav
+   zināma viņa dzīvesvieta vai pilnīga zaudējumu piedziņa no viņa nav iespējama, par
+   zaudējumu atbild transportlīdzekļa īpašnieks.
+
+   (4) Ja transportlīdzeklis izgājis no īpašnieka, valdītāja vai turētāja valdījuma
+   nevis viņa paša vainas dēļ, bet gan citas personas prettiesisku darbību rezultātā,
+   par nodarīto zaudējumu atbild šī persona. Ja arī īpašnieka, valdītāja vai turētāja
+   uzvedībai nav attaisnojuma, nodarītos zaudējumus atlīdzināt var prasīt kā no
+   personas, kas lietojusi transportlīdzekli, tā arī no īpašnieka, valdītāja vai
+   turētāja atbilstoši katra vainas pakāpei.
+
+   (5) Civiltiesiskās atbildības apdrošināšanas gadījumā trešajai personai nodarīto
+   zaudējumu atlīdzināšanas kārtību regulē atsevišķs likums par civiltiesiskās
+   atbildības obligāto apdrošināšanu.
+
+   VIII nodaļa
+   Papildu noteikumi
+
+   45.pants. Izņēmuma gadījumi
+
+   (1) Aizliegts izsniegt speciālas atļaujas, kas dod tiesības atkāpties no šā likuma
+   un Ceļu satiksmes noteikumu prasībām.
+
+   (2) Atsevišķos gadījumos ar Ministru kabineta noteiktajā kārtībā izsniegtām
+   caurlaidēm pasta pārvadātāju transportlīdzekļiem, kā arī transportlīdzekļiem, ar
+   kuriem veic inkasāciju, un Valsts kancelejas transportlīdzekļiem, ar kuriem
+   nodrošina valdības pasta sūtījumu nogādāšanu, pildot attiecīgo uzdevumu, ir tiesības
+   neievērot apstāšanās un stāvēšanas noteikumus, kā arī ceļa zīmju "Braukt aizliegts",
+   "Mehāniskajiem transportlīdzekļiem braukt aizliegts" un "Kravas automobiļiem braukt
+   aizliegts" prasības.
+
+   (2^1) Lai nodrošinātu Saeimas, Eiropas Parlamenta, pašvaldību domju vēlēšanu, kā arī
+   tautas nobalsošanas norisi, Centrālās vēlēšanu komisijas priekšsēdētājs ir tiesīgs
+   attiecībā uz transportlīdzekļiem, kuru vadītāji pilda vēlēšanu komisiju rīkojumus,
+   uz vēlēšanu vai tautas nobalsošanas dienu izsniegt caurlaides ar tiesībām neievērot
+   apstāšanās un stāvēšanas noteikumus, kā arī ceļa zīmju "Braukt aizliegts",
+   "Mehāniskajiem transportlīdzekļiem braukt aizliegts" un "Kravas automobiļiem braukt
+   aizliegts" prasības.
+
+   (3) Šajā likumā noteiktajā kārtībā saskaņotajos sporta pasākumos ir pieļaujamas
+   atkāpes no Ceļu satiksmes noteikumiem tiktāl, ciktāl to nosaka sporta pasākumus
+   reglamentējošie akti.
+
+   (Ar grozījumiem, kas izdarīti ar 08.07.2003., 26.05.2005., 15.12.2005. un
+   19.02.2009. likumu, kas stājas spēkā 18.03.2009. Vārda "(padomju)" svītrojums 2^1.
+   daļā stājas spēkā 01.07.2009. Sk. Pārejas noteikumus.)
+
+   46.pants. Noteikumu spēks attiecībā uz ārvalstu pilsoņiem un bezvalstniekiem
+
+   Šis likums, Ceļu satiksmes noteikumi un citi normatīvie akti, kas regulē attiecības
+   ceļu satiksmes drošības jomā, attiecas arī uz ārvalstīs reģistrētajiem
+   transportlīdzekļiem, kā arī to īpašniekiem, vadītājiem un citiem ceļu satiksmes
+   dalībniekiem, tiem atrodoties Latvijas teritorijā, ja starptautiskajos līgumos, kuru
+   dalībvalsts ir Latvija, nav paredzēts citādi.
+
+   47.pants. Noteikumi transportlīdzekļu vadītājiem, kas ierodas Latvijā no ārvalstīm
+   vai ieved Latvijā transportlīdzekļus
+
+   (1) Personai Latvijā atļauts vadīt transportlīdzekli, ja tai ir klāt:
+
+   1) Eiropas Savienības dalībvalsts vai Eiropas Brīvās tirdzniecības asociācijas
+   dalībvalsts izsniegta vadītāja apliecība;
+
+   2) vadītāja apliecība, kurā norādītas 1968.gada Konvencijā par ceļu satiksmi
+   noteiktās vadītāja apliecību kategorijas;
+
+   3) vadītāja apliecība, kurā nav norādītas 1968.gada Konvencijā par ceļu satiksmi
+   noteiktās transportlīdzekļu kategorijas. Ar šādu vadītāja apliecību personai atļauts
+   vadīt tikai B kategorijai atbilstošus transportlīdzekļus, ja izdevējvalstī šī
+   vadītāja apliecība dod tiesības vadīt automobili. Ja vadītāja apliecībā ieraksti nav
+   izdarīti ar latīņu alfabēta burtiem, persona uzrāda notariāli apliecinātu tulkojumu
+   latviešu valodā.
+
+   (2) Transportlīdzekļa vadītājam, kurš ierodas Latvijā no ārvalstīm un uzturas
+   Latvijā ilgāk par vienu gadu, noteiktā kārtībā jāapmaina transportlīdzekļa vadītāja
+   apliecība, izņemot Eiropas Savienības dalībvalsts vai Eiropas Brīvās tirdzniecības
+   asociācijas dalībvalsts izsniegtu vadītāja apliecību, kā arī personas, kas bauda
+   diplomātiskās vai konsulārās imunitātes un privilēģijas.
+
+   (3) Latvijā ir pienākums reģistrēt tādus no ārvalstīm uz laiku ievestus
+   transportlīdzekļus, kuri atbilst šā likuma 10.panta 1.^2 daļas nosacījumiem.
+
+   (4) Šā panta pirmās un otrās daļas noteikumi nav piemērojami ārvalstu bruņoto spēku
+   sastāvā esošajām personām, kuras Latvijas Republikā pilda dienesta pienākumus
+   starptautiskās sadarbības ietvaros.
+
+   (Ar grozījumiem, kas izdarīti ar 20.06.2000., 26.05.2005., 15.02.2007. un
+   19.02.2009. likumu, kas stājas spēkā 18.03.2009.)
+
+   48.pants. Starptautisko līgumu piemērošana
+
+   Ja Saeimas apstiprinātā starptautiskajā līgumā paredzēti citādi noteikumi nekā šajā
+   likumā, piemērojami starptautiskā līguma noteikumi.
+
+   Pārejas noteikumi
+
+   1. (Izslēgts ar 08.07.2003. likumu, kas stājas spēkā 01.01.2004.)
+
+   2. Ar šā likuma spēkā stāšanos spēku zaudē Satversmes 81.panta kārtībā izdotie
+   Ministru kabineta 1997.gada 7.aprīļa noteikumi nr.135 "Noteikumi par ceļu satiksmi"
+   (Latvijas Republikas Saeimas un Ministru Kabineta Ziņotājs, 1997, 10., 18.nr.).
+
+   3. (Izslēgts ar 26.05.2005. likumu, kas stājas spēkā 29.06.2005.)
+
+   4. Grozījums (2005.gada 26.maija redakcijā) šā likuma 4.panta trešajā daļā, 4.^1
+   pants, 10.^1 pants un 22.panta piektā daļa stājas spēkā 2005.gada 1.septembrī.
+
+   (26.05.2005. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.02.2007. likumu,
+   kas stājas spēkā 15.03.2007.)
+
+   5. Šā likuma 15.^1 pants (2005.gada 26.maija redakcijā) un grozījums 28.panta
+   1.punktā (2005.gada 26.maija redakcijā) stājas spēkā 2006.gada 1.jūlijā.
+
+   (26.05.2005. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.02.2007. likumu,
+   kas stājas spēkā 15.03.2007.)
+
+   6. (Izslēgts ar 15.02.2007. likumu, kas stājas spēkā 15.03.2007.)
+
+   7. (Izslēgts ar 15.02.2007. likumu, kas stājas spēkā 15.03.2007.)
+
+   8. Ministru kabinets līdz 2007.gada 31.decembrim izdod šā likuma 4.panta piektās
+   daļas trešajā teikumā minētos noteikumus, kas apstiprina to pakalpojumu cenrādi,
+   kurus Ceļu satiksmes drošības direkcija sniedz, pildot tai deleģētos valsts
+   pārvaldes uzdevumus, un nosaka to personu loku, kuras ir atbrīvojamas no samaksas
+   par sniegtajiem pakalpojumiem. Līdz attiecīgo Ministru kabineta noteikumu spēkā
+   stāšanās dienai, bet ne ilgāk kā līdz 2007.gada 31.decembrim ir piemērojami Ministru
+   kabineta 2006.gada 19.decembra noteikumi Nr.1040 "Noteikumi par valsts akciju
+   sabiedrības "Ceļu satiksmes drošības direkcija" valsts pārvaldes funkciju ietvaros
+   sniegto maksas pakalpojumu cenrādi", ciktāl tie nav pretrunā ar šo likumu.
+
+   (15.02.2007. likuma redakcijā, kas stājas spēkā 15.03.2007.)
+
+   9. Ministru kabinets līdz 2007.gada 1.oktobrim izdod šā likuma 4.^1 panta trešajā un
+   ceturtajā daļā minētos noteikumus, kas nosaka transportlīdzekļu tirdzniecības vietu
+   reģistrācijas kārtību, prasības transportlīdzekļu un to numurēto agregātu
+   tirdzniecībai, kā arī tirdzniecības valsts reģistrācijas numura zīmju izmantošanai.
+   Līdz attiecīgo Ministru kabineta noteikumu spēkā stāšanās dienai, bet ne ilgāk kā
+   līdz 2007.gada 1.oktobrim piemērojami Ministru kabineta 2006.gada 17.oktobra
+   noteikumi Nr.849 "Noteikumi par transportlīdzekļu un to numurēto agregātu
+   tirdzniecības prasībām un tirdzniecības valsts reģistrācijas numura zīmju
+   izmantošanas kārtību", ciktāl tie nav pretrunā ar šo likumu.
+
+   (15.02.2007. likuma redakcijā, kas stājas spēkā 15.03.2007.)
+
+   10. Grozījumi šā likuma 22.panta 3.^1 daļā par vārdu "teorētisko apmācību vai"
+   aizstāšanu ar vārdiem "tai skaitā" un par vārda "teorētiskajai" izslēgšanu šā likuma
+   22.panta 3.^2 un piektajā daļā stājas spēkā 2008.gada 1.janvārī. Līdz šo grozījumu
+   spēkā stāšanās dienai Ministru kabinets izdod tiem atbilstošus šā likuma 22.panta
+   piektajā daļā minētos noteikumus.
+
+   (15.02.2007. likuma redakcijā, kas stājas spēkā 15.03.2007.)
+
+   11. Šā likuma grozījumi par 22.panta trešās daļas izslēgšanu un 30.^1 panta
+   izteikšanu jaunā redakcijā stājas spēkā 2007.gada 1.oktobrī. Līdz šo grozījumu spēkā
+   stāšanās dienai Ministru kabinets izdod šā likuma 30.^1 panta piektajā, sestajā,
+   septītajā un astotajā daļā (jaunajā redakcijā) minētos noteikumus.
+
+   (15.02.2007. likuma redakcijā, kas stājas spēkā 15.03.2007.)
+
+   12. Šā likuma grozījumi par 31.panta teksta izteikšanu jaunā redakcijā, 31.^1 panta
+   pirmās daļas izslēgšanu un 31.^2 panta papildināšanu ar sesto daļu stājas spēkā
+   2007.gada 11.aprīlī. Līdz šo grozījumu spēkā stāšanās dienai Ministru kabinets izdod
+   šā likuma 31.panta pirmajā un otrajā daļā (jaunajā redakcijā) minētos noteikumus.
+
+   (15.02.2007. likuma redakcijā, kas stājas spēkā 15.03.2007.)
+
+   13. Traktortehnikas vadītāju apliecības un speciālās traktortehnikas vadītāju
+   apliecības, kas izsniegtas līdz 2009.gada 1.janvārim, ir derīgas līdz to derīguma
+   termiņa beigām.
+
+   (15.05.2008. likuma redakcijā, kas stājas spēkā 01.01.2009.)
+
+   14. Ministru kabinets līdz 2009.gada 31.decembrim izdod šā likuma 22.panta otrajā
+   daļā (jaunā redakcijā) minētos noteikumus, kas nosaka transportlīdzekļa vadītāja
+   tiesību iegūšanas un atjaunošanas kārtību un vadītāja apliecības izsniegšanas,
+   apmaiņas un atjaunošanas kārtību un termiņus. Līdz attiecīgo Ministru kabineta
+   noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 31.decembrim
+   piemērojami Ministru kabineta 2004.gada 27.jūlija noteikumi Nr.634 “Traktortehnikas
+   vadītāja kvalifikācijas iegūšanas un traktortehnikas vadītāja apliecības
+   izsniegšanas kārtība”, Ministru kabineta 2005.gada 15.februāra noteikumi Nr.127
+   “Bīstamu kravu pārvadāšanai paredzēto transportlīdzekļu vadītāju kvalifikācijas
+   iegūšanas kārtība un vadītāja apliecības izsniegšanas, apmaiņas un atjaunošanas
+   kārtība” un Ministru kabineta 2007.gada 6.marta noteikumi Nr.173 “Transportlīdzekļu
+   vadītāja kvalifikācijas iegūšanas, transportlīdzekļu vadīšanas tiesību iegūšanas un
+   atjaunošanas kārtība un vadītāja apliecības izsniegšanas, apmaiņas un atjaunošanas
+   kārtība”, ciktāl tie nav pretrunā ar šo likumu.
+
+   (19.02.2009. likuma redakcijā, kas stājas spēkā 18.03.2009.)
+
+   15. Ministru kabinets līdz 2009.gada 31.decembrim izdod šā likuma 22.panta ceturtajā
+   daļā (jaunā redakcijā) minētos noteikumus, kas nosaka prasības komersantiem,
+   izglītības iestādēm un speciālistiem, kuri nodrošina transportlīdzekļu vadītāju
+   apmācību, transportlīdzekļu vadītāju apmācības programmas, kā arī transportlīdzekļu
+   vadītāju apmācības procesa kontroles kārtību. Līdz attiecīgo Ministru kabineta
+   noteikumu spēkā stāšanās dienai, bet ne ilgāk kā līdz 2009.gada 31.decembrim
+   piemērojami Ministru kabineta 2005.gada 15.februāra noteikumi Nr.131 “Noteikumi par
+   prasībām mācību iestādēm un speciālistiem, kas sagatavo transportlīdzekļu vadītājus,
+   un transportlīdzekļu vadītāju sagatavošanas programmām” un Ministru kabineta
+   2005.gada 7.jūnija noteikumi Nr.406 “Kvalifikācijas prasības speciālistiem un
+   prasības mācību iestādēm, kas sagatavo traktortehnikas vadītājus, un traktortehnikas
+   vadītāju sagatavošanas programmas”, ciktāl tie nav pretrunā ar šo likumu.
+
+   (19.02.2009. likuma redakcijā, kas stājas spēkā 18.03.2009.)
+
+   16. Šā likuma 9.panta ceturtā, piektā un sestā daļa stājas spēkā 2009.gada 1.jūlijā.
+
+   (19.02.2009. likuma redakcijā, kas stājas spēkā 18.03.2009.)
+
+   17. Ministru kabinets līdz 2009.gada 30.jūnijam izdod šā likuma 9.panta sestajā daļā
+   minētos noteikumus.
+
+   (19.02.2009. likuma redakcijā, kas stājas spēkā 18.03.2009.)
+
+   18. Ministru kabinets līdz 2009.gada 31.jūlijam izdod šā likuma 10.panta 1.4 daļā
+   minētos noteikumus. Līdz attiecīgo noteikumu spēkā stāšanās dienai, bet ne ilgāk kā
+   līdz 2009.gada 31.jūlijam piemērojami Ministru kabineta 2004.gada 27.aprīļa
+   noteikumi Nr.446 “Transportlīdzekļu reģistrācijas noteikumi” un Ministru kabineta
+   2004.gada 20.jūlija noteikumi Nr.618 “Traktortehnikas un tās piekabju reģistrācijas
+   noteikumi”, ciktāl tie nav pretrunā ar šo likumu.
+
+   (19.02.2009. likuma redakcijā, kas stājas spēkā 18.03.2009.)
+
+   19. Grozījums šā likuma 45.panta 2.^1 daļā par vārda “(padomju)” izslēgšanu stājas
+   spēkā 2009.gada 1.jūlijā.
+
+   (19.02.2009. likuma redakcijā, kas stājas spēkā 18.03.2009.)
+
+   Informatīva atsauce uz Eiropas Savienības direktīvu
+
+   (15.12.2005. likuma redakcijā, kas stājas spēkā 01.01.2006.)
+
+   Likumā iekļautas tiesību normas, kas izriet no Eiropas Parlamenta un Padomes
+   2002.gada 11.marta direktīvas 2002/15/EK par darba laika organizēšanu personām, kas
+   ir autotransporta apkalpes locekļi.
+
+   Likums Saeimā pieņemts 1997.gada 1.oktobrī.
+   Valsts prezidenta vietā
+   Saeimas priekšsēdētāja biedrs A.Ameriks
+   Rīgā 1997.gada 21.oktobrī
+   © Oficiālais izdevējs "Latvijas Vēstnesis"
