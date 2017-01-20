@@ -1,17 +1,18 @@
 #!/bin/bash
 LAW="$1"
-DEST=txt
-COL=90
+DEST=../txt
+COL=9000
 echo "converting $LAW to txt($COL) => $DEST"
 
-cd $LAW
+cd $LAW/clean/
 mkdir -p $DEST
 
 
 for i in $( ls *.html ); do
 #    w3m $i -cols $COL -dump >$DEST/$i-w3m.txt
 #    lynx $i -width $COL -dump >$DEST/$i-lynx.txt
-    links $i -width $COL -dump >$DEST/$i.txt
+#    links $i -width $COL -dump >$DEST/$i.txt
+    elinks $i -no-numbering -no-references -dump-width $COL -dump >$DEST/$i.txt
 done
 
 cd ..
