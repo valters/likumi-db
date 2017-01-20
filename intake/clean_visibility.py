@@ -6,7 +6,7 @@ import sys
 import os
 import io
 
-def _clean_visibility( folder, fileName ):
+def clean_visibility( folder, fileName ):
     print(fileName)
 
     fin = open( folder + fileName, encoding='utf-8' )
@@ -15,10 +15,10 @@ def _clean_visibility( folder, fileName ):
     text = fin.read()
     fin.close()
 
-    fout.write( _cleaned( text ) )
+    fout.write( cleaned( text ) )
     fout.close()
 
-def _cleaned( text ):
+def cleaned( text ):
     """ run though text as state machine """
     with io.StringIO() as output:
 
@@ -95,16 +95,14 @@ def _cleaned( text ):
 
         return output.getvalue()
 
-def _process_all_files( folder, extension = '.html'):
+def process_all_files( folder, extension = '.html'):
     os.makedirs( folder+'clean/', exist_ok = True )
     files = [ f for f in os.listdir(folder) if f.endswith(extension) ]
-    print( files )
     for f in files:
-        print(f)
         _clean_visibility(folder, f)
 
 if len(sys.argv) == 2:
-    _process_all_files(sys.argv[1])
+    process_all_files(sys.argv[1])
 
 else:
     """ testing """
@@ -116,7 +114,7 @@ else:
 
     text_expect = "<DIV class='TV213'  ><a name='p1'></a><a class='p_id' name='p-2680'></a><P class='TV213 TVP' id='p1'><b>1.</b> Latvija.</P><div id='panta-piezime-2680' class='panta-piezimite'></div></DIV><DIV class='TV213'  ><a name='p2'></a><a class='p_id' name='p-2681'></a><P class='TV213 TVP' id='p2'><b>2.</b> Latvijas.</P><div id='panta-piezime-2681' class='panta-piezimite'></div></DIV>";
 
-    text_res = _cleaned(text_orig)
+    text_res = cleaned(text_orig)
     print( "======= "+ text_res )
     if text_res == text_expect:
         print("MATCHED")
