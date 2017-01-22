@@ -48,7 +48,7 @@ def cleaned( text ):
                     if curr_tag == '<div':
                         if not kill_div:
                             started_div_tag = True
-                            print('found div, keep reading')
+                            print('.', end='')
                         else:
                             print('kill mode: waiting for /div')
 
@@ -68,14 +68,14 @@ def cleaned( text ):
                     else:
                         if kill_div:
                             if curr_tag == '</div':
-                                print( "/DIV/ REMOVED: " +  u''.join(content_sb) + c )
+                                print( ':', end='') #"/DIV/ REMOVED: " +  u''.join(content_sb) + c )
                                 content_sb = []
                                 div_tag_sb = []
                                 kill_div = False
                                 skip_one = True
                                 in_div_content = False
                         else:
-                            print("tag: "+ curr_tag)
+                            #print("tag: "+ curr_tag)
                             output.write( u''.join(tag_sb) )
 
                     if not kill_div:
@@ -99,7 +99,7 @@ def process_all_files( folder, extension = '.html'):
     os.makedirs( folder+'clean/', exist_ok = True )
     files = [ f for f in os.listdir(folder) if f.endswith(extension) ]
     for f in files:
-        _clean_visibility(folder, f)
+        clean_visibility(folder, f)
 
 if len(sys.argv) == 2:
     process_all_files(sys.argv[1])
