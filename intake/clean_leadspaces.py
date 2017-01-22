@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
-""" remove leading whitespace in generated .txt files """
+""" remove leading whitespace in generated .txt files, and spurious (c) lines
+   run as: ./clean_leadspaces.py satversme/txt/
+"""
 
 import sys
 import os
@@ -18,13 +20,24 @@ def clean_visibility( folder, filename ):
                 fout.write( cleaned(line) )
 
 def cleaned(line):
-    """ simply delete first 3 spaces - if present """
-    if line[0:3] == '   ':
-        return line[3:]
-    else:
-        return line
+    def rm_whitespace(line):
+        """ simply delete first 3 spaces - if present """
+        if line[0:3] == '   ':
+            return line[3:]
+        else:
+            return line
+
+    def rm_copy(line):
+        if line[0] == '©':
+            return '' # delete whole line
+        else:
+            return line
+
+    return rm_copy(rm_whitespace(line))
+
 
 def process_all_files( folder, extension = '.txt'):
+    """ process all files in given folder """
     files = [ f for f in os.listdir(folder) if f.endswith(extension) ]
     for f in files:
         clean_visibility(folder, f)
@@ -39,4 +52,8 @@ else:
 
     test2 = '   abc'
     if test1 == cleaned(test2):
+        print('.')
+
+    test3 = '   ©abc'
+    if '' == cleaned(test3):
         print('.')
