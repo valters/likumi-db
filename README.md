@@ -3,6 +3,11 @@ Latvijas Republikas likumu konsolidētās vēsturiskās versijas teksta formāt�
 
 Consolidated historical, plain-text versions of the laws of Republic of Latvia
 
+## Tree structure
+* incoming html in 'intake' folder
+* cleaned 'text' versions in 'text' folder
+* diff comparison reports in 'diff' folder
+
 ## Build process
 
 If you are reading this for first time, please read Prerequisites section first.
@@ -40,6 +45,8 @@ The key why we use 'elinks', is because when it dumps the .txt result, it allows
 It will go through all files in 'txt/' folder, and produce diff .html reports in 'diff/' folder.
 
 ## Prerequisites
+
+If you want to build/run some of this yourself,
 
 1) You need to have most recent 'elinks' browser (v0.13), build it from sources. See http://elinks.cz/download.html and http://elinks.cz/documentation/installation.html
 

@@ -1,0 +1,12 @@
+#!/bin/bash
+# move created txt files out to their actual destination(s)
+
+for i in $( find . -maxdepth 1 -mindepth 1 -type d ); do
+
+  echo $i
+  mkdir -p ../text/$i/
+  mv $i/txt/*.txt ../text/$i/
+
+done
+
+
