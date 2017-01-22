@@ -1,5 +1,5 @@
 #!/bin/bash
-LAW_DIFF_HOME="/home/w/_d/github/lawdiff/LawDiff-app/target"
+LAW_DIFF_HOME="$HOME/_d/github/lawdiff/LawDiff-app/target"
 LAW_DIFF="$LAW_DIFF_HOME/lawdiff-app-1.0.0.jar"
 
 LAW="$1"
