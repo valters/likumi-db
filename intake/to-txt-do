@@ -16,4 +16,5 @@ for i in $( ls *.html ); do
 done
 
 cd ..
+python3 ../clean_whitespace.py txt/
 echo "done"

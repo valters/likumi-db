@@ -1,11 +1,12 @@
 #!/bin/bash
-LAW_DIFF_HOME="/Users/w/_d/pvt/law-log/law-diff/target/"
+LAW_DIFF_HOME="/Users/w/_d/github/lawdiff/LawDiff-app/target"
+LAW_DIFF="$LAW_DIFF_HOME/lawdiff-app-1.0.0.jar"
 
 LAW="$1"
 
 cd $LAW/
 
-java -cp "$LAW_DIFF_HOME/classes/:$LAW_DIFF_HOME/libs/*" io.github.valters.law_diff.Main
+java -jar $LAW_DIFF
 
 cd ..
 echo "done"
