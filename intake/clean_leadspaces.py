@@ -28,7 +28,7 @@ def cleaned(line):
             return line
 
     def rm_copy(line):
-        if line[0] == '©':
+        if '©' in line:
             return '' # delete whole line
         else:
             return line
