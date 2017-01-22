@@ -55,6 +55,8 @@ def cleaned( text ):
                 if c == '>':
                     if curr_tag == '<hr':
                         output.write( '<br/') # replace <hr> with <br/>
+                    elif curr_tag == '<p align=center':
+                        output.write( '<p') # replace center align with nothing
                     elif started_div_tag:
                         # check if this div interests us
                         if "style='display:none;'" in curr_tag:
@@ -112,9 +114,9 @@ else:
     text_test = """<div class='panta-doc-npk' style='display:none;'>2</div><DIV class='TV213'  ><a name='p1'></a><a class='p_id' name='p-2680'></a><P class='TV213 TVP' id='p1'><b>1.</b> Latvija.</P><div class='panta-doc-npk' style='display:none;'>2</div><div id='panta-piezime-2680' class='panta-piezimite'></div></DIV>
     <DIV class='TV213'  ><a name='p2'></a><a class='p_id' name='p-2681'></a><P class='TV213 TVP' id='p2'><b>2.</b> Latvijas.</P><div class='panta-doc-npk' style='display:none;'>3</div><div id='panta-piezime-2681' class='panta-piezimite'></div></DIV>"""
 
-    text_orig = "<div class='panta-doc-npk' style='display:none;'>2</div><DIV class='TV213'  ><a name='p1'></a><a class='p_id' name='p-2680'></a><P class='TV213 TVP' id='p1'><b>1.</b> Latvija.</P><div class='panta-doc-npk' style='display:none;'>2</div><div id='panta-piezime-2680' class='panta-piezimite'></div></DIV><DIV class='TV213'  ><a name='p2'></a><a class='p_id' name='p-2681'></a><P class='TV213 TVP' id='p2'><b>2.</b> Latvijas.</P><div class='panta-doc-npk' style='display:none;'>3</div><div id='panta-piezime-2681' class='panta-piezimite'></div><hr></DIV>";
+    text_orig = "<div class='panta-doc-npk' style='display:none;'>2</div><DIV class='TV213'  ><a name='p1'></a><a class='p_id' name='p-2680'></a><P class='TV213 TVP' id='p1'><b>1.</b> Latvija.</P><div class='panta-doc-npk' style='display:none;'>2</div><div id='panta-piezime-2680' class='panta-piezimite'></div></DIV><DIV class='TV213'  ><a name='p2'></a><a class='p_id' name='p-2681'></a><P class='TV213 TVP' id='p2'><b>2.</b> Latvijas.</P><div class='panta-doc-npk' style='display:none;'>3</div><div id='panta-piezime-2681' class='panta-piezimite'><p align=\"center\">cent</p></div><hr></DIV>";
 
-    text_expect = "<DIV class='TV213'  ><a name='p1'></a><a class='p_id' name='p-2680'></a><P class='TV213 TVP' id='p1'><b>1.</b> Latvija.</P><div id='panta-piezime-2680' class='panta-piezimite'></div></DIV><DIV class='TV213'  ><a name='p2'></a><a class='p_id' name='p-2681'></a><P class='TV213 TVP' id='p2'><b>2.</b> Latvijas.</P><div id='panta-piezime-2681' class='panta-piezimite'></div><br/></DIV>";
+    text_expect = "<DIV class='TV213'  ><a name='p1'></a><a class='p_id' name='p-2680'></a><P class='TV213 TVP' id='p1'><b>1.</b> Latvija.</P><div id='panta-piezime-2680' class='panta-piezimite'></div></DIV><DIV class='TV213'  ><a name='p2'></a><a class='p_id' name='p-2681'></a><P class='TV213 TVP' id='p2'><b>2.</b> Latvijas.</P><div id='panta-piezime-2681' class='panta-piezimite'><p>cent</p></div><br/></DIV>";
 
     text_res = cleaned(text_orig)
     print( "======= "+ text_res )
