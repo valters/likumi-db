@@ -1,570 +1,662 @@
-   [IMG]
-   Publicēts:
-   "Latvijas Vēstnesis", 164 (2551), 14.11.2001., "Ziņotājs", 23, 13.12.2001.
-   Izdevējs: SaeimaVeids: likumsPieņemts: 25.10.2001.Stājas spēkā: 01.02.2004.
-   Attēlotā redakcija: 01.01.2014. - ... Spēkā esošā
-   Grozījumi:
-   12.06.2003. likums / LV, 96 (2861), 27.06.2003. / Stājas spēkā 01.07.2003.
-   15.01.2004. likums / LV, 12 (2960), 23.01.2004. / Stājas spēkā 01.02.2004.
-   26.10.2006. likums / LV, 183 (3551), 15.11.2006. / Stājas spēkā 01.12.2006.
-   18.12.2008. likums / LV, 202 (3986), 30.12.2008. / Stājas spēkā 01.01.2009.
-   01.11.2012. likums / LV, 183 (4786), 21.11.2012. / Stājas spēkā 01.01.2013.
-   19.09.2013. likums / LV, 188 (4994), 26.09.2013. / Stājas spēkā 01.01.2014.
-   Satura rādītājs:
-     * A DAĻA VISPĀRĪGIE NOTEIKUMI
-          * 1.nodaļa Administratīvā procesa pamatnoteikumi
-               * 1.pants. Likumā lietotie termini
-               * 2.pants. Likuma pamatmērķi
-               * 3.pants. Likuma darbība
-               * 4.pants. Administratīvā procesa principi
-               * 5.pants. Privātpersonas tiesību ievērošanas princips
-               * 6.pants. Vienlīdzības princips
-               * 7.pants. Tiesiskuma princips
-               * 8.pants. Tiesību normu saprātīgas piemērošanas princips
-               * 9.pants. Patvaļas aizlieguma princips
-               * 10.pants. Tiesiskās paļāvības princips
-               * 11.pants. Likuma atrunas princips
-               * 12.pants. Demokrātiskās iekārtas princips
-               * 13.pants. Samērīguma princips
-               * 14.pants. Likuma prioritātes princips
-               * 14.^1 pants. Procesuālā taisnīguma princips
-               * 15.pants. Ārējo normatīvo aktu, vispārējo tiesību principu un
-                 starptautisko tiesību normu piemērošana
-               * 16.pants. Iekšējo normatīvo aktu piemērošana
-               * 17.pants. Tiesību normu interpretācija un analoģija
-               * 18.pants. Administratīvā procesa izdevumi
-          * 2.nodaļa Administratīvi procesuālā tiesībspēja un rīcībspēja
-               * 19.pants. Tiesībspēja un rīcībspēja
-               * 20.pants. Privātpersonas administratīvi procesuālā tiesībspēja
-               * 21.pants. Privātpersonas administratīvi procesuālā rīcībspēja
-               * 22.pants. Publisko tiesību subjekta administratīvi procesuālā
-                 tiesībspēja
-               * 23.pants. Publisko tiesību subjekta administratīvi procesuālā
-                 rīcībspēja
-          * 3.nodaļa Administratīvā procesa dalībnieki iestādē un tiesā
-               * 24.pants. Administratīvā procesa dalībnieki
-               * 25.pants. Iesniedzējs
-               * 26.pants. Procesuālā līdzdalība iestādē
-               * 27.pants. Adresāts
-               * 28.pants. Trešā persona
-               * 29.pants. Tiesību subjekts, kuram ir tiesības būt par privātpersonas
-                 tiesību un tiesisko interešu aizstāvi
-               * 30.pants. Institūcijas piedalīšanās procesā atzinuma došanai
-               * 31.pants. Pieteicējs
-               * 32.pants. Procesuālā līdzdalība tiesā
-               * 33.pants. Administratīvā procesa dalībnieku procesuālo tiesību
-                 pārņemšana
-               * 34.pants. Atbildētājs
-               * 35.pants. Tiesības uz pārstāvību administratīvajā procesā
-               * 36.pants. Personas, kuras nevar būt par pārstāvjiem administratīvajā
-                 procesā
-               * 37.pants. Personas, kuras nevar pārstāvēt iestādi
-               * 38.pants. Pārstāvības noformēšana
-               * 39.pants. Pārstāvja pilnvaru apjoms
-               * 40.pants. Pārstāvības atsaukšana vai atteikšanās no pārstāvības
-          * 4. nodaļa Procesuālie termiņi
-               * 41.pants. Procesuālā termiņa noteikšana
-               * 42.pants. Procesuālā termiņa sākums
-               * 43.pants. Procesuālā termiņa izbeigšanās
-               * 44.pants. Procesuālā termiņa nokavējuma sekas
-               * 45.pants. Procesuālā termiņa apturēšana
-               * 46.pants. Procesuālā termiņa atjaunošana
-               * 47.pants. Procesuālā termiņa pagarināšana
-               * 48.pants. Procesuālā termiņa pagarināšanas un atjaunošanas kārtība
-               * 49.pants. Iestādei noteiktā termiņa neievērošanas sekas
-               * 50.pants. Tiesai noteiktā termiņa neievērošanas sekas
-     * B DAĻA ADMINISTRATĪVAIS PROCESS IESTĀDĒ
-          * 5.nodaļa Piekritība, sadarbība un informācijas atklātība
-               * 51.pants. Administratīvās lietas piekritība
-               * 52.pants. Piekritības maiņa
-               * 53.pants. Sadarbība administratīvajā procesā
-               * 54.pants. Informācijas sniegšana
-          * 6.nodaļa Administratīvā procesa virzība iestādē
-               * 55.pants. Administratīvās lietas ierosināšana iestādē
-               * 56.pants. Lietas ierosināšana uz iesnieguma pamata
-               * 57.pants. Lietas ierosināšana pēc iestādes iniciatīvas
-               * 58.pants. Lietas ierosināšana uz augstākas iestādes rīkojuma vai citas
-                 institūcijas ziņojuma pamata
-               * 59.pants. Informācijas iegūšana
-               * 60.pants. Informācijas iegūšanas ierobežojumi
-               * 61.pants. Tiesības iepazīties ar lietu
-               * 62.pants. Administratīvā procesa dalībnieku uzklausīšana
-               * 63.pants. Administratīvā akta izdošana vai lēmums par lietas
-                 izbeigšanu
-               * 63.^1 pants. Administratīvā līguma noslēgšana
-               * 64.pants. Administratīvā akta izdošanas termiņš
-               * 65.pants. Apsvērumi, pieņemot lēmumu par administratīvā akta izdošanu
-                 un nosakot tā saturu
-               * 66.pants. Lietderības apsvērumu saturs
-               * 67.pants. Administratīvā akta forma un sastāvdaļas
-               * 68.pants. Administratīvā akta nosacījumi
-               * 69.pants. Administratīvā akta formas neievērošana
-               * 70.pants. Administratīvā akta paziņošana un spēkā esamība
-               * 71.pants. Administratīvā akta paziņošana citām personām
-               * 72.pants. Kļūdu labošana
-               * 73.pants. Administratīvā akta izskaidrošana
-               * 74.pants. Spēkā neesošs administratīvais akts
-               * 75.pants. Apstrīdams administratīvais akts
-               * 76.pants. Tiesības apstrīdēt administratīvo aktu
-               * 77.pants. Administratīvā akta apstrīdēšanas kārtība
-               * 77.^1 pants. Iestādes tiesības atcelt tās izdoto apstrīdēto
-                 administratīvo aktu
-               * 78.pants. Iesniegums par administratīvā akta apstrīdēšanu
-               * 79.pants. Administratīvā akta apstrīdēšanas termiņš
-               * 80.pants. Apstrīdēta administratīvā akta darbības apturēšana
-               * 80.^1 pants. Izlīguma noslēgšanas iespēju izvērtēšana
-               * 81.pants. Lēmums par apstrīdēto administratīvo aktu
-               * 82.pants. Spēku zaudējuša administratīvā akta un procesuālo pārkāpumu
-                 apstrīdēšana
-               * 83.pants. Neapstrīdama administratīvā akta atcelšana
-               * 84.pants. Administratīvā akta tiesiskums
-               * 85.pants. Tiesiska administratīvā akta atcelšana
-               * 86.pants. Prettiesiska administratīvā akta atcelšana
-               * 87.pants. Administratīvā procesa uzsākšana no jauna uz iesnieguma
-                 pamata
-               * 88.pants. Iestādes pienākums uzsākt administratīvo procesu no jauna
-          * 7.nodaļa Iestādes faktiskā rīcība
-               * 89.pants. Iestādes faktiskās rīcības jēdziens
-               * 90.pants. Iestādes apsvērumi un paziņojums par faktisko rīcību
-               * 91.pants. Iesniegums par iestādes faktisko rīcību un faktiskās rīcības
-                 apstrīdēšana un pārsūdzēšana
-          * 8.nodaļa Atlīdzinājums
-               * 92.pants. Tiesības uz atlīdzinājumu
-               * 93.pants. Apstrīdēšanas un pārsūdzēšanas kārtība lietās par
-                 atlīdzinājumu
-               * 94.pants. Atlīdzināšanas pienākums
-               * 95.pants. Atlīdzinātāja noskaidrošana
-               * 96.pants. Iesniedzēja pienākums samazināt zaudējumus un sadarboties
-               * 97.pants. Civiltiesību principu piemērošana atlīdzinājuma apmēra
-                 noteikšanai
-          * 9.nodaļa Uzziņa par savām tiesībām
-               * 98.pants. Tiesības uz uzziņu par savām tiesībām
-               * 99.pants. Uzziņas sagatavošana
-               * 100.pants. Uzziņas forma
-               * 101.pants. Uzziņas tiesiskās sekas un apstrīdēšana
-     * C DAĻA ADMINISTRATĪVAIS PROCESS TIESĀ
-          * PIRMĀ SADAĻA TIESVEDĪBAS VISPĀRĪGIE NOTEIKUMI
-               * 10.nodaļa Pamatnoteikumi
-                    * 102.pants. Tiesvedību administratīvajā procesā regulējošo likumu
-                      spēks laikā
-                    * 103.pants. Administratīvā procesa tiesā būtība
-                    * 104.pants. Tiesību normu hierarhijas kontrole
-                    * 104.^1 pants. Jautājuma uzdošana Eiropas Savienības Tiesai
-                    * 105.pants. Tiesvedības instances administratīvajā lietā
-                    * 106.pants. Administratīvās lietas ierosināšana tiesā
-                    * 107.pants. Apstākļu noskaidrošana administratīvajā lietā
-                    * 107.^1 pants. Izlīguma noslēgšanas iespēju izskaidrošana
-                    * 108.pants. Administratīvās lietas izskatīšanas atklātums
-                    * 108.^1 pants. Administratīvās lietas izskatīšanas atklātums,
-                      pārbaudot valsts noslēpumu saturošu informāciju
-                    * 108.^2 pants. Tiesas nolēmumu pieejamība
-                    * 109.pants. Administratīvās lietas vienpersoniska un koleģiāla
-                      izskatīšana
-                    * 110.pants. Tiesvedības valoda
-                    * 111.pants. Ierobežojumi tiesnesim tiesas spriešanā
-                    * 112.pants. Administratīvās lietas iztiesāšanas tiešums
-                    * 112.^1 pants. Tiesvedības process
-                    * 113.pants. Mutvārdu process
-                    * 114.pants. Rakstveida process
-                    * 114.^1 pants. Tiesas sazināšanās ar iestādi
-               * 11.nodaļa Tiesas sastāvs
-                    * 115.pants. Jautājumu izlemšana tiesā
-                    * 116.pants. Aizliegums tiesnesim piedalīties lietas atkārtotā
-                      izskatīšanā
-                    * 117.pants. Tiesneša atstatīšana vai noraidīšana
-                    * 118.pants. Noraidījuma pieteikšana
-                    * 119.pants. Pieteiktā noraidījuma izskatīšanas kārtība
-                    * 120.pants. Noraidījuma sekas
-               * 12.nodaļa Administratīvās lietas pakļautība un piekritība
-                    * 121.pants. Pakļautība
-                    * 122.pants. Piekritība
-                    * 123.pants. Tiesvedībā pieņemtās lietas nodošana citam tiesu namam
-                      vai citai tiesai
-               * 13.nodaļa Maksājumi valsts budžetā
-                    * 124.pants. Valsts nodeva un drošības nauda
-                    * 125.pants. Valsts nodevas atmaksāšana
-                    * 126.pants. Valsts nodevas atlīdzināšana
-                    * 127.pants. Valsts nodevas iemaksa un atmaksa
-                    * 128.pants. Izņēmumi no vispārīgiem noteikumiem par valsts nodevu
-                    * 129.pants. Lēmuma pārsūdzēšana valsts nodevas jautājumā
-                    * 129.^1 pants. Drošības naudas atmaksāšana
-                    * 129.^2 pants. Izņēmumi no vispārīgiem noteikumiem par drošības
-                      naudu
-                    * 129.^3 pants. Valsts nodevas un drošības naudas iemaksāšanas un
-                      atmaksāšanas kārtība
-               * 14.nodaļa Tiesas paziņojumi un izsaukumi
-                    * 130.pants. Aicināšana un izsaukšana uz tiesu
-                    * 131.pants. Tiesas pavēste
-                    * 132.pants. Tiesas pavēstes nogādāšana un izsniegšana
-                    * 133.pants. Tiesas pavēstes izsniegšana
-                    * 134.pants. Sekas, ko rada atteikšanās pieņemt tiesas pavēsti
-                    * 135.pants. Personas pienākums būt sasniedzamai
-               * 15.nodaļa Tiesas sēdes gaitas fiksēšana
-                    * 135.^1 pants. Tiesas sēdes gaitas fiksēšana
-                    * 136.pants. Pienākums rakstīt protokolu
-                    * 136.^1 pants. Tiesas sēdes gaitas fiksēšana, izmantojot tehniskos
-                      līdzekļus
-                    * 137.pants. Protokola saturs
-                    * 138.pants. Protokola rakstīšana
-                    * 139.pants. Piezīmes pie protokola
-               * 16.nodaļa Procesuālie piespiedu līdzekļi
-                    * 140.pants. Procesuālo piespiedu līdzekļu veidi
-                    * 141.pants. Brīdinājums
-                    * 142.pants. Izraidīšana no sēžu zāles
-                    * 143.pants. Piespiedu nauda
-                    * 144.pants. Piespiedu atvešana
-               * 17.nodaļa Administratīvā procesa dalībnieku tiesības un pienākumi
-                 tiesā
-                    * 145.pants. Pieteicēja un atbildētāja procesuālās tiesības
-                    * 146.pants. Trešās personas tiesības un pienākumi
-                    * 147.pants. Pārstāvības noformēšana un pārstāvja pilnvaru apjoms
-                    * 148.pants. Administratīvā procesa dalībnieka pienākums
-          * OTRĀ SADAĻA PIERĀDĪJUMI
-               * 18.nodaļa Vispārīgie noteikumi par pierādījumiem
-                    * 149.pants. Pierādījumi
-                    * 150.pants. Pierādīšanas pienākums
-                    * 151.pants. Pierādījumu attiecināmība
-                    * 152.pants. Pierādījumu pieļaujamība
-                    * 153.pants. Pamats atbrīvošanai no pierādīšanas
-                    * 154.pants. Pierādījumu novērtēšana
-               * 19.nodaļa Pierādījumu nodrošināšana
-                    * 155.pants. Pierādījumu nodrošināšanas pieļaujamība
-                    * 156.pants. Lūgums par pierādījumu nodrošināšanu
-                    * 157.pants. Kārtība, kādā izskatāms lūgums par pierādījumu
-                      nodrošināšanu pirms lietas ierosināšanas tiesā
-                    * 158.pants. Kārtība, kādā izskatāms lūgums par pierādījumu
-                      nodrošināšanu pēc lietas ierosināšanas tiesā
-                    * 159.pants. Tiesas uzdevumi
-                    * 160.pants. Tiesas uzdevumu izpildīšanas kārtība
-               * 20.nodaļa Pierādīšanas līdzekļi
-                    * 161.pants. Paskaidrojumi
-                    * 162.pants. Liecinieku liecības
-                    * 163.pants. Personas, kuras nevar būt par lieciniekiem
-                    * 164.pants. Personas, kuras var atteikties liecināt
-                    * 165.pants. Liecinieka pienākumi
-                    * 166.pants. Liecinieka atbildība
-                    * 167.pants. Rakstveida pierādījumi
-                    * 168.pants. Rakstveida pierādījumu iesniegšanas kārtība
-                    * 169.pants. Rakstveida pierādījumu pieprasīšanas kārtība
-                    * 170.pants. Lietā esošo rakstveida pierādījumu atdošana
-                    * 171.pants. Rakstveida pierādījumu apskate to glabāšanas vietā
-                    * 172.pants. Lietiskie pierādījumi
-                    * 173.pants. Lietisko pierādījumu pieprasīšanas kārtība
-                    * 174.pants. Lietisko pierādījumu apskate to glabāšanas vietā
-                    * 175.pants. Lietisko pierādījumu glabāšana
-                    * 176.pants. Lietisko pierādījumu atdošana
-                    * 177.pants. Atbildība par pieprasītās informācijas, rakstveida vai
-                      lietisko pierādījumu neiesniegšanu
-                    * 178.pants. Ekspertīze
-                    * 179.pants. Eksperta pienākumi un tiesības
-                    * 180.pants. Eksperta atstatīšana vai noraidīšana
-                    * 181.pants. Eksperta atzinums
-                    * 182.pants. Eksperta atzinuma novērtēšana
-                    * 183.pants. Personu apvienības viedoklis (Amicus curiae)
-          * TREŠĀ SADAĻA TIESVEDĪBA PIRMĀS INSTANCES TIESĀ
-               * 21.nodaļa Pieteikuma iesniegšana
-                    * 184.pants. Pieteikuma priekšmets
-                    * 185.pants. Pārsūdzēta administratīvā akta vai faktiskās rīcības
-                      darbības apturēšana vai atjaunošana
-                    * 185.^1 pants. Kārtība, kādā izlemjams lūgums par administratīvā
-                      akta vai faktiskās rīcības darbības apturēšanu vai atjaunošanu
-                    * 186.pants. Pieteikuma forma un saturs
-                    * 187.pants. Pieteikumam pievienojamie dokumenti
-                    * 188.pants. Pieteikuma iesniegšanas termiņš
-                    * 189.pants. Pieteikuma iesniegšana tiesā
-                    * 190.pants. Lemšana par pieteikumu
-                    * 190.^1 pants. Procesuālā termiņa atjaunošana, iesniedzot
-                      pieteikumu
-                    * 191.pants. Pieteikuma nepieņemšanas pamats
-                    * 191.^1 pants. Pieteikuma izskatīšanas atteikšana
-                    * 191.^2 pants. Pieteikuma apmierināšana bez lietas tālākas
-                      iztiesāšanas
-                    * 192.pants. Pieteikuma atstāšana bez virzības
-                    * 193.pants. Prasījumu un administratīvo lietu apvienošana
-                    * 194.pants. Prasījumu un administratīvo lietu sadalīšana
-                    * 194.^1 pants. Lemšana par pieteikuma grozījumiem un
-                      papildinājumiem
-               * 22.nodaļa Pagaidu noregulējums
-                    * 195.pants. Pagaidu noregulējuma pamats
-                    * 196.pants. Pagaidu noregulējuma līdzekļi
-                    * 197.pants. Kārtība, kādā izlemjams lūgums par pagaidu
-                      noregulējumu
-                    * 198.pants. Pagaidu noregulējuma līdzekļu maiņa
-                    * 199.pants. Lēmuma par pagaidu noregulējumu izpilde
-                    * 200.pants. Pagaidu noregulējuma atcelšana
-                    * 201.pants. Pagaidu noregulējuma izbeigšanās
-                    * 202.pants. Lēmuma par pagaidu noregulējumu pārsūdzēšana
-               * 23.nodaļa Administratīvās lietas sagatavošana iztiesāšanai
-                    * 203.pants. Pieteikuma nosūtīšana atbildētājam un atbildētāja
-                      paskaidrojums
-                    * 204.pants. Tiesneša darbības, sagatavojot lietu iztiesāšanai
-                    * 205.pants. Paskaidrojuma norakstu nosūtīšana
-                    * 206.pants. Lietas izskatīšanas noteikšana
-               * 24.nodaļa Tiesas sēde
-                    * 207.pants. Ierobežojumi klātesamībai sēžu zālē
-                    * 208.pants. Kārtība tiesas sēdē
-                    * 209.pants. Kārtības nodrošināšana tiesas sēdē
-                    * 210.pants. Videokonference
-               * 25.nodaļa Administratīvās lietas iztiesāšana
-                    * 211.pants. Tiesas sēdes vadīšana
-                    * 212.pants. Tiesas sēdes uzsākšana
-                    * 213.pants. Aicināto un izsaukto personu ierašanās pārbaude
-                    * 214.pants. Administratīvā procesa dalībnieka, liecinieka,
-                      eksperta vai tulka neierašanās sekas
-                    * 215.pants. Tulka piedalīšanās tiesas sēdē
-                    * 216.pants. Liecinieku izraidīšana no tiesas sēžu zāles
-                    * 217.pants. Tiesību un pienākumu izskaidrošana administratīvā
-                      procesa dalībniekiem
-                    * 218.pants. Noraidījumu izlemšana
-                    * 219.pants. Tiesību un pienākumu izskaidrošana ekspertam
-                    * 220.pants. Administratīvā procesa dalībnieku pieteikto lūgumu
-                      izlemšana
-                    * 221.pants. Sākums lietas izskatīšanai pēc būtības
-                    * 222.pants. Atteikšanās no prasījuma un prasījuma atzīšana
-                    * 223.pants. Administratīvā procesa dalībnieku paskaidrojumi
-                    * 224.pants. Pieteicēja zvērests
-                    * 225.pants. Jautājumu uzdošanas kārtība
-                    * 226.pants. Pierādījumu pārbaudes kārtības noteikšana
-                    * 227.pants. Liecinieka brīdināšana
-                    * 228.pants. Liecinieka nopratināšana
-                    * 229.pants. Liecinieka tiesības lietot rakstveida piezīmes
-                    * 230.pants. Nepilngadīga liecinieka nopratināšana
-                    * 231.pants. Liecinieka liecības nolasīšana
-                    * 232.pants. Nopratinātā liecinieka pienākums
-                    * 233.pants. Eksperta atzinuma pārbaude un eksperta nopratināšana
-                    * 234.pants. Rakstveida pierādījuma pārbaude
-                    * 235.pants. Rakstveida pierādījuma apstrīdēšana
-                    * 236.pants. Iesniegums par rakstveida pierādījuma viltojumu
-                    * 237.pants. Lietiskā pierādījuma pārbaude
-                    * 238.pants. Pierādījumu apskate un pārbaude uz vietas
-                    * 239.pants. Institūcijas atzinuma noklausīšanās
-                    * 240.pants. Lietas izskatīšanas pēc būtības pabeigšana
-                    * 241.pants. Tiesas debates
-                    * 242.pants. Replikas
-                    * 243.pants. Paziņojums par sprieduma taisīšanu
-                    * 244.pants. Lietas iztiesāšanas atsākšana
-                    * 245.pants. Administratīvās lietas iztiesāšana rakstveida procesā
-               * 26.nodaļa Spriedums
-                    * 246.pants. Vispārīgie noteikumi
-                    * 247.pants. Sprieduma tiesiskums un pamatotība
-                    * 248.pants. Sprieduma taisīšanas kārtība
-                    * 249.pants. Prasījuma robežas ievērošana
-                    * 250.pants. Pārbaudes apjoms un iebildumu robežas
-                    * 251.pants. Sprieduma forma un saturs
-                    * 252.pants. Saīsinātais spriedums
-                    * 253.pants. Spriedums par administratīvā akta atcelšanu vai
-                      atzīšanu par spēkā neesošu
-                    * 254.pants. Spriedums par labvēlīga administratīvā akta izdošanu
-                    * 255.pants. Spriedums par iestādes faktisko rīcību
-                    * 256.pants. Spriedums par publiski tiesisku attiecību
-                      pastāvēšanas, nepastāvēšanas vai to satura konstatāciju
-                    * 256.^1 pants. Spriedums par publisko tiesību līgumu
-                    * 256.^2 pants. Spriedums par procesuālā pārkāpuma konstatēšanu
-                    * 257.pants. Spriedums vairāku pieteicēju labā vai pret vairākiem
-                      atbildētājiem
-                    * 258.pants. Sprieduma pasludināšana
-                    * 259.pants. Sprieduma sastādīšanas laiks un nosūtīšana rakstveida
-                      procesā izskatītajās lietās
-                    * 260.pants. Pārrakstīšanās un matemātiskā aprēķina kļūdu labošana
-                    * 261.pants. Papildspriedums
-                    * 262.pants. Sprieduma izskaidrošana
-                    * 263.pants. Sprieduma stāšanās spēkā
-                    * 264.pants. Sprieduma izpildīšana
-                    * 265.pants. Nekavējoties izpildāmi spriedumi
-                    * 266.pants. Sprieduma izpildes sadalīšana termiņos, tā izpildes
-                      veida vai kārtības grozīšana
-                    * 267.pants. Sprieduma noraksta nosūtīšana
-               * 27.nodaļa Administratīvās lietas izskatīšanas atlikšana
-                    * 268.pants. Tiesas pienākums atlikt lietas izskatīšanu
-                    * 269.pants. Tiesas tiesības atlikt lietas izskatīšanu
-                    * 270.pants. Lēmums par lietas izskatīšanas atlikšanu
-                    * 271.pants. Liecinieku nopratināšana, atliekot lietas izskatīšanu
-                    * 272.pants. Lietas izskatīšanas atsākšana
-               * 28.nodaļa Tiesvedības apturēšana administratīvajā lietā
-                    * 273.pants. Tiesas pienākums apturēt tiesvedību
-                    * 274.pants. Tiesas tiesības apturēt tiesvedību
-                    * 275.pants. Tiesvedības apturēšanas termiņi
-                    * 276.pants. Lēmums par tiesvedības apturēšanu
-                    * 277.pants. Tiesvedības atjaunošana
-               * 29.nodaļa Pieteikuma atstāšana bez izskatīšanas
-                    * 278.pants. Tiesas pienākums atstāt pieteikumu bez izskatīšanas
-                    * 279.pants. Tiesas tiesības atstāt pieteikumu bez izskatīšanas
-                    * 280.pants. Lēmums par pieteikuma atstāšanu bez izskatīšanas
-                    * 281.pants. Sekas pieteikuma atstāšanai bez izskatīšanas
-               * 30.nodaļa Tiesvedības izbeigšana administratīvajā lietā
-                    * 282.pants. Tiesvedības izbeigšanas pamats
-                    * 283.pants. Lēmums par tiesvedības izbeigšanu
-                    * 284.pants. Tiesvedības izbeigšanas sekas
-               * 31.nodaļa Tiesas lēmums
-                    * 285.pants. Lēmuma pieņemšana
-                    * 286.pants. Lēmuma saturs un pieņemšanas termiņi
-                    * 287.pants. Lēmuma paziņošana
-                    * 288.pants. Tiesas blakus lēmums
-                    * 288.^1 pants. Papildlēmums, kļūdu labošana lēmumā un lēmuma
-                      izskaidrošana
-          * CETURTĀ SADAĻA TIESVEDĪBA APELĀCIJAS INSTANCES TIESĀ
-               * 32.nodaļa Apelācijas sūdzības iesniegšana
-                    * 289.pants. Tiesības iesniegt apelācijas sūdzību
-                    * 290.pants. Apelācijas sūdzības iesniegšanas kārtība
-                    * 291.pants. Apelācijas sūdzības iesniegšanas termiņš
-                    * 292.pants. Apelācijas sūdzības saturs
-                    * 293.pants. Apelācijas sūdzības noraksti
-                    * 294.pants. Apelācijas sūdzības robežas
-                    * 295.pants. Pievienošanās apelācijas sūdzībai
-                    * 296.pants. Apelācijas sūdzības atstāšana bez virzības
-                    * 297.pants. Atteikuma pārsūdzēšana
-                    * 298.pants. Rīcība pēc apelācijas sūdzības pieņemšanas
-                    * 299.pants. Administratīvā procesa dalībnieku rakstveida
-                      paskaidrojumi
-                    * 300.pants. Pretapelācijas sūdzība
-               * 33.nodaļa Administratīvās lietas izskatīšana apelācijas instances
-                 tiesā
-                    * 301.pants. Apelācijas tiesvedības ierosināšana
-                    * 301.^1 pants. Tiesības atteikties ierosināt apelācijas tiesvedību
-                    * 302.pants. Lietas izskatīšanas robežas apelācijas instancē
-                    * 303.pants. Izņēmuma gadījumi, kad pirmās instances tiesas
-                      spriedums atceļams un lieta nosūtāma jaunai izskatīšanai pirmās
-                      instances tiesai
-                    * 304.pants. Iztiesāšanas kārtība apelācijas instances tiesā
-                    * 305.pants. Pierādījumu pārbaude apelācijas instances tiesā
-                    * 306.pants. Apelācijas (pretapelācijas) sūdzības atsaukšana
-               * 34.nodaļa Apelācijas instances tiesas nolēmums
-                    * 307.pants. Apelācijas instances tiesas spriedums
-                    * 308.pants. Apelācijas instances tiesas sprieduma pasludināšana
-                    * 309.pants. Apelācijas instances tiesas sprieduma spēks
-                    * 310.pants. Pārrakstīšanās un matemātiskā aprēķina kļūdu labošana
-                      apelācijas instances tiesas spriedumā
-                    * 311.pants. Apelācijas instances tiesas papildspriedums
-                    * 312.pants. Apelācijas instances tiesas sprieduma izskaidrošana
-                    * 313.pants. Apelācijas instances tiesas sprieduma izpildīšana
-                    * 314.pants. Tiesvedības apturēšana administratīvajā lietā,
-                      pieteikuma atstāšana bez izskatīšanas, tiesvedības izbeigšana
-                      administratīvajā lietā apelācijas instances tiesā
-          * PIEKTĀ SADAĻA PIRMĀS INSTANCES TIESAS UN APELĀCIJAS INSTANCES TIESAS LĒMUMA
-            PĀRSŪDZĒŠANA
-               * 35.nodaļa Tiesas lēmuma pārsūdzēšana
-                    * 315.pants. Tiesības pārsūdzēt lēmumu
-                    * 316.pants. Blakus sūdzības iesniegšanas termiņš
-                    * 317.pants. Blakus sūdzības iesniegšanas kārtība
-                    * 318.pants. Blakus sūdzības saturs
-                    * 319.pants. Blakus sūdzības noraksti
-                    * 320.pants. Blakus sūdzības atstāšana bez virzības
-                    * 321.pants. Tiesas rīcība pēc blakus sūdzības pieņemšanas
-                    * 322.pants. Blakus sūdzības izskatīšanas kārtība
-                    * 323.pants. Administratīvās apgabaltiesas un Senāta kompetence
-                    * 324.pants. Par blakus sūdzību pieņemtā lēmuma spēks
-          * SESTĀ SADAĻA TIESVEDĪBA KASĀCIJAS INSTANCES TIESĀ
-               * 36.nodaļa Kasācijas sūdzības iesniegšana
-                    * 325.pants. Tiesības iesniegt kasācijas sūdzību
-                    * 326.pants. Materiālo tiesību normas pārkāpums
-                    * 327.pants. Procesuālo tiesību normas pārkāpums
-                    * 328.pants. Kasācijas sūdzības saturs
-                    * 329.pants. Kasācijas sūdzības iesniegšanas termiņš
-                    * 330.pants. Tiesneša lēmuma pārsūdzēšana
-                    * 331.pants. Kasācijas sūdzības iesniegšanas kārtība
-                    * 332.pants. Kasācijas sūdzības noraksti
-                    * 333.pants. Kasācijas sūdzības atstāšana bez virzības
-                    * 334.pants. Rīcība pēc kasācijas sūdzības pieņemšanas
-                    * 335.pants. Pievienošanās kasācijas sūdzībai
-                    * 336.pants. Kasācijas sūdzības atsaukšana un kasācijas tiesvedības
-                      izbeigšana
-                    * 337.pants. Pretsūdzības iesniegšana
-               * 37.nodaļa Administratīvās lietas izskatīšana kasācijas instances tiesā
-                    * 338.pants. Rīcības sēde
-                    * 338.^1 pants. Pamats atteikumam ierosināt kasācijas tiesvedību
-                    * 339.pants. Lietas izskatīšana Senātā
-                    * 340.pants. Tiesas sēdes sākums
-                    * 341.pants. Tiesību un pienākumu izskaidrošana administratīvā
-                      procesa dalībniekiem
-                    * 342.pants. Sekas, kas rodas, ja tiesas sēdē neierodas
-                      administratīvā procesa dalībnieks
-                    * 343.pants. Administratīvā procesa dalībnieku lūgumu izlemšana
-                    * 344.pants. Ziņojums par lietu
-                    * 345.pants. Administratīvā procesa dalībnieku paskaidrojumi
-                    * 346.pants. Sprieduma taisīšana
-                    * 346.^1 pants. Tiesvedības apturēšana, pieteikuma vai kasācijas
-                      sūdzības atstāšana bez izskatīšanas, tiesvedības izbeigšana
-               * 38.nodaļa Kasācijas instances tiesas nolēmums
-                    * 347.pants. Lietas izskatīšanas robežas
-                    * 348.pants. Kasācijas instances tiesas spriedums
-                    * 349.pants. Kasācijas instances tiesas sprieduma saturs
-                    * 350.pants. Tiesību normu interpretācijas obligātums
-                    * 351.pants. Kasācijas instances tiesas sprieduma spēks
-                    * 352.pants. Pārrakstīšanās un matemātiskā aprēķina kļūdu labošana
-          * SEPTĪTĀ SADAĻA LIETAS JAUNA IZSKATĪŠANA PĒC SPRIEDUMA VAI LĒMUMA STĀŠANĀS
-            SPĒKĀ
-               * 39.nodaļa Lietas jauna izskatīšana sakarā ar jaunatklātiem apstākļiem
-                    * 353.pants. Jaunatklātie apstākļi
-                    * 354.pants. Pieteikuma iesniegšana
-                    * 355.pants. Pieteikuma iesniegšanas termiņa aprēķināšana
-                    * 356.pants. Pieteikuma izskatīšana
-                    * 357.pants. Tiesas lēmums
-     * D DAĻA ADMINISTRATĪVĀ AKTA UN TIESAS NOLĒMUMA IZPILDE
-          * ASTOTĀ SADAĻA ADMINISTRATĪVĀ AKTA IZPILDE
-               * 40.nodaļa Izpildes vispārējie noteikumi
-                    * 358.pants. Administratīvā akta izpildes kārtība
-                    * 359.pants. Izpildiestāde
-                    * 360.pants. Piespiedu izpildes priekšnoteikumi
-                    * 361.pants. Brīdinājums par piespiedu izpildi
-                    * 362.pants. Ierobežojumi piespiedu izpildes termiņa noteikšanai
-                    * 363.pants. Prettiesiskas piespiedu izpildes sekas
-                    * 364.pants. Administratīvā akta piespiedu izpildes izmaksas
-                    * 365.pants. Piespiedu izpildes kārtība
-               * 41.nodaļa Uz naudas maksājumu vērsta administratīvā akta piespiedu
-                 izpilde
-                    * 366.pants. Uz naudas maksājumu vērsta administratīvā akta
-                      piespiedu izpildes priekšnoteikumi
-                    * 367.pants. Izpildrīkojums
-                    * 367.^1 pants. Adresātam labvēlīga uz naudas maksājumu vērsta
-                      administratīvā akta piespiedu izpilde
-               * 42.nodaļa Uz noteiktu darbību vai darbības aizliegumu vērsta
-                 administratīvā akta piespiedu izpilde
-                    * 368.pants. Uz noteiktu darbību vai darbības aizliegumu vērsta
-                      administratīvā akta piespiedu izpildes līdzekļi
-                    * 369.pants. Pret adresātu vērsta aizvietotājizpilde
-                    * 370.pants. Adresātam uzliktā piespiedu nauda
-                    * 371.pants. Tiešā spēka pielietošanas priekšnoteikumi
-                    * 372.pants. Tiešā spēka pielietošanas veidi
-                    * 373.pants. Lietderības apsvērumi attiecībā uz tiešā spēka
-                      pielietošanu
-                    * 374.pants. Tiesības uz atlīdzinājumu sakarā ar piespiedu izpildi
-          * DEVĪTĀ SADAĻA TIESAS NOLĒMUMA IZPILDE
-               * 43.nodaļa Tiesas nolēmuma izpildes vispārīgie noteikumi
-                    * 375.pants. Iestādes pienākums izpildīt tiesas nolēmumu
-                    * 376.pants. Tiesas rīcība sakarā ar tiesas nolēmuma izpildi
-                    * 377.pants. Tiesas nolēmuma izpildiestāde
-                    * 377.^1 pants. Izpildu raksts
-                    * 378.pants. Tiesas nolēmuma piespiedu izpildes priekšnoteikumi
-                    * 379.pants. Brīdinājums par tiesas nolēmuma piespiedu izpildi
-                    * 380.pants. Tiesas nolēmuma piespiedu izpildes līdzekļi
-                    * 381.pants. Pret iestādi vērsta aizvietotājizpilde
-                    * 382.pants. Amatpersonai uzliktā piespiedu nauda
-                    * 383.pants. Tiesas nolēmuma piespiedu izpildes izmaksas
-               * 44.nodaļa Atsevišķu tiesas nolēmumu piespiedu izpildes nodrošināšana
-                    * 384.pants. Atsevišķu tiesas spriedumu sekas
-                    * 385.pants. Uz naudas maksājumu vērsta tiesas nolēmuma piespiedu
-                      izpilde attiecībā uz iestādi
-                    * 386.pants. Tiesas nolēmuma izpilde lietās, kurās atbildētājs ir
-                      privātpersona
-     * Pārejas noteikumi
-          * 1. punkts
-          * 2. punkts
-          * 3. punkts
-          * 4. punkts
-          * 4.^1 punkts
-          * 5. punkts
-          * 6. punkts
-          * 7. punkts
-          * 8. punkts
-          * 9. punkts
-          * 10. punkts
-          * 11. punkts
-          * 12. punkts
-          * 13. punkts
-          * 14. punkts
-          * 15. punkts
-          * 16. punkts
-          * 17. punkts
-          * 18. punkts
-          * 19. punkts
-   © Oficiālais izdevējs "Latvijas Vēstnesis"
+[IMG]
+Publicēts:
+"Latvijas Vēstnesis", 164 (2551), 14.11.2001., "Ziņotājs", 23, 13.12.2001.
+Izdevējs: SaeimaVeids: likumsPieņemts: 25.10.2001.Stājas spēkā: 01.02.2004.
+Attēlotā redakcija: 01.01.2014. - ... Spēkā esošā
+Grozījumi:
+12.06.2003. likums / LV, 96 (2861), 27.06.2003. / Stājas spēkā 01.07.2003. 15.01.2004. likums / LV, 12 (2960), 23.01.2004. / Stājas spēkā 01.02.2004. 26.10.2006. likums / LV, 183 (3551), 15.11.2006. / Stājas spēkā 01.12.2006. 18.12.2008. likums / LV, 202 (3986), 30.12.2008. / Stājas spēkā 01.01.2009. 01.11.2012. likums / LV, 183 (4786), 21.11.2012. / Stājas spēkā 01.01.2013. 19.09.2013. likums / LV, 188 (4994), 26.09.2013. / Stājas spēkā 01.01.2014.
+Satura rādītājs:
+
+  • 
+    A DAĻA VISPĀRĪGIE NOTEIKUMI
+
+       • 
+         1.nodaļa Administratīvā procesa pamatnoteikumi
+
+            • 1.pants. Likumā lietotie termini
+            • 2.pants. Likuma pamatmērķi
+            • 3.pants. Likuma darbība
+            • 4.pants. Administratīvā procesa principi
+            • 5.pants. Privātpersonas tiesību ievērošanas princips
+            • 6.pants. Vienlīdzības princips
+            • 7.pants. Tiesiskuma princips
+            • 8.pants. Tiesību normu saprātīgas piemērošanas princips
+            • 9.pants. Patvaļas aizlieguma princips
+            • 10.pants. Tiesiskās paļāvības princips
+            • 11.pants. Likuma atrunas princips
+            • 12.pants. Demokrātiskās iekārtas princips
+            • 13.pants. Samērīguma princips
+            • 14.pants. Likuma prioritātes princips
+            • 14.^1 pants. Procesuālā taisnīguma princips
+            • 15.pants. Ārējo normatīvo aktu, vispārējo tiesību principu un starptautisko tiesību normu piemērošana
+            • 16.pants. Iekšējo normatīvo aktu piemērošana
+            • 17.pants. Tiesību normu interpretācija un analoģija
+            • 18.pants. Administratīvā procesa izdevumi
+
+       • 
+         2.nodaļa Administratīvi procesuālā tiesībspēja un rīcībspēja
+
+            • 19.pants. Tiesībspēja un rīcībspēja
+            • 20.pants. Privātpersonas administratīvi procesuālā tiesībspēja
+            • 21.pants. Privātpersonas administratīvi procesuālā rīcībspēja
+            • 22.pants. Publisko tiesību subjekta administratīvi procesuālā tiesībspēja
+            • 23.pants. Publisko tiesību subjekta administratīvi procesuālā rīcībspēja
+
+       • 
+         3.nodaļa Administratīvā procesa dalībnieki iestādē un tiesā
+
+            • 24.pants. Administratīvā procesa dalībnieki
+            • 25.pants. Iesniedzējs
+            • 26.pants. Procesuālā līdzdalība iestādē
+            • 27.pants. Adresāts
+            • 28.pants. Trešā persona
+            • 29.pants. Tiesību subjekts, kuram ir tiesības būt par privātpersonas tiesību un tiesisko interešu aizstāvi
+            • 30.pants. Institūcijas piedalīšanās procesā atzinuma došanai
+            • 31.pants. Pieteicējs
+            • 32.pants. Procesuālā līdzdalība tiesā
+            • 33.pants. Administratīvā procesa dalībnieku procesuālo tiesību pārņemšana
+            • 34.pants. Atbildētājs
+            • 35.pants. Tiesības uz pārstāvību administratīvajā procesā
+            • 36.pants. Personas, kuras nevar būt par pārstāvjiem administratīvajā procesā
+            • 37.pants. Personas, kuras nevar pārstāvēt iestādi
+            • 38.pants. Pārstāvības noformēšana
+            • 39.pants. Pārstāvja pilnvaru apjoms
+            • 40.pants. Pārstāvības atsaukšana vai atteikšanās no pārstāvības
+
+       • 
+         4. nodaļa Procesuālie termiņi
+
+            • 41.pants. Procesuālā termiņa noteikšana
+            • 42.pants. Procesuālā termiņa sākums
+            • 43.pants. Procesuālā termiņa izbeigšanās
+            • 44.pants. Procesuālā termiņa nokavējuma sekas
+            • 45.pants. Procesuālā termiņa apturēšana
+            • 46.pants. Procesuālā termiņa atjaunošana
+            • 47.pants. Procesuālā termiņa pagarināšana
+            • 48.pants. Procesuālā termiņa pagarināšanas un atjaunošanas kārtība
+            • 49.pants. Iestādei noteiktā termiņa neievērošanas sekas
+            • 50.pants. Tiesai noteiktā termiņa neievērošanas sekas
+
+  • 
+    B DAĻA ADMINISTRATĪVAIS PROCESS IESTĀDĒ
+
+       • 
+         5.nodaļa Piekritība, sadarbība un informācijas atklātība
+
+            • 51.pants. Administratīvās lietas piekritība
+            • 52.pants. Piekritības maiņa
+            • 53.pants. Sadarbība administratīvajā procesā
+            • 54.pants. Informācijas sniegšana
+
+       • 
+         6.nodaļa Administratīvā procesa virzība iestādē
+
+            • 55.pants. Administratīvās lietas ierosināšana iestādē
+            • 56.pants. Lietas ierosināšana uz iesnieguma pamata
+            • 57.pants. Lietas ierosināšana pēc iestādes iniciatīvas
+            • 58.pants. Lietas ierosināšana uz augstākas iestādes rīkojuma vai citas institūcijas ziņojuma pamata
+            • 59.pants. Informācijas iegūšana
+            • 60.pants. Informācijas iegūšanas ierobežojumi
+            • 61.pants. Tiesības iepazīties ar lietu
+            • 62.pants. Administratīvā procesa dalībnieku uzklausīšana
+            • 63.pants. Administratīvā akta izdošana vai lēmums par lietas izbeigšanu
+            • 63.^1 pants. Administratīvā līguma noslēgšana
+            • 64.pants. Administratīvā akta izdošanas termiņš
+            • 65.pants. Apsvērumi, pieņemot lēmumu par administratīvā akta izdošanu un nosakot tā saturu
+            • 66.pants. Lietderības apsvērumu saturs
+            • 67.pants. Administratīvā akta forma un sastāvdaļas
+            • 68.pants. Administratīvā akta nosacījumi
+            • 69.pants. Administratīvā akta formas neievērošana
+            • 70.pants. Administratīvā akta paziņošana un spēkā esamība
+            • 71.pants. Administratīvā akta paziņošana citām personām
+            • 72.pants. Kļūdu labošana
+            • 73.pants. Administratīvā akta izskaidrošana
+            • 74.pants. Spēkā neesošs administratīvais akts
+            • 75.pants. Apstrīdams administratīvais akts
+            • 76.pants. Tiesības apstrīdēt administratīvo aktu
+            • 77.pants. Administratīvā akta apstrīdēšanas kārtība
+            • 77.^1 pants. Iestādes tiesības atcelt tās izdoto apstrīdēto administratīvo aktu
+            • 78.pants. Iesniegums par administratīvā akta apstrīdēšanu
+            • 79.pants. Administratīvā akta apstrīdēšanas termiņš
+            • 80.pants. Apstrīdēta administratīvā akta darbības apturēšana
+            • 80.^1 pants. Izlīguma noslēgšanas iespēju izvērtēšana
+            • 81.pants. Lēmums par apstrīdēto administratīvo aktu
+            • 82.pants. Spēku zaudējuša administratīvā akta un procesuālo pārkāpumu apstrīdēšana
+            • 83.pants. Neapstrīdama administratīvā akta atcelšana
+            • 84.pants. Administratīvā akta tiesiskums
+            • 85.pants. Tiesiska administratīvā akta atcelšana
+            • 86.pants. Prettiesiska administratīvā akta atcelšana
+            • 87.pants. Administratīvā procesa uzsākšana no jauna uz iesnieguma pamata
+            • 88.pants. Iestādes pienākums uzsākt administratīvo procesu no jauna
+
+       • 
+         7.nodaļa Iestādes faktiskā rīcība
+
+            • 89.pants. Iestādes faktiskās rīcības jēdziens
+            • 90.pants. Iestādes apsvērumi un paziņojums par faktisko rīcību
+            • 91.pants. Iesniegums par iestādes faktisko rīcību un faktiskās rīcības apstrīdēšana un pārsūdzēšana
+
+       • 
+         8.nodaļa Atlīdzinājums
+
+            • 92.pants. Tiesības uz atlīdzinājumu
+            • 93.pants. Apstrīdēšanas un pārsūdzēšanas kārtība lietās par atlīdzinājumu
+            • 94.pants. Atlīdzināšanas pienākums
+            • 95.pants. Atlīdzinātāja noskaidrošana
+            • 96.pants. Iesniedzēja pienākums samazināt zaudējumus un sadarboties
+            • 97.pants. Civiltiesību principu piemērošana atlīdzinājuma apmēra noteikšanai
+
+       • 
+         9.nodaļa Uzziņa par savām tiesībām
+
+            • 98.pants. Tiesības uz uzziņu par savām tiesībām
+            • 99.pants. Uzziņas sagatavošana
+            • 100.pants. Uzziņas forma
+            • 101.pants. Uzziņas tiesiskās sekas un apstrīdēšana
+
+  • 
+    C DAĻA ADMINISTRATĪVAIS PROCESS TIESĀ
+
+       • 
+         PIRMĀ SADAĻA TIESVEDĪBAS VISPĀRĪGIE NOTEIKUMI
+
+            • 
+              10.nodaļa Pamatnoteikumi
+
+                 • 102.pants. Tiesvedību administratīvajā procesā regulējošo likumu spēks laikā
+                 • 103.pants. Administratīvā procesa tiesā būtība
+                 • 104.pants. Tiesību normu hierarhijas kontrole
+                 • 104.^1 pants. Jautājuma uzdošana Eiropas Savienības Tiesai
+                 • 105.pants. Tiesvedības instances administratīvajā lietā
+                 • 106.pants. Administratīvās lietas ierosināšana tiesā
+                 • 107.pants. Apstākļu noskaidrošana administratīvajā lietā
+                 • 107.^1 pants. Izlīguma noslēgšanas iespēju izskaidrošana
+                 • 108.pants. Administratīvās lietas izskatīšanas atklātums
+                 • 108.^1 pants. Administratīvās lietas izskatīšanas atklātums, pārbaudot valsts noslēpumu saturošu informāciju
+                 • 108.^2 pants. Tiesas nolēmumu pieejamība
+                 • 109.pants. Administratīvās lietas vienpersoniska un koleģiāla izskatīšana
+                 • 110.pants. Tiesvedības valoda
+                 • 111.pants. Ierobežojumi tiesnesim tiesas spriešanā
+                 • 112.pants. Administratīvās lietas iztiesāšanas tiešums
+                 • 112.^1 pants. Tiesvedības process
+                 • 113.pants. Mutvārdu process
+                 • 114.pants. Rakstveida process
+                 • 114.^1 pants. Tiesas sazināšanās ar iestādi
+
+            • 
+              11.nodaļa Tiesas sastāvs
+
+                 • 115.pants. Jautājumu izlemšana tiesā
+                 • 116.pants. Aizliegums tiesnesim piedalīties lietas atkārtotā izskatīšanā
+                 • 117.pants. Tiesneša atstatīšana vai noraidīšana
+                 • 118.pants. Noraidījuma pieteikšana
+                 • 119.pants. Pieteiktā noraidījuma izskatīšanas kārtība
+                 • 120.pants. Noraidījuma sekas
+
+            • 
+              12.nodaļa Administratīvās lietas pakļautība un piekritība
+
+                 • 121.pants. Pakļautība
+                 • 122.pants. Piekritība
+                 • 123.pants. Tiesvedībā pieņemtās lietas nodošana citam tiesu namam vai citai tiesai
+
+            • 
+              13.nodaļa Maksājumi valsts budžetā
+
+                 • 124.pants. Valsts nodeva un drošības nauda
+                 • 125.pants. Valsts nodevas atmaksāšana
+                 • 126.pants. Valsts nodevas atlīdzināšana
+                 • 127.pants. Valsts nodevas iemaksa un atmaksa
+                 • 128.pants. Izņēmumi no vispārīgiem noteikumiem par valsts nodevu
+                 • 129.pants. Lēmuma pārsūdzēšana valsts nodevas jautājumā
+                 • 129.^1 pants. Drošības naudas atmaksāšana
+                 • 129.^2 pants. Izņēmumi no vispārīgiem noteikumiem par drošības naudu
+                 • 129.^3 pants. Valsts nodevas un drošības naudas iemaksāšanas un atmaksāšanas kārtība
+
+            • 
+              14.nodaļa Tiesas paziņojumi un izsaukumi
+
+                 • 130.pants. Aicināšana un izsaukšana uz tiesu
+                 • 131.pants. Tiesas pavēste
+                 • 132.pants. Tiesas pavēstes nogādāšana un izsniegšana
+                 • 133.pants. Tiesas pavēstes izsniegšana
+                 • 134.pants. Sekas, ko rada atteikšanās pieņemt tiesas pavēsti
+                 • 135.pants. Personas pienākums būt sasniedzamai
+
+            • 
+              15.nodaļa Tiesas sēdes gaitas fiksēšana
+
+                 • 135.^1 pants. Tiesas sēdes gaitas fiksēšana
+                 • 136.pants. Pienākums rakstīt protokolu
+                 • 136.^1 pants. Tiesas sēdes gaitas fiksēšana, izmantojot tehniskos līdzekļus
+                 • 137.pants. Protokola saturs
+                 • 138.pants. Protokola rakstīšana
+                 • 139.pants. Piezīmes pie protokola
+
+            • 
+              16.nodaļa Procesuālie piespiedu līdzekļi
+
+                 • 140.pants. Procesuālo piespiedu līdzekļu veidi
+                 • 141.pants. Brīdinājums
+                 • 142.pants. Izraidīšana no sēžu zāles
+                 • 143.pants. Piespiedu nauda
+                 • 144.pants. Piespiedu atvešana
+
+            • 
+              17.nodaļa Administratīvā procesa dalībnieku tiesības un pienākumi tiesā
+
+                 • 145.pants. Pieteicēja un atbildētāja procesuālās tiesības
+                 • 146.pants. Trešās personas tiesības un pienākumi
+                 • 147.pants. Pārstāvības noformēšana un pārstāvja pilnvaru apjoms
+                 • 148.pants. Administratīvā procesa dalībnieka pienākums
+
+       • 
+         OTRĀ SADAĻA PIERĀDĪJUMI
+
+            • 
+              18.nodaļa Vispārīgie noteikumi par pierādījumiem
+
+                 • 149.pants. Pierādījumi
+                 • 150.pants. Pierādīšanas pienākums
+                 • 151.pants. Pierādījumu attiecināmība
+                 • 152.pants. Pierādījumu pieļaujamība
+                 • 153.pants. Pamats atbrīvošanai no pierādīšanas
+                 • 154.pants. Pierādījumu novērtēšana
+
+            • 
+              19.nodaļa Pierādījumu nodrošināšana
+
+                 • 155.pants. Pierādījumu nodrošināšanas pieļaujamība
+                 • 156.pants. Lūgums par pierādījumu nodrošināšanu
+                 • 157.pants. Kārtība, kādā izskatāms lūgums par pierādījumu nodrošināšanu pirms lietas ierosināšanas tiesā
+                 • 158.pants. Kārtība, kādā izskatāms lūgums par pierādījumu nodrošināšanu pēc lietas ierosināšanas tiesā
+                 • 159.pants. Tiesas uzdevumi
+                 • 160.pants. Tiesas uzdevumu izpildīšanas kārtība
+
+            • 
+              20.nodaļa Pierādīšanas līdzekļi
+
+                 • 161.pants. Paskaidrojumi
+                 • 162.pants. Liecinieku liecības
+                 • 163.pants. Personas, kuras nevar būt par lieciniekiem
+                 • 164.pants. Personas, kuras var atteikties liecināt
+                 • 165.pants. Liecinieka pienākumi
+                 • 166.pants. Liecinieka atbildība
+                 • 167.pants. Rakstveida pierādījumi
+                 • 168.pants. Rakstveida pierādījumu iesniegšanas kārtība
+                 • 169.pants. Rakstveida pierādījumu pieprasīšanas kārtība
+                 • 170.pants. Lietā esošo rakstveida pierādījumu atdošana
+                 • 171.pants. Rakstveida pierādījumu apskate to glabāšanas vietā
+                 • 172.pants. Lietiskie pierādījumi
+                 • 173.pants. Lietisko pierādījumu pieprasīšanas kārtība
+                 • 174.pants. Lietisko pierādījumu apskate to glabāšanas vietā
+                 • 175.pants. Lietisko pierādījumu glabāšana
+                 • 176.pants. Lietisko pierādījumu atdošana
+                 • 177.pants. Atbildība par pieprasītās informācijas, rakstveida vai lietisko pierādījumu neiesniegšanu
+                 • 178.pants. Ekspertīze
+                 • 179.pants. Eksperta pienākumi un tiesības
+                 • 180.pants. Eksperta atstatīšana vai noraidīšana
+                 • 181.pants. Eksperta atzinums
+                 • 182.pants. Eksperta atzinuma novērtēšana
+                 • 183.pants. Personu apvienības viedoklis (Amicus curiae)
+
+       • 
+         TREŠĀ SADAĻA TIESVEDĪBA PIRMĀS INSTANCES TIESĀ
+
+            • 
+              21.nodaļa Pieteikuma iesniegšana
+
+                 • 184.pants. Pieteikuma priekšmets
+                 • 185.pants. Pārsūdzēta administratīvā akta vai faktiskās rīcības darbības apturēšana vai atjaunošana
+                 • 185.^1 pants. Kārtība, kādā izlemjams lūgums par administratīvā akta vai faktiskās rīcības darbības apturēšanu vai atjaunošanu
+                 • 186.pants. Pieteikuma forma un saturs
+                 • 187.pants. Pieteikumam pievienojamie dokumenti
+                 • 188.pants. Pieteikuma iesniegšanas termiņš
+                 • 189.pants. Pieteikuma iesniegšana tiesā
+                 • 190.pants. Lemšana par pieteikumu
+                 • 190.^1 pants. Procesuālā termiņa atjaunošana, iesniedzot pieteikumu
+                 • 191.pants. Pieteikuma nepieņemšanas pamats
+                 • 191.^1 pants. Pieteikuma izskatīšanas atteikšana
+                 • 191.^2 pants. Pieteikuma apmierināšana bez lietas tālākas iztiesāšanas
+                 • 192.pants. Pieteikuma atstāšana bez virzības
+                 • 193.pants. Prasījumu un administratīvo lietu apvienošana
+                 • 194.pants. Prasījumu un administratīvo lietu sadalīšana
+                 • 194.^1 pants. Lemšana par pieteikuma grozījumiem un papildinājumiem
+
+            • 
+              22.nodaļa Pagaidu noregulējums
+
+                 • 195.pants. Pagaidu noregulējuma pamats
+                 • 196.pants. Pagaidu noregulējuma līdzekļi
+                 • 197.pants. Kārtība, kādā izlemjams lūgums par pagaidu noregulējumu
+                 • 198.pants. Pagaidu noregulējuma līdzekļu maiņa
+                 • 199.pants. Lēmuma par pagaidu noregulējumu izpilde
+                 • 200.pants. Pagaidu noregulējuma atcelšana
+                 • 201.pants. Pagaidu noregulējuma izbeigšanās
+                 • 202.pants. Lēmuma par pagaidu noregulējumu pārsūdzēšana
+
+            • 
+              23.nodaļa Administratīvās lietas sagatavošana iztiesāšanai
+
+                 • 203.pants. Pieteikuma nosūtīšana atbildētājam un atbildētāja paskaidrojums
+                 • 204.pants. Tiesneša darbības, sagatavojot lietu iztiesāšanai
+                 • 205.pants. Paskaidrojuma norakstu nosūtīšana
+                 • 206.pants. Lietas izskatīšanas noteikšana
+
+            • 
+              24.nodaļa Tiesas sēde
+
+                 • 207.pants. Ierobežojumi klātesamībai sēžu zālē
+                 • 208.pants. Kārtība tiesas sēdē
+                 • 209.pants. Kārtības nodrošināšana tiesas sēdē
+                 • 210.pants. Videokonference
+
+            • 
+              25.nodaļa Administratīvās lietas iztiesāšana
+
+                 • 211.pants. Tiesas sēdes vadīšana
+                 • 212.pants. Tiesas sēdes uzsākšana
+                 • 213.pants. Aicināto un izsaukto personu ierašanās pārbaude
+                 • 214.pants. Administratīvā procesa dalībnieka, liecinieka, eksperta vai tulka neierašanās sekas
+                 • 215.pants. Tulka piedalīšanās tiesas sēdē
+                 • 216.pants. Liecinieku izraidīšana no tiesas sēžu zāles
+                 • 217.pants. Tiesību un pienākumu izskaidrošana administratīvā procesa dalībniekiem
+                 • 218.pants. Noraidījumu izlemšana
+                 • 219.pants. Tiesību un pienākumu izskaidrošana ekspertam
+                 • 220.pants. Administratīvā procesa dalībnieku pieteikto lūgumu izlemšana
+                 • 221.pants. Sākums lietas izskatīšanai pēc būtības
+                 • 222.pants. Atteikšanās no prasījuma un prasījuma atzīšana
+                 • 223.pants. Administratīvā procesa dalībnieku paskaidrojumi
+                 • 224.pants. Pieteicēja zvērests
+                 • 225.pants. Jautājumu uzdošanas kārtība
+                 • 226.pants. Pierādījumu pārbaudes kārtības noteikšana
+                 • 227.pants. Liecinieka brīdināšana
+                 • 228.pants. Liecinieka nopratināšana
+                 • 229.pants. Liecinieka tiesības lietot rakstveida piezīmes
+                 • 230.pants. Nepilngadīga liecinieka nopratināšana
+                 • 231.pants. Liecinieka liecības nolasīšana
+                 • 232.pants. Nopratinātā liecinieka pienākums
+                 • 233.pants. Eksperta atzinuma pārbaude un eksperta nopratināšana
+                 • 234.pants. Rakstveida pierādījuma pārbaude
+                 • 235.pants. Rakstveida pierādījuma apstrīdēšana
+                 • 236.pants. Iesniegums par rakstveida pierādījuma viltojumu
+                 • 237.pants. Lietiskā pierādījuma pārbaude
+                 • 238.pants. Pierādījumu apskate un pārbaude uz vietas
+                 • 239.pants. Institūcijas atzinuma noklausīšanās
+                 • 240.pants. Lietas izskatīšanas pēc būtības pabeigšana
+                 • 241.pants. Tiesas debates
+                 • 242.pants. Replikas
+                 • 243.pants. Paziņojums par sprieduma taisīšanu
+                 • 244.pants. Lietas iztiesāšanas atsākšana
+                 • 245.pants. Administratīvās lietas iztiesāšana rakstveida procesā
+
+            • 
+              26.nodaļa Spriedums
+
+                 • 246.pants. Vispārīgie noteikumi
+                 • 247.pants. Sprieduma tiesiskums un pamatotība
+                 • 248.pants. Sprieduma taisīšanas kārtība
+                 • 249.pants. Prasījuma robežas ievērošana
+                 • 250.pants. Pārbaudes apjoms un iebildumu robežas
+                 • 251.pants. Sprieduma forma un saturs
+                 • 252.pants. Saīsinātais spriedums
+                 • 253.pants. Spriedums par administratīvā akta atcelšanu vai atzīšanu par spēkā neesošu
+                 • 254.pants. Spriedums par labvēlīga administratīvā akta izdošanu
+                 • 255.pants. Spriedums par iestādes faktisko rīcību
+                 • 256.pants. Spriedums par publiski tiesisku attiecību pastāvēšanas, nepastāvēšanas vai to satura konstatāciju
+                 • 256.^1 pants. Spriedums par publisko tiesību līgumu
+                 • 256.^2 pants. Spriedums par procesuālā pārkāpuma konstatēšanu
+                 • 257.pants. Spriedums vairāku pieteicēju labā vai pret vairākiem atbildētājiem
+                 • 258.pants. Sprieduma pasludināšana
+                 • 259.pants. Sprieduma sastādīšanas laiks un nosūtīšana rakstveida procesā izskatītajās lietās
+                 • 260.pants. Pārrakstīšanās un matemātiskā aprēķina kļūdu labošana
+                 • 261.pants. Papildspriedums
+                 • 262.pants. Sprieduma izskaidrošana
+                 • 263.pants. Sprieduma stāšanās spēkā
+                 • 264.pants. Sprieduma izpildīšana
+                 • 265.pants. Nekavējoties izpildāmi spriedumi
+                 • 266.pants. Sprieduma izpildes sadalīšana termiņos, tā izpildes veida vai kārtības grozīšana
+                 • 267.pants. Sprieduma noraksta nosūtīšana
+
+            • 
+              27.nodaļa Administratīvās lietas izskatīšanas atlikšana
+
+                 • 268.pants. Tiesas pienākums atlikt lietas izskatīšanu
+                 • 269.pants. Tiesas tiesības atlikt lietas izskatīšanu
+                 • 270.pants. Lēmums par lietas izskatīšanas atlikšanu
+                 • 271.pants. Liecinieku nopratināšana, atliekot lietas izskatīšanu
+                 • 272.pants. Lietas izskatīšanas atsākšana
+
+            • 
+              28.nodaļa Tiesvedības apturēšana administratīvajā lietā
+
+                 • 273.pants. Tiesas pienākums apturēt tiesvedību
+                 • 274.pants. Tiesas tiesības apturēt tiesvedību
+                 • 275.pants. Tiesvedības apturēšanas termiņi
+                 • 276.pants. Lēmums par tiesvedības apturēšanu
+                 • 277.pants. Tiesvedības atjaunošana
+
+            • 
+              29.nodaļa Pieteikuma atstāšana bez izskatīšanas
+
+                 • 278.pants. Tiesas pienākums atstāt pieteikumu bez izskatīšanas
+                 • 279.pants. Tiesas tiesības atstāt pieteikumu bez izskatīšanas
+                 • 280.pants. Lēmums par pieteikuma atstāšanu bez izskatīšanas
+                 • 281.pants. Sekas pieteikuma atstāšanai bez izskatīšanas
+
+            • 
+              30.nodaļa Tiesvedības izbeigšana administratīvajā lietā
+
+                 • 282.pants. Tiesvedības izbeigšanas pamats
+                 • 283.pants. Lēmums par tiesvedības izbeigšanu
+                 • 284.pants. Tiesvedības izbeigšanas sekas
+
+            • 
+              31.nodaļa Tiesas lēmums
+
+                 • 285.pants. Lēmuma pieņemšana
+                 • 286.pants. Lēmuma saturs un pieņemšanas termiņi
+                 • 287.pants. Lēmuma paziņošana
+                 • 288.pants. Tiesas blakus lēmums
+                 • 288.^1 pants. Papildlēmums, kļūdu labošana lēmumā un lēmuma izskaidrošana
+
+       • 
+         CETURTĀ SADAĻA TIESVEDĪBA APELĀCIJAS INSTANCES TIESĀ
+
+            • 
+              32.nodaļa Apelācijas sūdzības iesniegšana
+
+                 • 289.pants. Tiesības iesniegt apelācijas sūdzību
+                 • 290.pants. Apelācijas sūdzības iesniegšanas kārtība
+                 • 291.pants. Apelācijas sūdzības iesniegšanas termiņš
+                 • 292.pants. Apelācijas sūdzības saturs
+                 • 293.pants. Apelācijas sūdzības noraksti
+                 • 294.pants. Apelācijas sūdzības robežas
+                 • 295.pants. Pievienošanās apelācijas sūdzībai
+                 • 296.pants. Apelācijas sūdzības atstāšana bez virzības
+                 • 297.pants. Atteikuma pārsūdzēšana
+                 • 298.pants. Rīcība pēc apelācijas sūdzības pieņemšanas
+                 • 299.pants. Administratīvā procesa dalībnieku rakstveida paskaidrojumi
+                 • 300.pants. Pretapelācijas sūdzība
+
+            • 
+              33.nodaļa Administratīvās lietas izskatīšana apelācijas instances tiesā
+
+                 • 301.pants. Apelācijas tiesvedības ierosināšana
+                 • 301.^1 pants. Tiesības atteikties ierosināt apelācijas tiesvedību
+                 • 302.pants. Lietas izskatīšanas robežas apelācijas instancē
+                 • 303.pants. Izņēmuma gadījumi, kad pirmās instances tiesas spriedums atceļams un lieta nosūtāma jaunai izskatīšanai pirmās instances tiesai
+                 • 304.pants. Iztiesāšanas kārtība apelācijas instances tiesā
+                 • 305.pants. Pierādījumu pārbaude apelācijas instances tiesā
+                 • 306.pants. Apelācijas (pretapelācijas) sūdzības atsaukšana
+
+            • 
+              34.nodaļa Apelācijas instances tiesas nolēmums
+
+                 • 307.pants. Apelācijas instances tiesas spriedums
+                 • 308.pants. Apelācijas instances tiesas sprieduma pasludināšana
+                 • 309.pants. Apelācijas instances tiesas sprieduma spēks
+                 • 310.pants. Pārrakstīšanās un matemātiskā aprēķina kļūdu labošana apelācijas instances tiesas spriedumā
+                 • 311.pants. Apelācijas instances tiesas papildspriedums
+                 • 312.pants. Apelācijas instances tiesas sprieduma izskaidrošana
+                 • 313.pants. Apelācijas instances tiesas sprieduma izpildīšana
+                 • 314.pants. Tiesvedības apturēšana administratīvajā lietā, pieteikuma atstāšana bez izskatīšanas, tiesvedības izbeigšana administratīvajā lietā apelācijas instances tiesā
+
+       • 
+         PIEKTĀ SADAĻA PIRMĀS INSTANCES TIESAS UN APELĀCIJAS INSTANCES TIESAS LĒMUMA PĀRSŪDZĒŠANA
+
+            • 
+              35.nodaļa Tiesas lēmuma pārsūdzēšana
+
+                 • 315.pants. Tiesības pārsūdzēt lēmumu
+                 • 316.pants. Blakus sūdzības iesniegšanas termiņš
+                 • 317.pants. Blakus sūdzības iesniegšanas kārtība
+                 • 318.pants. Blakus sūdzības saturs
+                 • 319.pants. Blakus sūdzības noraksti
+                 • 320.pants. Blakus sūdzības atstāšana bez virzības
+                 • 321.pants. Tiesas rīcība pēc blakus sūdzības pieņemšanas
+                 • 322.pants. Blakus sūdzības izskatīšanas kārtība
+                 • 323.pants. Administratīvās apgabaltiesas un Senāta kompetence
+                 • 324.pants. Par blakus sūdzību pieņemtā lēmuma spēks
+
+       • 
+         SESTĀ SADAĻA TIESVEDĪBA KASĀCIJAS INSTANCES TIESĀ
+
+            • 
+              36.nodaļa Kasācijas sūdzības iesniegšana
+
+                 • 325.pants. Tiesības iesniegt kasācijas sūdzību
+                 • 326.pants. Materiālo tiesību normas pārkāpums
+                 • 327.pants. Procesuālo tiesību normas pārkāpums
+                 • 328.pants. Kasācijas sūdzības saturs
+                 • 329.pants. Kasācijas sūdzības iesniegšanas termiņš
+                 • 330.pants. Tiesneša lēmuma pārsūdzēšana
+                 • 331.pants. Kasācijas sūdzības iesniegšanas kārtība
+                 • 332.pants. Kasācijas sūdzības noraksti
+                 • 333.pants. Kasācijas sūdzības atstāšana bez virzības
+                 • 334.pants. Rīcība pēc kasācijas sūdzības pieņemšanas
+                 • 335.pants. Pievienošanās kasācijas sūdzībai
+                 • 336.pants. Kasācijas sūdzības atsaukšana un kasācijas tiesvedības izbeigšana
+                 • 337.pants. Pretsūdzības iesniegšana
+
+            • 
+              37.nodaļa Administratīvās lietas izskatīšana kasācijas instances tiesā
+
+                 • 338.pants. Rīcības sēde
+                 • 338.^1 pants. Pamats atteikumam ierosināt kasācijas tiesvedību
+                 • 339.pants. Lietas izskatīšana Senātā
+                 • 340.pants. Tiesas sēdes sākums
+                 • 341.pants. Tiesību un pienākumu izskaidrošana administratīvā procesa dalībniekiem
+                 • 342.pants. Sekas, kas rodas, ja tiesas sēdē neierodas administratīvā procesa dalībnieks
+                 • 343.pants. Administratīvā procesa dalībnieku lūgumu izlemšana
+                 • 344.pants. Ziņojums par lietu
+                 • 345.pants. Administratīvā procesa dalībnieku paskaidrojumi
+                 • 346.pants. Sprieduma taisīšana
+                 • 346.^1 pants. Tiesvedības apturēšana, pieteikuma vai kasācijas sūdzības atstāšana bez izskatīšanas, tiesvedības izbeigšana
+
+            • 
+              38.nodaļa Kasācijas instances tiesas nolēmums
+
+                 • 347.pants. Lietas izskatīšanas robežas
+                 • 348.pants. Kasācijas instances tiesas spriedums
+                 • 349.pants. Kasācijas instances tiesas sprieduma saturs
+                 • 350.pants. Tiesību normu interpretācijas obligātums
+                 • 351.pants. Kasācijas instances tiesas sprieduma spēks
+                 • 352.pants. Pārrakstīšanās un matemātiskā aprēķina kļūdu labošana
+
+       • 
+         SEPTĪTĀ SADAĻA LIETAS JAUNA IZSKATĪŠANA PĒC SPRIEDUMA VAI LĒMUMA STĀŠANĀS SPĒKĀ
+
+            • 
+              39.nodaļa Lietas jauna izskatīšana sakarā ar jaunatklātiem apstākļiem
+
+                 • 353.pants. Jaunatklātie apstākļi
+                 • 354.pants. Pieteikuma iesniegšana
+                 • 355.pants. Pieteikuma iesniegšanas termiņa aprēķināšana
+                 • 356.pants. Pieteikuma izskatīšana
+                 • 357.pants. Tiesas lēmums
+
+  • 
+    D DAĻA ADMINISTRATĪVĀ AKTA UN TIESAS NOLĒMUMA IZPILDE
+
+       • 
+         ASTOTĀ SADAĻA ADMINISTRATĪVĀ AKTA IZPILDE
+
+            • 
+              40.nodaļa Izpildes vispārējie noteikumi
+
+                 • 358.pants. Administratīvā akta izpildes kārtība
+                 • 359.pants. Izpildiestāde
+                 • 360.pants. Piespiedu izpildes priekšnoteikumi
+                 • 361.pants. Brīdinājums par piespiedu izpildi
+                 • 362.pants. Ierobežojumi piespiedu izpildes termiņa noteikšanai
+                 • 363.pants. Prettiesiskas piespiedu izpildes sekas
+                 • 364.pants. Administratīvā akta piespiedu izpildes izmaksas
+                 • 365.pants. Piespiedu izpildes kārtība
+
+            • 
+              41.nodaļa Uz naudas maksājumu vērsta administratīvā akta piespiedu izpilde
+
+                 • 366.pants. Uz naudas maksājumu vērsta administratīvā akta piespiedu izpildes priekšnoteikumi
+                 • 367.pants. Izpildrīkojums
+                 • 367.^1 pants. Adresātam labvēlīga uz naudas maksājumu vērsta administratīvā akta piespiedu izpilde
+
+            • 
+              42.nodaļa Uz noteiktu darbību vai darbības aizliegumu vērsta administratīvā akta piespiedu izpilde
+
+                 • 368.pants. Uz noteiktu darbību vai darbības aizliegumu vērsta administratīvā akta piespiedu izpildes līdzekļi
+                 • 369.pants. Pret adresātu vērsta aizvietotājizpilde
+                 • 370.pants. Adresātam uzliktā piespiedu nauda
+                 • 371.pants. Tiešā spēka pielietošanas priekšnoteikumi
+                 • 372.pants. Tiešā spēka pielietošanas veidi
+                 • 373.pants. Lietderības apsvērumi attiecībā uz tiešā spēka pielietošanu
+                 • 374.pants. Tiesības uz atlīdzinājumu sakarā ar piespiedu izpildi
+
+       • 
+         DEVĪTĀ SADAĻA TIESAS NOLĒMUMA IZPILDE
+
+            • 
+              43.nodaļa Tiesas nolēmuma izpildes vispārīgie noteikumi
+
+                 • 375.pants. Iestādes pienākums izpildīt tiesas nolēmumu
+                 • 376.pants. Tiesas rīcība sakarā ar tiesas nolēmuma izpildi
+                 • 377.pants. Tiesas nolēmuma izpildiestāde
+                 • 377.^1 pants. Izpildu raksts
+                 • 378.pants. Tiesas nolēmuma piespiedu izpildes priekšnoteikumi
+                 • 379.pants. Brīdinājums par tiesas nolēmuma piespiedu izpildi
+                 • 380.pants. Tiesas nolēmuma piespiedu izpildes līdzekļi
+                 • 381.pants. Pret iestādi vērsta aizvietotājizpilde
+                 • 382.pants. Amatpersonai uzliktā piespiedu nauda
+                 • 383.pants. Tiesas nolēmuma piespiedu izpildes izmaksas
+
+            • 
+              44.nodaļa Atsevišķu tiesas nolēmumu piespiedu izpildes nodrošināšana
+
+                 • 384.pants. Atsevišķu tiesas spriedumu sekas
+                 • 385.pants. Uz naudas maksājumu vērsta tiesas nolēmuma piespiedu izpilde attiecībā uz iestādi
+                 • 386.pants. Tiesas nolēmuma izpilde lietās, kurās atbildētājs ir privātpersona
+
+  • 
+    Pārejas noteikumi
+
+       • 1. punkts
+       • 2. punkts
+       • 3. punkts
+       • 4. punkts
+       • 4.^1 punkts
+       • 5. punkts
+       • 6. punkts
+       • 7. punkts
+       • 8. punkts
+       • 9. punkts
+       • 10. punkts
+       • 11. punkts
+       • 12. punkts
+       • 13. punkts
+       • 14. punkts
+       • 15. punkts
+       • 16. punkts
+       • 17. punkts
+       • 18. punkts
+       • 19. punkts
+

@@ -1,1016 +1,618 @@
-   [IMG]
-   Publicēts:
-   "Ziņotājs", 31/32, 15.08.1991.
-   Izdevējs: Augstākā PadomeVeids: likumsPieņemts: 04.06.1991.Stājas spēkā: 04.06.1991.
-   Attēlotā redakcija: 01.10.2006. - 30.04.2007. Vēsturiskā
-   Grozījumi:
-   01.09.1992. likums / Ziņotājs, 37/38, 24.09.1992., Diena, 167, 08.09.1992. / Stājas
-   spēkā 01.09.1992. 01.09.1992. likums / Ziņotājs, 37/38, 24.09.1992., Diena, 167,
-   08.09.1992. / Stājas spēkā 01.09.1992. 08.06.1994. likums / LV, 73 (204),
-   22.06.1994. / Stājas spēkā 06.07.1994. 27.10.1994. likums / LV, 131 (262),
-   08.11.1994. / Stājas spēkā 01.01.1995. 24.11.1994. likums / LV, 144 (275),
-   10.12.1994. / Stājas spēkā 24.12.1994. 02.11.1995. likums / LV, 176 (459),
-   14.11.1995. / Stājas spēkā 28.11.1995. 23.05.1996. likums / LV, 94 (579),
-   31.05.1996. / Stājas spēkā 01.06.1996. 05.12.1996. likums / LV, 226/227 (711/712),
-   24.12.1996. / Stājas spēkā 07.01.1997. 20.03.1997. likums / LV, 83/84 (798/799),
-   27.03.1997. / Stājas spēkā 10.04.1997. 23.10.1997. likums / LV, 289 (1004),
-   05.11.1997. / Stājas spēkā 19.11.1997. 13.05.1999. likums / LV, 171/172 (1631/1632),
-   26.05.1999. / Stājas spēkā 01.07.1999. 04.11.1999. likums / LV, 381/383 (1841/1843),
-   17.11.1999. / Stājas spēkā 01.01.2000. 15.06.2000. likums / LV, 250/251 (2161/2162),
-   05.07.2000. / Stājas spēkā 19.07.2000. 04.10.2001. likums / LV, 146 (2533),
-   12.10.2001. / Stājas spēkā 26.10.2001. 06.12.2001. likums / LV, 185 (2572),
-   20.12.2001. / Stājas spēkā 03.01.2002. 24.01.2002. likums / LV, 20 (2595),
-   06.02.2002. / Stājas spēkā 20.02.2002. 20.06.2002. likums / LV, 104 (2679),
-   10.07.2002. / Stājas spēkā 24.07.2002. 24.10.2002. likums / LV, 161 (2736),
-   06.11.2002. / Stājas spēkā 20.11.2002. 19.12.2002. likums / LV, 189 (2764),
-   28.12.2002. / Stājas spēkā 01.01.2003. 20.03.2003. likums / LV, 52 (2817),
-   03.04.2003. / Stājas spēkā 17.04.2003. 29.05.2003. likums / LV, 89 (2854),
-   13.06.2003. / Stājas spēkā 27.06.2003. 27.05.2004. likums / LV, 96 (3044),
-   16.06.2004. / Stājas spēkā 30.06.2004. 16.12.2004. likums / LV, 206 (3154),
-   24.12.2004. / Stājas spēkā 01.01.2005. 14.04.2005. likums / LV, 65 (3223),
-   26.04.2005. / Stājas spēkā 10.05.2005. 13.10.2005. likums / LV, 170 (3328),
-   26.10.2005. / Stājas spēkā 27.10.2005. 15.06.2006. likums / LV, 98 (3466),
-   27.06.2006. / Stājas spēkā 01.10.2006.
-   Satura rādītājs:
-     * I nodaļa VISPĀRĪGIE NOTEIKUMI
-          * 1. pants. Policija
-          * 2. pants. Policijas darbinieks
-          * 2.^1 pants. Pašvaldības policijas darbinieks
-          * 3. pants. Policijas uzdevumi
-          * 4. pants. Policijas darbības tiesiskais pamats
-          * 5. pants. Policijas darba organizācijas un darbības principi
-          * 6. pants. Atklātums policijas darbībā
-          * 7. pants. Policijas sadarbība
-          * 8. pants. Policijas starptautiskā sadarbība
-          * 8.^1 pants. Policijas sakaru virsnieki
-          * 8.^2 pants. Policijas darbinieka palīgi
-     * II nodaļa POLICIJAS DARBINIEKA PIENĀKUMI
-          * 9. pants. Policijas darbinieka vispārīgie pienākumi
-          * 10. pants. Policijas darbinieka pamatpienākumi
-          * 11. pants. Policijas darbinieka papildpienākumi
-     * III nodaļa POLICIJAS DARBINIEKA TIESĪBAS
-          * 12. pants. Policijas darbinieka vispārējās tiesības
-          * 13. pants. Policijas darbinieka tiesības lietot fizisku spēku un speciālos
-            līdzekļus
-          * 14. pants. Policijas darbinieka tiesības pielietot šaujamieroci
-     * IV nodaļa POLICIJAS STRUKTŪRA, POLICIJAS IESTĀŽU KOMPETENCES UN ATBILDĪBAS
-       NOŠĶIRŠANA
-          * 15. pants. Policijas struktūra un pakļautība
-          * 16. pants. Valsts policija
-          * 17. pants. Kārtības policija
-          * 18. pants. Kriminālpolicija
-          * 19. pants. Pašvaldības policija
-          * 20. pants. Valsts policijas centrālā aparāta un tam pakļauto apakšvienību
-            kompetence
-          * 21. pants. Kārtība, kādā pašvaldības policijas darbinieki ieceļami amatā un
-            atbrīvojami no amata
-     * V nodaļa POLICIJAS DARBINIEKA TIESISKĀ AIZSARDZĪBA, DARBĪBAS GARANTIJAS UN
-       ATBILDĪBA
-          * 22. pants. Policijas darbinieka tiesiskā aizsardzība
-          * 23. pants. Policijas darbinieka darbības garantijas
-          * 24. pants. Valsts policijas un Drošības policijas darbinieka nodrošināšana
-            ar dzīvojamo telpu
-          * 25. pants. Citu garantiju piešķiršana policijas darbiniekam
-          * 26. pants. Policijas darbinieka darba laiks un darba samaksa
-          * 27. pants. Policijas darbinieka atbildība
-     * VI nodaļa DIENESTS VALSTS POLICIJĀ
-     * VII nodaļa POLICIJAS DARBĪBAS FINANSĒŠANA UN MATERIĀLTEHNISKĀ APGĀDE
-          * 34. pants. Valsts policijas finansēšana
-          * 35.pants. Valsts policijas un Drošības policijas materiāltehniskā apgāde
-          * 36. pants. Valsts policijas nodrošināšana ar dienesta telpām
-          * 37. pants. Pašvaldības policijas finansēšana un materiāltehniskā apgāde
-     * VIII nodaļa POLICIJAS DARBĪBAS KONTROLE UN UZRAUDZĪBA
-          * 38. pants. Policijas darbības kontrole
-          * 39. pants. Uzraudzība pār likumu ievērošanu policijas darbībā
-     * Pārejas noteikums
-   LATVIJAS REPUBLIKAS LIKUMS
-   Par policiju
-
-   Šis likums nosaka policijas jēdzienu, uzdevumus, darbības principus un vietu valsts
-   pārvaldes un pašvaldības iestāžu sistēmā, policijas pienākumus, tiesības, struktūru,
-   kompetenci, policijas darbinieka tiesisko aizsardzību, darbības garantijas,
-   atbildību, finansēšanas, materiāltehniskās apgādes kārtību, kā arī policijas
-   darbības uzraudzību un kontroli. Šā likuma noteikumi nav attiecināmi uz Valsts
-   ieņēmumu dienesta finanšu policijas darbību.
-
-   (Preambula ar grozījumiem, kas izdarīti ar 05.12.1996., 19.12.2002. un 15.06.2006.
-   likumu, kas stājas spēkā 01.10.2006.)
-
-   I nodaļa
-   VISPĀRĪGIE NOTEIKUMI
-
-   1. pants. Policija
+[IMG]
+Publicēts:
+"Ziņotājs", 31/32, 15.08.1991.
+Izdevējs: Augstākā PadomeVeids: likumsPieņemts: 04.06.1991.Stājas spēkā: 04.06.1991.
+Attēlotā redakcija: 01.10.2006. - 30.04.2007. Vēsturiskā
+Grozījumi:
+01.09.1992. likums / Ziņotājs, 37/38, 24.09.1992., Diena, 167, 08.09.1992. / Stājas spēkā 01.09.1992. 01.09.1992. likums / Ziņotājs, 37/38, 24.09.1992., Diena, 167, 08.09.1992. / Stājas spēkā 01.09.1992. 08.06.1994. likums / LV, 73 (204), 22.06.1994. / Stājas spēkā 06.07.1994. 27.10.1994. likums / LV, 131 (262), 08.11.1994. / Stājas spēkā 01.01.1995. 24.11.1994. likums / LV, 144 (275), 10.12.1994. / Stājas spēkā 24.12.1994. 02.11.1995. likums / LV, 176 (459), 14.11.1995. / Stājas spēkā 28.11.1995. 23.05.1996. likums / LV, 94 (579), 31.05.1996. / Stājas spēkā 01.06.1996. 05.12.1996. likums / LV, 226/227 (711/712), 24.12.1996. / Stājas spēkā 07.01.1997. 20.03.1997. likums / LV, 83/84 (798/799), 27.03.1997. / Stājas spēkā 10.04.1997. 23.10.1997. likums / LV, 289 (1004), 05.11.1997. / Stājas spēkā 19.11.1997. 13.05.1999. likums / LV, 171/172 (1631/1632), 26.05.1999. / Stājas spēkā 01.07.1999. 04.11.1999. likums / LV, 381/383 (1841/1843), 17.11.1999. / Stājas spēkā 01.01.2000. 15.06.2000. likums / LV, 250/251 (2161/2162), 05.07.2000. / Stājas spēkā 19.07.2000. 04.10.2001. likums / LV, 146 (2533), 12.10.2001. / Stājas spēkā 26.10.2001. 06.12.2001. likums / LV, 185 (2572), 20.12.2001. / Stājas spēkā 03.01.2002. 24.01.2002. likums / LV, 20 (2595), 06.02.2002. / Stājas spēkā 20.02.2002. 20.06.2002. likums / LV, 104 (2679), 10.07.2002. / Stājas spēkā 24.07.2002. 24.10.2002. likums / LV, 161 (2736), 06.11.2002. / Stājas spēkā 20.11.2002. 19.12.2002. likums / LV, 189 (2764), 28.12.2002. / Stājas spēkā 01.01.2003. 20.03.2003. likums / LV, 52 (2817), 03.04.2003. / Stājas spēkā 17.04.2003. 29.05.2003. likums / LV, 89 (2854), 13.06.2003. / Stājas spēkā 27.06.2003. 27.05.2004. likums / LV, 96 (3044), 16.06.2004. / Stājas spēkā 30.06.2004. 16.12.2004. likums / LV, 206 (3154), 24.12.2004. / Stājas spēkā 01.01.2005. 14.04.2005. likums / LV, 65 (3223), 26.04.2005. / Stājas spēkā 10.05.2005. 13.10.2005. likums / LV, 170 (3328), 26.10.2005. / Stājas spēkā 27.10.2005. 15.06.2006. likums / LV, 98 (3466), 27.06.2006. / Stājas spēkā 01.10.2006.
+Satura rādītājs:
 
-   Policija ir apbruņota militarizēta valsts vai pašvaldības institūcija, kuras
-   pienākums ir aizsargāt personu dzīvību, veselību, tiesības un brīvības, īpašumu,
-   sabiedrības un valsts intereses no noziedzīgiem un citiem prettiesiskiem
-   apdraudējumiem.
+  • 
+    I nodaļa VISPĀRĪGIE NOTEIKUMI
 
-   (08.06.1994. likuma redakcijā, kas stājas spēkā 06.07.1994.)
+       • 1. pants. Policija
+       • 2. pants. Policijas darbinieks
+       • 2.^1 pants. Pašvaldības policijas darbinieks
+       • 3. pants. Policijas uzdevumi
+       • 4. pants. Policijas darbības tiesiskais pamats
+       • 5. pants. Policijas darba organizācijas un darbības principi
+       • 6. pants. Atklātums policijas darbībā
+       • 7. pants. Policijas sadarbība
+       • 8. pants. Policijas starptautiskā sadarbība
+       • 8.^1 pants. Policijas sakaru virsnieki
+       • 8.^2 pants. Policijas darbinieka palīgi
 
-   2. pants. Policijas darbinieks
+  • 
+    II nodaļa POLICIJAS DARBINIEKA PIENĀKUMI
 
-   Policijas darbinieks ir persona, kura ieņem amatu Valsts policijā vai Drošības
-   policijā un kurai piešķirta speciālā dienesta pakāpe.
+       • 9. pants. Policijas darbinieka vispārīgie pienākumi
+       • 10. pants. Policijas darbinieka pamatpienākumi
+       • 11. pants. Policijas darbinieka papildpienākumi
 
-   (15.06.2006. likuma redakcijā, kas stājas spēkā 01.10.2006.)
+  • 
+    III nodaļa POLICIJAS DARBINIEKA TIESĪBAS
 
-   2.^1 pants. Pašvaldības policijas darbinieks
+       • 12. pants. Policijas darbinieka vispārējās tiesības
+       • 13. pants. Policijas darbinieka tiesības lietot fizisku spēku un speciālos līdzekļus
+       • 14. pants. Policijas darbinieka tiesības pielietot šaujamieroci
 
-   Pašvaldības policijas darbinieks ir persona, kura ieņem pašvaldības iedibinātu
-   policijas amatu un pilda šajā likumā noteiktos pienākumus attiecīgās pašvaldības
-   administratīvajā teritorijā.
+  • 
+    IV nodaļa POLICIJAS STRUKTŪRA, POLICIJAS IESTĀŽU KOMPETENCES UN ATBILDĪBAS NOŠĶIRŠANA
 
-   Pašvaldības policijas darbinieka darba tiesiskās attiecības regulē Darba likums.
+       • 15. pants. Policijas struktūra un pakļautība
+       • 16. pants. Valsts policija
+       • 17. pants. Kārtības policija
+       • 18. pants. Kriminālpolicija
+       • 19. pants. Pašvaldības policija
+       • 20. pants. Valsts policijas centrālā aparāta un tam pakļauto apakšvienību kompetence
+       • 21. pants. Kārtība, kādā pašvaldības policijas darbinieki ieceļami amatā un atbrīvojami no amata
 
-   (15.06.2006. likuma redakcijā, kas stājas spēkā 01.10.2006.)
+  • 
+    V nodaļa POLICIJAS DARBINIEKA TIESISKĀ AIZSARDZĪBA, DARBĪBAS GARANTIJAS UN ATBILDĪBA
 
-   3. pants. Policijas uzdevumi
+       • 22. pants. Policijas darbinieka tiesiskā aizsardzība
+       • 23. pants. Policijas darbinieka darbības garantijas
+       • 24. pants. Valsts policijas un Drošības policijas darbinieka nodrošināšana ar dzīvojamo telpu
+       • 25. pants. Citu garantiju piešķiršana policijas darbiniekam
+       • 26. pants. Policijas darbinieka darba laiks un darba samaksa
+       • 27. pants. Policijas darbinieka atbildība
 
-   Policijas uzdevumi ir:
+  • 
+    VI nodaļa DIENESTS VALSTS POLICIJĀ
+  • 
+    VII nodaļa POLICIJAS DARBĪBAS FINANSĒŠANA UN MATERIĀLTEHNISKĀ APGĀDE
 
-   — garantēt personu un sabiedrības drošību;
+       • 34. pants. Valsts policijas finansēšana
+       • 35.pants. Valsts policijas un Drošības policijas materiāltehniskā apgāde
+       • 36. pants. Valsts policijas nodrošināšana ar dienesta telpām
+       • 37. pants. Pašvaldības policijas finansēšana un materiāltehniskā apgāde
 
-   — novērst noziedzīgus nodarījumus un citus likumpārkāpumus;
+  • 
+    VIII nodaļa POLICIJAS DARBĪBAS KONTROLE UN UZRAUDZĪBA
 
-   — atklāt noziedzīgus nodarījumus, meklēt personas, kas izdarījušas noziedzīgus
-   nodarījumus;
+       • 38. pants. Policijas darbības kontrole
+       • 39. pants. Uzraudzība pār likumu ievērošanu policijas darbībā
 
-   — likumā paredzētajā kārtībā sniegt palīdzību iestādēm, privātpersonām un personu
-   apvienībām to tiesību aizsardzībā un ar likumu noteikto pienākumu realizācijā;
+  • Pārejas noteikums
 
-   — savas kompetences ietvaros izpildīt administratīvos sodus un kriminālsodus.
+LATVIJAS REPUBLIKAS LIKUMS
+Par policiju
 
-   Aizliegts iesaistīt policiju tādu uzdevumu pildīšanā, kuri nav noteikti Latvijas
-   Republikas likumos.
+Šis likums nosaka policijas jēdzienu, uzdevumus, darbības principus un vietu valsts pārvaldes un pašvaldības iestāžu sistēmā, policijas pienākumus, tiesības, struktūru, kompetenci, policijas darbinieka tiesisko aizsardzību, darbības garantijas, atbildību, finansēšanas, materiāltehniskās apgādes kārtību, kā arī policijas darbības uzraudzību un kontroli. Šā likuma noteikumi nav attiecināmi uz Valsts ieņēmumu dienesta finanšu policijas darbību.
 
-   Nevienam nav tiesību iejaukties policijas rīcībā, kad tā pilda savus pienākumus,
-   izņemot iestādes un amatpersonas, kuras tieši tam pilnvarojis likums.
+(Preambula ar grozījumiem, kas izdarīti ar 05.12.1996., 19.12.2002. un 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   (Ar grozījumiem, kas izdarīti ar 15.06.2000. un 13.10.2005. likumu, kas stājas spēkā
-   27.10.2005.)
+I nodaļa
+VISPĀRĪGIE NOTEIKUMI
 
-   4. pants. Policijas darbības tiesiskais pamats
+1. pants. Policija
 
-   Policijas darbības tiesiskais pamats ir Latvijas Republikas Satversme,
-   starptautiskie līgumi, šis likums, citi Latvijas Republikas likumi un normatīvie
-   akti, kā arī pašvaldību lēmumi, ja tie nav pretrunā ar Latvijas Republikas likumiem.
+Policija ir apbruņota militarizēta valsts vai pašvaldības institūcija, kuras pienākums ir aizsargāt personu dzīvību, veselību, tiesības un brīvības, īpašumu, sabiedrības un valsts intereses no noziedzīgiem un citiem prettiesiskiem apdraudējumiem.
 
-   (05.12.1996. likuma redakcijā, kas stājas spēkā 07.01.1997.)
+(08.06.1994. likuma redakcijā, kas stājas spēkā 06.07.1994.)
 
-   5. pants. Policijas darba organizācijas un darbības principi
+2. pants. Policijas darbinieks
 
-   Policijas darbība tiek organizēta, ievērojot likumību, humānismu, cilvēka tiesības,
-   sociālo taisnīgumu, atklātumu, vienvadību un balstoties uz iedzīvotāju palīdzību.
+Policijas darbinieks ir persona, kura ieņem amatu Valsts policijā vai Drošības policijā un kurai piešķirta speciālā dienesta pakāpe.
 
-   Policija aizsargā personu tiesības un likumīgās intereses neatkarīgi no to
-   pilsonības, sociālā, mantiskā un cita stāvokļa, rases un nacionālās piederības,
-   dzimuma un vecuma, izglītības un valodas, attieksmes pret reliģiju, politiskās un
-   citas pārliecības.
+(15.06.2006. likuma redakcijā, kas stājas spēkā 01.10.2006.)
 
-   Personu tiesību un brīvību un valsts interešu vienlīdzīgas aizsardzības nolūkā
-   policijas darbinieki nepiedalās partiju, citu sabiedriski politisko organizāciju un
-   kustību darbībā un uz dienesta laiku policijā aptur savu piederību pie tām.
+2.^1 pants. Pašvaldības policijas darbinieks
 
-   Policija ar savu darbību nodrošina personu tiesību un brīvību ievērošanu. Šo tiesību
-   un brīvību ierobežošana ir pieļaujama, tikai pamatojoties uz likumu un likumā
-   noteiktajā kārtībā. Ikreiz, kad policijai nākas ierobežot personu tiesības un
-   brīvības, policijas darbinieks sniedz tām paskaidrojumu, kurā pamato katru konkrēto
-   ierobežojumu. Šādos gadījumos pēc personu pieprasījuma policijas darbiniekam
-   jānosauc savs uzvārds, amats un dienesta vieta, kā arī jāuzrāda dienesta apliecība.
+Pašvaldības policijas darbinieks ir persona, kura ieņem pašvaldības iedibinātu policijas amatu un pilda šajā likumā noteiktos pienākumus attiecīgās pašvaldības administratīvajā teritorijā.
 
-   Policija dod iespēju aizturētajām un apcietinātajām personām realizēt tiesības uz
-   juridisko palīdzību un, ja šīs personas vēlas, nekavējoties paziņo viņu atrašanās
-   vietu ģimenei un darbavietas vai mācību iestādes administrācijai. Policija nodrošina
-   aizturēto un apcietināto personu veselības aizsardzību, veic neatliekamus pasākumus
-   medicīniskās palīdzības sniegšanai un šo personu īpašuma aizsardzībai.
+Pašvaldības policijas darbinieka darba tiesiskās attiecības regulē Darba likums.
 
-   6. pants. Atklātums policijas darbībā
+(15.06.2006. likuma redakcijā, kas stājas spēkā 01.10.2006.)
 
-   Policija dienesta interesēs par savu darbību informē valsts un pašvaldību iestādes,
-   kā arī iedzīvotājus.
+3. pants. Policijas uzdevumi
 
-   Policijai aizliegts izpaust ziņas, kuras ir valsts vai cits ar likumu īpaši
-   aizsargāts noslēpums, kuras satur komercnoslēpumu vai patentu noslēpumu. Aizliegts
-   izpaust pirmstiesas izmeklēšanas datus bez prokurora vai izmeklētāja tiešā
-   priekšnieka atļaujas, kā arī materiālus, kuri ir pretrunā ar nevainīguma
-   prezumpciju.
+Policijas uzdevumi ir:
 
-   Policijai aizliegts izpaust ziņas, kuras aizskar cilvēku personisko dzīvi, kā arī
-   fizisko un juridisko personu godu un cieņu, ja šī darbība nenotiek tiesiskās
-   kārtības nostiprināšanas un izmeklēšanas interesēs.
+— garantēt personu un sabiedrības drošību;
 
-   Policijai ir jāatsauc ziņas, ko tā izplatījusi par iestādēm, privātpersonām un
-   personu apvienībām, ja tās neatbilst patiesībai. Atsaukums mēneša laikā jāizplata
-   tādā pašā veidā, kādā tika izplatītas nepatiesās ziņas.
+— novērst noziedzīgus nodarījumus un citus likumpārkāpumus;
 
-   (Ar grozījumiem, kas izdarīti ar 15.06.2000. un 13.10.2005. likumu, kas stājas spēkā
-   27.10.2005.)
+— atklāt noziedzīgus nodarījumus, meklēt personas, kas izdarījušas noziedzīgus nodarījumus;
 
-   7. pants. Policijas sadarbība
+— likumā paredzētajā kārtībā sniegt palīdzību iestādēm, privātpersonām un personu apvienībām to tiesību aizsardzībā un ar likumu noteikto pienākumu realizācijā;
 
-   Policija sadarbojas ar iestādēm, privātpersonām un personu apvienībām.
+— savas kompetences ietvaros izpildīt administratīvos sodus un kriminālsodus.
 
-   (13.10.2005. likuma redakcijā, kas stājas spēkā 27.10.2005.)
+Aizliegts iesaistīt policiju tādu uzdevumu pildīšanā, kuri nav noteikti Latvijas Republikas likumos.
 
-   8. pants. Policijas starptautiskā sadarbība
+Nevienam nav tiesību iejaukties policijas rīcībā, kad tā pilda savus pienākumus, izņemot iestādes un amatpersonas, kuras tieši tam pilnvarojis likums.
 
-   Policija sadarbojas ar citu valstu policiju (miliciju), starptautiskajām
-   organizācijām, savienībām vai kopienām, kā arī piedalās starptautiskajās misijās un
-   operācijās saskaņā ar Latvijas Republikai saistošiem starptautiskajiem līgumiem.
+(Ar grozījumiem, kas izdarīti ar 15.06.2000. un 13.10.2005. likumu, kas stājas spēkā 27.10.2005.)
 
-   Lēmumu par policijas darbinieku piedalīšanos starptautiskajās misijās un operācijās
-   pieņem Ministru kabinets.
+4. pants. Policijas darbības tiesiskais pamats
 
-   Kārtību, kādā policijas darbiniekus norīko un nosūta dalībai starptautiskajās
-   misijās un operācijās, kā arī to finansēšanas kārtību nosaka Ministru kabinets.
+Policijas darbības tiesiskais pamats ir Latvijas Republikas Satversme, starptautiskie līgumi, šis likums, citi Latvijas Republikas likumi un normatīvie akti, kā arī pašvaldību lēmumi, ja tie nav pretrunā ar Latvijas Republikas likumiem.
 
-   (20.03.2003. likuma redakcijā, kas stājas spēkā 17.04.2003.)
+(05.12.1996. likuma redakcijā, kas stājas spēkā 07.01.1997.)
 
-   8.^1 pants. Policijas sakaru virsnieki
+5. pants. Policijas darba organizācijas un darbības principi
 
-   (Izslēgts ar 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
+Policijas darbība tiek organizēta, ievērojot likumību, humānismu, cilvēka tiesības, sociālo taisnīgumu, atklātumu, vienvadību un balstoties uz iedzīvotāju palīdzību.
 
-   8.^2 pants. Policijas darbinieka palīgi
+Policija aizsargā personu tiesības un likumīgās intereses neatkarīgi no to pilsonības, sociālā, mantiskā un cita stāvokļa, rases un nacionālās piederības, dzimuma un vecuma, izglītības un valodas, attieksmes pret reliģiju, politiskās un citas pārliecības.
 
-   Par policijas darbinieka palīgiem var būt Latvijas Republikas pastāvīgie iedzīvotāji
-   vecumā no 20 līdz 65 gadiem, kuri, ņemot vērā viņu personiskās īpašības, ir spējīgi
-   brīvprātīgi palīdzēt policijas darbiniekiem.
+Personu tiesību un brīvību un valsts interešu vienlīdzīgas aizsardzības nolūkā policijas darbinieki nepiedalās partiju, citu sabiedriski politisko organizāciju un kustību darbībā un uz dienesta laiku policijā aptur savu piederību pie tām.
 
-   Policijas darbinieka palīgu darba organizācijas un pienākumu pildīšanas kārtību,
-   viņu tiesības un pienākumus nosaka Ministru kabinets.
+Policija ar savu darbību nodrošina personu tiesību un brīvību ievērošanu. Šo tiesību un brīvību ierobežošana ir pieļaujama, tikai pamatojoties uz likumu un likumā noteiktajā kārtībā. Ikreiz, kad policijai nākas ierobežot personu tiesības un brīvības, policijas darbinieks sniedz tām paskaidrojumu, kurā pamato katru konkrēto ierobežojumu. Šādos gadījumos pēc personu pieprasījuma policijas darbiniekam jānosauc savs uzvārds, amats un dienesta vieta, kā arī jāuzrāda dienesta apliecība.
 
-   (15.06.2006. likuma redakcijā, kas stājas spēkā 01.10.2006.)
+Policija dod iespēju aizturētajām un apcietinātajām personām realizēt tiesības uz juridisko palīdzību un, ja šīs personas vēlas, nekavējoties paziņo viņu atrašanās vietu ģimenei un darbavietas vai mācību iestādes administrācijai. Policija nodrošina aizturēto un apcietināto personu veselības aizsardzību, veic neatliekamus pasākumus medicīniskās palīdzības sniegšanai un šo personu īpašuma aizsardzībai.
 
-   II nodaļa
-   POLICIJAS DARBINIEKA PIENĀKUMI
+6. pants. Atklātums policijas darbībā
 
-   9. pants. Policijas darbinieka vispārīgie pienākumi
+Policija dienesta interesēs par savu darbību informē valsts un pašvaldību iestādes, kā arī iedzīvotājus.
 
-   Jebkura policijas darbinieka pienākums ir visā Latvijas Republikas teritorijā
-   neatkarīgi no viņa ieņemamā amata, atrašanās vietas un laika gadījumā, ja pie viņa
-   griežas personas ar pieteikumu vai ziņojumu par notikumu, kurš apdraud personu un
-   sabiedrības drošību, kā arī pašam konstatējot tādu notikumu, veikt iespējamos
-   pasākumus, lai novērstu likumpārkāpumu, glābtu cilvēkus un sniegtu viņiem palīdzību
-   likumpārkāpumu izdarījušo personu konstatēšanā un aizturēšanā, noskaidrot
-   aculieciniekus, apsargāt notikuma vietu, kā arī paziņot par notikušo tuvākajai
-   policijas iestādei.
+Policijai aizliegts izpaust ziņas, kuras ir valsts vai cits ar likumu īpaši aizsargāts noslēpums, kuras satur komercnoslēpumu vai patentu noslēpumu. Aizliegts izpaust pirmstiesas izmeklēšanas datus bez prokurora vai izmeklētāja tiešā priekšnieka atļaujas, kā arī materiālus, kuri ir pretrunā ar nevainīguma prezumpciju.
 
-   (Ar grozījumiem, kas izdarīti ar 15.06.2000. likumu, kas stājas spēkā 19.07.2000.)
+Policijai aizliegts izpaust ziņas, kuras aizskar cilvēku personisko dzīvi, kā arī fizisko un juridisko personu godu un cieņu, ja šī darbība nenotiek tiesiskās kārtības nostiprināšanas un izmeklēšanas interesēs.
 
-   10. pants. Policijas darbinieka pamatpienākumi
+Policijai ir jāatsauc ziņas, ko tā izplatījusi par iestādēm, privātpersonām un personu apvienībām, ja tās neatbilst patiesībai. Atsaukums mēneša laikā jāizplata tādā pašā veidā, kādā tika izplatītas nepatiesās ziņas.
 
-   Saskaņā ar policijas uzdevumiem policijas darbinieka pamatpienākumi atbilstoši
-   dienesta kompetencei ir:
+(Ar grozījumiem, kas izdarīti ar 15.06.2000. un 13.10.2005. likumu, kas stājas spēkā 27.10.2005.)
 
-   1) nodrošināt kārtību uz ceļiem, ielās, laukumos, parkos, sabiedriskā transporta
-   līdzekļos, lidostās, ostās, stacijās un citās sabiedriskajās vietās, lai garantētu
-   personu un sabiedrības drošību;
+7. pants. Policijas sadarbība
 
-   2) reģistrēt informāciju par noziedzīgiem nodarījumiem un citiem likumpārkāpumiem un
-   par personām, kas tos izdarījušas, kā arī par notikumiem, kuri apdraud sabiedrības
-   drošību, un nekavējoties reaģēt uz tiem, kā arī ziņot kompetentām amatpersonām par
-   uzzinātajiem notikumiem (avārijām, ugunsgrēkiem, katastrofām, stihiskajām nelaimēm
-   un citiem), kuri apdraud personu, sabiedrības vai valsts drošību;
+Policija sadarbojas ar iestādēm, privātpersonām un personu apvienībām.
 
-   3) sniegt neatliekamo palīdzību personām, kuras cietušas likumpārkāpumu rezultātā,
-   nelaimes gadījumos vai atrodas bezpalīdzības stāvoklī, arī tad, ja tās reibuma
-   stāvoklī zaudējušas spēju patstāvīgi pārvietoties vai var nodarīt kaitējumu
-   apkārtējiem vai pašas sev, kā arī sniegt palīdzību nepilngadīgām personām, kas
-   palikušas bez vecāku vai viņu aizstājēju uzraudzības;
+(13.10.2005. likuma redakcijā, kas stājas spēkā 27.10.2005.)
 
-   4) saskaņā ar likuma prasībām veikt izmeklēšanu, nodrošināt noteiktā kārtībā
-   kriminālistikas speciālistu piedalīšanos izmeklēšanas darbībās, veikt nepieciešamos
-   operatīvās meklēšanas un citus likumā noteiktos pasākumus, lai atklātu, pārtrauktu
-   un novērstu noziedzīgus nodarījumus, konstatētu un meklētu personas, kuras tos
-   izdarījušas vai kuras slēpjas no izmeklēšanas un tiesas, izvairās no kriminālsoda
-   izciešanas vai ir bezvēsts prombūtnē, kā arī lai konstatētu cilvēku personību un
-   identificētu līķus;
+8. pants. Policijas starptautiskā sadarbība
 
-   5) izpildīt tiesas nolēmumus, prokurora lēmumus un norādījumus, kas saistīti ar
-   meklēšanas un izmeklēšanas darbību veikšanu;
+Policija sadarbojas ar citu valstu policiju (miliciju), starptautiskajām organizācijām, savienībām vai kopienām, kā arī piedalās starptautiskajās misijās un operācijās saskaņā ar Latvijas Republikai saistošiem starptautiskajiem līgumiem.
 
-   6) novērst un pārtraukt administratīvos pārkāpumus, noskaidrot vainīgos, savas
-   kompetences ietvaros sastādīt protokolus, izskatīt lietas par šiem pārkāpumiem vai
-   arī nodot tās izskatīšanai pēc pakļautības;
+Lēmumu par policijas darbinieku piedalīšanos starptautiskajās misijās un operācijās pieņem Ministru kabinets.
 
-   7) savu pilnvaru ietvaros atklāt noziedzīgu nodarījumu un administratīvo pārkāpumu
-   cēloņus un tos veicinošos apstākļus un veikt pasākumus to novēršanai; piedalīties
-   personu tiesiskajā audzināšanā;
+Kārtību, kādā policijas darbiniekus norīko un nosūta dalībai starptautiskajās misijās un operācijās, kā arī to finansēšanas kārtību nosaka Ministru kabinets.
 
-   8) apsargāt, konvojēt un uzturēt aizturētās un apcietinātās personas, savas
-   kompetences ietvaros izpildīt kriminālsodus un administratīvos sodus, kā arī
-   konvojēt un apsargāt ar brīvības atņemšanu notiesātās personas izmeklēšanas darbību
-   veikšanai, sakarā ar lietas izskatīšanu tiesā un starp ieslodzījuma vietām;
+(20.03.2003. likuma redakcijā, kas stājas spēkā 17.04.2003.)
 
-   9) saskaņā ar noslēgtajiem līgumiem apsargāt objektus;
+8.^1 pants. Policijas sakaru virsnieki
 
-   10) veikt pasākumus bezsaimnieka vai atrastās apslēptās mantas saglabāšanai līdz tās
-   nodošanai kompetentas valsts iestādes vai amatpersonas pārziņā; nodrošināt atrasto
-   un policijai nodoto dokumentu, mantu, vērtspapīru un cita īpašuma saglabāšanu līdz
-   tā nodošanai īpašniekam;
+(Izslēgts ar 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   11) regulēt transportlīdzekļu un gājēju kustību, veikt satiksmes un satiksmes
-   līdzekļu uzraudzību;
+8.^2 pants. Policijas darbinieka palīgi
 
-   12) kontrolēt noteikumu ievērošanu ieroču aprites, apsardzes darbības un
-   detektīvdarbības jomā;
+Par policijas darbinieka palīgiem var būt Latvijas Republikas pastāvīgie iedzīvotāji vecumā no 20 līdz 65 gadiem, kuri, ņemot vērā viņu personiskās īpašības, ir spējīgi brīvprātīgi palīdzēt policijas darbiniekiem.
 
-   13) (izslēgts ar 14.04.2005. likumu);
+Policijas darbinieka palīgu darba organizācijas un pienākumu pildīšanas kārtību, viņu tiesības un pienākumus nosaka Ministru kabinets.
 
-   14) (izslēgts ar 06.12.2001. likumu);
+(15.06.2006. likuma redakcijā, kas stājas spēkā 01.10.2006.)
 
-   15) (izslēgts ar 15.06.2000. likumu);
+II nodaļa
+POLICIJAS DARBINIEKA PIENĀKUMI
 
-   16) gādāt par liecinieku, cietušo, citu personu un to ģimenes locekļu drošību, kā
-   arī par viņu mantas apsardzību, ja apdraudēta šo personu dzīvība, veselība vai manta
-   sakarā ar palīdzību, ko tās sniegušas tiesībaizsardzības iestādēm noziedzīgu
-   nodarījumu atklāšanā un novēršanā;
+9. pants. Policijas darbinieka vispārīgie pienākumi
 
-   17) izpildīt tiesu (tiesnešu), prokuroru lēmumus par to personu piespiedu atvešanu,
-   kuras izvairās no ierašanās pēc izsaukuma, kā arī izpildīt tiesu lēmumus par
-   apcietinājumu;
+Jebkura policijas darbinieka pienākums ir visā Latvijas Republikas teritorijā neatkarīgi no viņa ieņemamā amata, atrašanās vietas un laika gadījumā, ja pie viņa griežas personas ar pieteikumu vai ziņojumu par notikumu, kurš apdraud personu un sabiedrības drošību, kā arī pašam konstatējot tādu notikumu, veikt iespējamos pasākumus, lai novērstu likumpārkāpumu, glābtu cilvēkus un sniegtu viņiem palīdzību likumpārkāpumu izdarījušo personu konstatēšanā un aizturēšanā, noskaidrot aculieciniekus, apsargāt notikuma vietu, kā arī paziņot par notikušo tuvākajai policijas iestādei.
 
-   18) reģistrēt un uzskaitīt ceļu satiksmes negadījumus, kurus dokumentāri noformē
-   Valsts policijas darbinieki.
+(Ar grozījumiem, kas izdarīti ar 15.06.2000. likumu, kas stājas spēkā 19.07.2000.)
 
-   Ceļu satiksmes negadījumu veidus, personu loku, kuras uzskatāmas par cietušām un
-   bojā gājušām ceļu satiksmes negadījumos, kā arī ceļu satiksmes negadījumu
-   reģistrēšanas un uzskaites, reģistrējamo ziņu saņemšanas un izsniegšanas kārtību un
-   apjomu nosaka Ministru kabinets.
+10. pants. Policijas darbinieka pamatpienākumi
 
-   (Ar grozījumiem, kas izdarīti ar 20.03.1997., 23.10.1997., 15.06.2000., 06.12.2001.,
-   20.06.2002., 27.05.2004., 14.04.2005., 13.10.2005. un 15.06.2006. likumu, kas stājas
-   spēkā 01.10.2006.)
+Saskaņā ar policijas uzdevumiem policijas darbinieka pamatpienākumi atbilstoši dienesta kompetencei ir:
 
-   11. pants. Policijas darbinieka papildpienākumi
+1) nodrošināt kārtību uz ceļiem, ielās, laukumos, parkos, sabiedriskā transporta līdzekļos, lidostās, ostās, stacijās un citās sabiedriskajās vietās, lai garantētu personu un sabiedrības drošību;
 
-   Policijas darbiniekam savas kompetences ietvaros ir pienākums palīdzēt:
+2) reģistrēt informāciju par noziedzīgiem nodarījumiem un citiem likumpārkāpumiem un par personām, kas tos izdarījušas, kā arī par notikumiem, kuri apdraud sabiedrības drošību, un nekavējoties reaģēt uz tiem, kā arī ziņot kompetentām amatpersonām par uzzinātajiem notikumiem (avārijām, ugunsgrēkiem, katastrofām, stihiskajām nelaimēm un citiem), kuri apdraud personu, sabiedrības vai valsts drošību;
 
-   1) deputātiem, deputātu kandidātiem, kā arī valsts iestāžu amatpersonām, ja tiek
-   traucēta to likumīgā darbība;
+3) sniegt neatliekamo palīdzību personām, kuras cietušas likumpārkāpumu rezultātā, nelaimes gadījumos vai atrodas bezpalīdzības stāvoklī, arī tad, ja tās reibuma stāvoklī zaudējušas spēju patstāvīgi pārvietoties vai var nodarīt kaitējumu apkārtējiem vai pašas sev, kā arī sniegt palīdzību nepilngadīgām personām, kas palikušas bez vecāku vai viņu aizstājēju uzraudzības;
 
-   2) veselības aizsardzības un veterināruzraudzības iestādēm — karantīnas pasākumu
-   veikšanā epidēmiju un epizootiju gadījumos;
+4) saskaņā ar likuma prasībām veikt izmeklēšanu, nodrošināt noteiktā kārtībā kriminālistikas speciālistu piedalīšanos izmeklēšanas darbībās, veikt nepieciešamos operatīvās meklēšanas un citus likumā noteiktos pasākumus, lai atklātu, pārtrauktu un novērstu noziedzīgus nodarījumus, konstatētu un meklētu personas, kuras tos izdarījušas vai kuras slēpjas no izmeklēšanas un tiesas, izvairās no kriminālsoda izciešanas vai ir bezvēsts prombūtnē, kā arī lai konstatētu cilvēku personību un identificētu līķus;
 
-   3) ārstniecības iestādēm, ārstniecības personām, Sabiedrības veselības dienesta
-   epidemiologiem un valsts sanitārajiem inspektoriem — to personu piespiedu atvešanā
-   apsekošanai vai ārstēšanai, kuras slimo ar alkohola, narkotisko, psihotropo vai
-   toksisko vielu atkarību vai veneriskajām slimībām, ir sociāli bīstami psihiski
-   slimas, kā arī to personu atvešanā un apsardzē ārstniecības iestādē, par kurām ir
-   pietiekams pamats secināt, ka tās ir inficētas ar imūndeficīta vīrusu (HIV) vai
-   infekcijas slimībām, kuru sarakstu apstiprina Ministru kabinets, ja tās izvairās no
-   ierašanās ārstniecības iestādē;
+5) izpildīt tiesas nolēmumus, prokurora lēmumus un norādījumus, kas saistīti ar meklēšanas un izmeklēšanas darbību veikšanu;
 
-   4) ieslodzījuma vietām — likumpārkāpumu novēršanā un izdarīto noziedzīgo nodarījumu
-   atklāšanā šajās iestādēs;
+6) novērst un pārtraukt administratīvos pārkāpumus, noskaidrot vainīgos, savas kompetences ietvaros sastādīt protokolus, izskatīt lietas par šiem pārkāpumiem vai arī nodot tās izskatīšanai pēc pakļautības;
 
-   5) ugunsdzēsības un glābšanas dienestiem — profilakses pasākumu veikšanā un
-   ugunsgrēku dzēšanā, kā arī glābšanas darbos;
+7) savu pilnvaru ietvaros atklāt noziedzīgu nodarījumu un administratīvo pārkāpumu cēloņus un tos veicinošos apstākļus un veikt pasākumus to novēršanai; piedalīties personu tiesiskajā audzināšanā;
 
-   6) Nacionālajiem bruņotajiem spēkiem — nozaudēto un izlaupīto ieroču, munīcijas,
-   sprāgstvielu un citu iedzīvotājiem bīstamu vielu, izstrādājumu un priekšmetu
-   meklēšanā;
+8) apsargāt, konvojēt un uzturēt aizturētās un apcietinātās personas, savas kompetences ietvaros izpildīt kriminālsodus un administratīvos sodus, kā arī konvojēt un apsargāt ar brīvības atņemšanu notiesātās personas izmeklēšanas darbību veikšanai, sakarā ar lietas izskatīšanu tiesā un starp ieslodzījuma vietām;
 
-   7) autotransporta un pilsētas elektrotransporta kontroles dienestiem — transporta
-   lietošanas noteikumu pārkāpēju personības noskaidrošanā;
+9) saskaņā ar noslēgtajiem līgumiem apsargāt objektus;
 
-   8) vides aizsardzības un muitas iestādēm, Valsts ieņēmumu dienestam un Pilsonības un
-   migrācijas lietu pārvaldei — to likumīgajā darbībā;
+10) veikt pasākumus bezsaimnieka vai atrastās apslēptās mantas saglabāšanai līdz tās nodošanai kompetentas valsts iestādes vai amatpersonas pārziņā; nodrošināt atrasto un policijai nodoto dokumentu, mantu, vērtspapīru un cita īpašuma saglabāšanu līdz tā nodošanai īpašniekam;
 
-   9) Valsts robežsardzei — ārvalstnieku un bezvalstnieku ieceļošanas, uzturēšanās,
-   izceļošanas un tranzīta noteikumu ievērošanas kontrolē un profilaksē.
+11) regulēt transportlīdzekļu un gājēju kustību, veikt satiksmes un satiksmes līdzekļu uzraudzību;
 
-   (Ar grozījumiem, kas izdarīti ar 20.03.1997., 13.05.1999., 15.06.2000., 06.12.2001.,
-   27.05.2004. un 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
+12) kontrolēt noteikumu ievērošanu ieroču aprites, apsardzes darbības un detektīvdarbības jomā;
 
-   III nodaļa
-   POLICIJAS DARBINIEKA TIESĪBAS
+13) (izslēgts ar 14.04.2005. likumu);
 
-   12. pants. Policijas darbinieka vispārējās tiesības
+14) (izslēgts ar 06.12.2001. likumu);
 
-   Policijas darbiniekam, pildot viņam uzliktos pienākumus atbilstoši dienesta
-   kompetencei, ir tiesības:
+15) (izslēgts ar 15.06.2000. likumu);
 
-   1) prasīt, lai personas pārtrauc likumpārkāpumus un citu rīcību, kura traucē
-   policijas pilnvaru izpildi, kā arī pielietot pret likumpārkāpējiem paredzētos
-   piespiedu līdzekļus;
+16) gādāt par liecinieku, cietušo, citu personu un to ģimenes locekļu drošību, kā arī par viņu mantas apsardzību, ja apdraudēta šo personu dzīvība, veselība vai manta sakarā ar palīdzību, ko tās sniegušas tiesībaizsardzības iestādēm noziedzīgu nodarījumu atklāšanā un novēršanā;
 
-   2) pārbaudīt personām, kuras tiek turētas aizdomās par likumpārkāpumu izdarīšanu,
-   personību apliecinošos dokumentus, kā arī citus dokumentus, kas nepieciešami to
-   tiesību normu ievērošanas pārbaudei, kuru izpildes kontrole un uzraudzība uzdota
-   policijai;
+17) izpildīt tiesu (tiesnešu), prokuroru lēmumus par to personu piespiedu atvešanu, kuras izvairās no ierašanās pēc izsaukuma, kā arī izpildīt tiesu lēmumus par apcietinājumu;
 
-   3) izsaukt uz policijas iestādi jebkuru personu sakarā ar lietām un materiāliem,
-   kuru izskatīšana ir policijas kompetencē, bet, ja šīs personas bez attaisnojoša
-   iemesla neierodas pēc izsaukuma, likumā noteiktajā kārtībā veikt to piespiedu
-   atvešanu;
+18) reģistrēt un uzskaitīt ceļu satiksmes negadījumus, kurus dokumentāri noformē Valsts policijas darbinieki.
 
-   4) sastādīt protokolus par administratīvajiem pārkāpumiem; likumā paredzētajos
-   gadījumos un kārtībā nogādāt policijas iestādē likumpārkāpējus, izdarīt viņu
-   personas apskati, mantu un dokumentu izņemšanu un apskati, administratīvi aizturēt
-   likumpārkāpējus un veikt citus likumā noteiktos pasākumus administratīvo pārkāpumu
-   lietvedības nodrošināšanai, kā arī piemērot viņiem administratīvos sodus vai
-   noteiktā kārtībā nosūtīt protokolus pēc piekritības;
+Ceļu satiksmes negadījumu veidus, personu loku, kuras uzskatāmas par cietušām un bojā gājušām ceļu satiksmes negadījumos, kā arī ceļu satiksmes negadījumu reģistrēšanas un uzskaites, reģistrējamo ziņu saņemšanas un izsniegšanas kārtību un apjomu nosaka Ministru kabinets.
 
-   5) aizturēt militārpersonas, kuras izdarījušas likumpārkāpumus, un nodot tās
-   Nacionālajiem bruņotajiem spēkiem;
+(Ar grozījumiem, kas izdarīti ar 20.03.1997., 23.10.1997., 15.06.2000., 06.12.2001., 20.06.2002., 27.05.2004., 14.04.2005., 13.10.2005. un 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   6) aizturēt un līdz nodošanai kompetentām iestādēm turēt speciāli iekārtotās telpās
-   personas, kuras izvairās no kriminālsoda izciešanas, administratīvā aresta,
-   apcietinājuma;
+11. pants. Policijas darbinieka papildpienākumi
 
-   7) likumā noteiktajā kārtībā aizturēt un turēt apsardzībā personas, kuras tiek
-   turētas aizdomās par noziedzīgu nodarījumu vai administratīvo pārkāpumu izdarīšanu;
+Policijas darbiniekam savas kompetences ietvaros ir pienākums palīdzēt:
 
-   8) aizturēt personas vecumā līdz 16 gadiem, kuras patvaļīgi pametušas dzīvesvietu
-   vai bērnu iestādi, un turēt tās policijas iestādē līdz nodošanai vecākiem vai viņu
-   aizstājējiem, vai bērnu iestādēm;
+1) deputātiem, deputātu kandidātiem, kā arī valsts iestāžu amatpersonām, ja tiek traucēta to likumīgā darbība;
 
-   8^1) aizturēt līdz nodošanai kompetentām iestādēm personas, kas pārkāpušas
-   ārvalstnieku un bezvalstnieku ieceļošanas, uzturēšanās, izceļošanas un tranzīta
-   noteikumu prasības;
+2) veselības aizsardzības un veterināruzraudzības iestādēm — karantīnas pasākumu veikšanā epidēmiju un epizootiju gadījumos;
 
-   9) nogādāt ārstniecības iestādēs vai mājoklī personas, kuras alkohola, narkotisko,
-   psihotropo vai toksisko vielu lietošanas rezultātā zaudējušas spēju patstāvīgi
-   pārvietoties vai orientēties vai var nodarīt kaitējumu apkārtējiem vai pašas sev,
-   bet, ja tas nav iespējams, — nogādāt tās policijas iestādē un turēt tur speciāli
-   iekārtotās telpās līdz atskurbšanai, bet ne ilgāk par 12 stundām;
+3) ārstniecības iestādēm, ārstniecības personām, Sabiedrības veselības dienesta epidemiologiem un valsts sanitārajiem inspektoriem — to personu piespiedu atvešanā apsekošanai vai ārstēšanai, kuras slimo ar alkohola, narkotisko, psihotropo vai toksisko vielu atkarību vai veneriskajām slimībām, ir sociāli bīstami psihiski slimas, kā arī to personu atvešanā un apsardzē ārstniecības iestādē, par kurām ir pietiekams pamats secināt, ka tās ir inficētas ar imūndeficīta vīrusu (HIV) vai infekcijas slimībām, kuru sarakstu apstiprina Ministru kabinets, ja tās izvairās no ierašanās ārstniecības iestādē;
 
-   10) aizturēt uz rakstveida pieteikuma pamata personas, kuras atrodas mājoklī
-   alkohola, narkotisko, psihotropo vai toksisko vielu reibuma stāvoklī un var nodarīt
-   kaitējumu sev vai apkārtējiem cilvēkiem, kā arī gadījumā, ja apkārtējie cilvēki
-   baidās palikt vienatnē ar šo personu un ja nav cita pamata tās aizturēšanai, kā arī
-   uzturēt tādas personas policijas iestādē līdz atskurbšanai vai apstākļu
-   noskaidrošanai, bet ne ilgāk par 12 stundām;
+4) ieslodzījuma vietām — likumpārkāpumu novēršanā un izdarīto noziedzīgo nodarījumu atklāšanā šajās iestādēs;
 
-   11) nogādāt ārstniecības iestādē personas, kurām ir nepārprotami psihiski traucējumi
-   un kuras ar savām darbībām rada acīmredzamas briesmas sev vai apkārtējiem cilvēkiem;
+5) ugunsdzēsības un glābšanas dienestiem — profilakses pasākumu veikšanā un ugunsgrēku dzēšanā, kā arī glābšanas darbos;
 
-   12) nogādāt ārstniecības iestādē personas, kuras mēģinājušas izdarīt pašnāvību, un
-   noskaidrot notikušā apstākļus;
+6) Nacionālajiem bruņotajiem spēkiem — nozaudēto un izlaupīto ieroču, munīcijas, sprāgstvielu un citu iedzīvotājiem bīstamu vielu, izstrādājumu un priekšmetu meklēšanā;
 
-   13) veikt to personu uzskaiti, kuras izdarījušas noziedzīgus nodarījumus un
-   administratīvos pārkāpumus vai kuru meklēšana ir izsludināta, kā arī veikt uzskaiti
-   par tiem priekšmetiem un faktiem, kuri nepieciešami policijas uzdevumu pildīšanai;
+7) autotransporta un pilsētas elektrotransporta kontroles dienestiem — transporta lietošanas noteikumu pārkāpēju personības noskaidrošanā;
 
-   14) reģistrēt, iegūt pirkstu nospiedumus, citus personu identifikācijai
-   nepieciešamos datus un skaņu ierakstus, fotografēt un filmēt personas, kuras
-   apcietinātas, apsūdzētas noziedzīga nodarījuma izdarīšanā, administratīvi arestētas,
-   kā arī personas, kuras izdarījušas citus likumpārkāpumus, ja tās apzināti pretojas
-   personības noskaidrošanai;
+8) vides aizsardzības un muitas iestādēm, Valsts ieņēmumu dienestam un Pilsonības un migrācijas lietu pārvaldei — to likumīgajā darbībā;
 
-   15) uz laiku ierobežot vai pārtraukt transporta vai gājēju kustību ielās un uz
-   ceļiem, kā arī personu iekļūšanu atsevišķās vietās vai objektos un izkļūšanu no
-   tiem, ja to prasa sabiedrības drošības, personu dzīvības, veselības un mantas
-   aizsardzības, kā arī izmeklēšanas intereses;
+9) Valsts robežsardzei — ārvalstnieku un bezvalstnieku ieceļošanas, uzturēšanās, izceļošanas un tranzīta noteikumu ievērošanas kontrolē un profilaksē.
 
-   16) jebkurā diennakts laikā iekļūt dzīvoklī bez tajā dzīvojošo atļaujas (ja
-   nepieciešams, lietojot fizisku spēku) gadījumos, kad persona aizturama nozieguma
-   vietā vai apdraudēta citu personu dzīvība;
+(Ar grozījumiem, kas izdarīti ar 20.03.1997., 13.05.1999., 15.06.2000., 06.12.2001., 27.05.2004. un 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   jebkurā diennakts laikā iekļūt nedzīvojamās telpās un zemes gabalu teritorijā (ja
-   nepieciešams, lietojot fizisku spēku), izņemot tās nedzīvojamās telpas un zemes
-   gabalu teritoriju, kam ir eksteritoriāls vai speciālā režīma statuss, gadījumos, kad
-   persona aizturama nozieguma vietā, apdraudēta citu personu dzīvība, kā arī stihisko
-   nelaimju un citu ārkārtēju notikumu gadījumos, kad apdraudēta personu un sabiedrības
-   drošība.
+III nodaļa
+POLICIJAS DARBINIEKA TIESĪBAS
 
-   Ikreiz, kad policijas darbinieki šajā pantā paredzētajos gadījumos ir iekļuvuši
-   personu dzīvoklī pret iemītnieku gribu vai lietojot fizisku spēku, par to
-   nekavējoties, bet ne vēlāk kā 24 stundu laikā rakstveidā jāziņo prokuroram.
+12. pants. Policijas darbinieka vispārējās tiesības
 
-   Jebkurā citā gadījumā iekļūšana dzīvojamās un citās telpās ir pieļaujama tikai
-   likumā noteiktajos gadījumos uz tiesneša lēmuma pamata vai neatliekamos gadījumos ar
-   prokurora piekrišanu kratīšanas izdarīšanai;
+Policijas darbiniekam, pildot viņam uzliktos pienākumus atbilstoši dienesta kompetencei, ir tiesības:
 
-   17) nolūkā konstatēt, vai personas ir lietojušas alkoholu, narkotiskās, psihotropās
-   vai toksiskās vielas, Ministru kabineta noteiktajā kārtībā tās pārbaudīt ar
-   portatīvām alkohola koncentrācijas noteikšanas mērierīcēm vai nogādāt šīs personas
-   pārbaudes izdarīšanai ārstniecības iestādē, ja atzinums nepieciešams, lai
-   apstiprinātu vai atspēkotu likumpārkāpuma faktu vai objektīvi izskatītu lietu par
-   likumpārkāpuma izdarīšanu;
+1) prasīt, lai personas pārtrauc likumpārkāpumus un citu rīcību, kura traucē policijas pilnvaru izpildi, kā arī pielietot pret likumpārkāpējiem paredzētos piespiedu līdzekļus;
 
-   18) apturēt transportlīdzekļus un izdarīt to apskati (izņemot diplomātisko un
-   konsulāro pārstāvju transportlīdzekļus) pēc Valsts policijas priekšnieka norādījuma
-   plānotu pasākumu izpildes laikā, lai aizturētu meklēšanā izsludinātas personas un
-   transportlīdzekļus;
+2) pārbaudīt personām, kuras tiek turētas aizdomās par likumpārkāpumu izdarīšanu, personību apliecinošos dokumentus, kā arī citus dokumentus, kas nepieciešami to tiesību normu ievērošanas pārbaudei, kuru izpildes kontrole un uzraudzība uzdota policijai;
 
-   19) izdarīt lidmašīnu pasažieru rokas bagāžas un citas bagāžas pārbaudi, bet, ja
-   nepieciešams, arī pasažieru apskati, izņemot diplomātisko un konsulāro pārstāvju un
-   Latvijas Republikas deputātu un viņu bagāžas pārbaudi un apskati;
+3) izsaukt uz policijas iestādi jebkuru personu sakarā ar lietām un materiāliem, kuru izskatīšana ir policijas kompetencē, bet, ja šīs personas bez attaisnojoša iemesla neierodas pēc izsaukuma, likumā noteiktajā kārtībā veikt to piespiedu atvešanu;
 
-   20) apturēt transportlīdzekli un izdarīt tā apskati, ja ir pamats domāt, ka
-   transportlīdzekļa vadītājs pārkāpis ceļu satiksmi reglamentējošo normatīvo aktu
-   prasības vai transportlīdzeklis tiek izmantots likumpārkāpuma izdarīšanā; aizliegt
-   lietot transportlīdzekļus, kuru tehniskais stāvoklis apdraud transporta kustības
-   drošību; atstādināt no transportlīdzekļu vadīšanas personas, kuras ir alkohola
-   reibumā, narkotisko vai citu apreibinošu vielu iespaidā, kā arī personas, kurām nav
-   dokumentu par konkrētā transportlīdzekļa lietošanas vai attiecīgās kategorijas
-   transportlīdzekļa vadīšanas tiesībām; nogādāt transportlīdzekli policijas iestādē
-   nepieciešamās pārbaudes veikšanai, ja ir izsludināta tā meklēšana vai ir pamats
-   domāt, ka ir nelikumīgi nomainīti vai viltoti transportlīdzekļa reģistrācijas
-   dokumenti, valsts reģistrācijas numura zīme vai transportlīdzekļa agregātu numuri,
-   vai nav transportlīdzekļa reģistrācijas vai īpašuma tiesības apliecinoša dokumenta
-   un citādi nav iespējams konstatēt transportlīdzekļa lietošanas likumību;
+4) sastādīt protokolus par administratīvajiem pārkāpumiem; likumā paredzētajos gadījumos un kārtībā nogādāt policijas iestādē likumpārkāpējus, izdarīt viņu personas apskati, mantu un dokumentu izņemšanu un apskati, administratīvi aizturēt likumpārkāpējus un veikt citus likumā noteiktos pasākumus administratīvo pārkāpumu lietvedības nodrošināšanai, kā arī piemērot viņiem administratīvos sodus vai noteiktā kārtībā nosūtīt protokolus pēc piekritības;
 
-   20^1) izņemt un nogādāt policijas iestādē ceļu satiksmes negadījuma vietā pamestu
-   avarējušu transportlīdzekli uz laiku līdz lietas apstākļu noskaidrošanai;
+5) aizturēt militārpersonas, kuras izdarījušas likumpārkāpumus, un nodot tās Nacionālajiem bruņotajiem spēkiem;
 
-   21) ierobežot vai aizliegt remonta un celtniecības, kā arī citu darbu veikšanu ielās
-   un uz ceļiem, ja netiek ievērotas prasības par sabiedrības drošības un transporta
-   kustības drošības garantēšanu;
+6) aizturēt un līdz nodošanai kompetentām iestādēm turēt speciāli iekārtotās telpās personas, kuras izvairās no kriminālsoda izciešanas, administratīvā aresta, apcietinājuma;
 
-   22) savlaicīgai noziedzīgu nodarījumu novēršanai un atklāšanai veikt operatīvās
-   meklēšanas pasākumus likumā noteiktajos gadījumos un kārtībā, arī iesaistot personas
-   slepenā sadarbībā;
+7) likumā noteiktajā kārtībā aizturēt un turēt apsardzībā personas, kuras tiek turētas aizdomās par noziedzīgu nodarījumu vai administratīvo pārkāpumu izdarīšanu;
 
-   23) noziedzīgu nodarījumu tautsaimniecībā novēršanai un atklāšanai, ja ir pietiekams
-   pamats uzskatīt, ka tiek gatavoti vai ir izdarīti šādi noziedzīgi nodarījumi:
+8) aizturēt personas vecumā līdz 16 gadiem, kuras patvaļīgi pametušas dzīvesvietu vai bērnu iestādi, un turēt tās policijas iestādē līdz nodošanai vecākiem vai viņu aizstājējiem, vai bērnu iestādēm;
 
-   pārbaudīt iestāžu, privāto tiesību juridisko personu un personu apvienību mantas
-   iegādes likumību un tās uzglabāšanas drošumu ražošanas, transportēšanas un
-   realizācijas vietās, šajā nolūkā apmeklēt iestādes, privāto tiesību juridiskās
-   personas un personu apvienības un kopā ar īpašnieku, viņa pārstāvjiem vai
-   pilnvarotām personām, bet, ja tās izvairās, — kopā ar pašvaldību pārstāvjiem apsekot
-   ražošanas telpas, noliktavas, tirdzniecības un citas dienesta telpas un teritorijas,
-   kā arī transportlīdzekļus; pārbaudīt pie amatpersonām, materiāli atbildīgajām
-   personām un kravu pārvadātājiem dokumentus par materiālajām un citām vērtībām, ja
-   nepieciešams, šo personu klātbūtnē salīdzināt noliktavās, ražošanas un citās telpās,
-   transportlīdzekļos esošo preču, izejvielu, pusfabrikātu un gatavās produkcijas
-   atbilstību dokumentiem, kā arī pieprasīt no šīm personām paskaidrojumus gadījumos,
-   kad ir pārkāpts likums; pieprasīt nepieciešamos dokumentus, izdarīt kontrolpirkumus,
-   ņemt izejvielu, pusfabrikātu un produkcijas paraugus; līdz inventarizācijas
-   uzsākšanai, dokumentu izņemšanai vai apskates izdarīšanai aizzīmogot kases telpas,
-   kā arī dokumentu, naudas, preču un materiālo vērtību glabāšanas vietas, veikt citus
-   pasākumus, lai nodrošinātu to saglabāšanu;
+8^1) aizturēt līdz nodošanai kompetentām iestādēm personas, kas pārkāpušas ārvalstnieku un bezvalstnieku ieceļošanas, uzturēšanās, izceļošanas un tranzīta noteikumu prasības;
 
-   veikt pārbaudes, lai noskaidrotu, kā tiek ievērotas normas un noteikumi patērētāju
-   interešu aizsardzībai, ražojot, uzglabājot, transportējot vai realizējot plaša
-   patēriņa preces, kā arī sniedzot sadzīves pakalpojumus;
+9) nogādāt ārstniecības iestādēs vai mājoklī personas, kuras alkohola, narkotisko, psihotropo vai toksisko vielu lietošanas rezultātā zaudējušas spēju patstāvīgi pārvietoties vai orientēties vai var nodarīt kaitējumu apkārtējiem vai pašas sev, bet, ja tas nav iespējams, — nogādāt tās policijas iestādē un turēt tur speciāli iekārtotās telpās līdz atskurbšanai, bet ne ilgāk par 12 stundām;
 
-   pieprasīt no attiecīgajām amatpersonām iestāžu, privāto tiesību juridisko personu un
-   personu apvienību ražošanas, finansiālās un saimnieciskās darbības inventarizāciju,
-   revīziju vai pārbaudi un tautsaimniecības speciālistu piedalīšanos šajos pasākumos;
+10) aizturēt uz rakstveida pieteikuma pamata personas, kuras atrodas mājoklī alkohola, narkotisko, psihotropo vai toksisko vielu reibuma stāvoklī un var nodarīt kaitējumu sev vai apkārtējiem cilvēkiem, kā arī gadījumā, ja apkārtējie cilvēki baidās palikt vienatnē ar šo personu un ja nav cita pamata tās aizturēšanai, kā arī uzturēt tādas personas policijas iestādē līdz atskurbšanai vai apstākļu noskaidrošanai, bet ne ilgāk par 12 stundām;
 
-   24) izņemt priekšmetus, izstrādājumus un vielas, kuru izgatavošana, iegādāšanās,
-   glabāšana vai realizēšana ir aizliegta ar likumu vai kuras tiek glabātas bez
-   atļaujas, ja saskaņā ar likumu tāda nepieciešama, kā arī izņemt dokumentus ar
-   viltojuma pazīmēm;
+11) nogādāt ārstniecības iestādē personas, kurām ir nepārprotami psihiski traucējumi un kuras ar savām darbībām rada acīmredzamas briesmas sev vai apkārtējiem cilvēkiem;
 
-   25) (izslēgts ar 14.04.2005. likumu);
+12) nogādāt ārstniecības iestādē personas, kuras mēģinājušas izdarīt pašnāvību, un noskaidrot notikušā apstākļus;
 
-   26) steidzamos gadījumos ar transportlīdzekļa vadītāja piekrišanu izmantot iestādēm,
-   privātpersonām vai personu apvienībām piederošos transportlīdzekļus (izņemot
-   ārvalstu diplomātisko, konsulāro un citu pārstāvniecību un starptautisko
-   organizāciju transportlīdzekļus, kā arī speciālos transportlīdzekļus) braukšanai uz
-   notikuma vietu vai personu nogādāšanai ārstniecības iestādēs, ja tām steidzami
-   nepieciešama medicīniskā palīdzība, kā arī tādu personu vajāšanai, kuras izdarījušas
-   noziegumus, un aizturēto neatliekamai nogādāšanai policijas iestādē;
+13) veikt to personu uzskaiti, kuras izdarījušas noziedzīgus nodarījumus un administratīvos pārkāpumus vai kuru meklēšana ir izsludināta, kā arī veikt uzskaiti par tiem priekšmetiem un faktiem, kuri nepieciešami policijas uzdevumu pildīšanai;
 
-   27) dienesta vajadzībām bez atlīdzības izmantot valsts un pašvaldību iestādēm
-   piederošos elektroniskos sakaru līdzekļus;
+14) reģistrēt, iegūt pirkstu nospiedumus, citus personu identifikācijai nepieciešamos datus un skaņu ierakstus, fotografēt un filmēt personas, kuras apcietinātas, apsūdzētas noziedzīga nodarījuma izdarīšanā, administratīvi arestētas, kā arī personas, kuras izdarījušas citus likumpārkāpumus, ja tās apzināti pretojas personības noskaidrošanai;
 
-   28) bez atlīdzības izmantot valsts un pašvaldību masu informācijas līdzekļus, lai
-   noskaidrotu noziedzīga nodarījuma izdarīšanas apstākļus un personas, kas to
-   izdarījušas, meklētu noziedzniekus un bez vēsts pazudušos, kā arī lai veiktu
-   likumpārkāpumu profilaksi;
+15) uz laiku ierobežot vai pārtraukt transporta vai gājēju kustību ielās un uz ceļiem, kā arī personu iekļūšanu atsevišķās vietās vai objektos un izkļūšanu no tiem, ja to prasa sabiedrības drošības, personu dzīvības, veselības un mantas aizsardzības, kā arī izmeklēšanas intereses;
 
-   29) izsludināt un izmaksāt atlīdzību jebkurai personai par palīdzību noziedzīga
-   nodarījuma atklāšanā un noziedzīgu nodarījumu izdarījušo personu aizturēšanā;
+16) jebkurā diennakts laikā iekļūt dzīvoklī bez tajā dzīvojošo atļaujas (ja nepieciešams, lietojot fizisku spēku) gadījumos, kad persona aizturama nozieguma vietā vai apdraudēta citu personu dzīvība;
 
-   30) likumā noteiktajā kārtībā aizturēt un turēt apsardzībā personas, uz kurām tiek
-   vai var tikt attiecināta piespiedu izraidīšana no valsts;
+jebkurā diennakts laikā iekļūt nedzīvojamās telpās un zemes gabalu teritorijā (ja nepieciešams, lietojot fizisku spēku), izņemot tās nedzīvojamās telpas un zemes gabalu teritoriju, kam ir eksteritoriāls vai speciālā režīma statuss, gadījumos, kad persona aizturama nozieguma vietā, apdraudēta citu personu dzīvība, kā arī stihisko nelaimju un citu ārkārtēju notikumu gadījumos, kad apdraudēta personu un sabiedrības drošība.
 
-   31) savas kompetences ietvaros bez maksas saņemt no valsts un pašvaldību
-   institūcijām un amatpersonām nepieciešamo informāciju un dokumentus.
+Ikreiz, kad policijas darbinieki šajā pantā paredzētajos gadījumos ir iekļuvuši personu dzīvoklī pret iemītnieku gribu vai lietojot fizisku spēku, par to nekavējoties, bet ne vēlāk kā 24 stundu laikā rakstveidā jāziņo prokuroram.
 
-   (Otrā daļa izslēgta ar 13.10.2005. likumu.)
+Jebkurā citā gadījumā iekļūšana dzīvojamās un citās telpās ir pieļaujama tikai likumā noteiktajos gadījumos uz tiesneša lēmuma pamata vai neatliekamos gadījumos ar prokurora piekrišanu kratīšanas izdarīšanai;
 
-   Kārtību, kādā transportlīdzekli nogādā policijas iestādē pārbaudei, glabā un atdod
-   īpašniekam, kā arī transportlīdzekļa pārbaudes veikšanas termiņus nosaka Ministru
-   kabinets.
+17) nolūkā konstatēt, vai personas ir lietojušas alkoholu, narkotiskās, psihotropās vai toksiskās vielas, Ministru kabineta noteiktajā kārtībā tās pārbaudīt ar portatīvām alkohola koncentrācijas noteikšanas mērierīcēm vai nogādāt šīs personas pārbaudes izdarīšanai ārstniecības iestādē, ja atzinums nepieciešams, lai apstiprinātu vai atspēkotu likumpārkāpuma faktu vai objektīvi izskatītu lietu par likumpārkāpuma izdarīšanu;
 
-   (Ar grozījumiem, kas izdarīti ar 05.12.1996., 20.03.1997., 15.06.2000., 04.10.2001.,
-   06.12.2001., 27.05.2004., 14.04.2005., 13.10.2005. un 15.06.2006. likumu, kas stājas
-   spēkā 01.10.2006.)
+18) apturēt transportlīdzekļus un izdarīt to apskati (izņemot diplomātisko un konsulāro pārstāvju transportlīdzekļus) pēc Valsts policijas priekšnieka norādījuma plānotu pasākumu izpildes laikā, lai aizturētu meklēšanā izsludinātas personas un transportlīdzekļus;
 
-   13. pants. Policijas darbinieka tiesības lietot fizisku spēku un speciālos līdzekļus
+19) izdarīt lidmašīnu pasažieru rokas bagāžas un citas bagāžas pārbaudi, bet, ja nepieciešams, arī pasažieru apskati, izņemot diplomātisko un konsulāro pārstāvju un Latvijas Republikas deputātu un viņu bagāžas pārbaudi un apskati;
 
-   Policijas darbiniekam ir tiesības lietot fizisku spēku, speciālos cīņas paņēmienus,
-   roku dzelžus, sasiešanas līdzekļus, stekus, asaras izraisošas vielas, speciālas
-   krāsvielas, psiholoģiskas iedarbības gaismas un skaņu ierīces, ierīces
-   likumpārkāpēju ieņemto telpu atvēršanai, šķēršļu sagraušanas un transporta piespiedu
-   apstādināšanas līdzekļus, ūdensmetējus, bruņumašīnas, helikopterus un citus
-   speciālos transportlīdzekļus, kā arī dienesta suņus un zirgus, ja tas nepieciešams,
-   lai:
+20) apturēt transportlīdzekli un izdarīt tā apskati, ja ir pamats domāt, ka transportlīdzekļa vadītājs pārkāpis ceļu satiksmi reglamentējošo normatīvo aktu prasības vai transportlīdzeklis tiek izmantots likumpārkāpuma izdarīšanā; aizliegt lietot transportlīdzekļus, kuru tehniskais stāvoklis apdraud transporta kustības drošību; atstādināt no transportlīdzekļu vadīšanas personas, kuras ir alkohola reibumā, narkotisko vai citu apreibinošu vielu iespaidā, kā arī personas, kurām nav dokumentu par konkrētā transportlīdzekļa lietošanas vai attiecīgās kategorijas transportlīdzekļa vadīšanas tiesībām; nogādāt transportlīdzekli policijas iestādē nepieciešamās pārbaudes veikšanai, ja ir izsludināta tā meklēšana vai ir pamats domāt, ka ir nelikumīgi nomainīti vai viltoti transportlīdzekļa reģistrācijas dokumenti, valsts reģistrācijas numura zīme vai transportlīdzekļa agregātu numuri, vai nav transportlīdzekļa reģistrācijas vai īpašuma tiesības apliecinoša dokumenta un citādi nav iespējams konstatēt transportlīdzekļa lietošanas likumību;
 
-   1) atvairītu uzbrukumu personām, policijas darbiniekiem, citiem iekšlietu iestāžu
-   darbiniekiem un personām, kas pilda dienesta pienākumus sabiedrības drošības
-   garantēšanā un cīņā pret noziedzību;
+20^1) izņemt un nogādāt policijas iestādē ceļu satiksmes negadījuma vietā pamestu avarējušu transportlīdzekli uz laiku līdz lietas apstākļu noskaidrošanai;
 
-   2) atvairītu uzbrukumu ēkām, telpām, celtnēm un transportlīdzekļiem neatkarīgi no to
-   piederības vai atbrīvotu apbruņotu personu ieņemtos objektus;
+21) ierobežot vai aizliegt remonta un celtniecības, kā arī citu darbu veikšanu ielās un uz ceļiem, ja netiek ievērotas prasības par sabiedrības drošības un transporta kustības drošības garantēšanu;
 
-   3) atbrīvotu ķīlniekus;
+22) savlaicīgai noziedzīgu nodarījumu novēršanai un atklāšanai veikt operatīvās meklēšanas pasākumus likumā noteiktajos gadījumos un kārtībā, arī iesaistot personas slepenā sadarbībā;
 
-   4) novērstu masu nekārtības un sabiedriskās kārtības grupveida pārkāpumus;
+23) noziedzīgu nodarījumu tautsaimniecībā novēršanai un atklāšanai, ja ir pietiekams pamats uzskatīt, ka tiek gatavoti vai ir izdarīti šādi noziedzīgi nodarījumi:
 
-   5) aizturētu un nogādātu policijas iestādē vai citās dienesta telpās
-   likumpārkāpējus, kā arī konvojēšanas un uzturēšanas laikā savaldītu aizturētās un
-   apcietinātās personas un notiesātos, ja tās nepakļaujas vai pretojas policijas
-   darbiniekiem vai ir pamats uzskatīt, ka tās var bēgt vai nodarīt kaitējumu
-   apkārtējiem cilvēkiem vai sev;
+pārbaudīt iestāžu, privāto tiesību juridisko personu un personu apvienību mantas iegādes likumību un tās uzglabāšanas drošumu ražošanas, transportēšanas un realizācijas vietās, šajā nolūkā apmeklēt iestādes, privāto tiesību juridiskās personas un personu apvienības un kopā ar īpašnieku, viņa pārstāvjiem vai pilnvarotām personām, bet, ja tās izvairās, — kopā ar pašvaldību pārstāvjiem apsekot ražošanas telpas, noliktavas, tirdzniecības un citas dienesta telpas un teritorijas, kā arī transportlīdzekļus; pārbaudīt pie amatpersonām, materiāli atbildīgajām personām un kravu pārvadātājiem dokumentus par materiālajām un citām vērtībām, ja nepieciešams, šo personu klātbūtnē salīdzināt noliktavās, ražošanas un citās telpās, transportlīdzekļos esošo preču, izejvielu, pusfabrikātu un gatavās produkcijas atbilstību dokumentiem, kā arī pieprasīt no šīm personām paskaidrojumus gadījumos, kad ir pārkāpts likums; pieprasīt nepieciešamos dokumentus, izdarīt kontrolpirkumus, ņemt izejvielu, pusfabrikātu un produkcijas paraugus; līdz inventarizācijas uzsākšanai, dokumentu izņemšanai vai apskates izdarīšanai aizzīmogot kases telpas, kā arī dokumentu, naudas, preču un materiālo vērtību glabāšanas vietas, veikt citus pasākumus, lai nodrošinātu to saglabāšanu;
 
-   6) pārtrauktu ļaunprātīgu nepakļaušanos likumīgām prasībām, kuras izvirza policijas
-   darbinieki vai citas personas, pildot dienesta pienākumus sabiedriskās kārtības
-   garantēšanā vai cīņā pret noziedzību.
+veikt pārbaudes, lai noskaidrotu, kā tiek ievērotas normas un noteikumi patērētāju interešu aizsardzībai, ražojot, uzglabājot, transportējot vai realizējot plaša patēriņa preces, kā arī sniedzot sadzīves pakalpojumus;
 
-   Speciālo līdzekļu veidu un fiziska spēka un speciālo līdzekļu lietošanas intensitāti
-   nosaka, ņemot vērā konkrēto situāciju, pārkāpuma raksturu un pārkāpēja individuālās
-   iezīmes, maksimāli ierobežojot šo līdzekļu nodarīto kaitējumu. Ja fiziska spēka vai
-   speciālo līdzekļu lietošanas dēļ ir cietušie, policijas darbinieka pienākums ir
-   nekavējoties sniegt medicīnisko palīdzību cietušajiem un ziņot par notikušo savam
-   tiešajam priekšniekam, kurš par to paziņo prokuroram. Par visiem speciālo līdzekļu
-   lietošanas gadījumiem policijas darbiniekam rakstveidā jāziņo tiešajam priekšniekam.
+pieprasīt no attiecīgajām amatpersonām iestāžu, privāto tiesību juridisko personu un personu apvienību ražošanas, finansiālās un saimnieciskās darbības inventarizāciju, revīziju vai pārbaudi un tautsaimniecības speciālistu piedalīšanos šajos pasākumos;
 
-   Aizliegts lietot speciālos cīņas paņēmienus, roku dzelžus, stekus, asaras izraisošas
-   vielas un dienesta suņus pret sievietēm, pret personām ar redzamām invaliditātes
-   pazīmēm un mazgadīgām personām, izņemot gadījumus, kad tās izdara grupveida
-   uzbrukumu, apdraud citu personu un policijas darbinieku dzīvību vai veselību vai
-   izrāda bruņotu pretošanos.
+24) izņemt priekšmetus, izstrādājumus un vielas, kuru izgatavošana, iegādāšanās, glabāšana vai realizēšana ir aizliegta ar likumu vai kuras tiek glabātas bez atļaujas, ja saskaņā ar likumu tāda nepieciešama, kā arī izņemt dokumentus ar viltojuma pazīmēm;
 
-   (Ceturtā daļa izslēgta ar 13.10.2005. likumu.)
+25) (izslēgts ar 14.04.2005. likumu);
 
-   (Ar grozījumiem, kas izdarīti ar 20.03.1997., 15.06.2000., 29.05.2003. un
-   13.10.2005. likumu, kas stājas spēkā 27.10.2005.)
+26) steidzamos gadījumos ar transportlīdzekļa vadītāja piekrišanu izmantot iestādēm, privātpersonām vai personu apvienībām piederošos transportlīdzekļus (izņemot ārvalstu diplomātisko, konsulāro un citu pārstāvniecību un starptautisko organizāciju transportlīdzekļus, kā arī speciālos transportlīdzekļus) braukšanai uz notikuma vietu vai personu nogādāšanai ārstniecības iestādēs, ja tām steidzami nepieciešama medicīniskā palīdzība, kā arī tādu personu vajāšanai, kuras izdarījušas noziegumus, un aizturēto neatliekamai nogādāšanai policijas iestādē;
 
-   14. pants. Policijas darbinieka tiesības pielietot šaujamieroci
+27) dienesta vajadzībām bez atlīdzības izmantot valsts un pašvaldību iestādēm piederošos elektroniskos sakaru līdzekļus;
 
-   Par šaujamieroča pielietošanu uzskatāms mērķtiecīgs šāviens.
+28) bez atlīdzības izmantot valsts un pašvaldību masu informācijas līdzekļus, lai noskaidrotu noziedzīga nodarījuma izdarīšanas apstākļus un personas, kas to izdarījušas, meklētu noziedzniekus un bez vēsts pazudušos, kā arī lai veiktu likumpārkāpumu profilaksi;
 
-   Policijas darbiniekam ir tiesības pastāvīgi glabāt un nēsāt šaujamieroci, kas viņam
-   izsniegts lietošanai dienesta vajadzībām. Policijas darbinieka rīcībā esošo
-   šaujamieroču glabāšanas un nēsāšanas noteikumus un kārtību nosaka Latvijas
-   Republikas iekšlietu ministrs.
+29) izsludināt un izmaksāt atlīdzību jebkurai personai par palīdzību noziedzīga nodarījuma atklāšanā un noziedzīgu nodarījumu izdarījušo personu aizturēšanā;
 
-   Policijas darbinieks ir tiesīgs pielietot šaujamieroci galējas nepieciešamības
-   situācijā, lai:
+30) likumā noteiktajā kārtībā aizturēt un turēt apsardzībā personas, uz kurām tiek vai var tikt attiecināta piespiedu izraidīšana no valsts;
 
-   1) aizsargātu citas personas un sevi no uzbrukuma, kas reāli apdraud dzīvību vai var
-   nodarīt kaitējumu veselībai, novērstu mēģinājumu vardarbīgi iegūt šaujamieroci;
+31) savas kompetences ietvaros bez maksas saņemt no valsts un pašvaldību institūcijām un amatpersonām nepieciešamo informāciju un dokumentus.
 
-   2) atbrīvotu ķīlniekus;
+(Otrā daļa izslēgta ar 13.10.2005. likumu.)
 
-   3) atvairītu grupveida vai bruņotu uzbrukumu policijas darbiniekiem vai citām
-   personām, kuras pilda dienesta pienākumus sabiedrības drošības garantēšanā un cīņā
-   pret noziedzību;
+Kārtību, kādā transportlīdzekli nogādā policijas iestādē pārbaudei, glabā un atdod īpašniekam, kā arī transportlīdzekļa pārbaudes veikšanas termiņus nosaka Ministru kabinets.
 
-   4) atvairītu grupveida vai bruņotu uzbrukumu apsargājamiem objektiem, telpām,
-   celtnēm, iestādēm, privāto tiesību juridiskajām personām un personu apvienībām;
+(Ar grozījumiem, kas izdarīti ar 05.12.1996., 20.03.1997., 15.06.2000., 04.10.2001., 06.12.2001., 27.05.2004., 14.04.2005., 13.10.2005. un 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   5) aizturētu personu, kura izrāda bruņotu pretošanos vai kura pārsteigta smaga vai
-   sevišķi smaga nozieguma izdarīšanas brīdī, vai izbēgusi no apcietinājuma, kā arī lai
-   aizturētu apbruņotu personu, kura atsakās izpildīt likumīgu prasību nodot ieroci vai
-   sprāgstvielas;
+13. pants. Policijas darbinieka tiesības lietot fizisku spēku un speciālos līdzekļus
 
-   6) apturētu transportlīdzekli, nodarot tam bojājumus, ja tā vadītājs ar savu rīcību
-   rada reālus draudus personu dzīvībai un veselībai un nepakļaujas policijas
-   darbinieka prasībai apstādināt transportlīdzekli un ja nav citas iespējas viņu
-   aizturēt;
+Policijas darbiniekam ir tiesības lietot fizisku spēku, speciālos cīņas paņēmienus, roku dzelžus, sasiešanas līdzekļus, stekus, asaras izraisošas vielas, speciālas krāsvielas, psiholoģiskas iedarbības gaismas un skaņu ierīces, ierīces likumpārkāpēju ieņemto telpu atvēršanai, šķēršļu sagraušanas un transporta piespiedu apstādināšanas līdzekļus, ūdensmetējus, bruņumašīnas, helikopterus un citus speciālos transportlīdzekļus, kā arī dienesta suņus un zirgus, ja tas nepieciešams, lai:
 
-   7) padarītu nekaitīgu dzīvnieku, kurš apdraud cilvēka dzīvību vai veselību.
+1) atvairītu uzbrukumu personām, policijas darbiniekiem, citiem iekšlietu iestāžu darbiniekiem un personām, kas pilda dienesta pienākumus sabiedrības drošības garantēšanā un cīņā pret noziedzību;
 
-   Policijas darbiniekam ir arī tiesības izmantot šaujamieroci, lai dotu trauksmes
-   signālu vai izsauktu palīdzību.
+2) atvairītu uzbrukumu ēkām, telpām, celtnēm un transportlīdzekļiem neatkarīgi no to piederības vai atbrīvotu apbruņotu personu ieņemtos objektus;
 
-   Pirms šaujamieroča pielietošanas ir jābrīdina par nodomu to darīt. Ja nepieciešams,
-   var izdarīt arī brīdinājuma šāvienu.
+3) atbrīvotu ķīlniekus;
 
-   Bez brīdinājuma šaujamieroci var pielietot, ja:
+4) novērstu masu nekārtības un sabiedriskās kārtības grupveida pārkāpumus;
 
-   uzbrukums ir pēkšņs vai uzbrukumā tiek izmantoti ieroči, kaujas tehnika, jebkura
-   veida mehāniskie transportlīdzekļi;
+5) aizturētu un nogādātu policijas iestādē vai citās dienesta telpās likumpārkāpējus, kā arī konvojēšanas un uzturēšanas laikā savaldītu aizturētās un apcietinātās personas un notiesātos, ja tās nepakļaujas vai pretojas policijas darbiniekiem vai ir pamats uzskatīt, ka tās var bēgt vai nodarīt kaitējumu apkārtējiem cilvēkiem vai sev;
 
-   tas nepieciešams ķīlnieku atbrīvošanai;
+6) pārtrauktu ļaunprātīgu nepakļaušanos likumīgām prasībām, kuras izvirza policijas darbinieki vai citas personas, pildot dienesta pienākumus sabiedriskās kārtības garantēšanā vai cīņā pret noziedzību.
 
-   notiek bēgšana no apcietinājuma, pielietojot ieroci vai izmantojot
-   transportlīdzekli, vai notiek apcietināto bēgšana no transportlīdzekļa tā braukšanas
-   laikā.
+Speciālo līdzekļu veidu un fiziska spēka un speciālo līdzekļu lietošanas intensitāti nosaka, ņemot vērā konkrēto situāciju, pārkāpuma raksturu un pārkāpēja individuālās iezīmes, maksimāli ierobežojot šo līdzekļu nodarīto kaitējumu. Ja fiziska spēka vai speciālo līdzekļu lietošanas dēļ ir cietušie, policijas darbinieka pienākums ir nekavējoties sniegt medicīnisko palīdzību cietušajiem un ziņot par notikušo savam tiešajam priekšniekam, kurš par to paziņo prokuroram. Par visiem speciālo līdzekļu lietošanas gadījumiem policijas darbiniekam rakstveidā jāziņo tiešajam priekšniekam.
 
-   Aizliegts pielietot un izmantot šaujamieročus vietās, kur to pielietošanas rezultātā
-   var ciest citas personas, kā arī aizliegts pielietot šaujamieročus pret sievietēm un
-   nepilngadīgām personām, izņemot gadījumus, kad tās izdara bruņotu uzbrukumu, izrāda
-   bruņotu pretošanos vai ar grupveida uzbrukumu apdraud citu personu vai policijas
-   darbinieku dzīvību.
+Aizliegts lietot speciālos cīņas paņēmienus, roku dzelžus, stekus, asaras izraisošas vielas un dienesta suņus pret sievietēm, pret personām ar redzamām invaliditātes pazīmēm un mazgadīgām personām, izņemot gadījumus, kad tās izdara grupveida uzbrukumu, apdraud citu personu un policijas darbinieku dzīvību vai veselību vai izrāda bruņotu pretošanos.
 
-   Policijas darbiniekam ir tiesības izvilkt šaujamieroci un sagatavot to šaušanai, ja
-   viņš uzskata, ka konkrētajā situācijā nav izslēgta tā pielietošana vai izmantošana.
-   Ja aizturētā persona tīšām izdara negaidītas kustības vai citas bīstamas darbības,
-   kuras policijas darbinieks var saprast kā vardarbības mēģinājumu, mēģina tuvoties
-   policijas darbiniekam tuvāk par viņa norādīto attālumu, policijas darbiniekam ir
-   tiesības pielietot šaujamieroci saskaņā ar šo likumu.
+(Ceturtā daļa izslēgta ar 13.10.2005. likumu.)
 
-   Visos šaujamieroču pielietošanas un izmantošanas gadījumos policijas darbiniekam
-   jādara viss iespējamais, lai garantētu citu personu drošību, kā arī lai sniegtu
-   cietušajiem nepieciešamo medicīnisko palīdzību. Par katru šaujamieroča pielietošanas
-   gadījumu atbildīgajai policijas iestādes amatpersonai nekavējoties jāziņo
-   prokuroram.
+(Ar grozījumiem, kas izdarīti ar 20.03.1997., 15.06.2000., 29.05.2003. un 13.10.2005. likumu, kas stājas spēkā 27.10.2005.)
 
-   (Ar grozījumiem, kas izdarīti ar 15.06.2000. un 13.10.2005. likumu, kas stājas spēkā
-   27.10.2005.)
+14. pants. Policijas darbinieka tiesības pielietot šaujamieroci
 
-   IV nodaļa
-   POLICIJAS STRUKTŪRA, POLICIJAS IESTĀŽU
-   KOMPETENCES UN ATBILDĪBAS NOŠĶIRŠANA
+Par šaujamieroča pielietošanu uzskatāms mērķtiecīgs šāviens.
 
-   15. pants. Policijas struktūra un pakļautība
+Policijas darbiniekam ir tiesības pastāvīgi glabāt un nēsāt šaujamieroci, kas viņam izsniegts lietošanai dienesta vajadzībām. Policijas darbinieka rīcībā esošo šaujamieroču glabāšanas un nēsāšanas noteikumus un kārtību nosaka Latvijas Republikas iekšlietu ministrs.
 
-   Policija sastāv no Valsts policijas, Drošības policijas un pašvaldības policijas.
+Policijas darbinieks ir tiesīgs pielietot šaujamieroci galējas nepieciešamības situācijā, lai:
 
-   Valsts policija un Drošības policija katra savas kompetences ietvaros izpilda savus
-   pienākumus visā Latvijas Republikas teritorijā, pašvaldības policija — attiecīgajā
-   administratīvajā teritorijā.
+1) aizsargātu citas personas un sevi no uzbrukuma, kas reāli apdraud dzīvību vai var nodarīt kaitējumu veselībai, novērstu mēģinājumu vardarbīgi iegūt šaujamieroci;
 
-   Valsts policija un Drošības policija ir iekšlietu ministra pārraudzībā esošas
-   iestādes.
+2) atbrīvotu ķīlniekus;
 
-   (Ceturtā daļa izslēgta ar 15.06.2006. likumu.)
+3) atvairītu grupveida vai bruņotu uzbrukumu policijas darbiniekiem vai citām personām, kuras pilda dienesta pienākumus sabiedrības drošības garantēšanā un cīņā pret noziedzību;
 
-   Pašvaldības policija ir iekļauta attiecīgās pašvaldības sastāvā, bet darba
-   organizācijas jautājumos sadarbojas ar Valsts policiju.
+4) atvairītu grupveida vai bruņotu uzbrukumu apsargājamiem objektiem, telpām, celtnēm, iestādēm, privāto tiesību juridiskajām personām un personu apvienībām;
 
-   (13.05.1999. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.06.2000.,
-   14.04.2005. un 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
+5) aizturētu personu, kura izrāda bruņotu pretošanos vai kura pārsteigta smaga vai sevišķi smaga nozieguma izdarīšanas brīdī, vai izbēgusi no apcietinājuma, kā arī lai aizturētu apbruņotu personu, kura atsakās izpildīt likumīgu prasību nodot ieroci vai sprāgstvielas;
 
-   16. pants. Valsts policija
+6) apturētu transportlīdzekli, nodarot tam bojājumus, ja tā vadītājs ar savu rīcību rada reālus draudus personu dzīvībai un veselībai un nepakļaujas policijas darbinieka prasībai apstādināt transportlīdzekli un ja nav citas iespējas viņu aizturēt;
 
-   Valsts policijas sastāvā ietilpst Valsts policijas centrālais aparāts un tam
-   pakļautās struktūrvienības.
+7) padarītu nekaitīgu dzīvnieku, kurš apdraud cilvēka dzīvību vai veselību.
 
-   Valsts policijai ir savs karogs. Valsts policijas struktūrvienībām var būt savi
-   karogi.
+Policijas darbiniekam ir arī tiesības izmantot šaujamieroci, lai dotu trauksmes signālu vai izsauktu palīdzību.
 
-   (Trešā daļa izslēgta ar 13.05.1999. likumu.)
+Pirms šaujamieroča pielietošanas ir jābrīdina par nodomu to darīt. Ja nepieciešams, var izdarīt arī brīdinājuma šāvienu.
 
-   (20.03.1997. likuma redakcijā ar grozījumiem, kas izdarīti ar 13.05.1999. likumu,
-   kas stājas spēkā 01.07.1999.)
+Bez brīdinājuma šaujamieroci var pielietot, ja:
 
-   17. pants. Kārtības policija
+uzbrukums ir pēkšņs vai uzbrukumā tiek izmantoti ieroči, kaujas tehnika, jebkura veida mehāniskie transportlīdzekļi;
 
-   (Izslēgts 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
+tas nepieciešams ķīlnieku atbrīvošanai;
 
-   18. pants. Kriminālpolicija
+notiek bēgšana no apcietinājuma, pielietojot ieroci vai izmantojot transportlīdzekli, vai notiek apcietināto bēgšana no transportlīdzekļa tā braukšanas laikā.
 
-   (Izslēgts 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
+Aizliegts pielietot un izmantot šaujamieročus vietās, kur to pielietošanas rezultātā var ciest citas personas, kā arī aizliegts pielietot šaujamieročus pret sievietēm un nepilngadīgām personām, izņemot gadījumus, kad tās izdara bruņotu uzbrukumu, izrāda bruņotu pretošanos vai ar grupveida uzbrukumu apdraud citu personu vai policijas darbinieku dzīvību.
 
-   19. pants. Pašvaldības policija
+Policijas darbiniekam ir tiesības izvilkt šaujamieroci un sagatavot to šaušanai, ja viņš uzskata, ka konkrētajā situācijā nav izslēgta tā pielietošana vai izmantošana. Ja aizturētā persona tīšām izdara negaidītas kustības vai citas bīstamas darbības, kuras policijas darbinieks var saprast kā vardarbības mēģinājumu, mēģina tuvoties policijas darbiniekam tuvāk par viņa norādīto attālumu, policijas darbiniekam ir tiesības pielietot šaujamieroci saskaņā ar šo likumu.
 
-   Pašvaldības var izveidot pašvaldības policiju.
+Visos šaujamieroču pielietošanas un izmantošanas gadījumos policijas darbiniekam jādara viss iespējamais, lai garantētu citu personu drošību, kā arī lai sniegtu cietušajiem nepieciešamo medicīnisko palīdzību. Par katru šaujamieroča pielietošanas gadījumu atbildīgajai policijas iestādes amatpersonai nekavējoties jāziņo prokuroram.
 
-   Pašvaldības policijas pienākumos ietilpst:
+(Ar grozījumiem, kas izdarīti ar 15.06.2000. un 13.10.2005. likumu, kas stājas spēkā 27.10.2005.)
 
-   1) likumpārkāpumu profilakse;
+IV nodaļa
+POLICIJAS STRUKTŪRA, POLICIJAS IESTĀŽU
+KOMPETENCES UN ATBILDĪBAS NOŠĶIRŠANA
 
-   2) palīdzības sniegšana sociālajā reabilitācijā personām, kuras atbrīvotas no
-   brīvības atņemšanas un ierobežošanas vietām vai kuras ārstējas no alkohola,
-   narkotisko, psihotropo vai toksisko vielu atkarības;
+15. pants. Policijas struktūra un pakļautība
 
-   3) par administratīvajiem pārkāpumiem aizturētu un arestētu personu apsargāšana un
-   konvojēšana;
+Policija sastāv no Valsts policijas, Drošības policijas un pašvaldības policijas.
 
-   4) kontrole pār to, kā tiek izpildīti pašvaldību apstiprinātie noteikumi, par kuru
-   pārkāpšanu paredzēta administratīvā atbildība, kā arī naudas sodu uzlikšana par šo
-   noteikumu pārkāpšanu un to piedzīšana;
+Valsts policija un Drošības policija katra savas kompetences ietvaros izpilda savus pienākumus visā Latvijas Republikas teritorijā, pašvaldības policija — attiecīgajā administratīvajā teritorijā.
 
-   5) Valsts policijas un Drošības policijas atbalstīšana sabiedrības drošības
-   garantēšanā un noziedzības apkarošanā.
+Valsts policija un Drošības policija ir iekšlietu ministra pārraudzībā esošas iestādes.
 
-   Ja pašvaldība neveido savu policiju, šā panta 1.—4. punktā minētos pienākumus
-   izpilda Valsts policija.
+(Ceturtā daļa izslēgta ar 15.06.2006. likumu.)
 
-   Ja ienāk ziņas par to, ka tiek gatavots vai ir izdarīts likumpārkāpums, kura
-   izskatīšana ir Valsts policijas kompetencē, pašvaldības policija veic nepieciešamos
-   pasākumus tā novēršanai, pārkāpēja aizturēšanai, notikuma vietas apsargāšanai un
-   nekavējoties par to paziņo attiecīgajai Valsts policijas iestādei (amatpersonai), kā
-   arī nodod tai likumpārkāpēju un attiecīgos dokumentus par viņu. Šajos jautājumos
-   Valsts policijas amatpersonu norādījumi ir saistoši pašvaldības policijas
-   darbiniekiem.
+Pašvaldības policija ir iekļauta attiecīgās pašvaldības sastāvā, bet darba organizācijas jautājumos sadarbojas ar Valsts policiju.
 
-   Pašvaldības policijas darbinieku skaitu nosaka attiecīgā pašvaldība. Pašvaldības
-   policijas sastāvā var būt tās priekšnieks, viņa vietnieki, vecākie inspektori,
-   inspektori un jaunākie inspektori, kā arī vecākie kārtībnieki, kārtībnieki un
-   jaunākie kārtībnieki. Pašvaldības policisti savus pienākumus pilda iekšlietu
-   ministra apstiprinātajā vienota parauga formas tērpā.
+(13.05.1999. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.06.2000., 14.04.2005. un 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   Pašvaldības policijai tās pienākumu izpildei savas kompetences ietvaros ir visas šā
-   likuma 12. panta 1.—6., 8.—12., 15., 17., 20., 21., 24. un 26.—28. punktā minētās
-   tiesības, kā arī tiesības lietot fizisku spēku, roku dzelžus, asaras izraisošas
-   vielas, stekus, sasiešanas līdzekļus, dienesta suņus un zirgus tādā pašā kārtībā,
-   kāda noteikta valsts policijas darbiniekam.
+16. pants. Valsts policija
 
-   Pašvaldības policijas darbiniekiem ir tiesības šā likuma 14.pantā noteiktajā kārtībā
-   un paredzētajās situācijās pielietot šaujamieročus.
+Valsts policijas sastāvā ietilpst Valsts policijas centrālais aparāts un tam pakļautās struktūrvienības.
 
-   Pašvaldības policijas paraugnolikumu apstiprina Ministru kabinets.
+Valsts policijai ir savs karogs. Valsts policijas struktūrvienībām var būt savi karogi.
 
-   (Ar grozījumiem, kas izdarīti ar 01.09.1992., 08.06.1994., 20.03.1997., 13.05.1999.,
-   15.06.2000., 27.05.2004. un 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
+(Trešā daļa izslēgta ar 13.05.1999. likumu.)
 
-   20. pants. Valsts policijas centrālā aparāta un tam pakļauto apakšvienību kompetence
+(20.03.1997. likuma redakcijā ar grozījumiem, kas izdarīti ar 13.05.1999. likumu, kas stājas spēkā 01.07.1999.)
 
-   (Izslēgts ar 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
+17. pants. Kārtības policija
 
-   21. pants. Kārtība, kādā pašvaldības policijas darbinieki ieceļami amatā un
-   atbrīvojami no amata
+(Izslēgts 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   Pašvaldības policijas priekšnieku un viņa vietniekus ieceļ amatā attiecīgās
-   pašvaldības dome (padome) pēc tam, kad saņemta iekšlietu ministra piekrišana.
-   Pašvaldības policijas priekšnieku un viņa vietniekus atbrīvo no amata attiecīgās
-   pašvaldības dome (padome) pēc savas iniciatīvas vai pēc iekšlietu ministra
-   pieprasījuma, kas domei (padomei) jāizskata septiņu dienu laikā.
+18. pants. Kriminālpolicija
 
-   Pašvaldības domes (padomes) priekšsēdētājam ir tiesības līdz dienai, kad attiecīgā
-   pašvaldības dome (padome) izskata jautājumu par pašvaldības policijas priekšnieka
-   vai viņa vietnieka atbrīvošanu no amata, atstādināt minētās amatpersonas no amata
-   pienākumu pildīšanas.
+(Izslēgts 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   (15.06.2006. likuma redakcijā, kas stājas spēkā 01.10.2006.)
+19. pants. Pašvaldības policija
 
-   V nodaļa
-   POLICIJAS DARBINIEKA TIESISKĀ AIZSARDZĪBA,
-   DARBĪBAS GARANTIJAS UN ATBILDĪBA
+Pašvaldības var izveidot pašvaldības policiju.
 
-   22. pants. Policijas darbinieka tiesiskā aizsardzība
+Pašvaldības policijas pienākumos ietilpst:
 
-   Policijas darbinieks ir valsts varas pārstāvis, un likumīgās prasības un rīkojumi,
-   ko viņš izvirzījis vai devis, pildot dienesta pienākumus, visām personām ir obligāti
-   jāizpilda. Nepakļaušanās policijas darbinieka likumīgajām prasībām ir sodāma.
-   Policijas darbinieks atrodas valsts aizsardzībā, viņa godu un cieņu aizsargā valsts.
-   Policijas darbinieka goda aizskaršana, pretošanās viņam, viņa dzīvības un veselības
-   apdraudējums, kā arī rīcība, kura traucē pildīt dienesta pienākumus, ir sodāma
-   Latvijas Republikas likumos noteiktajā kārtībā.
+1) likumpārkāpumu profilakse;
 
-   Policijas darbinieks neatbild par mantisko un fizisko kaitējumu, kas dienesta
-   pilnvaru ietvaros nodarīts likumpārkāpējam, kurš aizturēšanas brīdī nepakļaujas vai
-   pretojas.
+2) palīdzības sniegšana sociālajā reabilitācijā personām, kuras atbrīvotas no brīvības atņemšanas un ierobežošanas vietām vai kuras ārstējas no alkohola, narkotisko, psihotropo vai toksisko vielu atkarības;
 
-   Policijas darbinieka prasības ir obligātas un rīcība ir saistoša jebkurai personai,
-   kamēr amatpersona, kas pilnvarota kontrolēt vai uzraudzīt viņa darbību, nebūs tās
-   apturējusi vai atcēlusi.
+3) par administratīvajiem pārkāpumiem aizturētu un arestētu personu apsargāšana un konvojēšana;
 
-   23. pants. Policijas darbinieka darbības garantijas
+4) kontrole pār to, kā tiek izpildīti pašvaldību apstiprinātie noteikumi, par kuru pārkāpšanu paredzēta administratīvā atbildība, kā arī naudas sodu uzlikšana par šo noteikumu pārkāpšanu un to piedzīšana;
 
-   Policijas darbinieks, pildot viņam uzliktos pienākumus, ir pakļauts savam tiešajam
-   priekšniekam un augstākam priekšniekam. Ja policijas darbinieks ir saņēmis
-   priekšnieka pavēli, rīkojumu vai norādījumu, kas ir pretrunā ar likumu, viņš ievēro
-   likuma prasības.
+5) Valsts policijas un Drošības policijas atbalstīšana sabiedrības drošības garantēšanā un noziedzības apkarošanā.
 
-   Policijas darbiniekam nav saistoši partiju un citu sabiedriski politisko
-   organizāciju un kustību vai to pārstāvju rīkojumi un lēmumi.
+Ja pašvaldība neveido savu policiju, šā panta 1.—4. punktā minētos pienākumus izpilda Valsts policija.
 
-   Partiju un citu sabiedriski politisko organizāciju un kustību vai to pārstāvju
-   iejaukšanās policijas darbībā ir aizliegta.
+Ja ienāk ziņas par to, ka tiek gatavots vai ir izdarīts likumpārkāpums, kura izskatīšana ir Valsts policijas kompetencē, pašvaldības policija veic nepieciešamos pasākumus tā novēršanai, pārkāpēja aizturēšanai, notikuma vietas apsargāšanai un nekavējoties par to paziņo attiecīgajai Valsts policijas iestādei (amatpersonai), kā arī nodod tai likumpārkāpēju un attiecīgos dokumentus par viņu. Šajos jautājumos Valsts policijas amatpersonu norādījumi ir saistoši pašvaldības policijas darbiniekiem.
 
-   (Ceturtā daļa izslēgta ar 15.06.2006. likumu.)
+Pašvaldības policijas darbinieku skaitu nosaka attiecīgā pašvaldība. Pašvaldības policijas sastāvā var būt tās priekšnieks, viņa vietnieki, vecākie inspektori, inspektori un jaunākie inspektori, kā arī vecākie kārtībnieki, kārtībnieki un jaunākie kārtībnieki. Pašvaldības policisti savus pienākumus pilda iekšlietu ministra apstiprinātajā vienota parauga formas tērpā.
 
-   Policijas darbinieku arodbiedrībām nav tiesību pieteikt streikus. Policijas
-   darbiniekam ir tiesības pārsūdzēt tiesā par viņu pieņemtos policijas un Iekšlietu
-   ministrijas iestāžu amatpersonu lēmumus, ja viņš uzskata, ka šie lēmumi nepamatoti
-   ierobežo viņa tiesības vai pilnvaras vai aizskar viņa cieņu. Savu kultūras un sporta
-   vajadzību apmierināšanai policijas darbinieki var izveidot biedrības un klubus, kuru
-   darbību reglamentē likumā noteiktajā kārtībā pieņemti un reģistrēti statūti.
+Pašvaldības policijai tās pienākumu izpildei savas kompetences ietvaros ir visas šā likuma 12. panta 1.—6., 8.—12., 15., 17., 20., 21., 24. un 26.—28. punktā minētās tiesības, kā arī tiesības lietot fizisku spēku, roku dzelžus, asaras izraisošas vielas, stekus, sasiešanas līdzekļus, dienesta suņus un zirgus tādā pašā kārtībā, kāda noteikta valsts policijas darbiniekam.
 
-   (Sestā daļa izslēgta ar 19.12.2002. likumu.)
+Pašvaldības policijas darbiniekiem ir tiesības šā likuma 14.pantā noteiktajā kārtībā un paredzētajās situācijās pielietot šaujamieročus.
 
-   (Septītā, astotā, devītā, desmitā, vienpadsmitā un divpadsmitā daļa izslēgta ar
-   15.06.2006. likumu.)
+Pašvaldības policijas paraugnolikumu apstiprina Ministru kabinets.
 
-   (Ar grozījumiem, kas izdarīti ar 20.03.1997., 04.10.2001., 20.06.2002., 19.12.2002.,
-   16.12.2004., 14.04.2005., 13.10.2005. un 15.06.2006. likumu, kas stājas spēkā
-   01.10.2006.)
+(Ar grozījumiem, kas izdarīti ar 01.09.1992., 08.06.1994., 20.03.1997., 13.05.1999., 15.06.2000., 27.05.2004. un 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   24. pants. Valsts policijas un Drošības policijas darbinieka nodrošināšana ar
-   dzīvojamo telpu
+20. pants. Valsts policijas centrālā aparāta un tam pakļauto apakšvienību kompetence
 
-   Valsts policijai un Drošības policijai ir tiesības pirkt dzīvojamās mājas vai
-   atsevišķus dzīvokļus, kā arī celt dzīvojamās mājas Valsts policijas un Drošības
-   policijas darbinieku vajadzībām.
+(Izslēgts ar 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   Pašvaldība pēc Valsts policijas vai Drošības policijas iestādes lūguma var
-   nodrošināt Valsts policijas vai Drošības policijas darbinieku, kurš dienesta
-   interesēs tiek pārcelts uz citu apdzīvotu vietu, ar dzīvojamo telpu dienesta vietas
-   tuvumā.
+21. pants. Kārtība, kādā pašvaldības policijas darbinieki ieceļami amatā un atbrīvojami no amata
 
-   (Trešā daļa izslēgta ar 15.06.2006. likumu.)
+Pašvaldības policijas priekšnieku un viņa vietniekus ieceļ amatā attiecīgās pašvaldības dome (padome) pēc tam, kad saņemta iekšlietu ministra piekrišana. Pašvaldības policijas priekšnieku un viņa vietniekus atbrīvo no amata attiecīgās pašvaldības dome (padome) pēc savas iniciatīvas vai pēc iekšlietu ministra pieprasījuma, kas domei (padomei) jāizskata septiņu dienu laikā.
 
-   (24.10.2002. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.06.2006. likumu,
-   kas stājas spēkā 01.10.2006.)
+Pašvaldības domes (padomes) priekšsēdētājam ir tiesības līdz dienai, kad attiecīgā pašvaldības dome (padome) izskata jautājumu par pašvaldības policijas priekšnieka vai viņa vietnieka atbrīvošanu no amata, atstādināt minētās amatpersonas no amata pienākumu pildīšanas.
 
-   25. pants. Citu garantiju piešķiršana policijas darbiniekam
+(15.06.2006. likuma redakcijā, kas stājas spēkā 01.10.2006.)
 
-   (Izslēgts 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
+V nodaļa
+POLICIJAS DARBINIEKA TIESISKĀ AIZSARDZĪBA,
+DARBĪBAS GARANTIJAS UN ATBILDĪBA
 
-   26. pants. Policijas darbinieka darba laiks un darba samaksa
+22. pants. Policijas darbinieka tiesiskā aizsardzība
 
-   (Izslēgts 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
+Policijas darbinieks ir valsts varas pārstāvis, un likumīgās prasības un rīkojumi, ko viņš izvirzījis vai devis, pildot dienesta pienākumus, visām personām ir obligāti jāizpilda. Nepakļaušanās policijas darbinieka likumīgajām prasībām ir sodāma. Policijas darbinieks atrodas valsts aizsardzībā, viņa godu un cieņu aizsargā valsts. Policijas darbinieka goda aizskaršana, pretošanās viņam, viņa dzīvības un veselības apdraudējums, kā arī rīcība, kura traucē pildīt dienesta pienākumus, ir sodāma Latvijas Republikas likumos noteiktajā kārtībā.
 
-   27. pants. Policijas darbinieka atbildība
+Policijas darbinieks neatbild par mantisko un fizisko kaitējumu, kas dienesta pilnvaru ietvaros nodarīts likumpārkāpējam, kurš aizturēšanas brīdī nepakļaujas vai pretojas.
 
-   Policijas darbinieks par prettiesisku rīcību ir atbildīgs normatīvajos aktos
-   noteiktajā kārtībā.
+Policijas darbinieka prasības ir obligātas un rīcība ir saistoša jebkurai personai, kamēr amatpersona, kas pilnvarota kontrolēt vai uzraudzīt viņa darbību, nebūs tās apturējusi vai atcēlusi.
 
-   Policijas darbinieks nedrīkst veikt vai atbalstīt nekādu darbību, kas saistīta ar
-   spīdzināšanu vai citādu cietsirdīgu, necilvēcīgu, cieņu pazemojošu apiešanos un
-   sodīšanu. Neviens policijas darbinieks nedrīkst atsaukties uz augstākas personas
-   rīkojumu vai tādiem izņēmuma apstākļiem kā karastāvoklis vai kara draudi, draudi
-   nacionālajai drošībai, valsts iekšējā politiskā nestabilitāte vai uz ārkārtējiem
-   apstākļiem, lai attaisnotu spīdzināšanu vai citādu cietsirdīgu, necilvēcīgu vai
-   cieņu pazemojošu apiešanos un sodīšanu.
+23. pants. Policijas darbinieka darbības garantijas
 
-   Apzināta nelikumīgas pavēles vai rīkojuma izpildīšana neatbrīvo policijas darbinieku
-   no atbildības.
+Policijas darbinieks, pildot viņam uzliktos pienākumus, ir pakļauts savam tiešajam priekšniekam un augstākam priekšniekam. Ja policijas darbinieks ir saņēmis priekšnieka pavēli, rīkojumu vai norādījumu, kas ir pretrunā ar likumu, viņš ievēro likuma prasības.
 
-   Kriminālsodu policijas darbinieks izcieš saskaņā ar vispārējiem noteikumiem, taču
-   atsevišķi no pārējiem notiesātajiem.
+Policijas darbiniekam nav saistoši partiju un citu sabiedriski politisko organizāciju un kustību vai to pārstāvju rīkojumi un lēmumi.
 
-   Par administratīvo pārkāpumu policijas darbinieks tiek saukts pie administratīvās
-   atbildības likumā noteiktajā kārtībā.
+Partiju un citu sabiedriski politisko organizāciju un kustību vai to pārstāvju iejaukšanās policijas darbībā ir aizliegta.
 
-   Policijas darbinieka izdoto administratīvo aktu un faktisko rīcību persona var
-   apstrīdēt administratīvo procesu regulējošos normatīvajos aktos noteiktajā kārtībā.
+(Ceturtā daļa izslēgta ar 15.06.2006. likumu.)
 
-   (Ar grozījumiem, kas izdarīti ar 04.10.2001. un 14.04.2005. likumu, kas stājas spēkā
-   10.05.2005.)
+Policijas darbinieku arodbiedrībām nav tiesību pieteikt streikus. Policijas darbiniekam ir tiesības pārsūdzēt tiesā par viņu pieņemtos policijas un Iekšlietu ministrijas iestāžu amatpersonu lēmumus, ja viņš uzskata, ka šie lēmumi nepamatoti ierobežo viņa tiesības vai pilnvaras vai aizskar viņa cieņu. Savu kultūras un sporta vajadzību apmierināšanai policijas darbinieki var izveidot biedrības un klubus, kuru darbību reglamentē likumā noteiktajā kārtībā pieņemti un reģistrēti statūti.
 
-   VI nodaļa
-   DIENESTS VALSTS POLICIJĀ
+(Sestā daļa izslēgta ar 19.12.2002. likumu.)
 
-   (Nodaļa izslēgta ar 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
+(Septītā, astotā, devītā, desmitā, vienpadsmitā un divpadsmitā daļa izslēgta ar 15.06.2006. likumu.)
 
-   VII nodaļa
-   POLICIJAS DARBĪBAS FINANSĒŠANA UN MATERIĀLTEHNISKĀ APGĀDE
+(Ar grozījumiem, kas izdarīti ar 20.03.1997., 04.10.2001., 20.06.2002., 19.12.2002., 16.12.2004., 14.04.2005., 13.10.2005. un 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   34. pants. Valsts policijas finansēšana
+24. pants. Valsts policijas un Drošības policijas darbinieka nodrošināšana ar dzīvojamo telpu
 
-   Valsts policijas finanšu līdzekļus veido:
+Valsts policijai un Drošības policijai ir tiesības pirkt dzīvojamās mājas vai atsevišķus dzīvokļus, kā arī celt dzīvojamās mājas Valsts policijas un Drošības policijas darbinieku vajadzībām.
 
-   1) dotācija no vispārējiem ieņēmumiem valsts budžetā;
+Pašvaldība pēc Valsts policijas vai Drošības policijas iestādes lūguma var nodrošināt Valsts policijas vai Drošības policijas darbinieku, kurš dienesta interesēs tiek pārcelts uz citu apdzīvotu vietu, ar dzīvojamo telpu dienesta vietas tuvumā.
 
-   2) pašu ieņēmumi, kurus iegūst, noteiktā kārtībā noslēdzot līgumus ar juridiskajām
-   vai fiziskajām personām.
+(Trešā daļa izslēgta ar 15.06.2006. likumu.)
 
-   (05.12.1996. likuma redakcijā ar grozījumiem, kas izdarīti ar 20.03.1997.,
-   23.10.1997., 04.11.1999., 19.12.2002. un 14.04.2005. likumu, kas stājas spēkā
-   10.05.2005.)
+(24.10.2002. likuma redakcijā ar grozījumiem, kas izdarīti ar 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   35.pants. Valsts policijas un Drošības policijas materiāltehniskā apgāde
+25. pants. Citu garantiju piešķiršana policijas darbiniekam
 
-   Normas, pēc kādām Valsts policija un Drošības policija nodrošināmas ar tehniku,
-   sakaru līdzekļiem, bruņojumu, speciālajiem līdzekļiem, ekipējumu, datortehniku un
-   programmnodrošinājumu, transportlīdzekļiem un to ekspluatācijai nepieciešamajiem
-   līdzekļiem, nosaka Ministru kabinets.
+(Izslēgts 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   (14.04.2005. likuma redakcijā, kas stājas spēkā 10.05.2005.)
+26. pants. Policijas darbinieka darba laiks un darba samaksa
 
-   36. pants. Valsts policijas nodrošināšana ar dienesta telpām
+(Izslēgts 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   Dzelzceļa, gaisa un ūdens transporta valsts kapitālsabiedrībās izvietotās Valsts
-   policijas struktūrvienības ar telpām nodrošina attiecīgā valsts kapitālsabiedrība,
-   kura sedz telpu ekspluatācijas izdevumus.
+27. pants. Policijas darbinieka atbildība
 
-   (Ar grozījumiem, kas izdarīti ar 13.10.2005. likumu, kas stājas spēkā 27.10.2005.)
+Policijas darbinieks par prettiesisku rīcību ir atbildīgs normatīvajos aktos noteiktajā kārtībā.
 
-   37. pants. Pašvaldības policijas finansēšana un materiāltehniskā apgāde
+Policijas darbinieks nedrīkst veikt vai atbalstīt nekādu darbību, kas saistīta ar spīdzināšanu vai citādu cietsirdīgu, necilvēcīgu, cieņu pazemojošu apiešanos un sodīšanu. Neviens policijas darbinieks nedrīkst atsaukties uz augstākas personas rīkojumu vai tādiem izņēmuma apstākļiem kā karastāvoklis vai kara draudi, draudi nacionālajai drošībai, valsts iekšējā politiskā nestabilitāte vai uz ārkārtējiem apstākļiem, lai attaisnotu spīdzināšanu vai citādu cietsirdīgu, necilvēcīgu vai cieņu pazemojošu apiešanos un sodīšanu.
 
-   Pašvaldības policijas iestādes un apakšvienības tiek finansētas no pašvaldību
-   līdzekļiem, bet to materiāltehnisko apgādi veic pašvaldību iestādes un Latvijas
-   Republikas Iekšlietu ministrija par pašvaldību līdzekļiem.
+Apzināta nelikumīgas pavēles vai rīkojuma izpildīšana neatbrīvo policijas darbinieku no atbildības.
 
-   VIII nodaļa
-   POLICIJAS DARBĪBAS KONTROLE UN UZRAUDZĪBA
+Kriminālsodu policijas darbinieks izcieš saskaņā ar vispārējiem noteikumiem, taču atsevišķi no pārējiem notiesātajiem.
 
-   38. pants. Policijas darbības kontrole
+Par administratīvo pārkāpumu policijas darbinieks tiek saukts pie administratīvās atbildības likumā noteiktajā kārtībā.
 
-   Policijas darbību kontrolē Ministru kabinets, iekšlietu ministrs un pašvaldību
-   iestādes savas kompetences ietvaros.
+Policijas darbinieka izdoto administratīvo aktu un faktisko rīcību persona var apstrīdēt administratīvo procesu regulējošos normatīvajos aktos noteiktajā kārtībā.
 
-   (05.12.1996. likuma redakcijā, kas stājas spēkā 07.01.1997.)
+(Ar grozījumiem, kas izdarīti ar 04.10.2001. un 14.04.2005. likumu, kas stājas spēkā 10.05.2005.)
 
-   39. pants. Uzraudzība pār likumu ievērošanu policijas darbībā
+VI nodaļa
+DIENESTS VALSTS POLICIJĀ
 
-   Uzraudzību pār likumu ievērošanu policijas darbībā veic Latvijas Republikas
-   ģenerālprokurors un viņam pakļautie prokurori.
+(Nodaļa izslēgta ar 15.06.2006. likumu, kas stājas spēkā 01.10.2006.)
 
-   Pārejas noteikums
+VII nodaļa
+POLICIJAS DARBĪBAS FINANSĒŠANA UN MATERIĀLTEHNISKĀ APGĀDE
 
-   (15.06.2006. likuma redakcijā, kas stājas spēkā 01.10.2006.)
+34. pants. Valsts policijas finansēšana
 
-   Neizmaksātos atvaļinājuma pabalstus par 2005.gadu izmaksā šim mērķim piešķirto
-   valsts budžeta līdzekļu ietvaros.
+Valsts policijas finanšu līdzekļus veido:
 
-   Latvijas Republikas Augstākās Padomes priekšsēdētājs A. GORBUNOVS
+1) dotācija no vispārējiem ieņēmumiem valsts budžetā;
 
-   Latvijas Republikas Augstākās Padomes sekretārs I. DAUDIŠS
-   Rīgā 1991. gada 4. jūnijā
-   © Oficiālais izdevējs "Latvijas Vēstnesis"
+2) pašu ieņēmumi, kurus iegūst, noteiktā kārtībā noslēdzot līgumus ar juridiskajām vai fiziskajām personām.
+
+(05.12.1996. likuma redakcijā ar grozījumiem, kas izdarīti ar 20.03.1997., 23.10.1997., 04.11.1999., 19.12.2002. un 14.04.2005. likumu, kas stājas spēkā 10.05.2005.)
+
+35.pants. Valsts policijas un Drošības policijas materiāltehniskā apgāde
+
+Normas, pēc kādām Valsts policija un Drošības policija nodrošināmas ar tehniku, sakaru līdzekļiem, bruņojumu, speciālajiem līdzekļiem, ekipējumu, datortehniku un programmnodrošinājumu, transportlīdzekļiem un to ekspluatācijai nepieciešamajiem līdzekļiem, nosaka Ministru kabinets.
+
+(14.04.2005. likuma redakcijā, kas stājas spēkā 10.05.2005.)
+
+36. pants. Valsts policijas nodrošināšana ar dienesta telpām
+
+Dzelzceļa, gaisa un ūdens transporta valsts kapitālsabiedrībās izvietotās Valsts policijas struktūrvienības ar telpām nodrošina attiecīgā valsts kapitālsabiedrība, kura sedz telpu ekspluatācijas izdevumus.
+
+(Ar grozījumiem, kas izdarīti ar 13.10.2005. likumu, kas stājas spēkā 27.10.2005.)
+
+37. pants. Pašvaldības policijas finansēšana un materiāltehniskā apgāde
+
+Pašvaldības policijas iestādes un apakšvienības tiek finansētas no pašvaldību līdzekļiem, bet to materiāltehnisko apgādi veic pašvaldību iestādes un Latvijas Republikas Iekšlietu ministrija par pašvaldību līdzekļiem.
+
+VIII nodaļa
+POLICIJAS DARBĪBAS KONTROLE UN UZRAUDZĪBA
+
+38. pants. Policijas darbības kontrole
+
+Policijas darbību kontrolē Ministru kabinets, iekšlietu ministrs un pašvaldību iestādes savas kompetences ietvaros.
+
+(05.12.1996. likuma redakcijā, kas stājas spēkā 07.01.1997.)
+
+39. pants. Uzraudzība pār likumu ievērošanu policijas darbībā
+
+Uzraudzību pār likumu ievērošanu policijas darbībā veic Latvijas Republikas ģenerālprokurors un viņam pakļautie prokurori.
+
+Pārejas noteikums
+
+(15.06.2006. likuma redakcijā, kas stājas spēkā 01.10.2006.)
+
+Neizmaksātos atvaļinājuma pabalstus par 2005.gadu izmaksā šim mērķim piešķirto valsts budžeta līdzekļu ietvaros.
+
+Latvijas Republikas Augstākās Padomes priekšsēdētājs A. GORBUNOVS
+
+Latvijas Republikas Augstākās Padomes sekretārs I. DAUDIŠS
+Rīgā 1991. gada 4. jūnijā

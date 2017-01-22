@@ -4,6 +4,7 @@
 for i in $( find . -maxdepth 1 -mindepth 1 -type d ); do
 
   echo $i
+  python3 clean_visibility.py $i/
   ./to-txt-do $i
 
 done
