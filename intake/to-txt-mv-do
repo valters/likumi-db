@@ -1,0 +1,6 @@
+#!/bin/bash
+# move created txt files out to their actual destination(s)
+LAW=$1
+
+mkdir -p ../text/$LAW/
+mv --verbose $LAW/txt/*.txt ../text/$LAW/

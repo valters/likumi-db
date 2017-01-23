@@ -4,8 +4,7 @@
 for i in $( find . -maxdepth 1 -mindepth 1 -type d ); do
 
   echo $i
-  mkdir -p ../text/$i/
-  mv $i/txt/*.txt ../text/$i/
+  ./to-txt-mv-do $i
 
 done
 
