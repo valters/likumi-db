@@ -2,6 +2,11 @@
 LAW="$1"
 DEST=txt
 COL=9000
+
+if [ "$LAW" == "cl-p" ]; then
+    # cl-p has tables that render horribly with long width
+    COL=100
+fi
 echo "converting $LAW to txt($COL) => $DEST"
 
 cd $LAW/
