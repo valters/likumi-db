@@ -12,14 +12,14 @@ Consolidated historical, plain-text versions of the laws of Republic of Latvia
 
 If you are reading this for first time, please read Prerequisites section first.
 
-Here's how we ultimatly build the diffs:
+Here's how we ultimately build the diffs:
 
 1) Retrieve home-page version of law manually, place into intake/ folder
 
 2) Run `python3 write_versions.py <(law file).html>`
 This will produce .ver file by extracting the historical-versions information from html.
 
-3) Add information about the law to `toc.json`
+3) Manually add information about the law to `toc.json`
 The important part is _print_id_, which is required to retrieve "formatted for print" cleaner versions of html.
 
 4) Run `python3 write_retrievers.py <(law short id)>`, for example 'python3 write_retrievers.py satversme'.
