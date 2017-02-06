@@ -55,4 +55,5 @@ If you want to build/run some of this yourself,
 Or: download the app jar directly from
 http://repo.maven.apache.org/maven2/io/github/valters/lawdiff-app/1.0.0/lawdiff-app-1.0.0.jar
 
+
 This is consolidated jar that needs no other dependencies or java classpath gymnastics to run.

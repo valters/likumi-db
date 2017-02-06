@@ -1,13 +1,14 @@
 #!/bin/bash
+LAW_VER="1.0.2"
 LAW_DIFF_HOME="$HOME/_d/github/lawdiff/LawDiff-app/target"
-LAW_DIFF="$LAW_DIFF_HOME/lawdiff-app-1.0.0.jar"
+LAW_DIFF="$LAW_DIFF_HOME/lawdiff-app-$LAW_VER.jar"
 
 LAW_IN="$1"
 DIFF_OUT="../diff/$LAW_IN/"
 
 mkdir -p $DIFF_OUT
 
-java -jar $LAW_DIFF $LAW_IN $DIFF_OUT
+java -jar $LAW_DIFF $LAW_IN $DIFF_OUT --xml
 
 cd ..
 echo "done"
